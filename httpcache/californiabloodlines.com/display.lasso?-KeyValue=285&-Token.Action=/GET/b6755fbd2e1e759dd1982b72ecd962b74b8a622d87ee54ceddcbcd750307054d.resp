@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3398
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ILLEGALS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes &#39;86 (Homecoming, 450, 1986)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Driving north from San Roceedro, yeah, you keep looking for the man<br />Who was breathing down your collar yeah, since the border was at hand<br />And you&#39;re shoes are torn and ragged, you been running for so long<br />And your heart is Adelita but the highway is the song<br />It&#39;s a highway song<br /><br />And you&#39;re looking for some odd jobs, yeah, you don&#39;t care how small<br />Back home in Encinita yeah, well, there was no work at all<br />And the people see you waiting but their eyes don&#39;t stay too long<br />On the dark and hungry strangers, yeah, that sing the highway song<br /><br />I Vacarro for the highway song<br />I Vacarro for the highway<br />For the illegals are moving on<br />For illegals, yeah, oh, illegals are moving on<br /><br />You got friends in San Clemente, yeah, you know a priest in East L.A.<br />Adelita&#39;s but a phone call yeah, but she seems so far away<br />And the power is dinero, but dinero is long gone<br />You sing homeland I&#39;ll return, for the highway is the song<br /><br />I Vacarro for the highway song<br />I Vacarro for the highway<br />For the illegals are moving on<br />For illegals, yeah, oh, illegals are moving on<br /><br />Moving on, moving on, moving on<br />For illegals, yeah, illegals moving on<br /><br />On the highway, moving on<br />And the highway sign and the lights are fine and the highway whine<br />And there ain&#39;t no time for moving on<br />For illegals, for illegals are moving on<br /><br />And goodbye to my Juan, goodbye Rosalita<br />Adios, mi amigos, Jesus and Maria<br />You won&#39;t have a name when you ride the big airplane<br />&#39;Cause all they will call you will be deportee<br /><br />Moving on, moving on, moving on<br />Take you home, take you home, take you home<br />Bring us home, bring us home, bring us home
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

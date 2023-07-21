@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3312
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:42 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE PIRATES OF STONE COUNTY ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>California Bloodlines (Capitol, ST203, 1969)<br />The Phoenix Concerts (RCA, APL2-0265, 1974)<br />The Last Campaign (Homecoming, 300, 1985)<br />John Stewart-An American Original (Capitol, 80091, 1992)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)<br />The Gathering (Homecoming, 100, 1984)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s a summer afternoon, somewhere in Kansas or Illinois or Oklahoma. The wind is blowing the leaves down the gutter as the mailman comes by.  &quot;Afternoon Mrs. Higgins, hot enough for ya?&quot;  Over on Stone County Road there&#39;s the smell of chicken frying<br /><br />&quot;Henry! It&#39;s getting t&#39;wards suppertime you know. Henry!&quot;<br /><br />There she calls from her second floor room<br />The end of a back porch afternoon<br />Where we&#39;d stand on the bow of our own man-of-war<br />No longer the back porch any more<br />And we&#39;d sail pulling for China <br />The pirates of Stone County Road<br />All weathered and blown<br />And we&#39;d sail ever in glory <br />&#39;Till hungry and tired<br />The pirates of Stone County Road <br />Were turning for home<br /><br />&quot;Henry! You better be getting on up to bed now, don&#39;t ya know, Henry!&quot;<br /><br />There she calls from her high wicker chair<br />As I climb to my room up the stair<br />Where the wind through the shutters<br />Sends the mainsail to fall<br />From the shadow of the bedpost on the wall<br />And we&#39;d sail pulling for China <br />The pirates of Stone County Road<br />Weathered and blown<br />And we&#39;d sail ever in glory <br />&#39;Till hungry and tired<br />The pirates of Stone County Road <br />Were turning for home<br /><br />&quot;Henry! Can you hear me, Henry. Are you up there Henry?  Henry!&quot;
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

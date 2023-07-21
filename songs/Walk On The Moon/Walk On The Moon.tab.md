@@ -1,0 +1,57 @@
+Capo 4th fret 
+  
+Intro: 
+(high notes run ggfedca   ggfedca   ggfedca)  (Dm7) (G) (F) 
+-- you can also play this intro with chords, highlight the notes: 
+(C5)  (F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) 
+(C5)  (F)(C)(C9)(C)(Fj7/A) (Dm7) (G) (F) 
+As if I (C)had all the (G)time in the (F)world, 
+And I (C)had all the (G)world in my (F)time, 
+There are (C)dreams that I'm (G)keeping in(F)side, 
+Like (C)verses that (G)never would (F)rhyme. 
+  
+I still(C)dream I'll make (G)movies in (F)Spain, 
+(C)Photograph (G)dancers in (F)flight. 
+(C)Watching the (G)clock running (F)down, 
+And (Dm7)live in a(G)vailable (C)light. 
+  
+And (F)I (G)still (C)dream I will (G)walk on the (F)moon, 
+If the (C)moon isn't (G)holding me (F)down, 
+(C)Racing the (F)future through (Dm)fields 
+With the (G)moonlight ig(G7)niting the (C5)ground. 
+(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) 
+  
+All the (C)young girls are (G)light years a(F)way, 
+And they (C)seem to be (G)browsing through (F)time. 
+And you (C)know that not (G)one can com(F)pare 
+With the (C)heart of this (G)true love of (F)mine. 
+(C5)  (F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) 
+  
+In the (C)waters of (G)all of my (F)tears, 
+The re(C)flections of (G)beautiful (F)times. 
+In my (C)dreams I am (G)holding the (F)wings 
+Of (Dm)angels I'm (G)hoping to (C)find. 
+  
+And (F)I (G)still (C)dream I will (G)walk on the (F)moon, 
+If the (C)moon isn't (G)holding me (F)down, 
+(C)Racing the (F)future through (Dm)fields 
+With (G)moonlight ig(G7)niting the (C5)ground. 
+(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) 
+(C5)  (F)(C)(C9)(C)(Fj7/A) (Dm7) (G) (F) (G) 
+  
+And (Dm)friends, who were (G)here, now they're (C)gone, (C7) 
+(Dm)Why does it (G)happen so (C)soon? 
+And, (F)as they are (G)closing their (C)eyes, (Am) 
+Do they (D7)dream they will walk on the (G)moon? (Dm7) (G) 
+  
+And (F)I (G)still (C)dream I will (G)walk on the (F)moon 
+If the (C)moon isn't (G)holding me (F)down. 
+(C)Racing the (F)future through (Dm)fields 
+With (G)moonlight ig(G7)niting the (C)ground. 
+  
+And (F)I (G)still (C)dream I will (G)walk on the (F)moon 
+If the (C)moon isn't (G)holding me (F)down. 
+(C)Racing the (F)future through (Dm)fields 
+With (G)moonlight ig(G7)niting the (C)ground. 
+(C5)(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) 
+(C5)  (F)(C)(C9)(C)(Fj7/A)  (Dm7) (G) (F) (G) (C)

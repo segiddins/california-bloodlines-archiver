@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3350
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:26 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NIGHT OF A DISTANT STAR</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Em)  (D)  (Em)  (D)  (Em)  (D)  (Em)  (D)  (Em)  (D)  <br /><br />If (Em)something happened to (C)you,<br />(Am)Part of (D)me would (G)die.<br />(high notes run on B-string: b-d-c-b-c-b)<br />If (Em)something good came (C)through,<br />(Am)Part of (Am/C)me would (D)fly.<br />It&#39;s a (C)critical (Em)focus,<br />(C)I know (D)who you (G)are, (D)yeah,<br />(G)You are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />(G)You are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />Of a distant (Em)star. (D)  (Em)  (D)<br /><br />If (Em)I had not seen (C)you<br />(Am) I would (D)know you&#39;re (G)here,<br />(high notes run on B-string: b-c-d-c-b-d)<br />In the (Em)crowd of a subway (C)station,<br />Oh, (Am)I would (Am/C)feel you (D)near,<br />So (C)build me a (Em)fire<br />So (C)I know (D)where you (G)are, (D)yeah,<br />For (G)you are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />For (G)you are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />Of a distant (Em)star. (D)  (Em)  (D)  (Em)  (D)  (Em)  (D)<br /><br />As (Em)moonlight covers the (C)sky,<br />(Am) A sailor (D)watches the (G)cross.<br />(high notes run on B-string: b-d-c-b-c-b)<br />And (Em)I am searching your (C)eyes<br />And the (Am)miles (Am/C)yet to be (D)crossed.<br />Ah, (C)nothing here is (Em)free,<br />We (C)all can (D)show the (G)scars, (D)yeah,<br />In the (G)search for the missing (C)pieces<br />In the (Am)night of a distant (D)star,<br />In the (G)search for the missing (C)pieces, yeah,<br />In the (Am)night of a distant (D)star,<br />Of a distant (Em)star. (D)  (Em)  (D)  (Em)  (D)  (Em)  (D)<br /><br />Oh, (G)you are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />Oh, (G)you are the light that (C)flashes<br />In the (Am)night of a distant (D)star,<br />In the (Am)night of a distant (D)star,<br />In the (Am)night of a distant (D)star,<br />Of a distant (Em)star. (D)  (Em)  (D)  (Em)  (D)  (Em)  (D)<br />(Em)  (D)  (Em)  (D)  (Em)  (D)  (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

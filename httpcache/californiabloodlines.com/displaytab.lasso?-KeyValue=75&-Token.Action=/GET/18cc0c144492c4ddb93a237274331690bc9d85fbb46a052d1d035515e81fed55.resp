@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2407
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MONTEREY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret <br /> <br />Fade in on (Em7) <br />(G) (A) (Em7)  (G) (A) (Em7)  (G) (A) (Em7) <br />The (Em)good ship sailed out of the harbour that day, <br />(Bm)Out of the town Monterey. <br />She (Em)stood on the shoreline and silently prayed, <br />(Bm)Send him back home Monterey. <br />(G) (A) (Em7)  (G) (A) (Em7) <br /> <br />Old (Em)Riley in the lighthouse had started to sing, <br />(Bm)&quot;Stand at the wheel while you may.&quot; <br />The (Em)beads of her rosary went round on her rings, <br />(Bm)Send him back home Monterey. <br /> <br />Before the (G)wind <br />And the (Em7)sun does him (D)in, <br />Ah, send him back home Monte(Em7)rey. (A) <br />And she (D)prayed for the (F#m)wind and the (Em7)sailor that (A)day, (hold) <br />Monte(Bm)rey. <br />(G) (A) (Em7)  (G) (A) (Em7) <br />(G) (A) (Em7)  (G) (A) (Em7) <br /> <br />Before the (G)wind <br />And the (Em7)sun does him (D)in, <br />Ah, send him back home Monte(Em7)rey. (A) <br />And she (D)prayed for the (F#m)wind and the (Em7)sailor that (A)day, (hold) <br />Monte(Bm)rey. <br />(G) (A) (Em7)  (G) (A) (Em7) <br />(G) (A) (Em7)  (G) (A) (Em7) <br />(G) (A) (Em7)  (G) (A) (Em7) [fade out]
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

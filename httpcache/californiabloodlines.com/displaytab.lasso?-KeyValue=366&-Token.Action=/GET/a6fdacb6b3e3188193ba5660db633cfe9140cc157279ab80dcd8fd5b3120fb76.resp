@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3807
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STORIES OF OLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Use A7 short for the A7s<br /><br />(C)  (D)  (G)  (C)  (G)  (C)  (D)  <br />(C)  (A7)  (D)<br />[lead guitar:<br />E---------------5--7--5----------------------7-5---------<br />B--5--8--7--8-----------8------5----8-8-7-------7--------<br />G----------------------------------7------------------7--<br /><br />E--8----7-7-5----------------<br />B---------------8-5----5-----<br />G--------------------7----7--  ]<br /><br />(G)I don&#39;t want to (C)hear your (G)stories of (D)old,<br />(G) Don&#39;t (D)show me (G) your golden (D)chains.<br />For if there&#39;s (C)just one (D)man in this (G)whole wide (C)land<br />And (G)he is (C)living in (D)pain,<br />(C) Oh, then (A7)freedom&#39;s not your (D)name.<br /><br />You (C)told me of a (D)dream that I would (G)surely like to (C)see,<br />Where each (G)man could keep the (C)wolves from his (D)door.<br />But then I (C)saw an old (D)man<br />Without a (G)dollar in his (Em)hand,<br />Saying, (C)&quot;You don&#39;t (A)need me any(D)more.<br />I (C)guess you just don&#39;t (A7)need me any(D)more.&quot;<br /><br />(G)I don&#39;t want to (C)hear your (G)stories of (D)old,<br />(G) Don&#39;t (D)show me (G) your golden (D)chains.<br />For if there&#39;s (C)just one (D)man in this (G)whole wide (C)land<br />And (G)he is (C)living in (D)pain,<br />(C) Oh, then (A7)freedom&#39;s not your (D)name.<br /><br />We&#39;ve (C)got a lot of (D)pride and (G)that I can&#39;t de(C)ny<br />From (G)those who (C)bore us liber(D)ty,<br />But if (C)freedom&#39;s at the (D)door<br />And we (G)let it (G/F#)wait some (Em)more,<br />Oh, I (C)wonder how (A)proud they are of (D)me.<br />I (C)wonder just how (A7)proud they are of (D)me.<br /><br />Go a(C)head and walk a(D)way, yeah, (G)turn your back and (C)say,<br />&quot;We&#39;ll (G)show &#39;em who&#180;s (C)got who on the (D)run.&quot;<br />But, if we could (C)talk with folks out (D)there,<br />(G)We might get some(Em)where,<br />And maybe (C)someday we could (A7)throw away these (D)guns.<br />(C)Someday we could (A7)throw away these (D)guns.<br /><br />(G)I don&#39;t want to (C)hear your (G)stories of (D)old,<br />(G) Don&#39;t (D)show me (G) your golden (D)chains.<br />For if there&#39;s (C)just one (D)man in this (G)whole wide (C)land<br />And (G)he is (C)living in (D)pain,<br />(C) Oh, then (A7)freedom&#39;s not your (D)name.<br /><br />If there&#39;s (C)just one (D)man in this (G)whole wide (C)land<br />And (G) he is (C)living in (D)pain,<br />(C) Oh, then (A7)freedom&#39;s not your (D)name.<br />(C)  (D)  (G)  (C)  (G)  (C)  (D)  <br />(C)  (A7)  (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

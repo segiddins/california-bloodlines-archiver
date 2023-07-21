@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3895
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:41 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE GHOST OF THE SUPERCHIEF</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rocket Roy in the Real World (Crow, 3, 1993)<br />Rocket Roy in the Real World Plus (Neon Dreams, 1999)<br />Bandera (Feegie ADFCD28, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Red lanterns in a foggy night<br />Lonesome whistles down shining, wounded rails<br />As the ghost of the Superchief silently runs through the Indiana farmland<br />Deep in the heart of a country trying desperately to remember itself.<br /><br />To remember Norman Rockwell, and mealtime prayers<br />Mom and Dad and second floor stairs<br />Guests for dinner, don&#39;t be late<br />Iron streetlights, garden gates<br />The Mission Inn and the Riverside days<br />Nancy Mulkee, sidewalk play<br />Honking horns on VJ day<br />Texaco fire in a bright red sky<br />Hop-Along Cassidy<br />Neckerchief slides<br />Jimmy Stewart and Doris Day<br />Barry Fitzgerald going my way <br />National Velvet, Kim Novak&#39;s eyes<br />The &quot;Bells of St. Mary&#39;s&quot; <br />The Best Years of our Lives<br /><br />County fairs and carnival rides<br />Tilt a wheel and shoot the moon<br />Electric horserace, pale balloons,<br />Summer days that never end<br />Blue Schwinn Bikes, the best of friends<br />Pasadena and Chappman Woods<br />Touch football in the neighbourhood<br />Merit badges <br />Bright white futures and cool machines<br />Movie stars and boyhood dreams<br />As the ghost of the Superchief silently runs through the Indiana farmland<br />Deep in the heart of a country trying desperately to remember itself.<br /><br />It was &quot;Inner Sanctum&quot; and &quot;Abby &amp; Slats&quot;<br />&quot;The FBI&quot;, &quot;In Peace and War&quot;<br />&quot;I Love a Mystery,&quot; Di Maggio&#39;s bat<br />Edgar Bergen and Mortimer Snerd<br />Corlius Archer and spoken words<br />That had more pictures than NBC<br />Grand Central Station, Fibber McGee<br />And Molly and the closet door<br />Blondie and Dagwood, lying on the floor<br />With my eyes closed tight and worlds away<br />As the radio blended night from day<br /><br />There was Woodrow Wilson Jr. High<br />Rosemead, Colorado, Thorndale signs<br />Corona lunch breaks, Second World War<br />Fresh mowed laws and hobby stores<br />Distant whistle of distant trains<br />Five o&#39;clock shadows and the summer rain<br />As the Superchief runs silently through the Indiana farmland<br />Deep in the heart of a country trying desperately to remember itself
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

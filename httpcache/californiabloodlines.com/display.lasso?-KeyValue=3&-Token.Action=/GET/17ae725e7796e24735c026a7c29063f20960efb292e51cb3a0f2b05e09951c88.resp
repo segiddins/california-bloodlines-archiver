@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2711
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AMERICAN NIGHTS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bullets in the Hour Glass (Shanachie, 8005, 1992)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Lights of the city<br />Like jewels in the night<br />Their music is the siren and the scream<br />Faces in the city<br />Won&#8217;t look you in the eye<br />The faces of the wounded and the mean<br /><br />Shadows on the highway<br />Ravens In the yard<br />Who is that coming this way?<br />Dealers in the school yard<br />In a West Virginia town<br />How did things ever, ever get this way?<br /><br />Chorus:<br /><br />American nights, Ameri-can days<br />American nights, American days<br /><br />A young mans life is hanging by a gun<br />Everyone should have one so they say.<br />He&#8217;d be better off in the front lines of the war<br />Safer than he is<br />In the cities here today.<br /><br />If Times Square was a circus<br />Than the animals are free<br />Standing in the neon with the clowns.<br />The slamming of the taxis<br />And the hookers looking cool. <br />No one&#8217;s really safe when the circus is in town.<br /><br />(Repeat Chorus)<br /><br />Oh, somewhere the river flows<br />Somewhere that&#8217;s all we know.<br />Someday it will begin<br />Oh, someday, hearts will win.<br /><br />(Repeat Chorus)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

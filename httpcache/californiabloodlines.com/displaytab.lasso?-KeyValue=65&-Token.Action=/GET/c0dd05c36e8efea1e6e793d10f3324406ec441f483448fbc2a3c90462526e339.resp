@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2726
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SOMEWHERE DOWN THE LINE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Intro, fading in...<br />(C) (Fj7) (G) (F)<br /><br />(C)We will find the (F)golden (C)road<br />(F)Some(Em)where (Dm)down (C)the (F)line.<br />(C)If we don&#39;t, we (F)all were (C)sold<br />(F)Some(Em)where (Dm)down the (G7)line.<br /><br />When we were (Am)young and we&#39;d (Em)shine,<br />And I be(F)lieve it&#39;s getting (G7)closer all the (C)time.<br />We will find the (F)golden (C)road<br />(F)Some(Em)where (Dm)down (C)the (F)line.  (Fj7) (F)<br /><br />(C)I will leave my (F)worries (C)go<br />(F)Some(Em)where (Dm)down (C)the (F)line,<br />(C)Live those dreams that (F)I will (C)sow<br />(F)Some(Em)where (Dm)down the (G7)line.<br /><br />When I was (Am)young and it&#39;d (Em)shine,<br />And I be(F)lieve it&#39;s getting (G7)closer all the (C)time,<br />We will find the (F)golden (C)road<br />(F)Some(Em)where (Dm)down (C)the (F)line,  (Fj7) (F)<br />Oh, some(Em)where (Dm)down (G)the (C)line.<br />(Fj7) (G) (F)  (C) (Fj7) (G) (F)<br /><br />(C)Mm mm mm mm (F)mm mm (C)mm,<br />(F)Some(Em)where (Dm)down (C)the (F)line,<br />(C)Mm mm mm mm (F)mm mm (C)mm,<br />(F)Some(Em)where (Dm)down (C)the (G)line.<br /><br />When I was (Am)young and it&#39;d (Em)shine,<br />And I be(F)lieve it&#39;s getting (G7)closer all the (C)time.<br />We will find the (F)golden (C)road<br />(F)Some(Em)where (Dm)down (C)the (F)line,  (Fj7) (F)<br />Oh, some(Em)where (Dm)down (G)the (C)line.<br />    (Fj7) (G) (F)  (C) (Fj7) (G) (F)<br />(C) (Fj7) (G) (F)  (C) (Fj7) (G) (F)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

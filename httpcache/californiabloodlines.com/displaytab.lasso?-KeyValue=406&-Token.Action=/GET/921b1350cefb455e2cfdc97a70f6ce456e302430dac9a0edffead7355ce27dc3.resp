@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3466
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EAST OF DENVER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C, hammer on-pull off G-note on high E-string)  (D/F#)  (G) (G/F#) (Em)<br />(Am7)  (D/F#)  (G) (G/F#) (Em)<br />(Am7)  (D/F#)  (G) (G/F#) (Em)<br />(Fj7-no high E-string)   (D/F#)  (G) (G/F#) (G)<br /><br />Oh, if (Am7)I never (D/F#)go east of (G[b])Den(D[a])ver a(Em[g])gain,<br />(Am7[c])Denver [b]a(D/F#[a])gain, (G5[d])Denver (G4[c])a(Em[b])gain,<br />Yeah, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />It&#39;ll be too (Fj7-no high E-string)soon, (D/F#)honey, it&#180;ll be too (G)soon.<br />(G/F#) (G)<br /><br />(Bass notes G-F#-G-A to&#8721;)<br />(D7)Hi-de (C)hi-de hi-de (G)ho,<br />(Bass notes G-F#-G-A to&#8721;)<br />(D7)You can have your Chica(G)go.<br />It blew me (Em)down and it laid me (Am7)low,<br />(D/F#) Hi-de hi-de hi-de (G)ho. (G/F#) (G)<br /><br />Yeah, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />(Am7)Denver a(D/F#)gain, yeah, (G)Den(G/F#)ver a(Em)gain,<br />Oh, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />It&#39;ll be too (Fj7-no high E-string)soon, (D/F#)honey, it&#180;ll be too (G)soon.<br />(G/F#) (G)<br />(Am7)  (D/F#)  (G) (G/F#) (Em)<br />(Am7)  (D/F#)  (G) (G/F#) (Em)<br />(Am7)  (D/F#)  (G) (G/F#) (Em)<br />(Fj7-no high E-string)   (D/F#)  (G) (G/F#) (G)<br /><br />(Bass notes G-F#-G-A to&#8721;)<br />(D7)Bangor, Maine and Ala(G)bam&#39;,<br />(Bass notes G-F#-G-A to&#8721;)<br />(D7) The sweetest people, honey (G)lamb,<br />But the weather (Em)there is &quot;Holy (Am)damn!&quot;<br />(D/F#) Bangor, Maine and Ala(G)bam&#39;. (G/F#) (G)<br /><br />Yeah, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />(Am7)Denver a(D/F#)gain, yeah, (G)Den(G/F#)ver a(Em)gain,<br />Oh, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />It&#39;ll be too (Fj7-no high E-string)soon, (D/F#)honey, it&#180;ll be too (G)soon.<br />(G/F#) (G)<br /><br />Yeah, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />(Am7)Denver a(D/F#)gain, ah, (G)Den(G/F#)ver a(Em)gain,<br />Oh, if (Am7)I never (D/F#)go east of (G)Den(G/F#)ver a(Em)gain,<br />It&#39;ll be too (Fj7-no high E-string)soon, (D/F#)honey, it&#180;ll be too (G)soon.<br />(Flourish using notes in G chord)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3581
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:31 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>GOLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)  (F)  (Am)  (F)<br /><br />When the (Am)lights go down in the California town<br />(F)People are in for the (Am)evening.<br />I jump into my car and I throw in my guitar,<br />My (F)heart beating time with my (Am)breathing.<br /><br />(F)Driving over Kanan, (Em)singing to my soul,<br />There&#39;s (F)people out there turning music into (Am)gold.  (F)<br /><br />Now, my (Am)buddy Jim Bass, he&#39;s a-working, pumping gas,<br />And he (F)makes two fifty for an (Am)hour.<br />He&#39;s got rhythm in his hands as he&#39;s tapping on the cans,<br />(F)Sings rock and roll in the (Am)shower.<br /><br />(F)Driving over Kanan, (Em)singing to my soul,<br />There&#39;s (F)people out there turning music into (Am)gold.<br />(F)  (Am)  (F)<br /><br />Oh, (Am)California girls are the greatest in the world,<br />(F)Each one a song in the (Am)making,<br />Singing right to me, I can hear the melody,<br />The (F)story is there for the (Am)taking.<br /><br />(F)Driving over Kanan, (Em)singing to my soul,<br />There&#39;s (F)people out there turning music into (Am)gold.<br />(F)  (Am)  (F)  (Am)  (F)<br /><br /><br />Driving over Kanan, (Em)singing to my soul,<br />There&#39;s (F)people out there turning music into (Am)gold...(F)<br /><br />When the (Am)lights go down in the California town<br />(F)People are in for the (Am)evening.<br />I jump into my car and I throw in my guitar,<br />My (F)heart&#39;s beating time with my (Am)breathing.<br /><br />(F)Driving over Kanan, (Em)singing to my soul,<br />There&#39;s (F)people out there turning music into (Am)gold.<br />(F)Flying over Kanan, (Em)singing to my soul...<br />(F)People out there turning music into (Am)gold,<br />(F)People out there turning music into (Am)gold,<br />(F)People out there turning music into (Am)gold. <br />(F) (Am) (F) (Am)  (F)  <br />(Am)People out there turning music into gold, into (F)gold, <br />(Am)People out there turning music into gold, into (F)gold, <br />(Am)People out there turning music into gold, into (F)gold, <br />(Am)People out there turning music into gold, into (F)gold,<br />Workin&#180; on the radio, <br />(Am)People out there turning music into gold, into (F)gold, <br />Slippin&#180; down the backroad, <br />(Am)People out there turning music into gold, into (F)gold, <br />(Am)People out there turning music into gold, into (F)gold
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

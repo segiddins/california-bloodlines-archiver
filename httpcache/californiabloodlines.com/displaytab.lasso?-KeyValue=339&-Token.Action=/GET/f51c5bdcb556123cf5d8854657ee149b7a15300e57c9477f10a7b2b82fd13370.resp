@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3196
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HIGH FLYING EAGLE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G/B) here:<br />E xxxxxxxxxxxxxx<br />B----------------<br />G----------------<br />D----------------<br />A-----2----------<br />E xxxxxxxxxxxxxx<br /><br />High Flying Eagle<br /><br />John Stewart<br /><br />(D) (D4) (D) (D4) (D) (D4) (D) (D4)<br /><br />(D)Eagle on the (D4)wind<br />And he (D) shakes his (D4)wings,<br />(D) He lifts his (D4)head<br />(D) And up he (G)swings, um (A)hm hmm (D)hmm. (D/C#)(Bm)<br />He can (G)fly til the (A)winter turns to (D)spring, (D/C#)(Bm)<br />But the (C)high (G/B)flying (A)eagle cannot (D)sing. (D4) (D) (D4)<br /><br />(D)Eagle lifts his (D4)head<br />And he (D) finds the (D4)sky,<br />(D) Shakes his (D4)wings<br />(D) And up he (G)flies, um (A)hm hmm hmm (D)hmm. (D/C#)(Bm)<br />He can (G)fly til the (A)winter turns to (D)spring, (D/C#)(Bm)<br />But the (C)high (G/B)flying (A)eagle cannot (D)sing. (D4) (D) (D7)<br /><br />(G)I don&#39;t (A)know but I (D) thought I could (Bm)fly,<br />And (G)I won&#39;t (A)know. Not un(D)til I can (G)try.<br />Still I (A)know that it won&#39;t mean a (D)thing, (D/C#)(Bm)<br />This (C)high (G/B)flying (A)eagle cannot (D)sing. (D4) (D) (D4)<br /><br />(D) (D4) (D) (D4) (D) (D4) (D) (D4)<br />(D) (G) (A) (D) (D/C#)(Bm) (G) (A) (D) (D/C#)(Bm)<br />(C) (`G/B) (A) (D) (D4) (D) (D4)<br /><br />(D) Eagle on the (D4)wind<br />And he (D) shakes his (D4)wings,<br />(D) He lifts his (D4)head<br />(D) And up he (G)swings, um (A)hm hmm (D)hmm. (D/C#)(Bm)<br />He can (G)fly til the (A)winter turns to (D)spring, (D/C#)(Bm)<br />But the (C)high (G/B)flying (A)eagle cannot (D)sing. (D) (D4) (D) (D7)<br /><br />(G)I don&#39;t (A)know but I (D) thought I could (Bm)fly,<br />And (G)I won&#39;t (A)know. Not un(D)til I can (G)try.<br />Still I (A)know that it won&#39;t mean a (D)thing, (D/C#)(Bm)<br />This (C)high (G/B)flying (A)eagle,<br />And the (D)high flying (Bm)eagle,<br />This (G)high flying (A)eagle,<br />This (G)high flying (A)eagle cannot (D)sing. (D4) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

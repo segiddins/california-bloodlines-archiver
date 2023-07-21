@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3350
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL TIME WOMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>capo 5th<br /><br />(G) (D) (Em) (G7) (C) (D) (G) (D)<br />(G)Mother Out(D)law&#180;s been (Em)giving me (G7)jaw,<br />Saying (C)&quot;Why don&#180;t you (D)marry the (G)girl?(D)<br />(G)I know (D)you&#180;ve been (Em)living in (G7)sin, <br />Got your (C)backside (D)out to the (G)world.&quot;(G7)<br /><br />But an (C)all-(D)time (G)woman,(Em)<br />Ah, you (C)don&#180;t need a (Bm)preacher to (A)know(D)<br />That an (C)all-(D)time (G)woman(Em)<br />Keeps you (A)ready for the (C)rock&#180;n (G)roll,(G/F#)(Em)(hold)<br />Oh, (C)ready for the (D)rock&#180;n (C)roll.<br /><br />Now a (G)one-night (D)stand for a (Em)guitar (G7)man <br />Is (C)easy when the (D)road gets (G)boring,(D)<br />But (G)Holiday (D)Inns and the (Em)two-dollar (G7)gin<br />Can (C)sure look (D)bad in the (G)morning.(G7)<br /><br />Oh, an (C)all-(D)time (G)woman(Em)<br />Is the (C)best damn (Bm)friend I (A)know,(D)<br />Oh, an (C)all-(D)time (G)woman(Em)<br />keeps you (A)for the (C)rock&#180;n (G)roll,(G/F#)(Em)(hold)<br />Oh, (C)ready for the (D)rock&#180;n (C)roll.<br /><br />(G)Miss A(D)merica, I (Em)got your (G7)game,<br />It&#180;s a (C)Christian (D)burlesque (G)show,(D)<br />(G)Feeding their (D)eyes on your (Em)sweet young (G7)thighs<br />Pre(C)tending, yeah, that (D)you don&#180;t (G)know.(G7)<br /><br />But an (C)all-(D)time (G)woman,(Em)<br />Oh, she (C)ain&#180;t selling (Bm)nothing but (A)soul,(D)<br />Oh, an (C)all-(D)time (G)woman(Em)<br />Keeps you (A)ready for the (C)rock&#180;n (G)roll,(G/F#)(Em)(hold)<br />Oh, (C)ready for the (D)rock&#180;n (C)roll. -Instr. verse-<br /><br />Yeah, an (C)all-(D)time (G)woman(Em)<br />With her (C)good love (Bm)feeding your (A)soul,(D)<br />Oh, an (C)all-(D)time (G)woman(Em)<br />Keeps you (A)ready for the (C)rock&#180;n (G)roll,(G/F#)(Em)<br />Keeps you (C)ready for the (D)rock&#180;n (G)roll.<br /><br />Oh, an (C)all-(D)time (G)woman(Em)<br />With her (C)good love (Bm)feeding your (A)soul,(D)<br />Oh, an (C)all-(D)time (G)woman(Em)<br />Keeps you (A)ready for the (C)rock&#180;n (G)roll,(G/F#)(Em)(hold)<br />Oh, (C)ready for the (D)rock&#180;n (C)roll.(G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

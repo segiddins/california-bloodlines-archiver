@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2940
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SING MY HEART AWAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (C) (G) (C) (G) (C)<br /><br />(G)Standing in the (C)middle of (G)all that (C)city,<br />(G)Who will (D)sing my (C)heart away?<br />(G)So many (C)people here, (G)it&#39;s a (C)pity,<br />(G)Who will (D)sing my (Em)heart away, (G7)<br />Who will (C)sing (Em7)my (D)heart  a(G)way?<br />(C) (G) (D) (G) (C) (G) (D)<br /><br />(G)Standing in the (C)middle of a (G)million (C)faces,<br />(G)Who will (D)sing my (C)heart away?<br />A (G)million people (C)looking in a (G)million (C)places,<br />(G)Who will (D)sing my (Em)heart away, (G7)<br />Who will (C)sing (Em7)my (D)heart  a(G)way?<br />(C) (G)<br /><br />And a (D)voice on the radio, it (G)knows my (D)name,<br />Like the songs that (G)Boudleaux (D)rhymes,<br />Music on the radio is (G)not the (D)same<br />As the (G)songs I heard when your (C)eyes met (D)mine...(D7)<br /><br />(G)So many (C)reasons you&#39;re my (G)one and (C)only,<br />(G)Who will (D)sing my (C)heart away?<br />It (G)is the (C)season of the (G)walking (C)lonely,<br />(G)Who will (D)sing my (Em)heart away, (G7)<br />Who will (C)sing (Em7)my (D)heart  a(G)way?<br />(C) (G)<br /><br />And a (D)voice on the radio, it (G)knows my (D)name,<br />Like the songs that (G)Boudleaux (D)rhymes,<br />Music on the radio is (G)not the (D)same<br />As the (G)songs I heard when your (C)eyes met (D)mine&amp;#8230;<br /><br />(G)(hold)Standing in the middle of all that city,<br />(G)(hold)Who will sing my heart away?<br />(C) (G)(hold)So many people here, it&#39;s a pity,<br />(G)Who will (D)sing my (Em)heart away, (G7)<br />Who will (C)sing (Em7)my (D)heart,<br />Who will (C)sing (Em7)my (D)heart,<br />Who will (C)sing (Em7)my (D)heart  a(G)way?(C) (G) (C) (G) (C) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

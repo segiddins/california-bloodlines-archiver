@@ -1,0 +1,133 @@
+Capo 2nd fret
+
+High E-string often not played
+
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(Sing Hmm hmm hmm hmm hmm the last two times 
+and for interludes between verses, play the bass run 
+on A-string where appropriate)
+
+She's as (D)golden as the jewels of a (G/B)Hollywood fool,
+A (D)highway out to the (G/B)sun.
+She is (D)somewhere to stand for a (G/B)rock and roll man,
+(D)Living his life on the (G/B)run.
+(D) (G/B) (D) (G/B)
+
+She's as (D)silver as the flight of a (G/B)comet in the night,
+A (D)stairway out to the (G/B)stars.
+She is(D)heaven on the run who was (G/B)captured by the sun,
+A (D)cool mist over my (G/B)scars.
+And she's (F#m)ooh, free and easy 
+As the (G)wind on the (A7 short)river to (D)me (G/B) (D) (G/B)
+
+(Bm)Moonlight's (Em7)alright,
+(A)Radio is (D)all night,
+(Em)Seems like (A7 short)heaven to (D)me. (D7)
+(G)Down by the (A7 short)river,
+Taking (F#m)all I can (G)give her,
+And I'm (D)dancing in the eyes of the (G/B)girl for me,
+(D)Dancing in the eyes of the (G/B)girl for me. 
+(D) (G/B) (D) (G/B)
+
+She's as (D)golden as the jewels of a (G/B)Hollywood fool,
+A (D)highway out to the (G/B)sun.
+She is (D)somewhere to stand for a (G/B)rock and roll man,
+(D)Living his life on the (G/B)run.
+And she's (F#m)ooh, free and easy 
+As the (G)wind on the (A7 short)river to (D)me, (G/B)
+She's (F#m)ooh, free and easy 
+As the (G)wind on the (A7 short)river to (D)me. (G/B)
+
+(Bm)Moonlight's (Em7)alright,
+(A)radio is (D)all night,
+(Em)Seems like (A7 short)heaven to (D)me. (D7)
+(G)Down by the (A7 short)river,
+Taking (F#m)all I can (G)give her,
+Like the (D)wind on the river she is (G/B)home to me,
+Like the (D)wind on the river she is (G/B)home to me,
+Like the (D)wind on the river she is (G/B)home to me,
+Like the (D)wind on the river she is (G/B)home to me.
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...)
+(D, high notes on B-string D-D—C#-D-C#, on G-string A) 
+(G/B, on B-string B) (Bass run on A-string A-B-C# to...
+fade...)
+
+
+
+Here is an alternate version from "Tanforan"
+
+
+
+Drop D tuning, capo 2nd fret
+
+Em7/B (D)
+E-----------
+B-------3---
+G-----------
+D-----------
+A----2------
+D-----------
+
+
+
+(D) (Em7/B) (D) (Em7/B) (D) (Em7/B) (D) (Em7/B)
+She's as (D)golden as the jewels of a (Em7/B)Hollywood fool,
+A (D)highway out to the (Em7/B)sun.
+She is (D)somewhere to stand for a (Em7/B)rock and roll man,
+(D)Living his life on the (Em7/B)run.
+And she's (F#m)ooh, free and easy 
+As the (Em)wind on the (A7 short)river to (D)me (Em7/B) (D) (Em7/B)
+
+She's as (D)silver as the flight of a (Em7/B)comet in the night,
+(D)Highway out to the (Em7/B)stars.
+She is(D)heaven on the run, (Em7/B)captured by the sun,
+A (D)cool mist over my (Em7/B)scars.
+And she's (F#m)ooh, free and easy 
+As the (Em)wind on the (A7 short)river to (D)me. (D7)
+
+(G)Moonlight's (Em7)alright,
+(A)Radio is (D)all night,
+(Em)Seems like (A7 short)heaven to (D)me. (D7)
+(G)Down by the (A7 short)river,
+Taking (F#m)all I can (G)give her,
+Like the (D)wind on the river she is (Em7/B)home to me,
+Like the (D)wind on the river she is (Em7/B)home to me.
+Hmm, hm(D)m. (Em7/B) (D) (Em7/B) (D) (Em7/B) (D) (Em7/B)
+
+She's as (D)golden as the jewels of a (Em7/B)Hollywood fool,
+(D)Highway out to the (Em7/B)sun.
+She is (D)somewhere to stand for a (Em7/B)rock and roll man,
+Who´s (D)living his life on the (Em7/B)run.
+And she's (F#m)ooh, free and easy 
+As the (Em)wind on the (A7 short)river to (D)me. (D7)
+
+And (G)moonlight's (Em7)alright,
+(A)Radio is (D)all night,
+(Em)Seems like (A7 short)heaven to (D)me. (D7)
+(G)Down by the (A7 short)river,
+Taking (F#m)all I can (G)give her...
+
+And I´m (D)dancing in the eyes of the (Em7/B)girl for me,
+(D)Dancing in the eyes of the (Em7/B)girl for me,
+(D)Dancing in the eyes of the (Em7/B)girl for me,
+(D)Dancing in the eyes, (Em7/B)dancing in the eyes,
+(D)Dancing in the eyes of the (Em7/B)girl,
+The girl for (D)me. (Em7/B) (D) (Em7/B) (D) (Em7/B)
+(D) (Em7/B) (D) (Em7/B) (D) (Em7/B) (D) (Em7/B) (D) (Em7/B)
+(D) (Em7/B) (D) (Em7/B) (D)

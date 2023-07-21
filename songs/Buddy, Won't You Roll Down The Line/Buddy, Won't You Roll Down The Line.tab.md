@@ -1,0 +1,40 @@
+(G)                       (hold)
+Buddy, won't you (G)roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, (D7)coming down the line.
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling,  she (G)coming down the line.
+
+Judy (D)got a (G)gun, she was living on the run,
+And there was (C)Rose, oh-(D7)oh, now she's (G)down town out of time.
+Judy's found a man, he was the leader of a band,
+And he took the (C)Rose, oh-(D7)oh, Buddy, better (G)roll on down the line.
+
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, (D7)coming down the line.
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, she (G)coming down the line.
+
+One more (D)time a(G)round, and it's time to leave this town,
+Down to Mexi(C)co, whoa-(D7)oh, you know it's (G)hanging right behind.
+One more man to trash, just one more cheque to cash,
+That's all you (C)know, whoa-(D7)oh, Buddy, better (G)get on down the line.
+
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, (D7)coming down the line.
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, she (G)coming down the line.       (D)          (G)
+
+Oh. you never had a plan, oh, it fell right in your hand.
+And it turned to (C)stone, whoa-(D7)oh, (G)playing down the silver line.
+Now all the money's gone, and the man who wrote the song
+Said, pack and (C)go, oh-(D7)ho, Buddy better (G)roll on down the line. 
+
+Buddy, won't you (hold) roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, coming down the line.
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, she coming down the line.
+
+Buddy, won't you (G)roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, (D7)coming down the line.
+Buddy, won't you roll down the line, Buddy, won't you roll down the line,
+Yonder comes my darling, she (G)coming (C)down the (G)line.

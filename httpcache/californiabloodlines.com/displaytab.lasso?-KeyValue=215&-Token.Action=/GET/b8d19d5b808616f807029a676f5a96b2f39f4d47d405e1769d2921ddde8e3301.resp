@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3385
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>YOU WON&#8217;T BE GOING HOME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>B2  (&#338;high Strings&#8218; B and E &#338;unplayed&#8218; most of the time)<br />E----2-----------<br />B----2-----------<br />G------------4---<br />D------------4---<br />A----2-----------<br />E----2-----------<br /><br />Playing hint: easier in the key of G, capo 2nd fret<br /><br /><br />(A)Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br />Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br /><br />Whoo, whoo wee, (F#m)when you see her,<br />(B2)Oh, you (E)won&#39;t be going (A)home.<br />Whoo, whoo yea, (F#m)what you gonna say<br />When you (B2)say, you (E)won&#39;t be going (A)home?<br /><br />Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br />Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br /><br />One, two three, (F#m)what she did to me,<br />(B2)Oh, I (E)won&#39;t be going (A)home.<br />Two, three, four, (F#m)going back for more,<br />(B2)Oh, I (E)won&#39;t be going (A)home.<br />(D)(D)(D)(A/C#)(D)(A/C#)(A)<br />(D)(D)(A/C#)(D)(A/C#)(D)(A/C#)(E)<br />(E)(D)(A)(D)(A)(D)(A)<br />(D)(D)(A/C#)(D)(A/C#)(A)<br />(D)(D)(A/C#)(D)(A/C#)(A)(E)   (A) (E)(A)<br /><br />Ah, (D)California, made that girl your (A)own,<br />(high notes run from high E- to G-string: e-d-c#-b-c#-b-a)<br />(D)California, oooh, I gotta warn you,<br />(E) You won&#39;t be going (A)home.(E)(A)<br />      (E)    (A) (E)(A)      (E)    (A) (E)(A)<br />(D)      (A)    (D)      (E)    (A) (E)(A)<br /><br />Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br />Aah, (F#m)aah, (B2)ah-ah, (A)ah.<br /><br />Whoo, whoo wee, (F#m)when you see her,<br />(B2)Oh, you (E)won&#39;t be going (A)home.<br />Whoo, whoo yea, (F#m)what you gonna say<br />When you (B2)say, you (E)won&#39;t be going (A)home?<br /><br />Ah, (D)California, made that girl your (A)own,<br />(high notes run from high E- to G-string: e-d-c#-b-c#-b-a)<br />(D)California, oooh, I gotta warn you,<br />(E) You won&#39;t be going (A)home.(E)(A)<br />      (E)    (A) (E)(A)      (E)    (A) (E)(A)<br />(D)      (A)    (D)      (E)    (A) (E)(A)<br />(D)      (A)    (D)      <br /><br />(E) You won&#39;t be going (A)home,(E)(A)<br />And (E)oh, you won&#39;t be going (A)home,(E)(A)<br />And (E)no, but you won&#39;t be going (A)home.(E)(A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

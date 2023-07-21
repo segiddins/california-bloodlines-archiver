@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2434
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LIBERATION DAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bandera (Folk Era, FE1436D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Sweet sweet smell of jasmine<br />Knocked me from my feet<br />And cut the still dry morning<br />With promises to keep<br />In a ground floor room surrounded<br />By the dreams that got away<br />Everything was perfect<br />Liberation day<br />And I went to call the future<br />All I got was her machine<br />Had she gone to see Savannah?<br />The getaway was clean<br />Everything looked different<br />The courage and the clay<br />Everything was perfect<br />Liberation day<br /><br />Liberation day is coming<br />Liberation day is here<br />Liberation day is funny<br />Liberation day is near<br />Liberation day<br /><br />What about the angels?<br />Where they always by my side?<br />Even in Nogales<br />And all the times I tried to hide?<br />And all across the crazy<br />The angels came to play<br />Everything was perfect<br />Liberation day<br />Liberation day<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

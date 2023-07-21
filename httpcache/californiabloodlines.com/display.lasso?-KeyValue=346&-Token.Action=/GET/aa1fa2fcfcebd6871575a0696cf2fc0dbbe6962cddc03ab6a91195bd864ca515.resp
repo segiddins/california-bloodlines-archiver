@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3031
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ROCKIN&#39; AS THE NIGHT ROLLS ON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Wires from the Bunker (Wrasse Records, 2000; Appleseed Records, APR CD 1047, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Friday night is breaking<br />And I&#8217;m working till a quarter to five<br />Gonna give the world fair warning<br />We&#8217;re going to celebrate being alive<br /><br />Out on the misty morning<br />When the last brave star is gone<br />You can&#8217;t go wrong with a rock &#8216;n roll song<br />Rockin&#8217; as the night rolls on<br /><br />Hot rods out on the highway<br />Caravan gone mad<br />Annie on the seat beside me<br />It&#8217;ll be the best night we ever had<br /><br />And on to the misty morning<br />When the straights all rise at dawn<br />You can&#8217;t go wrong with a rock &#8216;n roll song<br />Rockin&#8217; as the night rolls on<br /><br />Rockin&#8217; as the night rolls on<br />Rockin&#8217; as the night rolls on<br />You can&#8217;t go wrong with a rock &#8216;n roll song<br />Rockin&#8217; as the night rolls on<br /><br />Annie can you drown a heartache<br />This boy&#8217;s going to try<br />Five days workin&#8217; for the weekend<br />For thrills that you just can&#8217;t buy<br /><br />Then it&#8217;s on to the misty morning<br />Oh Annie when we&#8217;re drained and gone<br />You can&#8217;t go wrong with a rock &#8216;n roll song<br />Rockin&#8217; as the night rolls on<br /><br />Rockin&#8217; as the night rolls on<br />Rockin&#8217; as the night rolls on<br />You can&#8217;t go wrong with a rock &#8216;n roll song<br />Rockin&#8217; as the night rolls on
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

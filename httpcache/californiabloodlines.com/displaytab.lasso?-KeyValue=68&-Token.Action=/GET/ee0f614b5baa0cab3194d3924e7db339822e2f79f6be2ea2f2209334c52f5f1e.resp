@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2889
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:06 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SPINNING OF THE WORLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Is it (G)wrong to be (C)so much in (D)love with a (G)girl<br />That you (Am)can&#39;t tell her (D)voice <br />From the (G)spinning (C)of the (G)world?<br />(D, bass run D-C-B-A) (D, bass run D-C-B-A)<br />(D, bass run D-C-B-A) (A, bass run A-G-Gb) (A7)<br /><br />I&#39;m (D)gone, I can (G)fly, like a (D)comet on the (G)sky,<br />(D)Looking for the (G)shelter of a (C)hurri(G)cane&#39;s (A7)eye.<br />(D)If I turn the (G)corner and your (D)face, it isn&#39;t (G)there,<br />I&#39;ll come (D)running back to(G)morrow <br />And go (C)searching (G)every(D)where. (D7, bass C-B-A)<br /><br />Is it (G)wrong to be (C)so much in (D)love with a (G)girl<br />That you (Am)can&#39; t tell her (D)voice <br />From the (G)spinning (C)of the (G)world?<br />(D, bass run D-C-B-A) (D, bass run D-C-B-A)<br />(D, bass run D-C-B-A) (A, bass run A-G-Gb) (A7) <br /><br />The (D)sunset is (G)red, I re(D)member what you (G)said,<br />There&#39;s no (D)rest for the (G)weary, I&#39;d be (C)better (G)off (A7)dead.<br />(D)I cannot (G)find any (D)words that&#39;ll (G)rhyme,<br />My (D)eyes, they can (G)see, but it (C)feels (G)like I&#39;m (D)blind. (D7)<br /><br />Is it (G)wrong to be (C)so much in (D)love with a (G)girl<br />That you (Am)can&#39;t tell her (D7)voice <br />From the (G)spinning (C)of the (G)world?<br /><br />Is it wrong to be (C)so much in (D)love with a (G)girl<br />That you (Am)can&#39; t tell her (D7)voice <br />From the (G)spinning (C)of the (G)world?<br /><br />Is it wrong to be (C)so much in (D)love with a (G)girl<br />That you (Am)can&#39; t tell her (D)voice <br />From the (G)spinning(hold) (C)of(hold) the (G)world?(hold)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

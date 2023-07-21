@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3554
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:44 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MONKEY BOY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bandera (Folk Era, FE1436D, 1997)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There was a murder in the neighborhood<br />Somebody shot his wife<br />Look at her Billy lyin&#39; on the ground there<br />She looked absolutely white<br />And we all smelled the tear gas<br />None of us could see<br />It was so exciting<br />None of us could leave<br /><br />How about them bullies in the schoolyard<br />There was nowhere I could run<br />I knew I couldn&#39;t lick &#39;em&#39;<br />Couldn&#39;t shoot them with a gun<br />You know they beat me silly<br />That&#39;s the way it goes<br />Now I&#39;m seein bullies<br />Everywhere I go<br /><br />Chorus:<br />And it&#39;s hard time for the monkey boy<br />Hard times for the boy<br />Hard times, when you&#39;re looking in the mirror <br />Hard times for the monkey boy<br /><br />My Daddy was a mean man<br />Don&#39;t ask me why<br />He liked fighting with my Mama<br />I believe just to see her cry<br />You know she never left him<br />Ah she never did<br />She always used to tell me<br />She did it for the kids<br /><br />He left me in the desert once<br />High noon in the middle of the week<br />Way out in Winslow Arizona<br />We had stopped to take a leak<br />He said he didn&#39;t know <br />That I had gotten out<br />I don&#39;t think he would have left me<br />But still I have my doubts<br /><br />(Repeat Chorus)<br /><br />How about them guineas on the racetrack?<br />They&#39;re a tough hard living bunch<br />They like sleeping in the tack room<br />Jack Daniels was their lunch<br />They were always nice to me<br />Kept me out of harm<br />While I was just keeping<br />Away from my Daddy&#39;s arm<br /><br />(Repeat Chorus)<br /><br />(Additional Lyrics)<br /><br />I had a blue Schwinn bike<br />It was my joy it was my pride<br />I&#8217;d pretend it was a motorcycle<br />Going on a highway ride<br />I would make a great escape<br />Just around the bend<br />The road goes on forever<br />And I&#8217;m never seen again<br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3074
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL THE LIGHTS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (C/D)All (C/E)the (F)lights(F)(F/E)(F/D)<br />And (F/D)all (F)the (C/E)towns,(C/E)(C/D)(C)<br />And (C/D)all (C/E)the (G/D)wheels(G/D)(G/C)(G/B)<br />(G)Tur(G/D)ning (C/E)&#171;round,(C/E)(C/D)(C)<br />(C)And (C/D)all (C/E)the (F)stars,(F)(F/E)(F/D)<br />If you (F/D)count (F)&#171;em (C/E)down,(C/E)(C/D)(C)<br />They&#171;re (C/D)less (C/E)than (G/D)love(G/D)(G/C)(G/B)<br />That (G)one (G/D)heart&#171;s (C/E)found,(C/E)(C/D)(C)<br />(C/D)Less (C/E)than (F)love(F)(F/E)(G/D)<br />(G)That (G/B)one (G/D)heart&#171;s (C)found.(C/D)(C/E)(C)<br /><br /><br />                    All The Lights           John Stewart  <br /><br />Instrumental verse<br /><br />(C)All the (F)lights  and all the (C)towns<br />And all the (G)wheels  turning (C)&#171;round,<br />And all the (F)stars,  if you count &#171;em (C)down,<br />They&#171;re less than (G)love  that one heart&#171;s (C)found,<br />Less than (F)love  (G) that one heart&#171;s (C)found.<br /><br />And all the (F)songs  that were ever (C)sung<br />And all the (G)dreams  that keep you (C)young,<br />And all the (F)bells  that were ever (C)rung,<br />Are less than (G)love  when one heart&#171;s (C)stung,<br />Less than (F)love (G) when one heart&#171;s (C)stung.<br /><br />-Instr. verse-<br /><br />All the (F)years  and all good-(C)byes<br />And all the (G)times  that we just don&#171;t (C)try,<br />And all the (F)dreams  that will never (C)die<br />Are less than (G)love  where two hearts (C)lie,<br />Less than (F)love (G) where two hearts (C)lie.<br /><br />All the (F)lights  and all the (C)towns<br />And all the (G)wheels  turning (C)&#171;round,<br />And all the (F)stars,  if you count &#171;em (C)down,<br />They&#171;re less than (G)love  that one heart&#171;s (C)found,<br />Less than (F)love (G) that one heart&#171;s (C)found.<br /><br />-Instr. verse-
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3515
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:06 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DEAD SNAKES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Em*) = add G-note on high E-string<br />Bass line through first verse, no guitar.<br />We&#180;ve written out the chords, just in case you don&#180;t have a top notch <br />bass player at your beck and call.<br /><br /><br /><br />(Em)<br />A little girl stops in the middle of the road,<br />Frozen in fear, (Bm)frozen in (Em)fear,<br />For a snake is stretched &#180;cross the middle of the road,<br />Still and clear, (Bm)still and (Em)clear.<br />She (G)can&#39;t go on and she (Am7)won&#39;t turn (D)back,<br />(G)She feels a (Em)sweat come (Am7)running down her (D)back,<br />She&#39;d (G)still be (Em)there if (Am7)no one (D)said,<br />Said, (C)(hold)&quot;Hey little girl, the (Bm)(hold)snake is dead.&quot; (Em)<br /><br />My father&#39; s face is as clear today<br />As before the time that he (Bm)went a(Em)way.<br />Said, &quot;You can&#39;t win, your ass is lead.&quot;<br />I&#39;m a prisoner of the (Bm)words he (Em)said.<br />I (G)can&#39;t go on and I (Am7)won&#39;t turn (D)back,<br />(G)I hear the (Em)train come (Am7)yelling down the (D)track.<br />I&#39;d (G)still be (Em)there if (Am7)no one (D)said,<br />Said, (C)(hold)&quot;Hey little boy, the (Bm)(hold)snake is dead.&quot;<br />(Em)(Em)(Em)(Em*)(Em)(Em)(Em)(Em*)(Em)(Em)(Em)(Em*)<br />(Em)(Em)(Em)(Em*)(Em)(Em)(Em)(Em*)(Em)(Em)(Em)(Em*)<br />(Em)(Em)(Em)(Em*)(Em)(Em)(Em)(Em*)<br />[continue into verse, (Em*)s written out]<br /><br />Beware (Em*)little fat boys,(Em*)<br />They turn in(Em*)to angry hunters. (Em*)(Em)(Em)(Em)(Em*)<br />Beware (Em*)little fat boys, (Em*)<br />They know the (Em*)spell they&#39;re under.(Em*)<br />(G)They know hurt, (D)they know pain,<br />(G)They know (Em)life standing (Am7)out there in the (D)rain,<br />And they&#39;d (G)still be (Em)there if (Am7)no one (D)said,<br />Said, (C)(hold)&quot;Hey little boy, the (Bm)(hold)snake is dead.&quot; (Em)<br /><br />Snake said to Eve, said, &quot;Come here, baby,<br />Bite my apple, it&#39;ll (Bm)turn you into a (Em)lady.&quot;<br />Eve took a bite and things got rough,<br />You can always get some, but you can (Bm)never get e(Em)nough.<br />You&#180;ll (G)still be (Em)there &#39;till (Am7)someone (D)says,<br />Says, (C)(hold)&quot;Hey, everybody, the (Bm)(hold)snake is dead.&quot; (Em)<br />The snake is dead.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

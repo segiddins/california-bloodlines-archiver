@@ -1,0 +1,80 @@
+(C)  (Dm)  (C/E)  (Dm)  (C)  (Dm)  (C/E)  (Dm)
+(C)  (Dm)  (C/E)  (Dm)  (C)  (Dm)  (C/E)  (Dm)
+(C) She be(Dm)lieves the (C/E)witches (Dm)fly 
+(C) Crazy (Dm)'cross the (C/E)moon, (Dm)
+(C) She be(Dm)lieves in (C/E)angel (Dm)eyes 
+(C) In the (Dm)corner of her (C/E)room. (Dm)(Dm/C) 
+(F) She be(G)lieves the (C)ships come (Am)home 
+(F) Singing (G)from the (C)sea, (F)(G)(C)
+She be(Dm)lieves in (C/E)losers, (Dm)oh, 
+(C) She be(F)lieves in (G)me.   (G7)
+
+(C) She be(Dm)lieves a (C/E)pot of (Dm)gold 
+(C) Marks the (Dm)rainbow's (C/E)end,(Dm)
+(C) And she be(Dm)lieves a (C/E)light will (Dm)show
+The (C)lonesome, (Dm)homeward (C/E)friend. (Dm)(Dm/C)
+(F) She be(G)lieves the (C)weary (Am)soul 
+(F) One day (G)will be (C)free, (F)(G)(C)
+She be(Dm)lieves in (C/E)losers, (Dm)oh, 
+(C) She be(F)lieves in (G)me.
+
+(F) Blow lightly, (Bb)wind, 
+So (C)she can (F)ride. (Bb)(F)(C)
+(F) Blow lightly, (Bb)wind, 
+And (F)I will (Bb)see her (F)by and (C)by…
+(Bb) Away with the (F)fools who tell her 
+(Bb)I am (F)make be(C)lieve,
+(F) She be(Bb)lieves in (F)losers, (Bb)oh, 
+(F) She be(Bb)lieves in (C)me. (Dm) (C/E) (Dm)
+(C) She be(Dm)lieves in (C/E)losers, (Dm)oh,
+(C) She (F)be(G)lieves in (C)me, (Dm) (C/E) (Dm)
+She be(C)lieves in (Dm)me, (C/E) (Dm)
+She be(C)lieves in (Dm)me, (C/E) (Dm)
+She be(C)lieves in (Dm)me, (C/E) (Dm)
+She be(C)lieves in (Dm)me, (C/E) (Dm)
+She (C) be(Dm)lieves. (C/E) (Dm) (C)
+
+
+
+janhauenstein@gmx.de
+
+
+“Deep in the Neon” version
+
+Try it in drop D, forming the D chord and just moving your first finger to
+the "E" note where I listed D/E,
+then the pinky to the F# for the D/F# while playing the other strings.
+
+
+INTRO (D)(D/E)(D/F#)(D/E)(D)(D/E)(D/F#)(D/E)(D)
+
+She be(D/E)lieves the (DF#)witches (D/E)fly (D)
+Crazy (D/E)'cross the (D/F#)moon. (D/E) (D)
+And she be(D/E)lieves in (D/F#)angel (D/E)eyes
+(D) In the (D/E)corner of her (D/F#)room. (D7)
+(G) She be(A)lieves the (D)ships come (Bm)home
+(G) singing (A)from the (D)sea, (G)(A)(D)
+She be(D/E)lieves in (D/F#)losers, (D/E)oh,
+(D) She be(G)lieves in  (A)me. (D)
+
+She be(D/E)lieves a (D/F#) pot of (D/E)gold
+(D) Marks the (D/E)rainbow's (DF#)end. (D/E)
+And (D)she be(D/E)lieves a (D/F#)light will (D/E)show 
+The (D)lonesome (D/E)homeward (D/F#)friend. (D7)
+(G) She be(A)lieves the (D)weary (Bm)soul
+(G) One day (A)will be (D)free, (G)(A)(D) 
+She be(D/E)lieves in (DF#)losers, (Em)oh,
+(D) She be(G)ieves in (A)me.
+
+(G) Blow lightly, (C)wind, 
+So (D)she can (G)ride (C)(G)(D)
+(G) Blow lightly, (C)wind, 
+And  (G)I will (C)see her (G)by and (D)by.
+(C) Away with (G)fools who tell her 
+(C)I am (G)make be(D)lieve,
+(G) She be(C)lieves in (G)losers, (C)oh, 
+(G) she be(C)lieves in (D)me.(D/E) (D/F#) (D/E)
+(D) She be(D/E)lieves in (D/F#)losers, (D/E)oh,
+(D) She be(G)lieves (A)in (D)me. (D/E) (D/F#) (D/E)
+She be(D)lieves in (D/E)me, (D/F#) (D/E)
+She be(D)lieves in (D/E)me, (D/F#) (D/E) (D)

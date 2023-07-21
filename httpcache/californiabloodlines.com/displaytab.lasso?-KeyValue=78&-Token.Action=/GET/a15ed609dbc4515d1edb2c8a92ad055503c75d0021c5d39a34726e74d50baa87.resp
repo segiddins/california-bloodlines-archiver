@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2963
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:06 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE RAVEN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(D) (A) (D) (A) (D)<br />(A)Sunrise, colouring the (D)highway,<br />And (A)your eyes, sleeping in the (D)sun.<br />And when you (F#m)rise and listen to the (D)song a(A)gain,<br />Then you&#39;ll (D)know (A) that the wings have (E)come. (A) (D) (A) (D)<br /><br />(A)Dark wings, shadow on the (D)highway,<br />Ah, the (A)wind sings, following the (D)sun.<br />And when you (F#m)rise and listen to the (D)song a(A)gain,<br />Then you&#39;ll (D)know (A) that the wings have (E)come.<br /><br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />Tugging at my (E)lifeline,<br />(D) (E)Calling me a(D)gain. (A) (D) (A) (D)<br /><br />A (A)long rain is following the (D)sunrise,<br />A (A)slow train beckons like a (D)drum.<br />And when you (F#m)rise and listen to the (D)song a(A)gain,<br />Then you&#39;ll (D)know (A) that the wings have (E)come.<br /><br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />Tugging at my (E)lifeline,<br />(D) (E)Calling me a(D)gain. (A) (D) (A) (D)<br /><br />And when you (F#m)rise and listen to the (D)song a(A)gain,<br />Then you&#39;ll (D)know (A) that the wings have (E)come.<br /><br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind,<br />There are (F#m)wings (E) of the raven on the (D)wind
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

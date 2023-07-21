@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4190
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE PIRATES OF STONE COUNTY ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>D 5 (variant)<br />E--------------------5----------<br />B-----------3-------------------<br />G-------------------------------<br />D----------------4--------------<br />A--------------------------------<br />E-XXXXX-----------------------<br /><br />C5/E<br />E----------3--------------------<br />B--1----------------------------<br />G-------------------------------<br />D-----2-------------------------<br />A--------------------------------<br />E-XXXXX-----------------------<br /><br /><br /><br />(D5)  (C5/E)  (D5)  (C5/E)<br />(D5) It&#39;s a summer afternoon, somewhere in Kansas (C5/E)<br />Or Illinois or Oklahoma, (D5)<br />And the (C5/E)wind is blowing the leaves down the gutter <br />As the mailman comes by.(D5) <br />(C5/E) &quot;Afternoon Mrs. Higgins, (D5) is it hot enough for ya?&quot; (C5/E)<br />Over on Stone County Road, (D5) there&#39;s the smell of chicken frying. (C5/E)<br />(D5)  (C5/E)<br />(D5) &quot;Henry! (C5/E) <br />It&#39;s getting t&#39;wards suppertime you know. <br />(D5) Henry!&quot; (C5/E)<br /><br />There she (D5)calls (C5/E)from her second floor (D5)room,<br />(C5/E) The end of a (D5)back porch after(C)noon,<br />Where we&#39;d stand on the (Bm)bow <br />(C) Of our (A)own man-of-(D)war,<br />No (Am7)longer the (A7)back porch any(D)more.<br />(bass run: D  D-C  C-B  B-A, to&#8230;)<br /><br />And we&#39;d (G)sail,(Em) (Am) (D)<br />Pulling for (G)China,(Em) (C) (D)<br />The (G)pirates of (Em)Stone County (C)Road,<br />All (Am)weathered (A)and (D)blown. <br />(bass run: D  D-C  C-B  B-A, to&#8230;)<br />And we&#39;d (G)sail,(Em) (Am) (D) <br />Ever in (G)glory,(Em) (C) (D)<br />&#39;Till, (Am)(hold)hungry and tired,<br />The (G)(hold)pirates of Stone County (C)Road<br />(bass run: C  C-B  B-A on&#8230;) (Am) (hold)<br />Were turning for (D5)home. (C5/E)<br /><br />(D5) &quot;Henry! (C5/E)<br />You better be getting on up to bed now, (D5) don&#39;t ya know?<br />(C5/E) Henry!&quot; (D5) (C5/E)<br />There she (D5)calls, (C5/E) from her high wicker (D5)chair,<br />(C5/E) As I climb to my (D5)room up the (C)stairs,<br />Where the wind through the (Bm)shutters<br />(C) Sends the (A)mainsail to (D)fall<br />From the (Am7)shadow of the (A7)bedpost on the (D)wall.<br />(bass run: D  D-C  C-B  B-A, to&#8230;)<br /><br />And we&#39;d (G)sail,(Em) (Am) (D)<br />Pulling for (G)China,(Em) (C) (D)<br />The (G)pirates of (Em)Stone County (C)Road,<br />(Am)Weathered (A)and (D)blown. <br />(bass run: D  D-C  C-B  B-A, to&#8230;)<br />And we&#39;d (G)sail,(Em) (Am) (D) <br />Ever in (G)glory,(Em) (C) (D)<br />&#39;Till, (Am)(hold)hungry and tired,<br />The (G)(hold)pirates of Stone County (C)Road<br />(bass run: C  C-B  B-A on&#8230;) (Am) (hold)<br />Were turning for (D5)home. (C5/E)<br /><br />(D5) &quot;Henry? (C5/E)<br />Can you hear me, Henry? (D5)<br />Are you up there Henry? (C5/E)<br />(D5) Henry? (C5/E)<br />(D5) Henry?&#8221; (C5/E)  (D5)  (C5/E)  (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3411
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:23 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DURANGO</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (Bb) (A)   (F7) (G6) (C)    (C) (Bb) (A)   (F7) (G6) (C)  <br /><br />I was talkin&#39; to a (Bb)man &#180;bout a (A)movie show,<br />Won&#39;t you (F)take me (G)to Du(C)rango?<br />I could play that (Bb)part just (A)fine, you know,<br />Won&#39;t you (F)take me (G)down to (C)Mexico?<br /><br />(F/A)Down, (G)down, (C/E)down,<br />(Am)Won&#39;t you (F)take me (G)to Du(C)rango?<br />Take me (F/A)down, (G)down, (C/E)down,<br />Oh, (D7)take me down, (G) ah, to Mexico. <br />(C) (Bb) (A)   (F7) (G6) (C)<br /><br />I never (Bb)saw old (A)Peckinpah,<br />I (F)guess he for(G)got to (C)call.<br />I can under(Bb)stand using (A)Rita&#39;s man,<br />He&#39;ll be the (F)best Billy (G)Kid of them (C)all.<br /><br />They took him (F/A)down, (G)down, (C/E)down,<br />(Am)Ah, they(F)took him (G)to Du(C)rango.<br />Took him (F/A)down, (G)down, (C/E)down,<br />Oh, (D7)took him down, (G) ah, to Mexico. <br />(C) (Bb) (A)   (F7) (G6) (C)   (C) (Bb) (A)   (F7) (G6) (C)<br /><br />Now (Bb)Billy the Kid, <br />I (C)know what you did,<br />Got a (A)postcard on my (F)wall<br />They were (Bb)selling around <br />The New (C)Mexico town<br />(A)Where they lowered you (D)down.(C)(G/B)(A)(G)(G/B)(A)(hold)<br /><br />And they took him (G/B)down, (A)down, (D/F#)down,<br />(Bm)Oh, they (G)took him (A)down in New (D/F#)Mexico.<br />(G/B)Down, (A)down, (D/F#)down,<br />Oh, (E7)shot him down (A) in New Mexico.<br /><br />And I was (C)talkin&#39; to a (Bb)man &#180;bout a (A)movie show,<br />Won&#39;t you (F)take me (G)to Du(C)rango?<br />I could play that (Bb)part just (A)fine, you know,<br />Won&#39;t you (F)take me (G)down to (C)Mexico?<br />(F)(C)(F)(C)(G7)(C)(hold)<br /><br />Oh take me (F/A)down, (G)down, (C/E)down,<br />(Am)Won&#39;t you (F)take me (G)to Du(C)rango?<br />Take me (F/A)down, (G)down, (C/E)down,<br />Oh, (D7)take me down,(G) oh, to Mexico.<br />(F/A)Down, (G)down, (C/E)down,<br />(Am) Oh, won&#39;t you (F)take me (G)to Du(C)rango?<br />Take me (F/A)down, (G)down, (C/E)down,<br />Oh, (D7)take me down,(G) oh, to Mexico. <br /><br />[I play this as an outro &#8211; it&#180;s not on the CD:<br />(C) (Bb) (A)   (F7) (G6) (C)   (C) (Bb) (A)   (F7) (G6) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

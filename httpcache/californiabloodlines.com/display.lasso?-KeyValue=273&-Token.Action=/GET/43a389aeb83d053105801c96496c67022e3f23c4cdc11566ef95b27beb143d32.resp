@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3755
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:10 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHO STOLE THE SOUL OF JOHNNY DREAMS?</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)<br />Rocket Roy in the Real World Plus (Neon Dreams, 1999)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Attention K Mart shoppers<br />Do you really need all of that crap?<br />Made somewhere in Thailand<br />No one&#39;s taking the rap<br />I&#39;m holding out for yellow<br />Airbags in my shoes<br />I saw the ad from Calvin Klein<br />It&#39;s the kind the junkies use<br /><br />Watching too much TV<br />When will I ever learn?<br />The call me the midnight surfer<br />&#39;Cause I love to watch the channels turn<br />At 8 pm on Channel 2<br />&quot;When Animals Attack&quot; <br />There&#39;s a lot of guys that I once knew<br />With monkeys on their backs<br /><br />And written on the bathroom walls<br />That the old fan dancer cleans<br />Is the never answered question<br />Who stole the soul of Johnny Dreams? <br /><br />A singing dog named Peewee<br />Star of the neighborhood<br />Singing songs from Oklahoma<br />&quot;Tutti Fruiti&quot; is awfully good<br />Straight edged boy is cooking<br />Tofu for his friends<br />They&#39;re planning their next sit in<br />For the animals have friends<br /><br />And written on the bathroom walls<br />That the old fan dancer cleans<br />Is the never answered question<br />Who stole the soul of Johnny Dreams? <br /><br />Still I&#39;m a circus boy<br />They&#39;re taking up croquet<br />Someone stole a ferris wheel<br />From Fargo yesterday<br />I have no sense of who I am<br />Or who that I am not<br />Am I &quot;The Great Wallenda&quot;<br />That everyone forgot<br /><br />Still I write the songs<br />That only I will sing<br />Something has gone wrong<br />It&#39;s the bell that never rings<br />Hip hop rappers and DJ&#39;s<br />Pop stars, lawyers and thieves<br />Someone&#39;s selling the rainbow<br />And things you wouldn&#39;t believe<br /><br />And written on the bathroom walls<br />That the old fan dancer cleans<br />Is the never answered question<br />Who stole the soul of Johnny Dreams? <br /><br />And written on the bathroom walls<br />That the old fan dancer cleans<br />Is the never answered question<br />Who stole the soul of Johnny Dreams? <br /><br />Who stole the soul<br />Who stole the soul<br />Who stole the soul<br />Of Johnny Dreams?
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

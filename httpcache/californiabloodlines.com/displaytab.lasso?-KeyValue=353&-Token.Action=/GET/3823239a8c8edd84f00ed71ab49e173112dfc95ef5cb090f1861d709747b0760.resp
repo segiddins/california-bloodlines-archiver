@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3070
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL THE WORDS UNSPOKEN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C) (F) (C) (F) (C) (F) (C)(G)(C)<br /><br />Yeah, all the words unspoken,<br />(F)All the dogs in chains,<br />(C)all the walls still standing,<br />They will (F)own you, (C)baby (G)Jane.<br /><br />Will (C)they just stay inside your throat<br />Til (F)one day they&#39;re heard?<br />So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,<br />And (F)you will (C)free the (G)words.<br /><br />Just say the (F)words,<br />Say the (C)words,<br />Oh, say the (F)words,<br />Won&#8217;t you say the (C)words...<br /><br />(F) (C) (F)<br /><br />Well, you (C)wrote to me in letters<br />That (F)flowed right from your heart,<br />And you (C)wrote the words &quot;I Love You,&quot;<br />And they (F)tore my (C)blues a(G)part.<br /><br />Yeah, but (C)when I call you on the phone,<br />The (F)conversation&#8217;s blurred,<br />So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,<br />And (F)you will (C)free the (G)words.<br /><br />Just say the (F)words,<br />Say the (C)words,<br />Oh, say the (F)words,<br />Say the (Cj7)words...<br /><br />(C) (F) (Cj7) (F) (Cj7) (F) (C)(G)(C)<br /><br />Oh, all the words unspoken, <br />And (F)all the dogs in chains,<br />(C)All the walls still standing<br />(F)Alone will (C)be re(G)tained.<br /><br />Will (C)they just stay inside your throat<br />Un(F)til one day they&#39;re heard?<br />So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,<br />And (F)you will (C)free the (G)words.<br /><br />Won&#8217;t you say the (F)words,<br />Say the (Cj7)words,<br />Won&#8217;t you say the (F)words,<br />Say the (Cj7)words...  (F) (Cj7) (F)<br /><br />Oh, say the words,<br />Say the (Cj7)words,<br />Say the (F)words,<br />Won&#8217;t you say the (Cj7)words?<br />Just say the (F)words,<br />Say the (Cj7)words,<br />Just say the (F)words&#8230;(Cj7)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

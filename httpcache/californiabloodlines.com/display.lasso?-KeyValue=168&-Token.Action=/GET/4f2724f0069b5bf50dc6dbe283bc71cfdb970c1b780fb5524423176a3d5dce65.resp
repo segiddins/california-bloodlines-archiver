@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3001
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>A WOMAN RIDES THE BEAST (CD only)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Paul Westphal</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Teresa and the Lost Songs (cass - Crow, 1, 1992; CD - Homecoming, HCCD00870, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>And a woman rides the beast<br />In the seven hills of the fallen priests<br />And a woman rides the beast<br /><br />She may promise that you won&#39;t burn<br />For gold and silver in return<br />And perhaps for a larger fee<br />She will set your fathers free<br /><br />The one who rides in glass and wheels<br />And draws the line where he reveals<br />That true that only God imparts<br />But can he speak to the hungry hearts<br />About the martyrs, about the Jews<br />About the ancient holy news?<br /><br />And a woman rides the beast<br />In the seven hills of the fallen priests<br />And a woman rides the beast<br />In the seven hills of the fallen priests<br />And a woman rides the beast<br /><br />When Satan offered Jesus the Kingdom of the Earth<br />But he knew salvation&#39;s worth<br />I&#39;m glad he harbored wearing jewels and gold<br />Along the road where fools will go<br />The Prince of Peace said cast no stones<br />And those who seek are not alone<br />In politics it is no part<br />Of the Kingdom of the Lion Heart<br /><br />And a woman rides the beast<br />In the seven hills of the fallen priests<br />And a woman rides the beast<br />In the seven hills of the fallen priests<br />And a woman rides the beast<br /><br />And a woman rides the beast<br />And a woman rides the beast<br />In the seven hills of the fallen priests
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

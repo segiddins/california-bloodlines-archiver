@@ -1,0 +1,69 @@
+Chords used 
+  
+G5 
+EX-------------- 
+B------------3-- 
+G--------------- 
+D--------------- 
+A-------2------- 
+E------------3-- 
+  
+D7 no3 
+Ex-------------- 
+B------------3-- 
+G------2-------- 
+D--------------- 
+A------------3-- 
+Ex-------------- 
+  
+Bmin +5 
+Ex-------------- 
+B-------------3- 
+G--------------- 
+D--------------- 
+A------2-------- 
+Ex-------------- 
+  
+C9 short 
+Ex--------------- 
+B-------------3-- 
+G---------------- 
+D--------2------- 
+A-------------3-- 
+Ex--------------- 
+  
+  
+  
+(G)     (D)    (C)   (G)   (C)(D)(G) 
+(G5)   (D)    (C)   (G)   (C)(D)(G) 
+Oh, pretty mama, won't you (D)rock me in the morning 
+´Cause I'm (C)under heavy (G)fire from the (C)guns a(D)long the (G)way? 
+Oh, pretty mama, won't you (D)take it as a warning 
+´Cause I'm (C)under heavy (G)fire from the (C)guns a(D)long the (G)way? 
+  
+(G5)   (D)  (C)  (G)   (C)(D)(G) 
+(G5)   (D)  (C)  (G)   (C)(D)(G) 
+Oh, pretty mama, won't you (D)rock me on the wire, 
+´Cause I'm (C)under heavy (G)fire from the (C)guns a(D)long the (G)way? 
+And (G5)oh, pretty mama, don't you (D)see it's getting higher 
+And I'm (C)under heavy (G)fire from the (C)guns a(D)long the (G)way? 
+  
+And (D)oh, don't they (C)make a wicked (G)sound? 
+(A)Rock me pretty mama till it (D)all comes down. 
+And (C9)oh,(Bmin +5) I'm spread-(D)eagled on the (Em)ground, 
+(A)Rock me, pretty mama, till the wind turns (D)´round. (D7 no 3) (B min +5) (D) 
+(G5)   (D)  (C)  (G)   (C) (D) (G) 
+(G5)   (D)  (C)  (G)   (C) (D) (G) 
+  
+And (D)oh, don't they (C)make a wicked (G)sound? 
+(A)Rock me, pretty mama, till it (D)all comes down. 
+And (C9)oh,(Bm+5) I'm spread-(D)eagled on the (Em)ground, 
+(A)Rock me, pretty mama, till the wind turns (D)´round. (D7 no 3) (Bmin +5) (D) 
+  
+And (G5)oh, pretty mama, won't you (D)rock me in the morning (C) (G) 
+From the (C)guns a(D)long the (G)way? 
+And (G5)oh, pretty mama, won't you (D)take it as a warning (C) (G) 
+From the (C)guns a(D)long the (G)way? 
+  
+I'm under heavy (D)fire from the (C)guns a(D)long the (G)way, 
+I'm (G5)under heavy (D)fire from the (C)guns a(D)long the (G)way.

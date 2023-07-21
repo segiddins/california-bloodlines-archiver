@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3250
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:12 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RENEGADE RISING</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Buster (Neon Dreams, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>To be a renegade rising<br />You sing to the moon<br />You open your eyes and<br />You hear a renegade tune<br />Like the dogs in the morning<br />They bark at the light<br />Be a renegade rising<br />In a renegade night<br /><br />Cars on the turnpike<br />Headed for home<br />Turn off if you like<br />You&#39;re on your own<br />When nobody sees you<br />Nobody cares<br />They&#39;d only be you<br />If they only dared<br /><br />To be a renegade rising<br />You sing to the moon<br />You open your eyes and<br />You hear a renegade tune<br />Like the dogs in the morning<br />They bark at the light<br />Be a renegade rising<br />In a renegade night<br />Be a renegade rising<br />In a renegade night<br /><br />Working so hard at<br />The company store<br />Put on your hard hat<br />And you&#39;re sweeping the floor<br />Out on the blacktop<br />You&#39;re as free as the wind<br />No reason to stop<br />You&#39;ld only win<br /><br />You&#39;ld be a renegade rising<br />You sing to the moon<br />You open your eyes and<br />You hear a renegade tune<br />Like the dogs in the morning<br />They bark at the light<br />Be a renegade rising<br />In a renegade night<br />Be a renegade rising<br />In a renegade night<br /><br />Oh, the brothers will try<br />Oh, some others will die<br />Oh, &quot;If only&quot; applies<br />Oh, how lonely the skies<br /><br />If you&#39;re a renegade rising<br />And you sing to the moon<br />You open your eyes and<br />You hear a renegade tune<br />Like the dogs in the morning<br />They bark at the light<br />Be a renegade rising<br />In a renegade night<br />Be a renegade rising<br />In a renegade night<br />Be a renegade rising<br />In a renegade night
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

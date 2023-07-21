@@ -1,0 +1,133 @@
+Dsus2/C
+E----------------
+B-------3--------
+G----2-----------
+D----------------
+A-------3--------
+E--xx------------
+
+Dsus2/C#
+E----------------
+B-------3--------
+G----2-----------
+D----------------
+A---------4------
+E--xx------------
+
+
+(D) (Dsus2/C) (Em7/B) (Em7/A) (D) (Dsus2/C) (Em7/B)
+If you were (Em7/A)wine, I would (D)drink you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)bread, I would (D)eat you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)rain, I would (Cadd9)bathe in (Em7/B)you. (Em7/A)
+(A7short)  (hold)
+If you were air, I would (D)breathe you, (Dsus2/C#) (Em7/B)
+If you were (Em7/A)air, I would (D)breathe you. (Dsus2/C#) (Em7/B)
+
+If you were (Em7/A)clay, I would (D)mold you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)silk, I would (D)fold you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)cold, I would (Cadd9)hold you.(Em7/B) (Em7/A) (A7short)
+(hold)
+If you had asked, I'd have (D)told you, (Dsus2/C#) (Em7/B)
+If you had (A7 short)asked, I'd have (D)told you. (Dsus2/C#) (Em7)
+
+For (A7 short)you are all I (G)am,(A)(Bm)
+Every(A)where I (G)stand.(A)(Bm)
+(D)You are all I (C9)am,  (Em7/B) (Em7/A)  (hold)
+Redemption for the (D)man.  (Dsus2/C) (Em7/B) (Em7/A)
+(D)  (Dsus2/C) (Em7/B)
+
+Were I an (Em7/A)actor, I'd (D)be you, (Dsus2/C) (Em7/B)
+Were you a (Em7/A)cat, I would (D)tree you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)two, I would (C9)three you. (Em7/B) (Em7/A) (A7short)
+(hold)
+Were you a bird, I would (D)free you, (Dsus2/C#) (Em7/B)
+Were you a (A7 short)bird, I would (D)free you.  (Dsus2/C#) (Em7/B)
+
+Were you a (Em7/A)child, I'd (D)bear you, (Dsus2/C) (Em7/B)
+Were you a (Em7/A)shirt, I would (D)wear you, (Dsus2/C) (Em7/B)
+If you were (Em7/A)paper, I'd (C9)tear you.  (Em7/B) (Em7/A) (A7short)
+(hold)
+Come closer, I (D)dare you,   (Dsus2/C#) (Em7/B)
+Come (A7 short)closer, I (D)dare you.  (Dsus2/C#) (Em7/B)
+
+For (A7 short)you are all I (G)am, (A)(Bm)
+Every(A)where I (G)stand.(A)(Bm)
+(D)You are all I (C9)am,  (Em7) (Em7/A)  (hold)
+Redemption for the (D)man.(Dsus2/C) (Em7/B)
+Re(Em7/A)demption for the (D)man.(Dsus2/C) (Em7/B) (Em7/A)
+(D) (Dsus2/C) (Em7/B)
+
+If you were (Em7/A)wine, I would drink you, (D) (Dsus2/C) (Em7/B)
+If you were (Em7/A)bread, I would eat you, (D) (Dsus2/C) (Em7/B)
+If you were (Em7/A)rain, I would (C9)bathe in you. (Em7/B) (Em7/A) (A7short)
+(hold)
+If you were air, I would (D)breathe you, (Dsus2/C#) (Em7)
+If you were (Em7/A)air, I would (D)breathe you. (Dsus2/C#) (Em7/B)
+If you were (Em7/A)air, I would (D)breathe you. (Dsus2/C#) (Em7/B)
+If you were (Em7/A)air, I would (D)breathe you. (Dsus2/C#) (Em7/B)
+
+Re(Em7/A)demption for the (D)man. (Dsus2/C#) (Em7/B)
+Re(Em7/A)demption for the (D)man. (Dsus2/C#) (Em7/B)
+Re(Em7/A)demption for the (D)man. (Dsus2/C#) (Em7/B)
+(Em7/A) (D) (Dsus2/C#) (Em7/B)
+(Em7/A)  (D)
+
+
+
+Here it is in C, capo 2nd fret ˆ if you play it as suggested above,
+it´s pretty close, too.
+
+Redemption for the Man     John Stewart
+
+Capo 2nd fret
+
+(C) (C/Bb) (C/A) (C/G) (C) (C/Bb) (C/A)
+If you were (C/G)wine, I would (C)drink you, (C/Bb) (C/A)
+If you were (C/G)bread, I would (C)eat you, (C/Bb) (C/A)
+If you were (C/G)rain, I would (F)bathe in (Dm7/A)you. (Dm7/G) (G)  (hold)
+If you were air, I would (C)breathe you, (C/B) (C/A)
+If you were (C/G)air, I would (C)breathe you. (C/B) (C/A)
+
+If you were (C/G)clay, I would (C)mold you, (C/Bb) (C/A)
+If you were (C/G)silk, I would (C)fold you, (C/Bb) (C/A)
+If you were (C/G)cold, I would (F)hold you. (Dm7/A) (Dm7/G) (G)  (hold)
+If you had asked, I'd have (C)told you, (C/B) (C/A)
+If you had (C/G)asked, I'd have (C)told you. (C/B) (C/A)
+
+For (G7)you are all I (F)am,(G)(Am)
+Every(G)where I (F)stand.(G)(Am)
+(C)You are all I (F)am, (Dm7/A) (Dm7/G) (hold)
+Redemption for the (C)man. (C/Bb) (C/A) (C/G)
+(C) (C/Bb) (C/A) 
+
+Were I an (C/G)actor, I'd (C)be you, (C/Bb) (C/A)
+Were you a (C/G)cat, I would (C)tree you, (C/Bb) (C/A)
+If you were (C/G)two, I would (F)three you. (Dm7/A) (Dm7/G) (G)  (hold)
+Were you a bird, I would (C)free you, (C/B) (C/A)
+Were you a (C/G)bird, I would (C)free you. (C/B) (C/A)
+
+Were you a (C/G)child, I'd (C)bear you, (C/Bb) (C/A)
+Were you a (C/G)shirt, I would (C)wear you, (C/Bb) (C/A)
+If you were (C/G)paper, I'd (F)tear you. (Dm7/A) (Dm7/G) (G)  (hold)
+Come closer, I (C)dare you, (C/B) (C/A)
+Come (C/G)closer, I (C)dare you. (C/B) (C/A)
+
+For (G7)you are all I (F)am,(G)(Am)
+Every(G)where I (F)stand.(G)(Am)
+(C)You are all I (F)am, (Dm7/A) (Dm7/G) (hold)
+Redemption for the (C)man. (C/Bb) (C/A)
+Re(C/G)demption for the (C)man. (C/Bb) (C/A) (C/G)
+(C) (C/Bb) (C/A) 
+
+If you were (C/G)wine, I would drink you, (C) (C/Bb) (C/A)
+If you were (C/G)bread, I would eat you, (C) (C/Bb) (C/A)
+If you were (C/G)rain, I would (F)bathe in you. (Dm7/A) (Dm7/G) (G)  (hold)
+If you were air, I would (C)breathe you, (C/B) (C/A) 
+If you were (C/G)air, I would (C)breathe you. (C/B) (C/A)
+If you were (C/G)air, I would (C)breathe you, (C/B) (C/A) 
+If you were (C/G)air, I would (C)breathe you. (C/B) (C/A) 
+
+Re(C/G)demption for the (C)man, (C/B) (C/A)
+Re(C/G)demption for the (C)man, (C/B) (C/A)
+Re(C/G)demption for the (C)man, (C/B) (C/A) (C/G)
+(C) (C/B) (C/A) (C/G)  (C)

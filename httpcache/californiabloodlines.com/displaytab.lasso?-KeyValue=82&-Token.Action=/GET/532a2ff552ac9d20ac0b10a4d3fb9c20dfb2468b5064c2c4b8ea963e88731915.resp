@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3147
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>FIRE IN THE WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am) (Em) (Am) (Em)<br /><br />(Am)Found her out on a (Em)cane-break road,<br />(Am)Blankets she had (Em)rolled.<br />(Am)She was all of (Em)five foot-five,<br />(Am)Sixteen years of (Em)old.<br /><br />Oh, the (C)rain can sure blow (F)thunder<br />When you (G)steal the devil&#39;s (Em)kin.<br />She said, (Am)&quot;Lay me by cool (Em)water,<br />There&#39;s (F)fire in the (Fj7)wind.&quot; (Am) (Em) (Am) (Em)<br /><br />(Am)Told her she could (Em)stay with me,<br />(Am)Wash and mend my (Em)clothes.<br />(Am)I would feed and (Em)keep her here<br />Un(Am)til she chose to (Em)go.<br /><br />Oh, the (C)rain can sure blow (F)thunder<br />When you (G)steal the devil&#39;s (Em)kin.<br />She said, (Am)&quot;Lay me by cool (Em)water,<br />There&#39;s (F)fire in the (Fj7)wind.&quot; (Am) (Em) (Am) (Em) (Am) (Em)<br /><br />(Am)Travellers seldom (Em)came our way,<br />We (Am)lived across the (Em)plain.<br />I (Am)called the girl Su(Em)sanna,<br />For I (Am)never knew her (Em)name.<br /><br />Oh, the (C)rain can sure blow (F)thunder<br />When you (G)steal the devil&#39;s (Em)kin.<br />She said, (Am)&quot;Lay me by cool (Em)water,<br />There&#39;s (F)fire in the (Fj7)wind.&quot; <br />Oh, (Am)lay me by cool (Em)water,<br />There&#39;s (F)fire in the (Fj7)wind.&quot; (Am) (Em) (Am) (Em) (Am) (Em)<br /><br />Her (Am)dress was long, too (Em)small for her,<br />And (Am)tight as midnight (Em)light.<br />She&#39;d (Am)lay her head u(Em)pon my chest<br />And (Am)hold me through the (Em)night.<br /><br />Oh, the (C)rain can sure blow (F)thunder<br />When you (G)steal the devil&#39;s (Em)kin.<br />So I (Am)laid her by cool (Em)water,<br />She was (F)fire in the (Fj7)wind.<br />Oh, I (Am)laid her by cool (Em)water,<br />She was (F)fire in the (Fj7)wind.<br />Oh, I (Am)laid her by cool (Em)water,<br />She was (F)fire in the (Fj7)wind. (Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em) (Am) (Em) (Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

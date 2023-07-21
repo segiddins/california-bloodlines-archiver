@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3166
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>GREAT WHITE CATHEDRALS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>E4/C3 <br />E----x----- <br />B---------- <br />G---2------ <br />D---2------ <br />A--------4- <br />E----x----- <br />  <br />Capo 3rd fret <br /> <br />(C/E)(C/D)(C)(C/D)(G/B)(G)(bass run E-G-C-A) (hold) <br />Was it (G)you all a(G/F#)long, good (Em)Jesus,(high notes g-b-a-g) <br />Were (C)you all a(Am)long the right (G/D)way? (G7/F) <br />Oh, you (C)told me you (Am7short)were, <br />But the (G)writing was (Em)blurred. <br />The (E4/C#)people who told me, they (D)twisted your (D7)words, <br />Saying (Em)burn, (C/E)child, (D)burn,(bass run, middle strings D-F#-G-A-G-F#) <br />(C/E)When in your (D)name will they (G)learn (G7/F) <br />That you (C/E)can&#39;t buy a (Am)soul <br />With his (Bm)silver and (G)gold? <br />And a (E4/C#)sway-backed old jackass was (D)all that you rode, <br />As the (Em)bells (C/E)still (D)peal(bass run, middle strings D-F#-G-A-G-F#) <br />In the (C/E)great white ca(C/D, hammer on E)thedrals <br />Of (C/D, hammer on E)people for(C/D, hammer on E)getting (D)to (G)feel. <br />(C/E)(C/D)(C)(C/D)(bass run B-G-A) (hold) <br /> <br />Was it (G)you all a(G/F#)long, green (Em)meadow, (add A-note on G-string, bend) <br />Were (C)you all a(Am)long my true (G/D)home? (G7/F) <br />Your (C)grass sure was (Am7short)cool, <br />With your (G)high mountain (Em)pools <br />But (E4/C#)out on the highway, I be(D)came like the (D7)fools <br />Saying (Em)burn, (C/E)child, (D)burn,(bass run, middle strings D-F#-G-A-G-F#-E) <br />(C/E)When in the (D)world will I (G)learn (G7/F)<br />That you (C/E)must stay a(Am)live? <br />In the (Bm)cities you (G)die. <br />And (E4/C#)old mother nature just (D)fights to survive, <br />As the (Em)bells (C/E)still (D)peal(bass run, middle strings D-F#-G-A-G-F#-E) <br />In the (C/E)great white ca(C/D, hammer on E)thedrals <br />Of (C/D, hammer on E)people for(C/D, hammer on E)getting (D)to (G)feel. <br />(highlight bass notes G-B-D-middle E-D-C-D) 
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3054
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MIDNIGHT WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bombs Away Dream Babies (RSO, RSO SUPER RSS6, 1979)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)<br />Airdream Believer (Shanachie, 8075, 1995)<br />The Best of John Stewart (Polydor 527 369-2, 1995)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>C&#39;mon down, Miranda, your window&#39;s open wide<br />Take a chance on a midnight dance, so I can see it in your eyes<br />C&#39;mon down, Miranda, no need to fix your hair<br />Let&#39;s shake the town with the windows down<br />And fly in the midnight air<br />Fly in the midnight air<br /><br />There are dreams that fly in the midnight wind<br />Souls that cry in the midnight wind<br />And lovers who try in the midnight wind<br />You and I, in the midnight wind<br /><br />C&#39;mon down Miranda, you know your time has come<br />You beauty queens come on so clean, but you&#39;re missing all the fun<br />Yeah, you&#39;re missing all the fun<br /><br />There are dreams that fly in the midnight wind<br />Souls that cry in the midnight wind<br />And lovers who try in the midnight wind<br />You and I, in the midnight wind<br /><br />There are dreams that fly in the midnight wind<br />Souls that cry in the midnight wind<br />And lovers who try in the midnight wind<br />You and I, in the midnight wind<br /><br />C&#39;mon down<br />C&#39;mon down<br />C&#39;mon down<br />C&#39;mon down<br /><br />There are dreams that fly in the midnight wind<br />Souls that cry in the midnight wind<br />And lovers who try in the midnight wind<br />You and I, in the midnight wind
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

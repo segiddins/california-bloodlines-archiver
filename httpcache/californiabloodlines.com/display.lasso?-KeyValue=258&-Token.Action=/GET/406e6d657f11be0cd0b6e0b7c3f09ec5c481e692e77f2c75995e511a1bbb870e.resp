@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3666
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STRANGE ALLIANCE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Neon Beach (Homecoming, 700, 1990)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>If you&#39;re with me on this and it all came from God<br />Right down from the lightening to the lightening rod<br />I said it all came from God, the crooked and the level<br />Black and white, Christ and the Devil<br /><br />Well they say He decided to make it a game<br />And He gave them all faces, He gave them all names<br />He said &quot;We going to do it, let&#39;s do it nice&quot;<br />And he appointed the captains, the Devil and Christ<br /><br />Like heavyweight champs after the fight<br />Does Christ hang out with the Devil tonight? Yeah, yeah<br /><br />Well Christ said to the Devil &quot;You got the first hit<br />You gave the apple to Eve but it was Adam who bit&quot;<br />And the Devil said to Christ &quot;Yeah I learned how to fake it<br />You be surprised what they&#39;ll take from a snake yeah&quot;<br /><br />Christ said to the Devil &quot;Are you pulling no rug?<br />You never said that you&#39;d come up with drugs&quot;<br />&quot;Heroine was cool&quot; he said &quot;Cocaine was fact<br />I did some refining and I&#39;m calling it crack&quot;<br /><br />&quot;It all works for me&quot; the Devil just smiled<br />Picking his teeth with the bones of a child<br /><br />Like heavyweight champs after the fight<br />Does Christ hang out with the Devil tonight? <br />Does Christ hang out with the Devil tonight? Yeah, yeah<br /><br />The Devil said to Christ &quot;Let&#39;s just see how it ends<br />To tell you the truth, I don&#39;t have any friends<br />&#39;Cause I&#39;m in it for the money, in it for the fame<br />They don&#39;t give a damn who flies the flame&quot;<br /><br />The Devil said to Christ &quot;The best part of the game<br />Are all of the people that I kill in your name&quot;<br /><br />Like heavyweight champs after the fight<br />Does Christ hang out with the Devil tonight? <br />Does Christ hang out with the Devil tonight? Yeah, yeah<br /><br />Like heavyweight champs after the fight<br />Does Christ hang out with the Devil tonight? <br /><br />Like heavyweight champs after the fight<br />Does Christ hang out with the Devil tonight?  Yeah, yeah
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

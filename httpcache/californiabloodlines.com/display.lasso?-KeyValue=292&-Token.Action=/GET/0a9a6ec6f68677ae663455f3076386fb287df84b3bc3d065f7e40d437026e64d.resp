@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2768
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>UNCHAINED BEAST</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes &#39;86 (Homecoming, 450, 1986)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>When the third world rises from the flames<br />Without faces and without names<br />And the battle cry is take the planes<br />When the third world rises from the flames<br /><br />When the third world rises from the grave<br />Saying &quot;We want ours, oh, you all will pay&quot;<br />&#39;Cause every dog will have his day<br />When the third world rises from the grave<br /><br />You can&#39;t find, no, you can only hear<br />One Mosquito in your ear<br />And the holy wars in the Middle East<br />Forever more, the unchained beast<br />The unchained beast<br /><br />And the Shite gunmen take the air<br />For the evening news goes everywhere<br />And if they all go down, why would they care<br />When the Shite gunmen take the air<br /><br />Beirut, Frankfurt, felt the sting<br />For dying children cannot sing<br />The anthems of the burning wings<br />Beirut, Frankfurt, felt the sting<br /><br />You can&#39;t find, you can only hear<br />One Mosquito in your ear<br />And the holy wars in the Middle East<br />Forever more, the unchained beast<br />The unchained beast<br /><br />From the birth place of<br />From the birth place of<br />From the birth place of<br />The Prince of Peace
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

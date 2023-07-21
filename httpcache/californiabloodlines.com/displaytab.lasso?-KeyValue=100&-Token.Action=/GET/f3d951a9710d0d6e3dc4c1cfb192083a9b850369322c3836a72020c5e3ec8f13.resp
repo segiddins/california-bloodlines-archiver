@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3001
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:02 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LONESOME JOHN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Single bass-notes C-D hammer on E-G into (F) (C) (G7) (C) (F) (C) (G7) (C)<br /><br />You got to (Dm)know (G) how to hold a (C)stogie, (Am)<br />Keeping it (Dm)dry (G) through the wind and the (C)rain, (C/B) (Am)<br />Then you move out a(Dm)long (G) to Cali(C)fornia, (Em7/B) (Am7)<br />You and (Dm)me (G) and the seasons (C)changed, (Em7/B) (Am7)<br />You and (Dm)me (G) and the seasons (C)changed.<br /><br />Gonna learn to (Dm)live, (G) not learn to (C)die, (Am)<br />I&#39;m a-gonna(Dm) lean like a (G)willow on the (C)sky. (C/B) (Am)<br />I found a (Dm)girl (G) who yearns to (C)lie (Em7/B) (Am7)<br />With a lonesome (Dm)head (G) on her lonesome (C)thigh, (Em7/B) (Am7)<br />With a lonesome (Dm)head (G) on her lonesome (C)thigh.<br /><br />I&#39;m singing (F)hee (G) ah ha (Am)ha,<br />You don&#39;t need (Dm)words (G)for a lonesome (C)song.<br />(Dm)Hee (G) ah ha (Am)ha,<br />Is there (F)one more going (Em)home for (F)you, (G)lonesome (C)John?<br />Just (F)one more going (C)home for (G7)you, lonesome (C)John?<br />(F) (C) (G7) (C)<br /><br />It&#39;s been so(Dm)long (G) since I&#39;ve seen (C) Angel Rain, (Am)<br />They no (Dm)long(G)er make that (C)kind. (C/B) (Am)<br />All the colour&#39;s (Dm)gone (G) to the green hills, (C)darling, (Em7/B) (Am7)<br />All of my (Dm)life (G) I was colour(C)blind, (C/B) I (Am)know it now, (Am/G)<br />All of my (Dm)life, (G) I&#39;ve been colour(C)blind.<br /><br />I&#39;m singing (F)hee (G) ah ha (Am)ha,<br />You don&#39;t need (Dm)words (G)for a lonesome (C)song.<br />(Dm)Hee (G) ah ha (Am)ha,<br />Is there (F)one more going (Em)home for (F)you, (G)lonesome (C)John?<br />Just (F)one more going (C)home for (G7)you, lonesome (C)John?<br />(F) (C) (G7) (C) (F) (C) (G7) (C) (C9)(C)(Cj7)(C9)(C)(Cj7)(C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

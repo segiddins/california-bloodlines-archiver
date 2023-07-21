@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4351
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RIVERS OF LIGHT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(D) (G) (Em)(A7 short)(D)  (G) (A7 short) (D) (A7 short)<br />Is the (D)weather any (G)better<br />Any (Em)further (A7 short)down the (D)road,<br />Jimmy (G)Wheeler would have (A7 short)been here, (G)but he (D)died. (A7 short)<br />And I (D)gave my only (G)sweater<br />To a (Em)girl that I (A7 short)didn&#39;t (D)know,<br />&#180;Cause I (G)showed her Jimmy&#39;s (A7 short)letter and she (D)cried. (D7)<br /><br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary so (G)she can (D)see? (A7 short)<br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary (hold) <br />So she can (D[play only the two &#39;top notes&#39;])see? (Em) (A7 short)<br /><br />There&#39;s a (D)face behind the (G)blind,<br />Don&#39;t you (Em)pay it (A7 short)any (D)mind,<br />&#180;Cause (G)they don&#39;t take to (A7 short)strangers (G)passing (D)by. (A7 short)<br />Someone (D)robbed the dry goods (G)store<br />In (Em)&#39;39 be(A7 short)fore the (D)war,<br />And (G)they don&#39;t think it&#39;s (A7 short)safe out after (D)five. (D7)<br /><br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary so (G)she can (D)see? (A7 short)<br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary (hold)<br />So she can (D[play only the two &#39;top notes&#39;])see? (Em) (A7 short) (hold)<br /><br />Is the (D)weather any (G)better<br />Any (Em)further (A7 short)down the (D)road,<br />Jimmy (G)Wheeler would have (A7 short)been here, (G)but he (D)died. (A7 short)<br />And I (D)gave my only (G)sweater<br />To a (Em)girl that I (A7 short)didn&#39;t (D)know,<br />&#180;Cause I (G)showed her Jimmy&#39;s (A7 short)letter and she (D)cried. (D7)<br /><br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary so (G)she can (D)see? (A7 short)<br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary&#8230;<br /><br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary so (G)she can (D)see? (A7 short)<br />(G) Rivers of (A7 short)light<br />Down the (G)road (A7 short)in the (D)night,<br />(G)Why don&#39;t you wake up (A7 short)Mary so she can (D/G)see, (Em) <br />So she can (D/G)see, (Em) so she can (D/G)see. (Em) (D)<br /><br /><br />Sounds best in drop D tuning, accent the top notes of chords.<br /><br />Some chord shapes for drop D:<br /><br />G for drop D tuning<br />E------3-----------<br />B------------------<br />G------------------<br />D------------------<br />A------------------<br />D----------5-------<br /><br />Em for drop D<br />E------------------<br />B------------------<br />G------------------<br />D------------------<br />A----2-------------<br />D----2-------------
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

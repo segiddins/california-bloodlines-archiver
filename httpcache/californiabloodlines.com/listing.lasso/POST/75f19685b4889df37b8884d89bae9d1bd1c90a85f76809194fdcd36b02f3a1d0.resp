@@ -1,0 +1,107 @@
+HTTP/1.0 200 OK
+Content-Length: 6022
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 17:38:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+
+	<head>
+		<title>John Stewart Lyrics Search Results</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<center>
+			<table cellspacing="0" cellpadding="1" width=550>
+				<tr>
+					<td align=left valign=middle><b><font size="+2"><font color="purple">Search Results</font></font></b></td>
+					<td align=right><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></font></b></td>
+				</tr>
+			</table>
+			<img src="images/dkpuline550.gif" alt="" width="550" height="25">
+			<br>
+			<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+	
+	
+	
+	
+	
+	
+	
+	
+ </td>
+		</tr>
+		<tr>
+			<td colspan="2"> 	
+	
+ </td>
+		</tr>
+		<table border="0" cellspacing="4" cellpadding="2" width=550>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple">Song Details,Tabs and Printable Lyrics</font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th></th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=60&-Token.Action=">CALIFORNIA BLOODLINES<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=60&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=60&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=132&-Token.Action=">RAZORBACK WOMAN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=132&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=132&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=133&-Token.Action=">SHE BELIEVES IN ME<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=133&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=133&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=134&-Token.Action=">OMAHA RAINBOW<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=134&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=134&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=135&-Token.Action=">THE PIRATES OF STONE COUNTY ROAD<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=135&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=135&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=136&-Token.Action=">SHACKLES AND CHAINS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=136&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=136&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=137&-Token.Action=">MOTHER COUNTRY<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=137&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=137&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=138&-Token.Action=">SOME LONESOME PICKER<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=138&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=138&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=139&-Token.Action=">YOU CAN&#8217;T LOOK BACK<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=139&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=139&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=140&-Token.Action=">MISSOURI BIRDS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=140&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=140&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=141&-Token.Action=">JULY, YOU&#8217;RE A WOMAN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=141&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=141&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=142&-Token.Action=">NEVER GOING BACK<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=142&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=142&-Token.Action=">Printable Lyrics<br><br></a>
+		 </td>
+		</tr></table>
+		<tr>
+			<td colspan="2"> 
+	  Showing 12 records out of 12 found (1 to 12)   
+ </td>
+		</tr>
+	</table>
+		<p><img src="images/dkpuline550.gif" alt="" width="550" height="25"><br>
+				<a href="search.lasso"><img src="images/Seachagain.gif" alt="" width="148" height="35" border="0"></a></p>
+		</center>
+	</body>
+
+</html>

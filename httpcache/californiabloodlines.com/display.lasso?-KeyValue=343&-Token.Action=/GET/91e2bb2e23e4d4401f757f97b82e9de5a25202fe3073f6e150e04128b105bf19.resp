@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3009
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:44 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SPARKLE ON THE MONKEY TRAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Johnny Moonlight (Neon Dreams, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh life just isn&#8217;t what it seems<br />It seldom lines up with your dreams<br />It&#8217;s something like a cool machine<br />It&#8217;s always hard to keep it clean<br />And there&#8217;s some things you can&#8217;t explain<br />Like Sparkle on the Monkey train<br /><br />And it&#8217;s like the old man never learns<br />That he&#8217;s already had his turn<br />And like the fire always burns<br />And it&#8217;s like the old man never learns<br />And there&#8217;s some things you can&#8217;t explain<br />Like Sparkle on the Monkey train<br /><br />Lucky Johnny lost his mind<br />And he lost his way and he lost his time<br />Lost true north and the silver lining<br />When Lucky Johnny lost his mind<br />And there&#8217;s some things you can&#8217;t explain<br />Like Sparkle on the Monkey train<br /><br />And no one ever says the words<br />About the thinning of the herd<br />To ensure survival of the breed<br />Push the old one&#8217;s out with lines to feed<br />And nothing will remain the same<br />In the Sparkles on the Monkey train<br /><br />Life just isn&#8217;t what it seems<br />What seldom lines up with our dreams<br />Just like a cool machine<br />It&#8217;s always hard to keep it clean<br />And nothing will remain the same<br />Sparkle on the Monkey train<br />Some things just can&#8217;t be the same<br />Sparkle on the monkey train<br />Some things are as right as rain<br />Sparkle on the monkey train
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

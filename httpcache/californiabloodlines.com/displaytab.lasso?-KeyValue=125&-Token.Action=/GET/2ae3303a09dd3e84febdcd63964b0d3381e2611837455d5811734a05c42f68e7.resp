@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2433
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:50 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LIVING ON EASY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>Traditional, arranged and adapted by John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold)<br />I&#39;m living on (G)easy<br />(C) With a bottle of (G)whiskey,<br />Ain&#39;t got no (A)money<br />(D7) To see my (G)honey.(A) (D7) (G) (D7) (G) (hold)<br /><br />I&#39;m a-living on (G)easy<br />(C) With a bottle of (G)whiskey,<br />Ain&#39;t got no (A)money<br />(D7) To see my (G)honey.(A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold)<br /><br />I go see (G)Maggie,<br />(C) She is so (G)porky,<br />She got the (A)personality<br />(D7) To soothe my (G)geniality.(A) (D7) (G) (D7) (G) (hold)<br /><br />I go see (G)Maggie,<br />(C) She is so (G)porky,<br />She got the (A)personality<br />(D7) To soothe my (G)geniality.(A) (D7) (G) (D7) (G) [starting here, two verses with &#8216;tags&#8217;]<br />(C)   (G)   (A)  (D7)  (G) (A) (D7) (G) (D7) (G) <br />(C)   (G)   (A)  (D7)  (G) (A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold) <br /><br />Ha ina (G)&#39;ia mai <br />(C) Ana ka pu(G)ana,<br />Lawe ana (A)one pua<br />(D7) Lei paka(G)lana. (A)(D7)(G)(D7)(G) (hold)<br /><br />Ha ina (G)&#39;ia mai <br />(C) Ana ka pu(G)ana, <br />Lawe ana (A)one pua<br />(D7) Lei paka(G)lana.<br />(A) (D7) (G)  (A) (D7) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4242
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Heading for the Hills</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(single  high notes run: c-c-d-e-f-e-d-c-b-g-a-b-c)<br />We&#8217;ll (C)sing another song, then we&#8217;ve (D)got to move along,<br />Far a(Bm)way, my (Em)Sal(A), please (G)try to understand why I&#8217;m (D)leaving you so sad.<br />Like the (Em)wind, we&#8217;re (A)headed for the (D)hills. <br />(single notes run: d-c#-b-a-d-d-e-f#-d-f#-e, last notes already in spoken part)<br /><br />(Spoken while playing the tune to &quot;Yankee Doodle.&quot;)<br />(D) In 1776 (A) (D) men came from (G)all of the thirteen colonies<br />To (A)fight for General (D)Washington,<br />(G) Many times (D) the only things they had in common (G)were the songs they sang,<br />And the (D)cause for (A)which they (D)fought.<br /><br />When brother died at Bunker Hill, my (G)mother said to (D)me,<br />(G)&#8221;Take your gun and (D)join the men who (E)fight for liber(A)ty,<br />(D)Here I sit awaitin&#8217; for a(G)nother British (D)raid.<br />I&#8217;ll (G)drink my barley (D)whiskey and pre(A)tend I&#8217;m not a(D)fraid.&#8221;<br /><br />We&#8217;ll (C)sing another song, then we&#8217;ve (D)got to move along ,<br />Far a(Bm)way, my (Em)Sal(A), please (G)try to understand why I&#8217;m (D)leaving you so sad,<br />Like the (Em)wind, we&#8217;re (A)headed for the (D)hills. (single notes run: d-c#-b-a)<br /><br />No one ever told me (G)where to call my (D)home,<br />When (G)I was just a (D)little lad (E)I began to (A)roam.<br />(D)Then I heard the musket fire (G)ringin&#8217; loud and (D)clear,<br />Saw the (G)redcoats up near (D)Tarrytown, well, I (A)had to volun(D)teer.<br /><br /> We&#8217;ll (C)sing another song, then we&#8217;ve (D)got to move along,<br />Far a(Bm)way my (Em)Sal(A), please (G)try to understand why I&#8217;m (D)leaving you so sad,<br />Like the (Em)wind, we&#8217;re (A)headed for the (D)hills. (single notes run: d-c#-b-a)<br /><br />Once I had a little gal, we (G)lived outside of (D)town,<br />(G)Only had a (D)one room shack and (E)it was fallin&#8217; (A)down.<br />(D)But the land was all our own, it&#8217;s (G)where my son was (D)born,<br />Let&#8217;s (G)hurry up and (D)end this war, it&#8217;s (A)time to plant my (D)corn.<br /><br /> We&#8217;ll (C)sing another song, then we&#8217;ve (D)got to move along,<br />Far a(Bm)way, my (Em)Sal (A), please (G)try to understand why I&#8217;m (D)leaving you so sad,<br />Like the (Em)wind, we&#8217;re (A)headed for the (D)hills. (single notes run: d-c#-b-a)<br /><br />When this war is over (G)and our cause is (D)won,<br />All (G)men who seek e(D)quality will (E)learn from what we&#8217;ve (A)done.<br />We&#8217;ll (D)send those redcoats packin&#8217; to (G)drink their bitter (D)tea,<br />And (G)we will welcome (D)all who share our (A)longing to be (D)free.<br /><br />We&#8217;ll (C)sing another song, then we&#8217;ve (D)got to move along,<br />Far a(Bm)way, my (Em)Sal (A), please (G)try to understand why I&#8217;m (D)leaving you so sad,<br />Like the (Em)wind, (hold) we&#8217;re (A)headed for the (D)hills.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

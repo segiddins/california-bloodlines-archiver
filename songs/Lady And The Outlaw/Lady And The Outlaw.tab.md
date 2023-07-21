@@ -1,0 +1,54 @@
+Capo 2nd fret
+
+(Spoken) (hammer on c note in Am chord several times)
+(Am) Well, they say that every woman,
+(C) At one time or another,
+(F) Wishes that the man in her arms (F#)(G)
+Was an outlaw.(Am) (hammer on c note in Am chord several times)
+And they say that every outlaw,
+At (C)one time or another,(Am)(F)
+Wishes that the girl in his arms,
+I say wishes that the girl in his arms (F#)(G)
+[Was a man…]
+Was a lady!
+
+(C) With one hand (G)on the (Am)lady (Am/G)
+And (F)one on the (G)contra(C)band, (F)(G)
+(C)One eye (G)down the (Am)river, (Am/G)
+(D)Lookin' for a jealous (G)man…
+
+(Am)Please, let your hair down, (C)honey,
+Oh (F)please, while the moon is (C)bright,
+As the (E)lady and the (Am)outlaw, (Am/G)
+They for(D)get who they are to(G)night.
+
+(Am)Please let your hair down, (C)honey,
+(F)Please while the moon is (C)bright,
+As the (E)lady and the (Am)outlaw, (Am/G)
+They for(F)get who they (G)are to(Am)night.
+(C) (G) (Am) (Am/G) (F) (G) (C) (F)(G)(C) (G) (Am) (Am/G) (D) (G)
+
+(Am)Please, let your hair down, (C)honey,
+(F)Please, while the moon is (C)bright,
+As the (E)lady and the (Am)outlaw,
+They for(F)get who they (G)are to(Am)night.
+
+Aw, with (C)one hand (G)on the (Am)lady, (Am/G)
+Keepin´ (F)one on the (G)contra(C)band, (F)(G)
+(C)One eye (G)down the (Am)river, (Am/G)
+Just a-(D)lookin' for a jealous (G)man…
+
+(Am)Please, let your hair down, (C)honey,
+Ah (F)please, while the moon is (C)bright,
+As the (E)lady and the (Am)outlaw,
+They for(F)get who they (G)are to(Am)night. (F)(G)
+
+(Am)Please, let your hair down, (C)honey,
+(F)Please, while the moon is (C)bright,
+(Am)Please, let your hair down, (C)honey,
+(F)Please, while the moon is (C)bright,
+Oh, (Am)please, let your hair down, (C)honey,
+(F)Please, while the moon is (C)bright,
+(Am)Please, let your hair down, (C)honey,
+(F)Please, while the moon is (C)bright…
+(Am) (C) (F) (C) (Am) (C) (F) (C) (Am) (C) (F) (C)

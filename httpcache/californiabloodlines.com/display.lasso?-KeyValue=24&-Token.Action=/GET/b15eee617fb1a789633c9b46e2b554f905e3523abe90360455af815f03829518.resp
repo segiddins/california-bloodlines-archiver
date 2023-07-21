@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3459
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:38 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JOHNNY FLAMINGO ON THE BLUE DREAM ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)<br />Way Too Much Fun (Neon Dreams 2000, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Got a &#8216;59 Cadillac with the top rolled down<br />On a Springsteen day in a southwest town<br />Looking for an angel that I used to know<br />Johnny Flamingo on the blue dream road.<br /><br />I left Chicago and I drove all night<br />A hunters moon as the highway light<br />I hit Galena at a quarter to three<br />Looking for a girl known only to me<br /><br />Chorus:<br />Oh oh follow me home<br />Johnny Flamingo on the blue dream road<br />Oh oh where did she go<br />Johnny Flamingo<br />On the blue dream road.<br /><br />Coffee down in Tulsa at the rising of the sun.<br />Half a tank of gas and it&#8217;s Johnny on the run.<br />Looking for a motel where the neon flickers low.<br />Johnny Flamingo<br />On the blue dream road.<br /><br />The choice of the future the sins of the past<br />Knowing that time is moving so fast<br />Moving too fast to carry this load<br />For Johnny Flamingo<br />On the blue dream road<br /><br />(Repeat Chorus)<br /><br />Holding up in Kingman the Siesta motel,<br />The sun so hot it was out doing hell.<br />I don&#8217;t have to tell you I was not doing well<br />Holding up in Kingman at the Siesta Motel.<br /><br />Before we got to Barstow<br />There was an itch in my hand<br />Roy&#8217;s Cafe in the Mohave sand<br />There&#8217;s something in the wind<br />I ought to know<br />I&#8217;m Johnny Flamingo <br />On the blue dream road<br /><br />(Repeat Chorus)<br /><br />On the Oatman Road there&#8217;s a golden gate<br />Of eucalyptus trees to the golden state.<br />There&#8217;s an angel touching my hand,<br />Johnny Flamingo in the promised land.<br /><br />So say it enlightened the moment it comes<br />Without any fanfare, without any drums.<br />Before me is a fire without an alarm,<br />But there&#8217;s an angel holding my arm.<br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

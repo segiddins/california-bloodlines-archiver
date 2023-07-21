@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3004
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:44 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DOGS IN THE BED</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>How can I sleep at night with all the things I said?<br />How can I sleep at night when the evidence is read?<br />How can I sleep at night when the world is turning red?<br />Did you hear what I said?<br />There&#39;s dogs in the bed<br /><br />How can I die at night with things still left undone?<br />How can I lie at night with a slip of a tongue?<br />How can I fly at night? I&#39;m a prisoner of the young<br />Did you hear what I said?<br />There&#39;s dogs in the bed<br /><br />All night I toss and turn, impossible to sleep<br />As I watch my life burn, no reason to count sheep<br />Oh I have miles to go and promises to keep<br /><br />How can I dream at night when all the dreams come true?<br />How can I dream at night if I don&#39;t dream of you?<br />How can I scream at night, a rhapsody in blue?<br />Did you hear what I said?<br />There&#39;s dogs in the bed<br /><br />All night I toss and turn, impossible to sleep<br />As I watch my life burn, no reason to count sheep<br />Oh I have miles to go and promises to keep<br /><br />How can I sleep at night with all the things I said?<br />How can I sleep at night when the evidence is read?<br />How can I sleep at night when the world is turning red?<br />Did you hear what I said?<br />There&#39;s dogs in the bed<br /><br />There&#39;s dogs in the bed<br />There&#39;s dogs in the bed<br />There&#39;s dogs in the bed<br />There&#39;s dogs in the bed<br />There&#39;s dogs in the bed
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3125
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LIBERATION DAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em)<br /><br />(Am) Sweet sweet smell of (Em)jasmine, yeah,<br />(Am) Knocked me from my (Em)feet<br />(Am) And cut the still dry (Em)morning, yeah,<br />(Am) Oh, with (Em)promises to keep.<br />(F) And in a (G)ground floor room (C)surrounded<br />(F) By the (G)dreams that got (C)away (Em7)<br />(C) (Em7)Everything was (Am)perfect, (F)yeah,<br />(Am) Oh, (Em)Liberation (Am)day.<br />     (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br /><br />(Am) And I went to call the (Em)future, yeah,<br />(Am) All I got was her (Em)machine.<br />(Am) Had she gone to see (Em)Savannah, yeah?<br />(Am) Oh, the (Em)getaway was clean.<br />(F) (G)Everything looked (C)different,<br />(F) The (G)courage and the (C)clay, (Em7)<br />(C) (Em7)Everything was (Am)perfect, (F)yeah,<br />(Am) Oh, (Em)Liberation (Am)day.<br />     (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br /><br />(F) Liberation day is (Em)coming,<br />(F) Liberation day is (Em)here.<br />(F) Liberation day is (Em)funny,<br />(F) Liberation day is (Em)near.<br />(F)Oh, (Em)Liberation (Am)day.  (Em) <br />(Am) Yeah, Libe(Em)ration Day is coming&#8721;<br />(Am) (Em) (Am) (Em)<br /><br />(Am) What about the (Em)angels?<br />(Am) Where they always (Em)by my side?<br />(Am) Even in No(Em)gales,<br />(Am) And all the times that I (Em)tried to hide?<br />(F) And (G)all across the (C)crazy,<br />(F) Oh, the (G)angels came to (C)play, (Em7)<br />(C) (Em7)Everything was (Am)perfect, (F)yeah,<br />(Am) Oh, (Em)Liberation (Am)day.<br /><br />Oh, (Em)liberation day,<br />(Am) Oh, (Em)liberation day,<br />(Am) Oh, (Em)liberation day,<br />(Am) Oh, (Em)liberation day.<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am) (Em) (Am) (Em)<br />(Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3749
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Sister Mercy</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Am)  (Cj7/G)  (Fj7)  (G)<br />Would you (C)bring me Sister (G)Mercy, yeah,<br />If (F)she is (G)still in (C)town,<br />For it (F)seems I (G)lost di(Em)rections(Am)<br />And I&#180;ve (F)always (C)had them (G)down.<br />And I (C)don&#180;t know where I&#39;m (G)going, yeah,<br />And I (E)don&#39;t know (E7/B)where I&#39;ve (Am)been.<br />(Am7/G)Could you (F)send me (G)Sister (Em)Mercy, (Am)yeah,<br />She&#180;s (F)always (C)been my (G)friend,<br />Always been my (Am)friend. (Cj7/G)  (Fj7)  (G)<br /><br />She would (C)bring me to the (G)river, yeah,<br />Where (F)I could (G)lay my (C)head,<br />And (F)I would (G)close my (Em)eyes(Am)<br />And re(F)member (C)what she (G)said.<br />She said (C)nothing is for(G)ever, yeah,<br />So (E)grab it (E7/B)while you (Am)can,<br />(Am7/G)Find the (F)dreams a(G)long the (Em)river,(Am)<br />As they (F)move a(C)cross the (G)land,<br />Move across the (Am)land. (Cj7/G)  (Fj7)  (G)<br /><br />In the (C)summer in the (G)Badlands, yeah,<br />(F)Where I (G)once ran (C)wild,<br />She would (F)take me (G)to the (Em)river,(Am)<br />As a (F)mother (C)takes a (G)child.<br />For the (C)dreams along the (G)river, yeah,<br />Are the (E)best, I (E7/B)under(Am)stand,<br />(Am7/G)Sister (F)Mercy (G)and the (Em)river, (Am)yeah,<br />They know (F)how to (C)treat a (G)man,<br />How to treat a (Am)man. (Cj7/G)  (Fj7)  (G)<br /><br />And she (C)knows it&#39;s not for(G)ever, yeah,<br />And I&#39;ll (F)soon be (G)on my (C)feet,<br />And (F)I will (G)take her (Em)dancing, (Am)yeah,<br />In the (F)liquid (C)desert (G)heat.<br />And (C)I&#39;ll forget to(G)morrow, yeah,<br />And (E)most of (E7/B)yester(Am)day,<br />(Am7/G)Sister (F)Mercy (G)and the (Em)river,(Am)<br />They know (F)how to (C)get their (G)way.<br />Sister (F)Mercy (G)and the (Am)river,<br />They (F)always (C)get their (G)way,<br />Always get their (Am)way. (Cj7/G)  (Fj7)  (G)<br /><br />Would you (C)bring me Sister (G)Mercy, yeah,<br />If (F)she is (G)still in (C)town,<br />For it (F)seems I (G)lost di(Em)rections, (Am)yeah,<br />And I&#39;ve (F)always (C)had them (G)down.<br />And I (C)don&#39;t know where I&#39;m (G)going, yeah,<br />And I (E)don&#39;t know (E7/B)where I&#39;ve (Am)been,<br />(Am7/G)Could you (F)send me (G)Sister (Em)Mercy, (Am)yeah,<br />She&#180;s (F)always (C)been my (G)friend.<br />Could you (F)send me (G)Sister (Em)Mercy, (Am)yeah,<br />She&#180;s (F)al(C)ways (G)been my (Am)friend. (Cj7/G)  (Fj7)  (G)  (bass notes<br />B-A-G to&#8721;) (Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

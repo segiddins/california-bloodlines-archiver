@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2564
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THOSE WHO ARE WISE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>D (Bass run: DD FD CD &#246; repeated throughout)<br />I used to sit in the (Em)shade   (A7)<br />Of an (Em7)old cedar (D)tree,<br />And I dream of the (Em)days  (A7)<br />What they&#226;re (Em7)holding for (D)me.<br /><br />And (G)all those who (A7)know,<br />Who (D)gaze at the (Bm)sky, <br />It&#226;s for (D)those who are (Em)wise,  (A7)<br />Only (Em7)those who are (D)wise.<br />It&#226;s for those who are (Em)wise,  (A7)<br />Only (Em7)hose who are (D)wise.<br /><br />And the west winds would (Em)blow,  (A7)<br />They&#226;d be (Em7)calling to (D)me.<br />They&#226;d say look you out (Em)yonder,  (A7)<br />Just as (Em7)far as you can (D)see.<br /><br />And (G)all those who (A7)know,<br />Who (D)gaze at the (Bm)sky,<br />It&#226;s for (D)those who are (Em)wise,  (A7)<br />Only (Em7)those who are (D)wise.<br />And it&#226;s for those who are (Em)wise,  (A7)<br />Only (Em7)those who are (D)wise.<br /><br />And the years went their (Em)way,  (A7)<br />As the (Em7)good years will (D)go,<br />And my dreams lingered (Em)on  (A7)<br />In the (Em7) hills of my (D)home.<br /><br />And the (G)young men should (A7)know<br />Who (D)gaze at the (Bm)sky&#183;<br />It is (D)you who are (Em)wise, (A7)<br />Only (Em7)you who are (D)wise.<br />It is you who are (Em)wise, (A7)<br />Only (Em)you who are (D)wise.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

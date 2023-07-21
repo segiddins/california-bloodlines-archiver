@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3111
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:15 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WILLARD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Willard (Capitol, ST540, 1970)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Willard, he&#39;s a loner<br />Living by the railway<br />Living by the tracks beside his home<br />Willard, he&#39;s a loner<br />If you&#39;re going his way<br />Say hello, he ain&#39;t got no one to call his own<br /><br />Soldiers of glass<br />Standing by the trash<br />Willard&#39;s coloured bottles in a line<br />Soldiers of glass<br />It&#39;s funny you should ask<br />But they&#39;re the only friends he has to pass the time<br />But they&#39;re the only friends he has to pass the time<br /><br />And his Mamma knows that he was once a child<br />Mamma, she was the first one to hear his cry<br />And my Mamma knows that I was once a child<br />Could it be we&#39;re all just Willard in disguise?<br />Could it be we&#39;re all just Willard in disguise?<br /><br />I hear they&#39;re tearing down<br />All the buildings in his town<br />The house where Willard Jefferson has stayed<br />But they can&#39;t tear him down<br />No he will always be around<br />&#39;Cause he&#39;s as hard as all that old black, river clay<br /><br />Yet his Mamma knows that he was once a child<br />Mamma, she was the first one to hear his cry<br />And my Mamma knows that I was once a child<br />Could it be we&#39;re all just Willard in disguise?<br />Could it be we&#39;re all just Willard in disguise?<br /><br />Willard, he&#39;s a loner<br />Living by the railway<br />Living by the tracks beside his home<br />Willard, he&#39;s a loner<br />If you&#39;re going his way<br />Say hello, he ain&#39;t got no one to call his own
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

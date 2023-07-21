@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2971
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:42 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>YOU CAN&#39;T GO BACK TO KANSAS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Last Campaign (Homecoming, 300, 1985)<br />The Phoenix Concerts (RCA, APL2-0265, 1974)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>&quot;And across the plains of Witchita, at the farms being sold at auction, they<br />listened to the clear New England voice cut the clear Kansas sky.&quot; <br /><br />Time moves like a river<br />You can either sink or swim<br />And a wise man learns to forgive her<br />For all she&#39;s done to him<br />And no one&#39;s getting younger<br />And a few aren&#39;t getting old<br />It&#39;s all in what you feel<br />And not in what you&#39;re told<br /><br />Oh you can&#39;t go back to Kansas<br />I was there just yesterday<br />Oh you can&#39;t go back to Kansas<br />It just up and blew away<br />Oh, but I will go on loving you<br />It&#39;s easier that way<br />But you can&#39;t go back to Kansas<br />&#39;Cause that was yesterday<br /><br />I see the sun rise and fall<br />I can feel the earth beneath my shoes<br />There&#39;s no need in you believing<br />That you were born and cursed to lose<br />So why not go on dreaming then<br />Yeah, take anyone you choose<br />There&#39;s nothing to be down about<br />&#39;Cause you either win or lose<br /><br />Oh, I can&#39;t go back to Kansas<br />I was there just yesterday<br />Oh, I can&#39;t go back to Kansas<br />It just up and blew away<br />So I will go on loving you<br />It&#39;s easier that way<br />But you can&#39;t go back to Kansas<br />&#39;Cause that was yesterday
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

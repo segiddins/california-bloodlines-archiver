@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2665
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PILOTS IN BLUE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(F, bass run F-F-F-A-C-C-C-A-F-F-F-A-C-C-C...)<br />Here in the sight of a long dark night,<br />Driving and thinking of you,<br />There was something unknown on that long dark road,<br />The spirit of (C/E)being a(Dm)lone.<br />Shooting the (Gm7)moon, on to (C)Mars,<br />In a (F)sky that holds (C/E)nothing but (Dm)stars,<br />Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)<br />Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)<br /><br />How could I know that the light in the road<br />Was just at the end of the trees?<br />Was it the night or the windshield light<br />Or the feeling of (C/E)making be(Dm)lieve?<br />I was shooting the (Gm7)moon, on to (C)Mars,<br />In a (F)sky that holds (C/E)nothing but (Dm)stars,<br />Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)<br />Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)<br /><br />Here in the sight of a long dark night,<br />Driving and thinking of you,<br />There was something unknown on that long dark road,<br />The spirit of (C/E)being a(Dm)lone.<br />Shooting the (Gm7)moon, on to (C)Mars,<br />In a (F)sky that holds (C/E)nothing but (Dm)stars,<br />Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)<br />Pilots in (Gm7)blue, (C) searching for (F)you.<br /><br />Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)<br />Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

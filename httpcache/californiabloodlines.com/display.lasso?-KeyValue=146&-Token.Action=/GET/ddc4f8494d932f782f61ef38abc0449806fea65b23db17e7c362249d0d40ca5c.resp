@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2856
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:22 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>FRIEND OF JESUS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Willard (Capitol, ST540, 1970)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Jesus was a friend of John&#39;s<br />Jesus was a friend of Paul&#39;s<br />He was a friend of Matthew<br />James, John, down the line<br />I do believe I&#39;d have been a friend<br />Of Jesus in his time<br /><br />Jesus walked the streets at night<br />Jesus he didn&#39;t need a light<br />Jesus walked with the harlots<br />And he ran with the hoodlum kind<br />And I do believe I&#39;d have been a friend<br />Of Jesus in his time<br /><br />Jesus hung with the hard line gang<br />Jesus knew the songs they sang<br />He didn&#39;t have no money<br />I hear he didn&#39;t have a dime<br />I do believe I&#39;d have been a friend<br />Of Jesus in his time<br />I do believe I&#39;d have been a friend<br />Of Jesus in his time<br /><br />Good God Almighty, my darling Jesus<br />You are a friend of mine<br />Come on along, we&#39;ll sing another song<br />Of Jesus in his prime<br /><br />They caught him in the yard, the national guard<br />And Jesus, he was crucified<br />Open up the door, he&#39;s seen it all before<br />And Jesus, he is on your side<br /><br />Good God Almighty, my darling Jesus<br />You are a friend of mine<br />You ought to know that He will walk you home <br />Jesus, he&#39;s there by your side<br /><br />Good God Almighty, my darling Jesus<br />You are a friend of mine
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

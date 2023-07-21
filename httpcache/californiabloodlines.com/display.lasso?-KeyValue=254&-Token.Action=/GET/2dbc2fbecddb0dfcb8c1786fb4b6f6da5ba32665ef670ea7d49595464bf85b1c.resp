@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2909
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PATHS ARE MANY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Deep in the Neon (Homecoming, 750, 1991)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s hard to say one size fits all<br />Some are big and some are small<br />Some are short and some are tall<br />It&#39;s hard to say one size fits all<br /><br />You say black and I say white<br />You say wrong and I say right<br />You say day and I say night<br />It could take a lifetime to get it right<br /><br />But truth is one, and paths are many<br />Are you having fun, I&#39;m not having any<br />You can find the sun or you can find a penny<br />Truth is one, and paths are many<br /><br />You&#39;re a Catholic and I&#39;m a Jew<br />I don&#39;t think we have a clue<br />There&#39;s a Hindu chant carved in the pew<br />But any rosary beads will do<br />Any rosary beads will do<br /><br />Some say truth is a long white beard<br />Some say truth is to be feared<br />Some say truth is just too darn weird<br />Some say truth, yeah I see it clear<br /><br />But truth is one, and paths are many<br />Are you having fun, I&#39;m not having any<br />You can find the sun or you can find a penny<br />Truth is one, and paths are many<br />Yeah, paths are many<br /><br />It flows through me and it flows through you<br />No argument, it is too<br />It flows through me and it flows through you<br /><br />Paths are many<br />Oh, truth is one, paths are many<br />Paths are many<br />Truth is one<br />Truth is one<br />Paths are many
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

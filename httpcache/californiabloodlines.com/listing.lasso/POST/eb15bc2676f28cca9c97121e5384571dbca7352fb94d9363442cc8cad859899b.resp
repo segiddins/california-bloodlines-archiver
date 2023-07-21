@@ -1,0 +1,103 @@
+HTTP/1.0 200 OK
+Content-Length: 5522
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 17:38:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+
+	<head>
+		<title>John Stewart Lyrics Search Results</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<center>
+			<table cellspacing="0" cellpadding="1" width=550>
+				<tr>
+					<td align=left valign=middle><b><font size="+2"><font color="purple">Search Results</font></font></b></td>
+					<td align=right><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></font></b></td>
+				</tr>
+			</table>
+			<img src="images/dkpuline550.gif" alt="" width="550" height="25">
+			<br>
+			<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+	
+	
+	
+	
+	
+	
+	
+	
+ </td>
+		</tr>
+		<tr>
+			<td colspan="2"> 	
+	
+ </td>
+		</tr>
+		<table border="0" cellspacing="4" cellpadding="2" width=550>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple">Song Details,Tabs and Printable Lyrics</font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th></th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=1&-Token.Action=">CHILLY WINDS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=1&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=1&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=33&-Token.Action=">DURANGO<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=33&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=33&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=34&-Token.Action=">EASY MONEY<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=34&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=34&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=35&-Token.Action=">ANNA ON A MEMORY<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=35&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=35&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=36&-Token.Action=">ALL TIME WOMAN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=36&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=36&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=37&-Token.Action=">ROAD AWAY<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=37&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=37&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=38&-Token.Action=">ARMSTRONG<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=38&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=38&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=39&-Token.Action=">SPIRIT<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=39&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=39&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=40&-Token.Action=">WIND DIES DOWN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=40&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=40&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=41&-Token.Action=">CANNONS IN THE RAIN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=41&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=41&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=42&-Token.Action=">LADY AND THE OUTLAW<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=42&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=42&-Token.Action=">Printable Lyrics<br><br></a>
+		 </td>
+		</tr></table>
+		<tr>
+			<td colspan="2"> 
+	  Showing 11 records out of 11 found (1 to 11)   
+ </td>
+		</tr>
+	</table>
+		<p><img src="images/dkpuline550.gif" alt="" width="550" height="25"><br>
+				<a href="search.lasso"><img src="images/Seachagain.gif" alt="" width="148" height="35" border="0"></a></p>
+		</center>
+	</body>
+
+</html>

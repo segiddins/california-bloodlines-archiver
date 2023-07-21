@@ -1,0 +1,40 @@
+John plays the song in the key of C, 
+This is in G, so you have to
+either transpose or put a capo on the 7th fret to check.  
+
+(G) Black boy in Chi(Am)cago, (Am7)
+Playing in the (G)street,
+Not enough to (Am)wear, (Am7)
+Not near enough to (G)eat.
+(Am7) But don't you know he (D7)saw it
+(Am7) On a July after(G)noon,
+He saw a man named (Am)Armstrong (Am7)
+Walk upon the (G)moon.
+
+And a young girl in Cal(Am)cutta, (Am7)
+Barely eight years (G)old,
+The flies that swarm the (Am)market place (Am7)
+Will see she don't get (G)old.
+(Am7) But don't you know she (D)heard it
+(Am7) On that July after(G)noon,
+She heard a man named (Am)Armstrong (Am7)
+Had walked upon the (G)moon.
+She heard a man named (Am)Armstrong (Am7)
+Had walked upon the (G)moon.(Gj7)(G6)(G5)(G4)(G)  
+(Am) (D)(D7)(G)
+
+The rivers are getting (Am)dirty, (Am7)
+The wind is getting (G)bad.
+War and hate is (Am)killing off (Am7)
+The only earth we (G)have.
+(Am7) But the world all (D)stopped to watch it
+(Am7) On that July after(G)noon,
+To watch a man named (Am)Armstrong (Am7)
+Walk upon the (G)moon,
+To watch a man named (Am)Armstrong (Am7)
+Walk upon the (G)moon.
+
+Oh I (Am7)wonder if a long (D7)time ago,
+(Am7) Somewhere in the uni(G)verse,
+They watched a man named (Am)Adam (Am7)
+Walk upon the (G)earth.(Gj7)(G6)(G5)(G4)(G) (Am) (D) (G)

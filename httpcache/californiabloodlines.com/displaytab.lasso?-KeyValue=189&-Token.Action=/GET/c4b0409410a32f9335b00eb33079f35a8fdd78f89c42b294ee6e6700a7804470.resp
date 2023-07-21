@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2358
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HOLLY ON MY MIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am) (F) (Em) (F) (Em) (F) (Em)<br />(F) Holly on my (Em)mind,<br />(F) Holly on my (C)mind,<br />(Am) It&#39;s Holly all the (Bm)time.<br />(D7) Holly on my (G)m(C)in(G)d.(D)<br /><br />(F) San Leandro (Em)train,<br />(F) San Leandro (C)train,<br />(Am) Clacking out her (Bm)name,<br />(D7) San Leandro (G)tr(C)a(G)in.(D)<br /><br />(F) Stormy winter (Em)ride,<br />(F) Stormy winter (C)ride,<br />(Am) Holly here in-(Bm)side,<br />(D7) Stormy winter (G)r(C)I(G)de.(D)<br /><br />(F) Holly on my (Em)mind,<br />(F) Holly on my (C)mind,<br />(Am) It&#39;s Holly all the (Bm)time.<br />(D7) Holly on my (G)m(C)in(G)d.(D)<br /><br />(F) Right old rolling (Em)stone,<br />(F) Right old rolling (C)stone,<br />(Am) She&#39;s the only one who (Bm)knows,<br />(D7) Right old rolling (G)st(C)o(G)ne.(D)<br /><br />(F) Holly on my (Em)mind,<br />(F) Holly on my (C)mind,<br />(Am) It&#39;s Holly all the (Bm)time,<br />(D7) Holly on my (G)m(C)in(G)d.(D)<br /><br />(F) Holly on my (Em)mind,<br />(F) Holly on my (Em)mind,<br />(F) Holly on my (Em)mind,<br />(F) Holly on my (Em)mind,<br />(F) Holly on my (Em)mind.<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

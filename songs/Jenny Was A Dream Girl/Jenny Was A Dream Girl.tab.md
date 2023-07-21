@@ -1,0 +1,49 @@
+Playing hint: for that ‘high guitar’/autoharp-like sound 
+(first time on ‘Running with the boys…’ – check it out),
+capo up fourth fret.  Nice. [E becomes C, B – G, A – F, G#m – Em, F#m – Dm.]
+
+Playing hint for these lines:
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.
+CAREFUL HERE! Written out for John and background vocals singing
+‘Li-i-i-i-ine.’ Lindsey sings the first two ‘Dream Girl’s before that part is finished.
+
+
+(E)  (B)  (E)  (B)  (E)  (B)  (E)  (B)
+(E)Jenny, when you find the (B)sun, (E)dream girls (B)do,
+(E)Jenny, when you're on the (B)run, it's (E)dream girl (B)dues,
+(F#m)Running with the boys when the (B)boys said ‘go’,
+It (F#m)had them (B)on the (E)line,
+And they (F#m)danced all night to the (B)song you sang.
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.
+
+(E)Jenny, you're before the (B)fall, (E)dream girls (B)do,
+(E)Jenny, when you hit the (B)wall and your (E)dreams do, (B)too,
+(F#m)Don't look lost in your (B)lover boy's eyes,
+(F#m)You're gonna (B)see it's (E)true
+That (F#m)nothing is free and the (B)heart you break,
+(A) Jenny, like a (G#m)dream come (A)back to (E)yo(B)u(E)u.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.
+
+(F#m) Jenny was a (B)dream girl,
+(F#m) Jenny was a (B)dream girl,
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.
+
+(F#m)Running with the boys when the (B)boys said ‘go’,
+(F#m)Had them (B)on the (E)line,
+And they (F#m)danced all night to the (B)song you sang.
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.
+
+(F#m) Jenny was a (B)dream girl,
+(F#m) Jenny was a (B)dream girl,
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl.
+
+(F#m) Jenny was a (B)dream girl,
+(F#m) Jenny was a (B)dream girl,
+(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.
+(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl,
+(E)Dream girl, (B)dream girl, (E)dream girl.

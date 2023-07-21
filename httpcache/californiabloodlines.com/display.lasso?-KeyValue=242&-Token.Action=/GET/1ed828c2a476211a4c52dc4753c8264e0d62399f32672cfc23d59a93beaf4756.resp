@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2856
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>A GRACE OF RAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes II (Homecoming, 650, 1987)<br />Neon Beach (Homecoming, 700, 1990)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s been a long, long journey down the river through the night<br />It&#39;s been a long, long journey, you were not in sight<br />It&#39;s been a long, long journey, now I want to touch the light<br /><br />Momentary madness that I should let you go<br />Momentary madness to call and tell you so<br />Momentary madness can be a lifetime, don&#39;t you know<br /><br />Still I&#39;m a believer in the mystery train<br />I am a receiver in the mark of Cain<br />I am a believer in a grace of rain<br />I am a believer in a grace of rain<br /><br />Faithless heart&#39;s a sailor, blowing in the sails<br />Believing he is moving as if the wind had failed<br />Faithless heart&#39;s a sailor, blowing in the sails<br /><br />I&#39;m a man without ritual, I&#39;m a man without desire<br />A man without ritual who&#39;s looking all the time<br />Still a man without ritual is always out of line<br /><br />Still I&#39;m a believer in the mystery train<br />I am a receiver in the mark of Cain<br />I am a believer in a grace of rain<br />I am a believer in a grace of rain<br /><br />Still I&#39;m a believer in the grace of rain<br />I am a believer in a grace of rain<br />I am a believer in a grace of rain<br />I am a believer in a grace of rain
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

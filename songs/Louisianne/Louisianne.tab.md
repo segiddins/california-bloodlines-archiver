@@ -1,0 +1,32 @@
+(D) (A) (Bm) (F#m) (G) (D/F#) (Em) (A)
+(D) (A) (Bm) (F#m) (G) (D) (G) (A)
+(D)Day after (A)day, (Bm)what more can I (F#m)say?
+The (G)river Louisi(D)anne seems to (G)know a better (A)way.
+(D)Rollin a(A)long when (Bm)we are dead and (F#m)gone,
+The (G)river keeps a-(D)rolling like a (G)never-ending (A)song.
+
+(D)Roll, Louisi(A)anne, like a (Bm)river on the (F#m)land,
+A (G)river's just a (D)river, never (G)tried to under(A)stand.
+(D)Roll, Louisi(A)anne, like a (Bm)river on the (F#m)land,
+If (G)loving you is (D)all I do, it´s (G)everywhere I (A)am,
+Louisi(D)anne.  (A) (Bm) (F#m) (G) (D) (G) (A)
+
+The (D)rain and the (A)wind, (Bm)standing by a (F#m)friend,
+The (G)world may be a (D)curse, or you will (G)make the world your (A)friend.
+(D)Day after (A)day, (Bm)what more can I (F#m)say?
+The (G)river Louisi(D)anne just seems to (G)know a better (A)way.
+
+(D)Roll Louisi(A)anne, like a (Bm)river on the (F#m)land,
+A (G)river's just a (D)river, never (G)tried to under(A)stand.
+(D)Roll, Louisi(A)anne, like a (Bm)river on the (F#m)land,
+If (G)loving you is (D)all I do, you're (G)everywhere I (A)am,
+Louisi(D)anne.  (A) (Bm) (F#m) (G) (D) (G) (A)
+(D) (A) (Bm) (F#m) (G) (D) (G) (A)
+
+(D)Roll, Louisi(A)anne, like a (Bm)river on the (F#m)land,
+A (G)river's just a (D)river, never (G)tried to under(A)stand.
+(D)Roll, Louisi(A)anne, like a (Bm)river on the (F#m)land.
+If (G)loving you is (D)all I do, it´s (G)everywhere I (A)am, 
+Louisi(D)anne.  (A) (Bm) (F#m) (G) (D) (G) (A)
+(D) (A) (Bm) (F#m) (G) (D) (G) (A)
+(D) (A) (Bm) (F#m) (G) (D) (G) (A) and fade

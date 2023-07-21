@@ -1,0 +1,30 @@
+(F, bass run F-F-F-A-C-C-C-A-F-F-F-A-C-C-C...)
+Here in the sight of a long dark night,
+Driving and thinking of you,
+There was something unknown on that long dark road,
+The spirit of (C/E)being a(Dm)lone.
+Shooting the (Gm7)moon, on to (C)Mars,
+In a (F)sky that holds (C/E)nothing but (Dm)stars,
+Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)
+Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)
+
+How could I know that the light in the road
+Was just at the end of the trees?
+Was it the night or the windshield light
+Or the feeling of (C/E)making be(Dm)lieve?
+I was shooting the (Gm7)moon, on to (C)Mars,
+In a (F)sky that holds (C/E)nothing but (Dm)stars,
+Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)
+Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)
+
+Here in the sight of a long dark night,
+Driving and thinking of you,
+There was something unknown on that long dark road,
+The spirit of (C/E)being a(Dm)lone.
+Shooting the (Gm7)moon, on to (C)Mars,
+In a (F)sky that holds (C/E)nothing but (Dm)stars,
+Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)
+Pilots in (Gm7)blue, (C) searching for (F)you.
+
+Pilots in (Gm7)blue, (C) searching for (Gm7)you, (C)
+Pilots in (Gm7)blue, (C) searching for (F)you.(resume bass run pattern)

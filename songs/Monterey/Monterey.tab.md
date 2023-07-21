@@ -1,0 +1,31 @@
+Capo 3rd fret 
+ 
+Fade in on (Em7) 
+(G) (A) (Em7)  (G) (A) (Em7)  (G) (A) (Em7) 
+The (Em)good ship sailed out of the harbour that day, 
+(Bm)Out of the town Monterey. 
+She (Em)stood on the shoreline and silently prayed, 
+(Bm)Send him back home Monterey. 
+(G) (A) (Em7)  (G) (A) (Em7) 
+ 
+Old (Em)Riley in the lighthouse had started to sing, 
+(Bm)"Stand at the wheel while you may." 
+The (Em)beads of her rosary went round on her rings, 
+(Bm)Send him back home Monterey. 
+ 
+Before the (G)wind 
+And the (Em7)sun does him (D)in, 
+Ah, send him back home Monte(Em7)rey. (A) 
+And she (D)prayed for the (F#m)wind and the (Em7)sailor that (A)day, (hold) 
+Monte(Bm)rey. 
+(G) (A) (Em7)  (G) (A) (Em7) 
+(G) (A) (Em7)  (G) (A) (Em7) 
+ 
+Before the (G)wind 
+And the (Em7)sun does him (D)in, 
+Ah, send him back home Monte(Em7)rey. (A) 
+And she (D)prayed for the (F#m)wind and the (Em7)sailor that (A)day, (hold) 
+Monte(Bm)rey. 
+(G) (A) (Em7)  (G) (A) (Em7) 
+(G) (A) (Em7)  (G) (A) (Em7) 
+(G) (A) (Em7)  (G) (A) (Em7) [fade out]

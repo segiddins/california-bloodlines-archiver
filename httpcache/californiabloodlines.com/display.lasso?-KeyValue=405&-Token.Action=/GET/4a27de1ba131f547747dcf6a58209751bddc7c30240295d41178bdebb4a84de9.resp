@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3336
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Sister Mercy</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Would you bring me Sister Mercy, yeah<br />If she is still in town<br />For it seems I lost directions<br />And I&#39;ve always had them down<br />And I don&#39;t know where I&#39;m going, yeah<br />And I don&#39;t know where I&#39;ve been<br />Could you send me Sister Mercy, yeah<br />She&#39;s always been my friend<br />Always been my friend<br /><br />She would bring me to the river, yeah<br />Where I could lay my head<br />And I would close my eyes<br />And remember what she said<br />She said nothing is forever, yeah<br />So grab it while you can<br />Find the dreams along the river<br />As they move across the land<br />Move across the land<br /><br />In the summer in the Badlands, yeah<br />Where I once ran wild<br />She would take me to the river<br />As a mother takes a child<br />For the dreams along the river, yeah<br />Are the best, I understand<br />Sister Mercy and the river, yeah<br />They know how to treat a man<br />How to treat a man<br /><br />And she knows it&#39;s not forever, yeah<br />And I&#39;ll soon be on my feet<br />And I will take her dancing, yeah<br />In the liquid desert heat<br />And I&#39;ll forget tomorrow, yeah<br />And most of yesterday<br />Sister Mercy and the river<br />They know how to get their way<br />Sister Mercy and the river<br />They always get their way<br />Always get their way<br /><br />Would you bring me Sister Mercy, yeah<br />If she is still in town<br />For it seems I lost directions, yeah<br />And I&#39;ve always had them down<br />And I don&#39;t know where I&#39;m going, yeah<br />And I don&#39;t know where I&#39;ve been<br />Could you send me Sister Mercy, yeah<br />She&#39;s always been my friend<br />Could you send me Sister Mercy, yeah<br />She&#39;s always been my friend
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

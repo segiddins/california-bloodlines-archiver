@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3159
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ARKANSAS BREAKOUT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>John plays the song in the key of Gm in 72 and in Fm in 94 (95),<br />This in Am, so transpose to Em (chord progression then<br />Em-D-C-B7) and put a capo on the 3rd or 1st fret respectively.<br /><br />Arkansas Breakout     John Stewart<br />(Am) (G) (F) (E7) (Am) (G) (F) (E7)<br />(Am) (G) (F) (E7) (Am) (G) (F) (E7)<br />(Am)Arkansas, (G)wind and straw,<br />(F)Keep on working (E7)hard.<br />(Am)Arkansas, it (G)killed your Pa,<br />You (F)found him in the (E7)yard.<br />(Am) (G) (F) (E7) (Am) (G) (F) (E7)<br /><br />(Am)Arkansas, (G)is it all<br />(F)Work and drunk and (E7)dying?<br />(Am)Arkansas, there (G)ain&#39;t no law<br />To (F)keep a boy from (E7)flying.<br /><br />Oh, leaving the (Am)fields and the (G)rain <br />And the (F)work and the (E7)pain,<br />Like the (Am)wheels of a (G)train<br />You must (F)run, run, run<br />From the (E7)work and the rain.<br />(Am) (G) (F) (E7) (Am) (G) (F) (E7)<br /><br />(Am)Arkansas, (G)all I saw<br />(F)On the way to (E7)freedom,<br />(Am)All I saw in (G)Arkansas<br />Was (F)people bound for (E7)leaving.<br /><br />Oh, leaving the (Am)fields and the (G)rain <br />And the (F)work and the (E7)pain,<br />Like the (Am)wheels of a (G)train<br />You must (F)run, run, run<br />From the (E7)work and the rain.<br /><br />Leaving the (Am)fields and the (G)rain <br />And the (F)work and the (E7)pain,<br />Leaving the (Am)fields and the (G)rain<br />And the (F)work and the (E7)pain<br />Like the (Am)wheels of a (G)train<br />You must (F)run, run, run<br />From the (E7)work and the rain.<br /><br />Leaving the (Am)fields and the (G)rain<br />And the (F)work and the (E7)pain,<br />Leaving the (Am)fields and the (G)rain<br />And the (F)work and the (E7)pain,<br />Like the (Am)wheels of a (G)train<br />You must (F)run, run, run<br />From the (E7)work and the rain.<br />Leaving the (Am)fields and the (G)rain<br />And the (F)work and the (E7)pain...(Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

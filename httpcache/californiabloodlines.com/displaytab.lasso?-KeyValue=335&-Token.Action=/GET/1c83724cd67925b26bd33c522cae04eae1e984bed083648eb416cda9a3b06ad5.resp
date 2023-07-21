@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3885
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WALK ON THE MOON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th fret <br />  <br />Intro: <br />(high notes run ggfedca   ggfedca   ggfedca)  (Dm7) (G) (F) <br />-- you can also play this intro with chords, highlight the notes: <br />(C5)  (F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) <br />(C5)  (F)(C)(C9)(C)(Fj7/A) (Dm7) (G) (F) <br />As if I (C)had all the (G)time in the (F)world, <br />And I (C)had all the (G)world in my (F)time, <br />There are (C)dreams that I&#39;m (G)keeping in(F)side, <br />Like (C)verses that (G)never would (F)rhyme. <br />  <br />I still(C)dream I&#39;ll make (G)movies in (F)Spain, <br />(C)Photograph (G)dancers in (F)flight. <br />(C)Watching the (G)clock running (F)down, <br />And (Dm7)live in a(G)vailable (C)light. <br />  <br />And (F)I (G)still (C)dream I will (G)walk on the (F)moon, <br />If the (C)moon isn&#39;t (G)holding me (F)down, <br />(C)Racing the (F)future through (Dm)fields <br />With the (G)moonlight ig(G7)niting the (C5)ground. <br />(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) <br />  <br />All the (C)young girls are (G)light years a(F)way, <br />And they (C)seem to be (G)browsing through (F)time. <br />And you (C)know that not (G)one can com(F)pare <br />With the (C)heart of this (G)true love of (F)mine. <br />(C5)  (F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) <br />  <br />In the (C)waters of (G)all of my (F)tears, <br />The re(C)flections of (G)beautiful (F)times. <br />In my (C)dreams I am (G)holding the (F)wings <br />Of (Dm)angels I&#39;m (G)hoping to (C)find. <br />  <br />And (F)I (G)still (C)dream I will (G)walk on the (F)moon, <br />If the (C)moon isn&#39;t (G)holding me (F)down, <br />(C)Racing the (F)future through (Dm)fields <br />With (G)moonlight ig(G7)niting the (C5)ground. <br />(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) <br />(C5)  (F)(C)(C9)(C)(Fj7/A) (Dm7) (G) (F) (G) <br />  <br />And (Dm)friends, who were (G)here, now they&#39;re (C)gone, (C7) <br />(Dm)Why does it (G)happen so (C)soon? <br />And, (F)as they are (G)closing their (C)eyes, (Am) <br />Do they (D7)dream they will walk on the (G)moon? (Dm7) (G) <br />  <br />And (F)I (G)still (C)dream I will (G)walk on the (F)moon <br />If the (C)moon isn&#39;t (G)holding me (F)down. <br />(C)Racing the (F)future through (Dm)fields <br />With (G)moonlight ig(G7)niting the (C)ground. <br />  <br />And (F)I (G)still (C)dream I will (G)walk on the (F)moon <br />If the (C)moon isn&#39;t (G)holding me (F)down. <br />(C)Racing the (F)future through (Dm)fields <br />With (G)moonlight ig(G7)niting the (C)ground. <br />(C5)(F)(C)(C9)(C)(Fj7/A)  (C5)  (F)(C)(C9)(C)(Fj7/A) <br />(C5)  (F)(C)(C9)(C)(Fj7/A)  (Dm7) (G) (F) (G) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

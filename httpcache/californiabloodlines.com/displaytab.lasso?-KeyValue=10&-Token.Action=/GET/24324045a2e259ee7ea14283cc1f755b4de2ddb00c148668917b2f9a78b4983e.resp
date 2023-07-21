@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3161
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:55 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BAD RATS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Am) (D) (Am) (D) (Am) (D)<br />(Am)Good rats all have wheels,<br />(D)Good rats all have names.<br />(Am)Good rats all can feel,<br />(D)Good rats are the same.<br />(F)Good rats all have (G)friends,<br />(C)Good rats (C/B)all can (Am)eat.<br />(F)Good rats all get (G)papers<br />To pro(D)tect their little (G)feet.<br />Song about the (Am)good rats. (D) (Am) (D)<br /><br />(Am)Bad rats have no names,<br />(D)Bad rats have disease.<br />(Am)Bad rats are the same,<br />(D)Bad rats all must leave.<br />(F)Bad rats have no (G)friends,<br />(C)Bad rats (C/B)die a(Am)lone.<br />(F)Let&#8217;s all kill the (G)bad rats,<br />(D)Pass around the (G)stone<br />Song about (Am)bad rats. (D)<br />Yeah, a song about the (Am)bad rats. (D)<br />Yeah, a song about the (Am)bad rats. (D) (Am) (G)<br /><br />There ain&#8217;t no (C)way, you know, <br />(G)Of telling who&#8217;s a (Am)bad rat. <br />There ain&#8217;t no (C)way, you know,<br />(G)Of telling who&#8217;s a (Am)bad rat. <br />There ain&#8217;t no (C)way that I know<br />(G)Of telling who&#8217;s a (Am)bad rat. (D)<br />Ain&#180;t no (Am)way I know, (D)<br />Well, there ain&#180;t no (Am)way I know, (D)<br />There ain&#180;t no (Am)way, you know,<br />Of telling who&#180;s a (D)bad rat. (Am)(hold) (D)(hold) (Am)(hold)<br />(D)(hold) (Am)(hold) (D)(hold) (Am)(hold) (D)(hold) (Am)(hold) (D)(hold)<br />Ain&#180;t no (Am)way I know,<br />Ain&#180;t no (D)way I know,<br />Ain&#180;t no (Am)way I know<br />Of telling who&#180;s a (D)bad rat,<br />Of telling who&#180;s a (Am)bad rat,<br />Of telling who&#180;s a (D)bad rat. (Am) (D) <br /><br />(Am)Look at all them Asian people,<br />(D)Glad they aren&#8217;t like me.<br />(Am)Look at all them inner city people,<br />(D)Glad they&#8217;re not like me<br />(Am)Look at all those homeless people,<br />(D)Glad they&#8217;re not like me.<br />Song about the (Am)bad(hold) (Am)rats.(hold)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

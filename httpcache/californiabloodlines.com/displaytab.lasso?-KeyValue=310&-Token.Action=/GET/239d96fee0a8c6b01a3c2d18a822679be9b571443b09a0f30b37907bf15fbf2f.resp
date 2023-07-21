@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3591
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LONG TRAIN OF DREAMS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)  I am a traveler, I am riding through time,<br />(G) I have a ticket to the end of the line.<br />(Am) Lights of the city are passing in blue,<br />I (G)stare at reflections, (F) searching for you. (Am)<br /><br />Stopped off at Heartbreak, it was back down the line.<br />In the (G)Hotel of Tears, I spent some hard times.<br />I&#39;ve (Am)seen that life is not what it seems,<br />On the (G)long track of lies runs the (Fj7)long train of dreams. (C)<br /><br />I&#39;m riding the liner, the (Gm)Lonesome Ex(F)press,<br />The (G)end of the line is our only ad(C)dress.<br />I&#39;m riding the liner, all (Gm)silver and (F)clean,<br />On the (G)long track of lies runs the (G7)long train of (C)dreams.<br />On the (G)long track of lies runs the (F)long train of dreams. (Am)<br /><br />Comfort the porter&#39;s taking good care.<br />I (G)have no compartment, I sleep in the chair.<br />I (Am)dream of a stranger who captures my soul,<br />I (G)hear the wheels singing through (Fj7)years as we roll.(Am)<br /><br />I walk through the Pullman on my way to the bar,<br />At the (G)end of the train in the desperate car,<br />In the (Am)dark of the tunnel, the hiss of the steam<br />Re(G)minds me I&#39;m riding the (F)long train of dreams.(C)<br /><br />I&#39;m riding the liner, the (Gm)Lonesome Ex(F)press,<br />The (G)end of the line is our only ad(C)dress.<br />I&#39;m riding the liner, all (Gm)silver and (F)clean,<br />On the (G)long track of lies runs the (G7)long train of (C)dreams.<br />On the (G)long track of lies runs the (F)long train of dreams. (Am)<br />(G)  (Am)  (G)  (F)  (Am)<br /><br />I have faith you will find me or I will find you.<br />In the (G)lights of the station of all that is true<br />I (Am)search for a stranger with eyes who are kind.<br />I&#39;ll (G)hold you forever at the (F)end of the (G)line.<br /><br />I&#39;m (C)riding the liner, the (Gm)Lonesome Ex(F)press,<br />The (G)end of the line is our only ad(C)dress.<br />I&#39;m riding the liner, all (Gm)silver and (F)clean,<br />On the (G)long track of lies runs the (G7)long train of (C)dreams.<br />I&#39;m riding the liner, (Gm)silver and (F)clean,<br />On the (G)long track of lies runs the (G7)long train of (C)dreams.<br />On the (G)long track of lies runs the (Fj7)long train of dreams. (C)<br />(C7)  (F)  (G)  (C)  (C7)  (F)  (G)  (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

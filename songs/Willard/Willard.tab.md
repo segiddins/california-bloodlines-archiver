@@ -1,0 +1,50 @@
+Capo 4th fret
+
+(G) Willard, he's a (G/F#)loner,
+(G/E) Living by the (G/D)railway,(G/E)(G/F#)(G)
+Living (G/F#)by (G/E)the (G/D)tracks 
+(G/B)Be(G)side his (Am7)home.(D7)(D7/A)(D7)
+[D7s: on B-string, hammer on c pull off to b, 2x. Repeat where appropriate.]
+(G) Willard, he's a (G/F#)loner,
+(G/E)If you're going (G/D)his way,
+Say hel(Am7)lo, he ain't got (G)no one to call his (D7)own. (D7/A)(D7)
+
+(G) Soldiers of (G/F#)glass,
+(G/E) Standing by the (G/D)trash, (G/E)(G/F#)(G)
+Willard's (G/F#)co(G/E)loured (G/D)bottles 
+(G) In a (Am)line. (D7)(D7/A)(D7/A)(D7)
+(G) Soldiers of (G/F#)glass,
+It's (G/E)funny you should (G)ask,
+But they're the (C)only friends he (G/B)has to pass the (D/A)time,
+They're the (G)only friends he (C)has to (D)pass the (G)time.(G7)
+
+And his (Am7)Mama knows that (D)he was once a (G)child,
+(C) Mama, she was the (D)first one to hear his (G)cry.
+And my (Am7)Mama knows that (D)I was (D7)once a (G)child,
+Could it (Am7)be we're all just (D)Willard in dis(G)guise?
+Could it (C)be we're all just (D)Willard (D7) in dis(G)guise?(G/F#) (G/E)
+(G/D)
+
+I (G)hear they're tearing (G/F#)down
+All the (G/E)buildings in his (G/D)town, (G/E)(G/F#)(G)
+The house (G/F#)where (G/E)Willard (G/D)Jeffer(G/B)son
+(G) (Am)Stayed.(D7)(D7/A)(D7)
+But (G)they can't tear him (G/F#)down,
+No, he will (G/E)always be a(G/D)round
+'Cause he's as (Am)hard as all that (D)old black (D7/A)river (G)clay. (G7)
+
+Yet his (Am7)Mama knows that (D)he was once a (G)child,
+(C) Mama, she was the (D)first one to hear his (G)cry.
+And my (Am7)Mama knows that (D)I was (D7)once a (G)child,
+Could it (Am7)be we're all just (D)Willard in dis(G)guise?
+Could it (C)be we're all just (D)Willard (D7) in dis(G)guise?
+
+Oh, Willard, he's a (G/F#)loner,
+(G/E) Living by the (G/D)railway,(G/E)(G/F#)(G)
+Living (G/F#)by (G/E)the (G/D)tracks 
+(G/B)Be(G)side his (Am7)home.(D7)(D7/A)(D7/A)(D7)
+(G) Willard, he's a (G/F#)loner,
+(G/E)If you're going (G/D)his way,
+Say hel(Am7)lo,he ain't got (D)no one to (D7)call his (G)own.
+(finger Am, play [descending] c-b a-g e-d, then, on G-string slide from a to
+a# to b)

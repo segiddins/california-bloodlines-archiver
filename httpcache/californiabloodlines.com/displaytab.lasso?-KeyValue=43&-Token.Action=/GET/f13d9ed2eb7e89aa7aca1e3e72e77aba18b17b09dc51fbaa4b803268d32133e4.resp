@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3338
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HUNG ON THE HEART (OF A MAN BACK HOME)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th fret<br /><br />(C) She could have (Cj7)gone to Colo(Dm)rado,<br />(F) We were riding on that (C)road. (Cj7) (C)<br />I said &quot;I&#39;m (Cj7))going, will you (Dm)follow?&quot;<br />(F) She said, &quot;Yes,&quot; and then said, (C)&quot;No.&quot;<br /><br />She&#39;s (Dm)hung on the heart of a (G)man back home,<br />(C)She&#39;s got the (C/B)heart of a (Am)rolling (Am7/G)stone,<br />(F) Hung on the (G)heart of a (Am)man back home.  (Dm) (G)<br /><br />(C) We&#39;d spend our (Cj7)time mostly just(Dm)laughing,<br />(F) But not enough time to make a (C)day.(Cj7) (C)<br />You should have seen her (Cj7)eyes when I was (Dm)asking,<br />(F) &quot;Do you ever feel like running a(C)way?&quot;<br /><br />She&#39;s (Dm)hung on the heart of a (G)man back home,<br />(C)She&#39;s got the (C/B)heart of a (Am)rolling (Am7/G)stone,<br />(F) Hung on the (G)heart of a (Am)man back home.<br />(Dm)La lala la lala (G)la lala,<br />Lala (C)lalala (C/B)lalala (Am)la la (Am7/G)la,  <br />(F) Hung on the (G)heart of a (Am)man back home.  (Dm) (G)<br /><br />(C) We saw the (Cj7)road house lights were (Dm)burning,<br />(F) We heard the music of the (C)band. (Cj7) (C)<br />She said, &quot;Come (Cj7)on, honey, let&#39;s go (Dm)dancing,&quot;<br />(F) And I just had to under(C)stand.<br /><br />She&#39;s (Dm)hung on the heart of a (G)man back home,<br />(C)She&#39;s got the (C/B)heart of a (Am)rolling (Am7/G)stone,<br />(F) Hung on the (G)heart of a (Am)man back home.<br />(Dm)Hung on the heart of a (G)man back home,<br />(C)She&#39;s got the (C/B)heart of a (Am)rolling (Am7/G)stone,<br />(F) Hung on the (G)heart of a (Am)man back home.<br />(Dm)  (G) (C) (C/B) (Am) (Am7/G) (F)  (G)  (Am)<br />(Dm) Hung on the heart of a (G)man back home,<br />(C)She&#39;s got the (C/B)heart of a (Am)rolling (Am7/G)stone,<br />(F) Hung on the (G)heart of a (Am)man back home.<br />(Dm)La lala la lala (G)la lala,<br />Lala (C)lalala (C/B)lalala (Am)la la (Am7/G)la,<br />(F)(hold) Hung on the (G)(hold)heart of a (Am)(hold)man back home.<br />High single notes: e d c a c d e
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

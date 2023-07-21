@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3062
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>(ODIN) SPIRIT OF THE WATER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Dream Babies Go To Hollywood (RSO, RS-1-3074, 1980)<br />The Best of John Stewart (Polydor 527 369-2, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh there&#39;s a story, told on the coastline<br />About a star-eyed girl and her man of the sea<br />He was a whaler, assassin of the sea wind<br />And she told him, &quot;Oh, let the whale go free&quot;<br /><br />And for the glory, they sailed with the sunrise<br />He was the devil on the wind out of Monterey<br />She pleaded, &quot;Keeper of my heartline&quot;<br />She pleaded, &quot;Oh, let the whale go free&quot;<br /><br />And she&#39;s waiting, and she&#39;s praying<br />And she&#39;s waiting, and she&#39;s praying<br />Odin, spirit of the water<br />Odin, god of the sea<br />Odin, spirit of the water<br />Odin, oh, let the whale go free<br /><br />And then one dark day in February, say<br />On the twenty-eighth, maybe the ninth<br />You know, the ship sailed in with nary a man<br />On the deck there to hold the line<br />And then, lashed to the mast like a ghost from the past<br />Was the man who had christened the crime<br />He said, &quot;The battle is done and the whale has won<br />It&#39;s the last time I&#39;m taking the line&quot;<br /><br />And she&#39;s waiting, and she&#39;s praying<br />And she&#39;s waiting, and she&#39;s praying<br />Odin, spirit of the water<br />Odin, god of the sea<br />Odin, spirit of the water<br />Odin, oh, let the whale go free<br /><br />Odin, spirit of the water<br />Odin, god of the sea<br />Odin, spirit of the water<br />Odin, oh, let the whale go free
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

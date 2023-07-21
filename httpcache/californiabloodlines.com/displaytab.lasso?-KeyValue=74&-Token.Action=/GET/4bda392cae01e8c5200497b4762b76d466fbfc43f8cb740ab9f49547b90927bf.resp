@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3546
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:55 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEELS OF THUNDER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>C6 <br />E------------- <br />B--1--------- <br />G----2------- <br />D----2------- <br />A------3----- <br />E------------- <br />  <br />  <br />Capo 2nd fret <br />  <br />(G) (C6) (G)   (G) (C6) (C6) (G) <br />  <br />I heard the highway (C6)whine when (G)I was a (D)kid, <br />(D4)(D)(D2)(D) <br />(G)Dreaming of the long white (C)line was (G)all that I (D)did. <br />(D4)(D)(D2)(D) <br />Oh, a (Bm)man behind the wheel ain&#39;t a man on the (F#m)skids, <br />(C) I heard the highway (D)whine when I was a (Em)kid. <br />  <br />(G) A little taste of (C6)freedom and (G)I was (D)gone, <br />(D4)(D)(D2)(D) <br />A (G)highway rider, (C6)I could (G)not go (D)wrong. <br />(D4)(D)(D2)(D) <br />Oh, those (Bm)backseat nights when Sally was a(F#m)long, <br />(C) A little taste of (D)freedom all night (Em)long. (hold) <br />  <br />Yeah, to (G)ride on the (C)wheels of (D)thunder, <br />Taking (G)over, now (C)going (D)under, <br />Yeah, to (Bm)ride on the wheels of (C)thunder, (D) <br />Watch &#39;em (Em)roll. <br />Yeah, to (G)ride on the (C)wheels of (D)thunder, <br />Taking (G)over, now (C)going (D)under, <br />Yeah, to (Bm)ride on the wheels of (C)thunder, (D) <br />Watch &#39;em (Em)roll. <br />(G)  (C)  (G)  (D)  (D4)(D)(D2)(D) <br />(G)  (C)  (G)  (D)  (D4)(D)(D2)(D) <br />(Bm)  (F#m)  (C)  (D)  (Em) <br />  <br />(G) That old Chevy was (C6)all that I&#39;d (G)ever (D)need, <br />(D4)(D)(D2)(D) <br />(G)I had the moves and I (C6)knew that she (G)had the (D)speed. <br />(D4)(D)(D2)(D) <br />On those (Bm)backseat nights when I was in by (F#m)three, <br />(C) That old Chevy was (D)all that I&#39;d ever (Em)need. (hold) <br />  <br />Ah, to (G)ride on the (C)wheels of (D)thunder, <br />Taking (G)over, now (C)going (D)under, <br />Yeah, to (Bm)ride on the wheels of (C)thunder, (D) <br />Watch &#39;em (Em)roll. <br />  <br />Yeah, to (G)ride on the (C)wheels of (D)thunder, <br />Taking (G)over, now (C)going (D)under, <br />Yeah, to (Bm)ride on the wheels of (C)thunder, (D) <br />Watch &#39;em (Em)roll. <br />(G)  (C)  (D)  (G)  (C)  (D) <br />(Bm)  (C)  (D)  (Em) <br />  <br />Yeah, to (G)ride on the (C)wheels of (D)thunder, <br />Taking (G)over, now (C)going (D)under, <br />Yeah, to (Bm)ride on the wheels of (C)thunder, (D) <br />Watch &#39;em (Em)roll... (fading out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

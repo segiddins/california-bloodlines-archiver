@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2789
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:56 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SONG FOR A FRIEND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th<br /><br />In many places chords are<br />played note by note rather<br />than strummed.<br /><br />Use (E7 short) and (A7 short)<br /><br />(Em7) (A7)   (Em7) (A7)<br /><br />(Em7) When you sit and (A7)wonder<br />Why (G)things have gone so (A7)wrong,<br />And you (Em7)wish someone would (D)tell us<br />(F#m)where our friend has (Em7)gone, (A7)<br /><br />(D)Look then to the (E7)hills<br />When there&#39;s (G)courage in the (F#m)wind,<br />And (Em7)in the face of (D)freedom<br />And (F#m)those who look to (Em7)Him. (A7)<br /><br />And (D)search within the (E7)heart<br />Of ev&#39;ry (G)young man with a (F#m)song,<br />(G)Then I think we&#39;ll (D)know<br />(F#m)where our friend has (Em7)gone. (A7)<br />(G) (A7) (G)<br /><br />(Em7)Summer takes the (A7)winter<br />As the (G)good years take the (A7)pain,<br />There&#39;ll be (Em7)laughter in the (D)land again<br />But (F#m)hearts won&#39;t be the (Em7)same. (A7)<br /><br />And (D)I know I&#39;ll (E7)remember<br />When a (G)chill wind takes the (F#m)sky,<br />And (Em7)speak of the years he (D)gave us hope, (hold)<br />For (F#m)they will never (Em7)die. (A7)<br /><br />And (D)as we gaze at (E7)brave young men<br />When (G)yesterdays grow (F#m)long,<br />(G)Then I think we&#39;ll (D)know<br />(F#m)where our friend has (Em7)gone.  (A7)<br /><br />(G) (A7) (G)<br /><br />(Em7)When you sit and (A7)wonder<br />Why (G)things have gone so (A7)wrong,<br />It&#39;s (Em7)then that we&#39;ll (D)remember<br />(F#m)where our friend has (Em)gone. (A7)<br />(G) (A7) (Em7) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

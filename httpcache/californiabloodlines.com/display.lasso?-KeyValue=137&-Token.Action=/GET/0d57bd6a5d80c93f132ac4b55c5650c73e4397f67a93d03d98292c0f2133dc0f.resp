@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3945
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:37 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MOTHER COUNTRY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>California Bloodlines (Capitol, ST203, 1969)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There was a story in the San Francisco Chronicle that of course I forgot to save<br />But it was about a lady who lived in the &#39;good old days&#39;<br />When a century was born and a century had died<br />And about these &#39;good old days&#39; the old lady replied<br />&quot;Why they were just a lot of people doing the best they could&quot;<br />&quot;Just a lot of people doing the best they could&quot;<br />And then the lady said that they did it, &quot;pretty up and walking good&quot;<br /><br />What ever happened to those faces in the old photographs<br />I mean, the little boys&#8230;&#8230;.<br />Boys? . . . . . Hell they were men<br />Who stood knee deep in the Johnstown mud<br />In the time of that terrible flood<br />And they listened to the water, that awful noise<br />And then they put away the dreams that belonged to little boys<br /><br />And the sun is going down for Mister Bouie <br />As he&#39;s singing with his class of nineteen-two<br />Oh, mother country, I do love you<br />Oh, mother country, I do love you<br /><br />I knew a man named E.A.Stuart, spelled  S.T.U.A.R.T.<br />And he owned some of the finest horses that I think I&#39;ve ever seen<br />And he had one favorite, a champion, the old Campaigner<br />And he called her &quot;Sweetheart On Parade&quot;<br />And she was easily the finest horse that the good Lord ever made<br />But old E.A.Stuart, he was going blind<br />And he said &quot;Before I go, I gotta drive her one more time&quot;<br />So people came from miles around, and they stood around the ring<br />No one said a word<br />You know, no one said a thing<br />Then here they come, E.A. Stuart in the wagon right behind<br />Sitting straight and proud and he&#39;s driving her stone blind<br />And would you look at her<br />Oh, she never looked finer or went better than today<br />It&#39;s E.A. Stuart and the old Campaigner, &quot;Sweetheart On Parade&quot;<br />And the people cheered<br />Why I even saw a grown man break right down and cry<br />And you know it was just a little while later that old E.A. Stuart died<br /><br />And the sun it is going down for Mister Bouie<br />As he&#39;s singing with his class of nineteen-two<br />Oh mother country, I do love you<br />Oh mother country, I do love you
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

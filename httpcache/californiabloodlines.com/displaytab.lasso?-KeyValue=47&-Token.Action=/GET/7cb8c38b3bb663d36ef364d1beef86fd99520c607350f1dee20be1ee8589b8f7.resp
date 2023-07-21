@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3635
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SOME KIND OF LOVE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Bb) (F) (Gm) (Eb) (F) (Bb) (F)<br />(Bb)Some kind of (F)love is like (Gm)gold,<br />And (Eb)that is the (F)hardest to (Bb)hold,<br />For it catches the (D)eye<br />Of each (Gm)thief passing (Eb)by,<br />(Bb)Some kind of (F)love is like (Gm)gold. (F)<br />(Bb)Some kind of (F)love comes too (Gm)soon,<br />(Eb)That kind of (F)love heals your (Bb)wounds.<br />When your wounds are all (D)healed<br />And you&#39;re (Gm)back on your (Eb)wheels,<br />You say (Bb)that kind of (F)love came too (Gm)soon.  (F)<br /><br />(Gm)Some kind of love, (F)some kind of (Bb)love,<br />(Eb)Everyone&#39;s (Dm)looking for (C)some kind of (F)love.<br />(Gm)Some kind of love, (F)some kind of (Bb)love,<br />(Eb)Everyone&#39;s (Bb)looking for (F)some kind of (Bb)love. (F) (G)<br /><br />(C)Some kind of (G)love starts as (Am)friends,<br />(F)That kind of (G)love never (C)ends,<br />For it comes on as (E)slow<br />As a (Am)flower in the (F)snow,<br />(C)Some kind of (G)love starts as (Am)friends. (G)<br />(C)Some kind of (G)love tears your (Am)heart,<br />For you (F)knew it was (G)wrong from the (C)start.<br />Try to ex(E)plain,A (Am)moth to a (F)flame,<br />(C)Some kind of (G)love tears (Am)  your heart.(G)<br /><br />(Am)Some kind of love, (G)some kind of (C)love,<br />(F)Everyone&#39;s (Em)looking for (D)some kind of (G)love.<br />(Am)Some kind of love, (G)some kind of (C)love,<br />(F)Everyone&#39;s (C)looking for (G)some kind of (C)love. <br />(G) (Am) (F) (G) (C) (A)<br /><br />(D)Some kind of (A)love never (Bm)dies,<br />(G)That is the (A)hardest to (D)find.<br />Through laughter and (F#)rage<br />It (Bm)mellows with (G)age,<br />(D)Some kind of (A)love never (Bm)dies.(A)<br />(D)Some kind of (A)love is like (Bm)gold,<br />(G)That is the (A)hardest to (D)hold,<br />For it catches the (F#)eye<br />Of each (Bm)thief passing (G)by,<br />(D)Some kind of (A)love is like (Bm)gold. (A)<br /><br />(Bm)Some kind of love, (A)some kind of (D)love,<br />(G)Everyone&#39;s (F#m)looking for (E)some kind of (A)love.<br />(Bm)Some kind of love, (A)some kind of (D)love,<br />(G)Everyone&#39;s (D)looking for (A)some kind of (D)love.<br />(Bm)Some kind of love, (A)some kind of (D)love,<br />(G)Everyone&#39;s (F#m)looking for (E)some kind of (A)love.<br />(Bm)Some kind of love, (A)some kind of (D)love,<br />(G)Everyone&#39;s (D)looking for (A)some kind of (D)love. <br />(A) (Bm) (G) (A) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2740
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ARMSTRONG</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>John plays the song in the key of C, <br />This is in G, so you have to<br />either transpose or put a capo on the 7th fret to check.  <br /><br />(G) Black boy in Chi(Am)cago, (Am7)<br />Playing in the (G)street,<br />Not enough to (Am)wear, (Am7)<br />Not near enough to (G)eat.<br />(Am7) But don&#39;t you know he (D7)saw it<br />(Am7) On a July after(G)noon,<br />He saw a man named (Am)Armstrong (Am7)<br />Walk upon the (G)moon.<br /><br />And a young girl in Cal(Am)cutta, (Am7)<br />Barely eight years (G)old,<br />The flies that swarm the (Am)market place (Am7)<br />Will see she don&#39;t get (G)old.<br />(Am7) But don&#39;t you know she (D)heard it<br />(Am7) On that July after(G)noon,<br />She heard a man named (Am)Armstrong (Am7)<br />Had walked upon the (G)moon.<br />She heard a man named (Am)Armstrong (Am7)<br />Had walked upon the (G)moon.(Gj7)(G6)(G5)(G4)(G)  <br />(Am) (D)(D7)(G)<br /><br />The rivers are getting (Am)dirty, (Am7)<br />The wind is getting (G)bad.<br />War and hate is (Am)killing off (Am7)<br />The only earth we (G)have.<br />(Am7) But the world all (D)stopped to watch it<br />(Am7) On that July after(G)noon,<br />To watch a man named (Am)Armstrong (Am7)<br />Walk upon the (G)moon,<br />To watch a man named (Am)Armstrong (Am7)<br />Walk upon the (G)moon.<br /><br />Oh I (Am7)wonder if a long (D7)time ago,<br />(Am7) Somewhere in the uni(G)verse,<br />They watched a man named (Am)Adam (Am7)<br />Walk upon the (G)earth.(Gj7)(G6)(G5)(G4)(G) (Am) (D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

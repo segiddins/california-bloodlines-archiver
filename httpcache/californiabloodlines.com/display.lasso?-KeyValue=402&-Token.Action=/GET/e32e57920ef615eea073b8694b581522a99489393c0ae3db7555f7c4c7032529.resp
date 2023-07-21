@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2902
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>New Orleans</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Buffy Ford</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I never got to see New Orleans<br />Or hear her mournful sound<br />Hear that singing through the doorways<br />The tapping on the ground<br />Dancing feet on Bourbon Street<br />The jazz, the blues, the beat<br />I never got to see New Orleans<br />Or feel the Delta heat<br /><br />Yeah, I never got to see New Orleans<br />The parade on Easy Street<br />When Mardi Gras was swingin&#39;<br />To the Dixieland retreat<br />Voodoo Alley, sweet King Cake<br />Confetti rain, for heaven&#39;s sakes<br />I never got to see New Orleans<br />Or feel the Delta heat<br /><br />And her waters may be rising<br />But Orleans is still alive and<br />Forever she will sing to me<br />The lullabies of used to be<br />Will I ever see New Orleans<br />And hear those melodies?<br /><br />I never got to see New Orleans<br />Or the Gulf of Mexico<br />And hear the old piano man<br />Play the blues of long ago<br />And feel the simmer, taste the sweets<br />And hear the hum on Canal Street<br />Will I ever see New Orleans<br />And feel the Delta heat?<br /><br />I never got to see New Orleans<br />Ride the river to the sea<br />Hear the muse of Louisiana<br />Sing her heart to me<br />Fats and Louis and Dixieland<br />She is the river, she is the land<br />But I never got to see New Orleans<br />Or hold her in my hand
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3509
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:03 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ON YOU LIKE THE WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br />(D)Oh, (A) (G) (A)listen to the (D)wind blow,(A) (G)<br />(A)Singing on a (D)crossbow.(A) (G)<br />(A)Can&#39;t you feel our (D)love grow(A) (G)<br />(A)On you like the (D)wind,(A) (G)<br />(A)On you like the (D)wind?(A) (G) (D)(hold)<br /><br />And (D)oh,(A) (G) (A)listen to the (D)rain fall.(A) (G)<br />(A)Can&#39;t you hear my (D)love call,(A) (G)<br />(A)Can&#39;t you feel my (D)heart fall(A) (G)<br />(A)On you like the (D)wind,(A) (G)<br />(A)On you like the (D)wind?(A) (G) (A)(hold)<br />Oh, (G)on (F#m)you (Em7)like (A)the (D)wind...<br />      (A) (G) (A) <br />(D) (A) (G) (A)<br /><br />And (D)oh,(A) (G) (A)can&#39;t you feel it (D)on you?(A) (G)<br />(A)Can&#39;t you feel it (D)on you,(A) (G)<br />(A)Can&#39;t you feel it (D)on you,(A) (G)<br />(A)On you like the (D)wind,(A) (G)<br />(A)On you like the (D)wind?(A) (G) (A) (hold)<br />Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...<br />(lead notes on B-string: D-C#-D-E-D-E, <br />on high E-string: F#-E-F#-G-F#-E) Right! (solo continues over...)<br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br />(D) (A) (G) (A)<br /><br />And (D)oh,(A)(G) (A)if you ever (D)leave me,(A) (G)<br />(A)Saying you don&#39;t (D)need me,(A) (G)<br />(A)Saying you don&#39;t (D)believe in (A)me,(G)<br />I&#39;ll be (A)on you like the (D)wind,(A) (G)<br />(A)On you like the (D)wind.(A) (G) (A)(hold)<br />Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...<br />      (A) (G) (A)<br />(D) (A) (G) (A)<br /><br />And (D)oh,(A) (G) (A)can&#39;t you feel me(D)on you?(A) (G)<br />(A)Can&#39;t you feel me (D)on you,(A) (G)<br />(A)Can&#39;t you feel me (D)on you,(A) (G)<br />(A)On you like the (D)wind,(A) (G)<br />(A)On you like the (D)wind?(A) (G) (A)(hold)<br />Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...<br />     (A) (G) (A)<br />(D)(A) (G) (A)<br />(D)(A) (G) (A)<br />(D)(A) (G) (A)<br /><br />And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)<br />And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)<br />And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)(hold)<br />Oh, (G)on (F#m)you (Em7)like (A)the (D)wind...<br />      (A) (G) (A)<br />(D) (A) (G)(A)(D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

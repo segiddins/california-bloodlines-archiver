@@ -1,0 +1,38 @@
+Capo 3rd fret
+
+(F#m) (F#m) (reverse strummed)
+(F#m) This old earth, she (A)treats me like a (G)stranger,
+(single bass notes B-A-F# into chord)
+(F#m) This old earth, (A) she don't even (G)care,
+(single bass notes G-F#-E into chord)
+(Em) This old earth, she (C)tortures (D)me with (G)seasons, (Bm)
+(Em) This old earth, ain't (A7)going any(D)where
+(F#m) (reverse strummed)
+
+(F#m) Wake up in the (A)morning and I'm (G)hungry,
+(single bass notes B-A-F# into chord)
+(F#m)Wake up in the (A)evening and I'm (G)cold.
+(single bass notes G-F#-E into chord)
+(Em) Mama's in her (C)bed(D) with a (G)fever, (Bm)
+(Em) This old earth will (A7)see she don't get (D)old.
+
+(E) Dark prairie sky (G)hides the (A)far ho(D)rizon,
+(E) Dark prairie wind (G) blowing (A)down our (D)home.
+(Em) Dark prairie (F#m)eyes (D) watch us through the (G)(hold)window,
+(C)(hold) Dark prairie (D)(hold) buries her (E)(hold)own.
+(F#m) (F#m) (reverse strummed)
+
+(F#m) I hate to see my (A)woman looking (G)hollow,
+(single bass notes B-A-F# into chord)
+(F#m)I hate to see my (A)woman's eyes grow (G)dim.
+(single bass notes G-F#-E into chord)
+(Em) I ease her all I (C)can,(D) as the (G)sweat upon my (Bm)hand
+(Em) Mingles with the (A7)earth upon (D)her chin.
+
+(E) Dark prairie sky (G)hides the (A)far ho(D)rizon,
+(E) Dark prairie wind (G) blowing (A)down our (D)home.
+(Em) Dark prairie (F#m)eyes (D) watch us through the (G)(hold)window,
+(C)(hold) Dark prairie (D)(hold) buries her (E)(hold)own.
+(Em)  (C)  (F#m)  (Bm)  (Em)    
+
+(C)(hold) Dark prairie (D)(hold)buries her (E)(hold)own. (F#)

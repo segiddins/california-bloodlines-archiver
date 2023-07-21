@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2775
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>FUTURE EARNINGS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Escape to Arizona (Homecoming, 800, 1993)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I&#39;ve used up all my options and I&#39;ve emptied my reserves<br />My tricks are fooling no one and I&#39;m running now on nerves<br />I&#39;m feeling like the astronauts as the world just slips away<br />It&#39;s not that I am desperate, it&#39;s not that I don&#39;t pray<br /><br />Victories of the young and hungry don&#39;t escape me now<br />It&#39;s not I don&#39;t remember, it&#39;s that I&#39;ve forgotten how<br />I&#39;m collecting useless boxes and lines upon my face<br />It&#39;s the perfect place to be when all that&#39;s left is faith<br /><br />Living in denial has always worked before<br />It&#39;s so loud it almost masks the slamming of the door<br />I can&#39;t believe I&#39;m getting old, as if I never would<br />The arrogance of youth is not easily understood<br /><br />I&#39;ve used up all my options and I&#39;ve emptied my reserves<br />My tricks are fooling no one and I&#39;m running now on nerves<br />I&#39;m feeling like the astronauts as the world just slips away<br />It&#39;s not that I am desperate, it&#39;s not that I don&#39;t pray<br />So I&#39;m collecting useless boxes and lines upon my face<br />It&#39;s the perfect place to be when all that&#39;s left is faith
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

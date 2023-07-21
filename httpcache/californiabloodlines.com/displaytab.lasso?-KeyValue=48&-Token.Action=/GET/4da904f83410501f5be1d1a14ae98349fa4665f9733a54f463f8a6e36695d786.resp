@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4225
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SURVIVORS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle> Capo 2nd fret<br /><br /> (C)He broke his back<br /> To put the (G)food on the table,<br /> In Co(F)lumbus, O(G)hio,<br /> He (C)said to his wife, (hold)<br /> &quot;I be(C)lieve that the flag,<br /> It was (G)more than a rag,<br /> But the (F)outlaws in (G)office<br /> Have (C)shattered my (C7)life.&quot; <br /> <br /> Can you (F)hear me, O(G)hio?<br /> (Em)You are the (Am)country,<br /> (F)You are the (Em)nation,<br /> (D)You will su(G)rvive.<br /><br /> Can you (F)hear me O(G)hio?<br /> (Em)You are the (Am)country,<br /> (F)You are the (Em)nation,<br /> (G)You will sur(C)vive.  (G) (F) (G)<br /> <br /> (C)Children in Cheyenne<br /> Are (G)taught in their schools<br /> `Be(F)lieve in the (G)country,<br /> Don&#39;t (C)break any rules&#180;.<br /> But the T.V. is on <br /> And they (G)know something&#39;s wrong,<br /> (F)Someone must (G)tell them<br /> To (C)keep pushing (C7)on.<br /><br /> Can you (F)hear me, Wy(G)oming?<br /> (Em)You are the (Am)country,<br /> (F)You are the (Em)nation,<br /> (D)You will sur(G)vive.<br /><br /> Can you (F)hear me, Wy(G)oming?<br /> (Em)You are the (Am)country,<br /> (F)You are the (Em)nation,<br /> (G)You will sur(C)vive.  (Em)  (A7)<br /> <br /> (D)Devils and angels<br /> Be(A)long in the church,<br /> You (G)try for the (A)best<br /> And you (D)deal with the worst.<br /> Just keep on plugging,<br /> You (A)old nine to five,<br /> For (G)you are the (A)heartbeat<br /> That (D)keeps us a(D7)live.<br /> <br /> Can you (G)hear me, Vir(A)ginia?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (E)You will sur(A)vive.<br /> <br /> Can you (G)hear me, Da(A)kota?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (A)You will sur(D)vive.<br /> <br /> Can you (G)hear me, Colo(A)rado?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (E)You will sur(A)vive.<br /> <br /> Can you (G)hear me, Cali(A)fornia?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (A)You will sur(D)vive. <br /> <br /> Can you (G)hear me, Wis(A)consin?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (E)You will sur(A)vive.<br /><br /> Can you (G)hear me, Ari(A)zona?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (A)You will sur(D)vive.<br /><br /> Can you (G)hear me in (A)Georgia?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (E)You will sur(A)vive.<br /><br /> Can you (G)hear me in (A)Texas?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (A)You will sur(D)vive. <br /><br /> Can you (G)hear me, Ha(A)waii?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (E)You will sur(A)vive.<br /><br /> Can you (G)hear me, A(A)laska?<br /> (F#m)You are the (Bm)country,<br /> (G)You are the (F#m)nation,<br /> (A)You will sur(D)vive. <br /><br /> (Continue chord progression) Doo doo dee dee dee&#8721;.<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

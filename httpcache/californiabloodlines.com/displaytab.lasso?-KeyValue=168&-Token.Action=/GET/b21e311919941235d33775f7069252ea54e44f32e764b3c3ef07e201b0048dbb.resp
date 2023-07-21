@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3205
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>A WOMAN RIDES THE BEAST (CD only)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Paul Westphal</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Em) (Cj7) (Em) (C) (Em) (Cj7)<br />And a (Em)woman (D)rides the (Em)beast<br />In the (G)seven (D)hills of the (C)fallen (G)priests,<br />And a (Em)woman (D)rides the (Em)beast.<br /><br />She may promise that you won&#39;t burn<br />For (Cj7)gold and silver in return,<br />(Em) And perhaps for a larger fee<br />(C) She will set your (D)fathers free.<br />(Em) (C) (Em) (C)<br /><br />(Em) The one who rides in glass and wheels<br />And (Cj7)draws the line where he reveals<br />That (Em)true that only God imparts,<br />But (C)can he speak to the (D)hungry hearts<br />About the (Em)martyrs, about the Jews,<br />About the ancient (D)holy news?<br /><br />And a w(Em)oman (D)rides the (Em)beast<br />In the (G)seven (D)hills of the(C)fallen (G)priests,<br />And a (Em)woman (D)rides the (Em)beast<br />In the (G)seven (D)hills of the (C)fallen (G)priests,<br />And a (Em)woman (D)rides the (Em)beast.<br />(Em) (Cj7) (Em) (Cj7)<br /><br />When (Em)Satan offered Jesus the Kingdom of the Earth<br />(Cj7) But he knew what salvation&#39;s worth.<br />(Em) I&#39;m glad he abhorred wearing jewels and gold<br />(C) Along the road where (D)fools will go.<br />(G) The Prince of Peace said (Em)cast no stones,<br />And (C)those who seek are (D)not alone.<br />(G) In politics it (Em)is no part<br />Of the (C)Kingdom of the (D)Lionheart.<br /><br />And a (Em)woman (D)rides the (Em)beast<br />In the (G)seven (D)hills of the (C)fallen (G)priests,<br />And a (Em)woman (D)rides the (Cj7)beast<br />In the (G)seven (D)hills of the (C)fallen (G)priests,<br />And a (Em)woman (D)rides the (Em)beast.    (Cj7)<br /><br />And a (Em)woman rides the beast,<br />And a (G)woman rides the beast<br />In the (Em)seven (D)hills of the (Em)fallen priests.<br /><br />(whispered)<br />And a woman rides the beast<br />In the seven hills of the fallen priests.<br />And a woman rides the beast<br />In the seven hills of the fallen priests.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

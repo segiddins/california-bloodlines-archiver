@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3029
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:13 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SLAUGHTER LANE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rocket Roy in the Real World (Crow, 3, 1993)<br />Rocket Roy in the Real World Plus (Neon Dreams, 1999)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s summer on the Guadeloupe River<br />Red Wing Boots and Resistal Hats<br />Taco Bell and the Fountain Motel<br />46th East and Molly Joe&#39;s, Mom and Dad, shaved ice cones<br />Milkman&#39;s truck and satellite dishes, psychic readings look suspicious<br />Apache Veraday, Anita&#39;s Lonestar, linoleum floors<br />Inner tubes on the Guadeloupe River<br />And it&#39;s one more mile to Slaughter Lane<br /><br />San Marco&#39;s truck stop, upside down at Wonder World<br />Stars and stripes in the Texas wind, Texas t-shirts, guys named Slim<br />Road construction, iron cranes, goodwill cars with Pontiac names<br />Texas Red and lowered cars, university town and Texaco stars<br />And San Anton<br />And it&#39;s one more mile to Slaughter Lane<br /><br />Candle shops, sirloin steaks, pancake hops<br />RV sales, fireworks stands, Austin, Waco and Traveland<br />Diet Pepsi and Avian<br />Inside height, nose to rear, dashboard notepads, second gear<br />And it&#39;s one more mile to Slaughter Lane<br /><br />Ice age carver, Expose<br />The gentleman&#39;s club with the blonde sashay<br />St. Elmo&#39;s rose, Walmart sign, giant frog, used car line<br />Country songs that I don&#39;t know<br />Easy pawn, rent to own, Budget Inn, TV and phones<br /><br />It&#39;s sundown on the Guadeloupe River<br />Styrofoam coolers, the new tumbleweed<br />And it&#39;s one more mile to Slaughter Lane
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

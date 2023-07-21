@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3153
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:50 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MOONLIGHT RIDER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(first guitar)<br />(G6) (G6) (G6) (G6) <br />(G6) (G6) (G6) (G6) (first guitar plays (G6) for much of the song)<br />(enters second guitar, that&#180;s the one to follow)<br />(G)  (C)  (G)  (C)  (G)  (C) (D) (G)  (C)  <br />(G)  (C) (D) (G)  (C)  (G)  (C)<br />Oh, (G)who&#39;s down now? (C)You&#39;re down now,<br />You (G)better get shaking and (C)don&#39;t ask how,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.<br />Ah, (C)who&#180;s down now,<br />A (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.  (C)  (G)  (C)<br /><br />And it&#39;s (G)one time, two time, (C)looking in a shoeshine,<br />(G)Looking anywhere for the (C)one time, good time,<br />(G)Moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.<br />Ah, (C)who now-now,<br />A (G)moonlight rider and a (C)midnight (D)train it&#39;s (G)gone.  (C)  (G)  (C)  <br />Now n-(G)now now n-n-now (C)now now now <br />N- n-(G)now now n-n-now (C)now now now<br />N-n (G)Now now n-n- now (C)now now (D)now now (G)now<br />N-now (C)now<br />N-n (G)Now now n-n- now (C)now now (D)now now (G)now<br />(G6) (G6) (G6) (G6) (G6) (G6) (G6) (G6) <br /><br />And it&#39;s (G)all the same, it&#39;s the (C)wind and the rain,<br />It&#39;s (G)working all your life for a (C)little bit of fame,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.<br />Ah, (C)who now-now,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.  (C)  <br /><br />Ah, (G)who&#39;s down now? (C)You&#39;re down now,<br />You&#180;d (G)better get shaking and (C)don&#39;t ask how,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.<br />Ah, (C)who now-now,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.<br />Ah, (C)who now-now,<br />Like a (G)moonlight rider and a (C)midnight (D)train, it&#39;s (G)gone.  (C)  (G)  (C)  (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

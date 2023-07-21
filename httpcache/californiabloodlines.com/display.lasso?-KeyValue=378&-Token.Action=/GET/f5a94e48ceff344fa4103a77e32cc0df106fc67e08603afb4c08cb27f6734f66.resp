@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3568
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:12 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>COMING FROM THE MOUNTAINS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Close Up (The Kingston Trio - 1961, Capitol T/ST 1642)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>We&#39;re coming from the mountains<br />Crossing o&#39;er the plains<br />It&#39;s off to California<br />And back again to Maine<br />Sing a song that you all know<br />And let your voices go<br />We&#39;ll sing it out, my brothers<br />Wherever we may go<br /><br />We travel here. We travel there<br />We travel everywhere<br />We go by air. We go by rail<br />Anyplace they&#39;ll pay us scale<br />Now, repeat the chorus<br />Here we go<br /><br />We&#39;re coming from the mountains<br />Crossing o&#39;er the plains<br />It&#39;s off to California<br />And back again to Maine<br />Sing a song that you all know<br />And let your voices go<br />We&#39;ll sing it out, my brothers<br />Wherever we may go<br /><br />The folk group has a banjo<br />Because it&#39;s really in<br />I&#39;ll let you hear my banjo ring<br />When I learn to play the thing<br />Now, repeat the chorus<br />Here we go<br /><br />We&#39;re coming from the mountains<br />Crossing o&#39;er the plains<br />It&#39;s off to California<br />And back again to Maine<br />Sing a song that you all know<br />And let your voices go<br />We&#39;ll sing it out, my brothers<br />Wherever we may go<br /><br />The boys with Davy Crockett<br />Who died at the Alamo<br />We heard them say when they attacked,<br />&quot;I knew this room would kill the act&quot;<br />Now, repeat the chorus<br />Here we go<br /><br />We&#39;re coming from the mountains<br />Crossing o&#39;er the plains<br />It&#39;s off to California<br />And back again to Maine<br />Sing a song that you all know<br />And let your voices go<br />We&#39;ll sing it out, my brothers<br />Wherever we may go<br /><br />Coming from the mountains<br />Crossing o&#39;er the plains<br />It&#39;s off to California<br />And back again to Maine<br />Sing a song that you all know<br />And let your voices go<br />We&#39;ll sing it out, my brothers<br />Wherever we may go
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3134
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:32 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Amanda Won&#39;t Dance</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Well, if Amanda won&#39;t dance<br />I&#39;ll sing another song in the morning<br />If Amanda won&#39;t dance<br />I&#39;ll sing another song, I don&#39;t care<br />Till she moves like a queen<br />Dancing to the rhythm of Sweet Sixteen<br />And oh, oh, oh, my Amanda<br /><br />And if Amanda won&#39;t laugh<br />I&#39;ll make another pass in the morning<br />Hey, if Amanda won&#39;t laugh<br />I&#39;ll make another pass, I don&#39;t care<br />Till she laughs like a queen<br />Dancing to the rhythm of Sweet Sixteen<br />And oh, oh, oh, my Amanda<br /><br />And if Amanda won&#39;t sing<br />It won&#39;t mean a thing in the morning<br />Oh, if Amanda won&#39;t sing<br />It won&#39;t mean a thing, I don&#39;t care<br />Till she sings like a queen<br />Dancing to the rhythm of Sweet Sixteen<br />And oh, oh, oh, my Amanda<br />And oh, oh, oh, my Amanda<br /><br />And if Amanda won&#39;t dance<br />Amanda won&#39;t laugh<br />Amanda won&#39;t sing<br />And won&#39;t take a chance<br />It&#39;s a funny little thing<br />It&#39;s a funny little thing<br />This romance<br /><br />And if Amanda won&#39;t fly<br />I won&#39;t make her cry in the morning<br />And if Amanda won&#39;t fly, I won&#39;t make her cry, I won&#39;t care<br />Till she flies like a queen<br />Dancing to the rhythm of Sweet Sixteen<br />And oh, oh, oh, my Amanda<br />And oh, oh, oh, my Amanda<br /><br />Till she moves like a queen<br />Dancing to the rhythm of Sweet Sixteen<br />And oh, oh, oh, my Amanda<br />And oh, oh, oh, my Amanda<br />And oh, oh, oh, my Amanda
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

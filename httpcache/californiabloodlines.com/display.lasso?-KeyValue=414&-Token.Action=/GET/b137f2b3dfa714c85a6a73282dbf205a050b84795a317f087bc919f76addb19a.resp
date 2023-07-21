@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2833
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE AMERICANS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Americans (Neon Dreams, 2002)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There are heroes on the streets of New York,<br />Heroes on the planes who won&#39;t come home.<br />Heroes all the guys who rode engine number nine,<br />The heroes that will never be known,<br />Heroes who will never be known.<br /><br />And they were watching from the farms of Kansas,<br />Watching from the homes of Ohio,<br />Watching from the schools out on Second Avenue,<br />The heroes that will never be known,<br />Heroes that will never be known.<br /><br />Here&#39;s to the Americans,<br />Born in the land of the brave and the free.<br />Here&#39;s to the Americans,<br />Sure they look a whole lot like you and me.<br /> <br />Don&#39;t they know who we are?<br />Don&#39;t they know who we&#39;ve been?<br />In every city and farm,<br />All the women and men,<br />Who were born at the time of holding the line,<br />And we&#39;ll do it again and again.<br /> <br />And we are the Americans,<br />Born in the land of the brave and the free.<br />We are the Americans,<br />And we look a whole lot like you and me.<br /><br />Oh, we are the Americans,<br />Born in the land of the brave and the free.<br />We are the Americans,<br />Sure we look a whole lot like you and me,<br />Sure we look a whole lot like you and me.<br /> <br />Oh, we are the Americans&#8230;
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

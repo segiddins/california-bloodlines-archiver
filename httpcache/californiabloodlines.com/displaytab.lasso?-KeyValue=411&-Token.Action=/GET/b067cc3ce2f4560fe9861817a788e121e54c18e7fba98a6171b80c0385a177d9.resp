@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4432
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Golden Gate Fields</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>E4<br />E---------------<br />B---------------<br />G-------2-------<br />D-------2-------<br />A-------2-------<br />E---------------<br /><br /><br />Golden Gate Fields     John Stewart<br /><br />(E)  (E4)  (E)  (E4)   (E)  (E4)  (B)  (E)<br />Down in the (E4)valley<br />At the (E)sunrise you&#39;ll (E4)find<br />Jo(E)se and (C#m)Maria on (A)old 4-0-(B)5,<br />And he (E)said to Ma(E7)ria,<br />&quot;I&#39; II (A)call you to(G#m)night<br />(A)After the (E)claim stake,<br />When (B7)everything&#39;s right.&quot;<br /><br />And they&#39;re (E)driving to (E4)Glendale,<br />And the (E)race is at (E4)noon.<br />His (E)coffee&#39;s too (E4)hot,<br />And he&#39;s (F#)boarding too (B)soon<br />To (E)stare out the (E7)window<br />At (A)Camino (G#m)Real,<br />As they (A)saddle the (E)horses<br />At (F#)Golden Gate (B)Fields.<br /><br />And the (A)horses and (G#m)jockeys<br />While the (A)danger is (E)real,<br />At (A)post time and the (E)coast time<br />At (B7)Golden Gate (E)Fields.<br />(E4) (E) (E4) (E) (E4)  (A)  (B7)<br /><br />Now, (E)Lefty, he&#180;s the (E4)shooter,<br />He (E)arrived at the (E4)track,<br />His (E)stash and his (E4)needles<br />In the (F#)bag on his (B)back.<br />And they&#39;re (E)leading the (E7)horses<br />(A)Out of the (G#m)barn,<br />(A)Lefty&#39;s in (E)line<br />With the (A)tracks on his (B)arm.<br /><br />And he&#39;s (E)looking for a (E4)horse<br />To (E)get through the (E4)day,<br />That&#39;s (E)why he&#39;s the (E4)shooter,<br />And he&#39;s (F#)willing to (B)pay<br />The (E)price of the (E7)monkey<br />Who (A)takes him a(G#m)way.<br />He&#39;s a-(A)betting on (E)horses<br />That (F#)don&#39;t ever (B)pay.<br /><br />And the (A)horses and (G#m)junkies,<br />The (A)danger is (E)real,<br />At the (A)post time and the (E)coast time<br />At (F#)Golden Gate (B)Fields.<br />And the (A)horses and the (G#m)junkies<br />While the (A)dangers are (E)real,<br />At the (A)post time and the (E)coast time<br />At (B7)Golden Gate (E)Fields.<br />(E4)  (E)  (E4)  (E)  (E4)  (A)  (B7)<br />(E)  (E7)  (A)  (G#m)  (A)  (E)  (B7)<br /><br />Now the (E)first race<br />Is the(E4)claim stake,<br />And (E)Jose is (E4)back,<br />(E)Holding the (E4)reins,<br />Staying (F#)back in the (B)pack.<br />A(E)round the far (E7)turn<br />He (A)gives him his (G#m)slack,<br />A(A)voiding the (E)horses<br />Now (F#)flat on their (B7)backs.<br /><br />And the (A)horses and (G#m)junkies<br />And the (A)dangers are(E)real,<br />At the (A)post time and the (E)coast time<br />At (B7)Golden Gate (E)Fields.<br />(E4) (E) (E4) (E)<br /><br />Jose and Ma(E4)ria<br />And (E)Lefty and (E4)junk,<br />Who will (E)ride for the (E4)thrills<br />And (F#)what&#39;s in their (B)trunk?<br />And they&#180;re (E)counting on (E7)angels<br />Who (A)know how it (G#m)feels<br />At (A)post time and (E)coast time<br />At (B7)Golden Gate (E)Fields.<br /><br />For the (A)horses and the (G#m)jockeys<br />And the (A)dangers are (E)real,<br />At (A)post time and (E)coast time<br />At (F#)Golden Gate (B)Fields.<br />And the (A)horses and (G#m)junkies<br />And the (A)dangers are (E)real,<br />At the (A)post time and (E)coast time (hold)<br />At (B7)Golden Gate (E)Fields.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

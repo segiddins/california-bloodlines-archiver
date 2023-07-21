@@ -1,0 +1,23 @@
+{
+  "Attrs": {
+    "Copyright": "© John Stewart, All Rights Reserved",
+    "Guitar Tabulature": "John Stewart Lyrics Database",
+    "Lyrics": "Instrumental track\n\n",
+    "Lyrics Detail": "John Stewart Lyrics Database",
+    "Recording": "Centennial (Homecoming, 200, 1984)\nAmerican Sketches (Laserlight, 79372, 1991)\nThe Gathering (Homecoming, 100, 1984)",
+    "Songwriter": "John Stewart",
+    "Tab": "\n\n",
+    "Title": "WICHITA CROSS WINDS"
+  },
+  "Critera": {
+    "Recording": [
+      "American Sketches",
+      "Centennial",
+      "The Gathering"
+    ],
+    "songwriter": [
+      "John Stewart"
+    ]
+  },
+  "id": 173
+}

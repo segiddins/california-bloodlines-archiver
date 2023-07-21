@@ -1,0 +1,99 @@
+HTTP/1.0 200 OK
+Content-Length: 5255
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 17:38:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+
+	<head>
+		<title>John Stewart Lyrics Search Results</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<center>
+			<table cellspacing="0" cellpadding="1" width=550>
+				<tr>
+					<td align=left valign=middle><b><font size="+2"><font color="purple">Search Results</font></font></b></td>
+					<td align=right><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></font></b></td>
+				</tr>
+			</table>
+			<img src="images/dkpuline550.gif" alt="" width="550" height="25">
+			<br>
+			<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+	
+	
+	
+	
+	
+	
+	
+	
+ </td>
+		</tr>
+		<tr>
+			<td colspan="2"> 	
+	
+ </td>
+		</tr>
+		<table border="0" cellspacing="4" cellpadding="2" width=550>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple">Song Details,Tabs and Printable Lyrics</font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th></th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=313&-Token.Action=">COWBOY IN THE DISTANCE<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=313&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=313&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=335&-Token.Action=">WALK ON THE MOON<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=335&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=335&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=336&-Token.Action=">WALTZ OF THE CRAZY MOON<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=336&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=336&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=337&-Token.Action=">RENEGADE RISING<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=337&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=337&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=338&-Token.Action=">THE DILLY MONKEYS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=338&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=338&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=339&-Token.Action=">HIGH FLYING EAGLE<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=339&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=339&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=340&-Token.Action=">FIELD WHERE THE ANGELS DANCE<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=340&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=340&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=351&-Token.Action=">WIDE EYED IN BABYLON<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=351&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=351&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=354&-Token.Action=">METEOR MAN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=354&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=354&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=355&-Token.Action=">ENDLESS ROADS AND NORTHERN LIGHTS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=355&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=355&-Token.Action=">Printable Lyrics<br><br></a>
+		 </td>
+		</tr></table>
+		<tr>
+			<td colspan="2"> 
+	  Showing 10 records out of 10 found (1 to 10)   
+ </td>
+		</tr>
+	</table>
+		<p><img src="images/dkpuline550.gif" alt="" width="550" height="25"><br>
+				<a href="search.lasso"><img src="images/Seachagain.gif" alt="" width="148" height="35" border="0"></a></p>
+		</center>
+	</body>
+
+</html>

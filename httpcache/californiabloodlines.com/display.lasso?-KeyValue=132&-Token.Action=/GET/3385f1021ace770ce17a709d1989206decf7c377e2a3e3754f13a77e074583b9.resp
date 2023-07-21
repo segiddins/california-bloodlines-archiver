@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2762
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RAZORBACK WOMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>California Bloodlines (Capitol, ST203, 1969)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I still can remember Pa coming home drunk<br />With the boys from the Union Hall station<br />And it&#39;s hard to believe all the words that I read<br />We are living in God&#39;s favourite nation<br />And I knew he was ill from the size of his pills<br />But he choked on the preacher&#39;s salvation<br />And I know that his blood it still flows in my veins<br />As I fall for each blue-eyed temptation<br /><br />And the razorback woman who stood by his side<br />Is skinny and fixing to die<br />Oh the razorback woman is calling me home<br />And she cries<br />Oh my God how she cries<br /><br />I was only fourteen and my Dad he was mean<br />When his face shined a river of sweat<br />Oh, he started yelling &quot;You&#39;ll go straight to hell&quot;<br />And &quot;You&#39;re young and your ears are still wet&quot;<br />When the other young boys were enjoying their toys<br />He gave me my first cigarette<br />And I&#39;d like to say that these were the days<br />That my sprung lungs will never forget<br /><br />And the razorback woman who stood by his side<br />Is skinny and fixing to die<br />Oh the razorback woman is calling me home<br />And she cries<br />Oh my God how she cries
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

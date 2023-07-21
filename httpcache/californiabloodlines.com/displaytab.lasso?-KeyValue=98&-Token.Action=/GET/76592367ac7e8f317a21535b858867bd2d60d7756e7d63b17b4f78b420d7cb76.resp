@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3462
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:23 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JOE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>For the intro:<br /><br />Am 5th fret<br />E-----------5-----------<br />B-----------5-----------<br />G-----------5-----------<br />D-----------5----7-----<br />A-----------5----7-----<br />E-----------5-----------<br /><br />G 5<br />E--X-----------<br />B--------3------<br />G---------------<br />D---------------<br />A----2----------<br />E--------3------<br /><br /><br />(C) (Am 5th fret) (G5)(G) (C) (C, pull of to b-hammer on c [on B-string])<br />     (Am 5th fret) (G5)(G) (C)<br /><br />So the (Am7short)light (G) will shine for (C)Joe,<br />(Dm7) She a(Cj7)lone (Dm7) will (G)burn the (C)coal.<br />(Dm7) Pray for (G)him, (Em)Joe, that (Dm)old (G)rolling (C)stone, (Am)<br />(F) So the (C)light (Cj7) will (Dm)shine (G/B)for (C)Joe.<br /><br />She has (Am7short)seen (G) him work so (C)long<br />(Dm7)To try and (Cj7)write the (Dm)ever(G)lasting (C)song<br />(F) A whole lot of (G)te(Em)ars <br />Were (Dm)riding (G)on those (Cj7)rhymes, (Am7)<br />(Dm) She knows he (Cj7)tries (Dm7) too (G/B)hard some(C)times.<br />(on C-chord, highlight [on D-string] E-F-[on G-string]G-A-G-A to&#8721;)<br /><br />(F) So the (Cj7)light will (Dm)shine (G) for (C)Joe,<br />(F) She a(Cj7)lone will (Dm7)burn (G)the (C)coal.<br />And she&#39;ll (F)pray for (C)him, (Am7)Joe, that (E)old (E7)rolling (Am)stone,<br />(C7)Oh, (F)so the (Em)light will (Dm7)shine(G/B) for (C)Joe.<br />(Am 5th fret) (G5)(G) (C) (C, pull of to b-hammer on c [on B-string])<br /><br />A hometown (Am)girl (G) with the world-wide (C)eyes<br />(Dm7) Stands with (Cj7)Joe (Dm) to (G)watch the (C)skies.<br />(F) Falling (Em7)star (Dm)never (G)had the (C)glow (Am)<br />(Dm) Of the (Cj7)light(Am7short) that (Dm)shines (G/B) for (C)Joe.<br />(on C-chord, highlight [on D-string] E-F-[on G-string]G-A-G-A to&#8721;)<br /><br />(F) So the (Cj7)light will (Dm)shine (G) for (C)Joe,<br />(F) She a(Cj7)lone will (Dm7)burn (G)the (C)coal.<br />And she&#39;ll (F)pray for (C)him, (Am7)Joe, that (E)old (E7)rolling (Am)stone,<br />(C7)Oh, (F)so the (Cj7)light will (Dm7)shine(G/B) for (C)Joe.<br />(Am 5th fret) (G5)(G) (C) (C, pull of to b-hammer on c [on B-string])<br />(Dm7) So the (Am7short)light will (Dm7)shine(G/B) for (C)Joe.<br />(Am 5th fret) (G5)(G) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

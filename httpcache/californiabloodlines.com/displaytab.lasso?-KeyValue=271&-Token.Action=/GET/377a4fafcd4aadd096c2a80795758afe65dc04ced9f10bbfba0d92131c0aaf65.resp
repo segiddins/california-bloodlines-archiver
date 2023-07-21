@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4190
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:31 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DREAMS OF THE STARMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>C9 short<br />E--------------<br />B--------3-----<br />G--------------<br />D----2---------<br />A-------3------<br />E--------------<br /><br />Am7 short<br />E--------------<br />B-1------------<br />G--------------<br />D----2---------<br />A--------------<br />E--------------<br /><br />D9/F#<br />E--------------<br />B-1------------<br />G----2---------<br />D--------------<br />A--------------<br />E----2---------<br /><br />Em7 short<br />E--------------<br />B--------------<br />G--------------<br />D--------------<br />A----2---------<br />E--------------<br /><br />E4<br />E---------------<br />B---------------<br />G----2----------<br />D----2----------<br />A----2----------<br />E---------------<br /><br />Capo 2nd fret <br /><br />In this song, high E-string often remains unplayed (you&#180;ll hear)<br /> <br />High notes here: <br />                 e    d   c    b                      <br />(C) (Em) (C)(C9)(C)(Cj7) (Am) (G) <br />                   b c d e<br />(C) (G) (C) (G/B)(Am)      (F) (D9/F#) (G)<br />If (F)children (G)never were (Cj7)hurt,<br />No (F)reason for (G)babies to (C)cry,(Cj7)(C) <br />If (F)nobody (G)ever was (Em) hungry (Am7)<br />(F)No one you (D9/F#)love ever (G)died. (G4)(G) <br /><br />And if (F)nobody (G)ever was (Cj7)heartless, (C)(Cj7)(C)<br />If (F)nobody (G)ever was (C)cruel, (Cj7)(C)<br />If (F)everyone (G)got all their (Em)wishes, (Am7)<br />And (F)only the (D9/F#)good would (G)rule...(G7)(G6) (hold)<br /><br />Oh, (F)these are the (G)dreams of the (C)Starman, (Am)<br />(F)Even if he (G)never is (C)heard, (C9)(C)<br />Oh, (F)these are the (G)dreams of the (Em7)Starman,(E4)<br />For(F)ever the (Am)keeper of (G)words. (Bass run on D-string: DD DE EF FE)<br /><br />If re(F)ligions (G)never were (Cj7)righteous,(C9)(C)<br />Be(F)lieving that (G)they are the (C)one,<br />If (F)never there was (G)ever a (Em)reason(Am7)<br />(F)Ever to (D9/F#)fire a (G)gun&#8230;<br /><br />Oh, (F)these are the (G)dreams of the (C)Starman, (Am)<br />(F)Even if he (G)never is (C)heard,<br />And (F)these are the (G)dreams of the (Em7)Starman,(E4)<br />For(F)ever the (Am)keeper of (G)words. (Bass run on D-string: DD DE EF FE)<br />(F)  (G)  (Cj7)  (F)  (G)  (C)  (F)  (G)  (Em7) (E4)  (F)  (D9/F#)  (G)<br /><br />If (F)we would just (G)live all our (Cj7)own lives,(C)(Cj7)(C)<br />(F)Leave other (G)people a(C)lone,(Cj7)(C)(Cj7)(C)<br />And if (F)those who just (G)love one a(Em)nother(Am7)<br />Would (F)not be the (D9/F#)targets of (G)stones...(G4)(G)(G4)(G)<br /><br />And (F)these are the (G)dreams of the (C)Starman,(Am)<br />(F)Even if he (G)never is (C)heard,(Cj7)(C)<br />Oh, (F)these are the (G)dreams of the(Em7)Starman,(E4)<br />For(F)ever the (Am)keeper of (G)words. (Bass run on D-string:DD DE EF FE)<br /><br />Oh, (F)these are the (G)dreams of the(C) Starman, (Am)<br />(F)Even if he (G)never is (C)heard, <br />Oh, (F)these are the (G)dreams of the (Em7)Starman(E4)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

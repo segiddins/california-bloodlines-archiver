@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2780
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ARMSTRONG</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Cannons in the Rain (RCA, LSP 4827, 1973)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />Armstrong (Homecoming, 850, 1994, single)<br />Gold (Wrasse Records, WRASS016, 2000)<br />Airdream Believer (Shanachie, 8075, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Black boy in Chicago<br />Playing in the street<br />Not enough to wear<br />Not near enough to eat<br />But don&#39;t you know he saw it<br />On a July afternoon<br />He saw a man named Armstrong<br />Walk upon the moon<br /><br />Young girl in Calcutta<br />Barely eight years old<br />The flies that swarm the market place<br />Will see she don&#39;t get old<br />But don&#39;t you know she heard it<br />On that July afternoon<br />She heard a man named Armstrong<br />Had walked upon the moon<br />She heard a man named Armstrong<br />Had walked upon the moon<br /><br />The rivers are getting&#39; dirty<br />The wind is getting bad<br />War and hate is killing off<br />The only earth we have<br />But the world all stopped to watch it<br />On that July afternoon<br />To watch a man named Armstrong<br />Walk upon the moon<br />To watch a man named Armstrong<br />Walk upon the moon<br /><br />Oh I wonder if a long time ago<br />Somewhere in the universe<br />They watched a man named Adam<br />Walk upon the earth
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

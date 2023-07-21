@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 4471
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:45 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Where is the road?<br />Cyrus Avery&#8217;s ribbon of dreams<br />That ran away from Chicago to the Pacific Ocean to connect the Mid-West and the Promised land.<br />A concrete artery for the American Dream<br />For the automobile for the restless traveler<br />Where is the road that wouldn&#8217;t  die<br />In 1977 when they took down the last highway Sign and thought it would just go away,<br />But it wouldn&#8217;t just go away.<br />It wasn&#8217;t just a road Cyrus Avery&#39;s ribbon of Dreams, It was Pop Hicks Diner with<br />Howard and Mary Nichols In Clinton Oklahoma<br />Where the heart beat of what John Steinbeck<br />Called the Mother Road<br />Was heard over the sound of coffee cups<br />Knocking against plates of Spanish Omelettes<br />And home fries<br />Where is the Road that Tom Joad traveled west<br />From Oklahoma with his family<br />And tethered mattresses in the <br />Grapes of Wrath.<br />Where Ernest Hemingway sat and sipped wine<br />In the Villa Cuberto in Albuqerque New Mexico<br />Where he wrote The Old Man and The Sea.<br />Where is the road that refused to die,<br />As the signs saying Route 66 began to            Reappear on the sides of buildings, shops and Sheds as if by magic.<br />As if Route 66 signs that appeared painted<br />On the very concrete itself were a kind of <br />Stigmata of the American dream.<br />Where Will Rogers once stood in the Coleman Theatre in Miami Oklahoma<br />And re-defined the image of a country<br />With a reality check that long outlived<br />Even Rogers himself. as the road became Known as  The Will Rogers Highway.<br />And the Coleman Theatre still stands beside 66<br />With an ornate style that screams &quot;I am alive&quot;<br />Against the Oklahoma horizon<br />Where is the road where Stanley Marsh planted<br />Ten Cadillacs in the ground outside Amarillo Texas and Cadillac Ranch <br />Became visual rock and roll.<br />The road runs from Tucumcari<br />To Flagstaff, through Meteor City and Winslow Arizona with the line of a spider vein on the Thigh of a runway dancer.<br />The road cuts through the Mohave Desert<br />Where sidewinders find the shade<br />In the shadows of abandoned oldsmobiles<br />Bleached into rusted skeletons<br />Like those that lie beneath the <br />White hot sand of Americas highway.<br />Then  it&#8217;s Azusa, Pasadena and Pomona<br />Where harness horses walk under wool <br />Blankets in endless circles at the L.A. County Fairgrounds and the solid air of Los Angeles Hangs like the smoke of a <br />Hollywood Hills pot party<br />Over the fading walls of the Miracle Mile.<br />Where is the road that stops at the Santa Monica Pier Where Crips and Bloods strut their Territory over weather boards that still shake The feet of tourists and the sound of a carousel Spinning it&#8217;s innocence in what&#8217;s left of the Promised Land.<br />Where is the road?<br />I must find out.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,61 @@
+(D)
+When your wings no longer (Dj7)catch the wind
+Your (Bm)wheels are throwing (D)sparks from concrete (G)on the rims,
+And when you've (A7short)run so long and (Em7)you run so hard
+(A7 short)Feeling every (Em7)stone beneath your (D)feet,
+As they re(A7short)peat 
+That when you (G)run, you (A7)run a(D)lone.
+
+And when your dreams are all just (Dj7)flashbacks
+And you're (Bm)crying beneath the (D/A)wise cracks,
+I've been (G)here before and there (A7short)is no more, (Em)
+And when you've (A7short)run so hard and you're (Em7)worn so thin,
+You (A7)find that losing's (Em7)just another (D)way to win.
+
+It is (G)time (Bm/F#)for (A7short/E)you 
+(A7short) To be(D)gin
+To be (Bm)wings,
+To be (A)wheels,
+And to (F#m)know how it (G)feels
+To be (D)you (A7short/C#)on your (D)own,
+'Cause when you (G)run,
+Oh, when you (A7short)run,
+You run a(D)lo(A7short/C#)o(Bm)o(D/A)o(G)one.
+(D)(A7short/C#)(Bm)(D/A)(G) (hold)
+
+And you (D)know you love the (Dj7)game,
+Like the (Bm)river loves the (D/A)rain,
+Sidewinder (G)loves the plain,
+So you (A7)can't complain.
+(G)No one hears and (Em7)no one cares
+That the (A7 short)road you're going
+(Em7) Doesn't get you (D)anywhere,
+You're the one who (Em7)put it there. (A7 short)
+
+So (D)why not go and (Dj7)chase the sun?
+(Bm) That's one race (D/A) that just (G)can't be won,
+But at least (Bm/F#)you (A7short/E)have (A7short) be(D)gun
+To be (Bm)wings,
+To be (A)wheels,
+And to (F#m)know how it (G)feels
+To be (D)you (A7short/C#)on your (D)own,
+'Cause when you (G)run,
+Oh, when you (A7short)run,
+You run a(D)lo(A7short/C#)o(Bm)o(D/A)o(G)one.
+
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone,
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.
+You‚re a (D)runner and a (A7short/C#)gunner and a (Bm)midnight (D/A)sunner,
+When you (G)run, then you run alone.

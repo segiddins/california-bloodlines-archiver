@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4214
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ONE GRAIN OF SAND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Highlight notes in [ ]<br />Playing hint: high E-string often unplayed.<br />Sounds good without the high note and bass runs, too &#8211; but go for them.<br /><br /><br />(Cj7) (high notes run e-e-d-e-c, b-hammer on c pull off to b hammer on c) (Fj7) (G)<br />(Cj7) I will never forget Aunt De(Fj7)lores,<br />(Cj7) In the dusty white Plymouth she (Fj7)sat,<br />(Cj7[e]) Or the [d]dozen [b]white lilies [c]and ribbons[b-g-E(on D-string-a(on G-string)]<br />(D/F#) Carefully held in her lap.(G)  (bass notes:A-F)<br />(F) And she smiled (Fj7)serenely at no one(C)(Cadd9)(Am7short)<br />(F) As her (D/F#)memories faded away,(G)<br />(C) You see, (E7short[b])she&#180;s [d]having a party,(Am[c]) (D bass-note to&#8230;)<br />(D/F#) It&#39;s her ninety-first birthday today.(G)<br /><br />(Cj7) See the hearse stalled out there on the highway.(Fj7)<br />(Cj7) Some neighborhood boys looked in(Fj7)side.<br />(C[c]) [e] The long [d]metal [b]box was so (Am[c])shiny, [b]<br />(D/F#) They wonder who&#39;s taking the ride.(G) (D-bass note to&#8230;)<br />(F) And (G)Henry has found a brown ,(Cj7[b])lizard,(Cadd9[d])(C[c]) <br />(D-bass note to&#8230;)<br />(F) Sunning it(D/F#)self on the (G)ground,<br />(F) And the hearse pulls a(E7short)way quite unnoticed (Am) (Am/G)<br />(D/F#) As they&#39;re passing the lizard a(G)round. (hold)<br /><br />(Cj7) (hold) One tiny grain of (Dm7)sand (G/D)<br />(G)Cast against the (C[e] [e])sky, [d] [b] (Am[c] [c])(Am/E to&#8230;)<br />A (Am/G)million stars [D bass note]a(F)round it(Dm7) (F# bass note)<br />To (G)see that it can (C)fly, (C[f][e])  (C7)<br />(F) And around the (G)stars, the (C[e])heavens[b] [c] [b] <br />[b hammer on a pull off to b] (Am)<br />And (E7short)all that lies be(Am)yond,(Am/G)<br />(Cj7) All around this (F)grain of sand <br />(Dm7) We are standing (G)on.<br />(Cj7)  (Fj7)   (Cj7)   (Fj7)<br /><br />(Cj7) And if you turn off on Glen (Fj7)Annie Road<br />(Cj7) And a pretty young girl comes your way,(Fj7)<br />(C) It&#39;s [e]just E[d]laine out [b]chasing the [c]morning,<br />(D/F#) It&#180;s her favorite time of (G)day.(hold)<br /><br />(Cj7) (hold) One tiny grain of (Dm7)sand (G/D)<br />(G)Cast against the (C[e] [e])sky, [d] [b] (Am[c] [c])(Am/E to&#8230;)<br />A (Am/G)million stars [D bass note]a(F)round it(Dm7) (F# bass note)<br />To (G)see that it can (C)fly, (C[f][e])  (C7)<br />And a(F)round the (G)stars, the (C[e])heavens[d] [c] [b] (Am)<br />Oh, and (E7short)all that lies be(Am)yond,(Am/G)<br />(C) All a(C/B)round this (Am)grain of sand (Am/G)<br />(F) We (Dm7)are standing (G)on.<br /><br />(C[e-e-d-b](Am) (Am[c-d-e])(F[f-f-c](G5[d])(C[e])<br />(C [c-c  e-c])(G5[d-d])(C[c-c-b]) (Am[bass notes E-F  E-F#  E to&#8230;](G)<br /><br />(F) And around the (G)stars, the (C)heavens  (Am)<br />And (E7short)all that lies be(Am)yond,<br />(Cj7) All around this (F)grain of sand<br />(Dm7) We are standing (G)on. (hold)<br />(Cj7 [b hammer on c pull off to b hammer on c pull off to b])
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

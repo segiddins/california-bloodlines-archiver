@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3086
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:11 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE WILD SIDE OF YOU</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Fire in the Wind (RSO, RSO SUPER 2394 194, 1977)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I ain&#39;t afraid of the lightning and rain<br />When the wind blows from the north<br />Don&#39;t bother me if I&#39;m lost at sea<br />And my ship blows off its course<br />Take it from me as the wind blows free<br />You will know it&#39;s true<br />But what scares me to death<br />To my dying breath<br />The wild side of you<br />Oh, the wild side of you<br /><br />And I have seen the wicked and the mean<br />The midnight rider&#39;s gun<br />Taking leave of the bull dog&#39;s teeth<br />When that mother&#39;s on the run<br />Take it from me as the wind blows free<br />You will know it&#39;s true<br />And what scares me to death<br />To my dying breath<br />The wild side of you<br />Oh, the wild side of you<br /><br />Stranger still is the bitter pill<br />That I swallow now and then<br />The devil says to bend my head<br />Saying &quot;You ain&#39;t no different, friend.&quot;<br />And you will know how the story goes<br />It&#39;s as easy as one, two, three<br />And what scares me to death<br />To my dying breath<br />It&#39;s the wild side of me<br />Ah, the wild side of me<br /><br />I ain&#39;t afraid of the lightning and rain<br />When the wind blows from the north<br />Don&#39;t bother me if I&#39;m lost at sea<br />And my ship blows off its course<br />Take it from me as the wind blows free<br />You will know it&#39;s true<br />And what scares me to death<br />To my dying breath<br />The wild side of you<br />Oh, the wild side of you<br />Wild side of you<br />Wild side of you
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

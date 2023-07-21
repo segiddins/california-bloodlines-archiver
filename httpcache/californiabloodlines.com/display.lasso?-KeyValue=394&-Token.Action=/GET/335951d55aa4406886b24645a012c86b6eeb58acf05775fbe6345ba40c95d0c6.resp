@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3105
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AULD LANG SYNE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>No one has a number<br />No one has an address<br />Miss Stephanie Butler is gone<br />But I remember those<br />Days at Seven Oaks<br />When love was a word among those you&#39;ld never chose<br /><br />For Auld Lang Syne, my dear<br />For Auld Lang Syne<br />Oh we&#39;ll take a cup of kindness yet<br />For Auld Lang Syne<br /><br />And you, Angel Rain<br />Need I explain<br />That you&#39;re meaning to me more and more<br />Like no one before<br />You&#39;ve opened the door<br />And the sun shines down on my heart once more<br /><br />For Auld Lang Syne, my dear<br />For Auld Lang Syne<br />We&#39;ll take a cup of kindness yet<br />For Auld Lang Syne<br /><br />And you, Thomas Waits<br />When you pass heaven&#39;s gates<br />May that give you the keys to the bar<br />With some old piano<br />And the waitress sings soprano<br />And please can you leave my name at the door<br /><br />And Julie hold the fort<br />For the years are getting short<br />They can go with the wave of a hand<br />And as time goes flying on<br />For all that went wrong<br />I wish for you the best and to join us in this song<br /><br />For Auld Lang Syne, my dear<br />For Auld Lang Syne<br />Oh we&#39;ll take a cup of kindness yet<br />For Auld Lang Syne<br /><br />And to my dearest friends<br />Oh how good it has been<br />And it kills me each day I&#39;m away<br />Oh to Amy and Mikael<br />And Jeremy I say<br />Forever in my heart you will stay<br /><br />For Auld Lang Syne, my dear<br />For Auld Lang Syne<br />Oh we&#39;ll take a cup of kindness yet<br />For Auld Lang Syne
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3036
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE CHILDREN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes &#39;86 (Homecoming, 450, 1986)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh, marry the man when the moon was right<br />And you&#39;ve all had your way<br />True love happens every day<br />Now there&#39;s nowhere to hide with a child inside<br />You don&#39;t know what to say<br />But follow your heart all the way<br /><br />And you stand, you know, stand by the children<br />You got to stand, you know, stand by the children<br />Here and on their way<br />And you stand, you know, stand by the children<br />Oh it&#39;ll be their world someday<br /><br />You can&#39;t measure a life with the blade of a knife<br />It just don&#39;t work that way<br />Everybody should see the light of day<br />And if this is the dance then give them a chance<br />&#39;Cause they might find the way<br />To follow your heart all the way<br /><br />And you stand, you know, stand by the children<br />You got to stand, you know, stand by the children<br />Stand by the children, stand by the children<br />&#39;Cause it&#39;ll be their world some day<br /><br />I remember the time when a guy with a dime<br />An old man on the street<br />A neighbourhood was a place to meet<br />And now danger hides where a stranger rides<br />To keep &#39;em safe you say<br />To follow your heart all the way<br /><br />And you stand, you know, stand by the children<br />You got to stand, you know, stand by the children<br />Here and on their way<br />And you stand, you know, stand by the children<br />Stand by the children, stand by the children by the children
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3559
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>OH MISS MARY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and John Phillips</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)  (Am)  (B7)  (C) (D) (G)  (D7)<br />(G) Oh, Miss (Am)Mary, (G) where are you wanderin&#39;? <br />(Am) Oh, Miss (D)Mary, (G) where are you wanderin&#39;? <br />Oh, Miss (C)Mary, (B7) where are you (Em)wande(C)rin&#39;? <br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />When (G)Mary was a (Am)young girl (G) she took to wanderin&#39;,<br />(Am) Never would she (D)leave me (G) and not come back again.<br />Swear I hear her (C)singing, (B7)singing in the (C)western wind,<br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G) Oh, Miss (Am)Mary, (G) where are you wanderin&#39;? <br />(Am) Oh, Miss (D)Mary, (G) where are you wanderin&#39;? <br />Oh, Miss (C)Mary, (B7) where are you (Em)wande(C)rin&#39;? <br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G)Mary chased a (Am)rainbow (G) over the mountains,<br />(Am)Crossed so many (D)rivers, Lord, (G) that I can&#39;t count &#180;em.<br />She wouldn&#39;t want those (C)rainbows (B7)even if she (C)found them,<br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G) Oh, Miss (Am)Mary, (G) where are you wanderin&#39;? <br />(Am) Oh, Miss (D)Mary, (G) where are you wanderin&#39;? <br />Oh, Miss (C)Mary, (B7) where are you (Em)wande(C)rin&#39;? <br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G)Watchin&#39; for my (Am)Mary, (G) wish she were home again,<br />(Am)Home from the (D)rivers, Lord, (G) home from the mountains.<br />If I turned my (C)back, say, (B7)she&#39;d just be (C)gone again,<br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G) Oh, Miss (Am)Mary, (G) where are you wanderin&#39;? <br />(Am) Oh, Miss (D)Mary, (G) where are you wanderin&#39;? <br />Oh, Miss (C)Mary, (B7) where are you (Em)wande(C)rin&#39;? <br />(G) Three days and (Am)Mary&#39;s (D)comin&#39; (G)home. (D7)<br /><br />(G) Oh, Miss (Am)Mary, (G) where are you wanderin&#39;? <br />(Am) Oh, Miss (D)Mary, (G) where are you wanderin&#39;? <br />Oh, Miss (C)Mary, (B7) where are you (Em)wande(C)rin&#39;? <br />(G) Three days and (Am)Mary&#39;s (D)comin&#39;,<br />(G) Three days and (Am)Mary&#39;s (D)comin&#39;,<br />(G) Three days and (Am)Mary&#39;s (D)comin&#39;  (G)home.   (D7)(G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

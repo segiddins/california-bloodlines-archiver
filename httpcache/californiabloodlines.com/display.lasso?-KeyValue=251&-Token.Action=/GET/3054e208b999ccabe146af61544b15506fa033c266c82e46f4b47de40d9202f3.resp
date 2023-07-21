@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3711
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AT THE MOVIES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes II UK Release (Homecoming, 650, 1987)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I was looking at my life, like it was a movie<br />Like it was a movie and I didn&#39;t get the part<br />Oh, looking at my life, like it was a movie<br />Like it was a rerun where you get another start<br />It happens in the movies, hey, hey, Jimmy Dean<br />Looking at your life on the silver screen<br />And you know, it happens in the movies<br />Yeah, yeah, yeah, in the movies<br />Oh in the movies<br />It only happens in the movies<br /><br />I was looking at my life, like it was a movie<br />Like it was a movie and I&#39;m waiting for the cue<br />Oh, looking at my life, like it was a movie<br />Like they didn&#39;t choose me and there&#39;s nothing I could do<br />It happens in the movies, hey, hey, Jimmy Dean<br />Looking at your life on the silver screen<br />And you know, it happens in the movies<br />Yeah, yeah, yeah, in the movies<br />Oh in the movies<br />It only happens in the movies<br /><br />Oh, let me find a new love, let her be the one love<br />Let her be a true love like it happens in the movies<br />Oh, let me find a new love, let her be the one love<br />Let her be a true love like it happens in the movies<br />Yeah, yeah, yeah, in the movies<br />Oh, in the movies<br />It only happens in the movies<br /><br />I was looking at my life, like it was a movie<br />Like it was a movie and I didn&#39;t get the part<br />Oh, looking at my life, like it was a movie<br />Like it was a rerun where you get another start<br />It happens in the movies, hey, hey, Jimmy Dean<br />Looking at your life on the silver screen<br />And you know, it happens in the movies<br />Yeah, yeah, yeah, in the movies<br />Oh in the movies<br />It only happens in the movies<br /><br />Oh, let me find a new love, let her be the one love<br />Let her be a true love like it happens in the movies<br />Oh, let me find a new love, let her be the one love<br />Let her be a true love like it happens in the movies<br />Hey, hey, Jimmy Dean<br />Looking at your life on the silver screen<br />And you know, it happens in the movies<br />Yeah, yeah, yeah, in the movies<br />Oh in the movies<br />It only happens in the movies
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

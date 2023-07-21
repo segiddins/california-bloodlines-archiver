@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3667
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:13 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LONG TRAIN OF DREAMS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rocket Roy in the Real World Plus (Neon Dreams, 1999)<br />Way Too Much Fun (Neon Dreams 2000, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I am a traveler,<br />I am riding through time,<br />I have a ticket to the end of the line.<br />Lights of the city are passing in blue,<br />I stare at reflections searching for you.<br /><br />Stopped off at Heartbreak,<br />It was back down the line.<br />In the Hotel of Tears, I spent some hard times.<br />I&#39;ve seen that life is not what it seems,<br />On the long track of lies runs the long train of dreams.<br /><br />I&#39;m riding the liner, the Lonesome Express,<br />The end of the line is our only address.<br />I&#39;m riding the liner all silver and clean,<br />On the long track of lies runs the long train of dreams.<br />On the long track of lies runs the long train of dreams.<br /><br />Comfort the porter&#39;s<br />Taking good care.<br />Have no compartment, asleep in the chair.<br />I dream of a stranger who captures my soul,<br />I hear the wheels singing through years as we roll.<br /><br />I walk through the Pullman<br />On my way to the bar,<br />At the end of the train in the desperate car.<br />In the dark of the tunnel the hiss of the steam<br />Reminds me I&#39;m riding the long train of dreams.<br /><br />I&#39;m riding the liner, the Lonesome Express,<br />The end of the line is our only address.<br />I&#39;m riding the liner all silver and clean,<br />On the long track of lies runs the long train of dreams.<br />On the long track of lies runs the long train of dreams.<br /><br />I have faith you will find me<br />Or I will find you.<br />In the lights of the station of all that is true<br />I search for a stranger with eyes who are kind.<br />I&#39;ll hold you forever at the end of the line.<br /><br />I&#39;m riding the liner, the Lonesome Express,<br />The end of the line is our only address.<br />I&#39;m riding the liner all silver and clean<br />On the long track of lies runs the long train of dreams.<br />I&#39;m riding the liner all silver and clean,<br />On the long track of lies runs the long train of dreams.<br />On the long track of lies runs the long train of dreams.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

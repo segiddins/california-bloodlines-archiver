@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3538
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JULY, YOU&#8217;RE A WOMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(E) (Ej7) (F#m) (B7) 5x<br />I can&#171;t (E)hold it on the (Ej7)road <br />When you&#171;re (F#m)sitting right (B7)beside me,<br />And I&#171;m (E)drunk out of my (Ej7)mind <br />(F#m)Merely from the (B7)fact that you are (E)here.(Ej7) (F#m) (B7)<br />Yeah, and (E)I have not been (Ej7)known <br />As the (F#m)saint of San (B7)Joaquin,<br />And I&#171;d (E)just as soon right (Ej7)now(F#m)  <br />Pull on (B7)over to the (E)side of the (G#7)road(A) <br />And (B)show you what I (E)mean.<br /><br />(C#m)La deda dadada (A)da, <br />(C#m)La deda dadada (A)da-a,(B7)<br />(E)July, you&#171;re a (A)woman, <br />(B7)more than anyone I`ve ever (E)known.(Ej7) (F#m) (B7)<br /><br />Yeah, and (E)I can&#171;t hold my (Ej7)eyes <br />On the (F#m)white line out (B7)before me<br />When your (E)hand is on my (Ej7)collar <br />(F#m)And you&#171;re (B7)talking in my (E)ear.(Ej7) (F#m) (B7)<br />Oh, and (E)I have been (Ej7)around <br />With a (F#m)gypsy girl named (B7)Shannon,<br />(E)Daughter of the (Ej7)devil. <br />(F#m)It is (B7)strange that I should (E)mention that to (G#7)you,(A)<br />&#171;Cause I haven&#171;t (B)thought of her in (E)years.<br /><br />(C#m)La deda dadada (A)da, <br />(C#m)La deda dadada (A)da-a,(B7)<br />(E)July, you&#171;re a (A)woman, <br />(B7)more than anyone I&#171;ve ever (E)known.(Ej7) (F#m) (D7)<br /><br />I can&#171;t (G)hold it on the (Bm7)road <br />When you&#171;re (C)sitting right (D7)beside me<br />And I&#171;m (G)drunk out of my (Bm7)mind  <br />(C)Merely from the (D7)fact that you are (G)here.(Bm7) (C) (D)<br />Yeah, and (G)I have not been (Bm7)known <br />As the (C)saint of San (D7)Joaquin<br />And I&#171;d (G)just as soon right (Bm7)now  <br />(C)Pull on (D7)over to the (G)side of the (B7)road<br />(C)And (D)show you what I (G)mean.<br /><br />(Em)La deda dadada (C)da, <br />(Em)La deda dadada (C)da-a,(D7)<br />(G)July, you&#171;re a (C)woman, <br />(D7)more than anyone I&#171;ve ever (G)known.(Bm7)(C) (D7)<br />(G)July, you&#171;re a (C)woman, <br />(D7)more than anyone I&#171;ve ever (G)known,(Bm7)<br />(C)more than (D)anyone (G)I&#171;ve ever (Em)known.<br />(C) (D)July, you&#171;re a (G)woman.(Em)<br />(C)La de(D)da dadada (G)da,(Em)  <br />(C)La de(D)da dadada (G)da da dada (Em)da,<br />(C)La da (D)da dadn da da (G)da.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

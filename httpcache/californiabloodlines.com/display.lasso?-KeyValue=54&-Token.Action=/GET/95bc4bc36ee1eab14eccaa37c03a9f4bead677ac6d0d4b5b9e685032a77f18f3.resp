@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2870
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:33 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LET THE BIG HORSE RUN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Wingless Angels (RCA, APL1 0816, 1975)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh the sun shines bright on my old Kentucky home<br />On my old Kentucky home far away<br /><br />Oh the sun shines bright over old Kentucky<br />Over old Kentucky on the derby day<br />They let him run, they let the big horse run<br />Please Mrs Tweedy<br />I saw him on the T.V.<br />Send him out to run in the California sun<br /><br />And let him run, let him run<br />Let me see the big horse run<br />Let him run, let him run<br />Let him run, let him run<br /><br />Swaps, Citation, Man O&#39;War<br />Never saw a horse like that before<br />Let him run, let the big horse run<br />Running is an itch<br />He&#39;s got to scratch<br />No offence to old Dan Patch<br /><br />But let him run, let him run<br />Let me see the big horse run<br />Let him run, let him run<br />Let him run, let him run<br /><br />Spending his time in the field with the ladies<br />In the field with the ladies he can&#39;t complain<br />But let him run, oh let the big horse run<br />One more time<br />Out on the track<br />Saddle the wind and get up on his back<br /><br />And let him run, let him run<br />Let me see the big horse run<br />Let him run, let him run<br />Let him run, let him run
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

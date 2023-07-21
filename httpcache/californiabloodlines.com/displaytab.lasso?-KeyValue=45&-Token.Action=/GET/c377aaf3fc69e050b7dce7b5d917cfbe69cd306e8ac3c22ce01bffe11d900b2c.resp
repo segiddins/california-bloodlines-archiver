@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3404
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WINGLESS ANGELS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Michael Cannon</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em)<br />[on B-string : b-hammer on c (2x) on (Am) and (Em) chords <br />on intro and breaks]<br /><br />(Am)Wingless (Em)angels<br />(F) Pull the (G)boats of (C)Amster(Am)dam,<br />Wingless (Em)angels<br />(F) Grease the (G)cars of (C)Birming(Am)ham.<br /><br />Wingless (Em)angels<br />(F) Work the (G)fields of (C)Ohi(Am)o,<br />Wingless (Em)angels<br />(F) Walk the (G)streets of (C)Chica(C7)go.<br /><br />And it (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (G)long way (Am)home.<br />It (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (C/E)long way (G/D)home.(hold)<br />(Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em)<br /><br />(Am) Wingless (Em)angels<br />(F) Stand a(G)mazed at (C)eagles (Am)flight,<br />Wingless (Em)angels<br />(F) Cry them(G)selves to (C)sleep at (C7)night.<br /><br />And it (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (G)long way (Am)home.<br />And it (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (C/E)long way (G/D)home.(hold)<br /><br />(C) We are (C/B)autumn, (Am) we are (Am/G)spring,<br />(D) We are (F)part (E7 short) of a moving (Am)thing,<br />(F)Huddled by the (Em)fire, sur(G/D)vivors.<br /><br />(C) We are (C/B)fools, (Am) we are (Am/G)wise,<br />(D) We have (F)seen (E7 short) nothing with our (Am)eyes,<br />(F)Huddled by the (C/E)fire, sur(G/D)vivors.<br />(C) (C/B) (Am) (Am/G) (D) (F) (E7 short) (Am) (F) (Em) (G/D) (hold)<br /><br />(Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em)<br /><br />(Am)Wingless (Em)angels<br />(F) Pull the (G)boats of (C)Amster(Am)dam,<br />Wingless (Em)angels<br />(F) Grease the (G)cars of (C)Birming(C7)ham.<br /><br />And it (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (G)long way (Am)home.<br />And it (F)sure is a (G)long way (C)home,(C/B) (Am)<br />It (F)sure is a (C/E)long way (G/D)home.(hold)<br />(Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em)<br /><br />(Am) Wingless (Em)angels, (Am) (Em)<br />(Am) Wingless (Em)angels, (Am) (Em)<br />(Am) Wingless (Em)angels, (Am) (Em)<br />(Am) Wingless (Em)angels. (Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

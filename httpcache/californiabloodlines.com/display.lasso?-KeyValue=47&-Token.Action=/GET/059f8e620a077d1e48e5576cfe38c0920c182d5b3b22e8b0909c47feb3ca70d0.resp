@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3229
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:38 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SOME KIND OF LOVE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Wingless Angels (RCA, APL1 0816, 1975)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Some kind of love is like gold<br />And that is the hardest to hold<br />For it catches the eye<br />Of each thief passing by<br />Some kind of love is like gold<br /><br />Some kind of love comes too soon<br />That kind of love heals your wounds<br />When your wounds are all healed<br />And you&#39;re back on your wheels<br />You say that kind of love came too soon<br /><br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love<br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love<br /><br />Some kind of love starts as friends<br />That kind of love never ends<br />For it comes on as slow<br />As a flower in snow<br />Some kind of love starts as friends<br /><br />Some kind of love tears your heart<br />When you knew it was wrong from the start<br />Try to explain<br />A moth to a flame<br />Some kind of love tears your heart<br /><br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love<br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love<br /><br />Some kind of love never dies<br />That is the hardest to find<br />Through laughter and rage<br />It mellows with age<br />Some kind of love never dies<br /><br />Some kind of love is like gold<br />And that is the hardest to hold<br />For it catches the eye<br />Of each thief passing by<br />Some kind of love is like gold<br /><br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love<br />Some kind of love, some kind of love<br />Everyone&#39;s looking for some kind of love
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3908
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HIT AND RUN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />(A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)  <br />Spoken: Re(A)turn with us (D)now(E) to those (A)thrilling days of<br />(D)yester(E)year<br />(A)  (D) (E) (A) (hold)<br /><br />I was (D)lookin&#180; at the (A)sun,<br />Pardon (G)me, I didn&#39;t (D)know it can&#39;t be (C)done.<br />(G)I was (D)lookin&#180; (A)at the (D)sun,<br />(G)I was (D)lookin&#180; (A)at the (D)sun.<br /><br />And I was callin&#180; back my (A)youth,<br />Pardon (G)me, did you (D)want to use the (C)booth?<br />(G)I was (D)callin&#180; (A)back my (D)youth,<br />(G)I was (D)callin&#180; (A)back my (D)youth. (D7)<br /><br />I don&#39;t (G)listen to the (D)fools<br />That are (A)makin&#39; all the (D)rules,<br />I&#39;m (G)havin&#39; too much(D) fun.<br />Doin&#39; what I (G)want that I hit and (D)run,<br />Doin&#39; what I (G)want that I hit and (D)run,<br />(G)Hit and (D)run, (G)hit and (D)run, (G)hit and...<br />(E)  (A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)  (A)<br /><br />You are (D)lookin&#39; for the (A)truth,<br />Pardon (G)me, I think your (D)poodle&#39;s on the (C)roof.<br />(A)You are (D)lookin&#39; (A)for the (D)truth,<br />(A)You are (D)lookin&#39; (A)for the (D)truth. (A) (D)<br /><br />So my world is made of (A)paint,<br />Pardon (G)me, I didn&#39;t (D)know that you&#39;re a (C)saint.<br />(A)So my (D)world is (A)made of (D)paint,<br />(A)So my (D)world is (A)made of (D)paint.<br /><br />And I don&#39;t (G)listen to the (D)fools<br />That are (A)makin&#39; all the (D)rules,<br />I&#39;m (G)havin&#39; too much(D) fun.<br />Doin&#39; what I (G)want that I hit and (D)run,<br />Doin&#39; what I (G)want that i hit and (D)run,<br />(G)Hit and (D)run, (G)hit and (D)run, (G)hit and<br />(E)  (A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)<br />(A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)<br />(A)  (D) (E)  (A) (hold)<br /><br />I may (D)never be that (A)good,<br />Pardon (G)me, I never (D)said I ever (C)would.<br />(G)I may (D)never (A)be that (D)good,<br />(G)I may (D)never (A)be that (D)good.<br /><br />I was lookin&#180; at the (A)sun,<br />Pardon (G)me, I didn&#39;t (D)know it can&#39;t be (C)done.<br />(G)I was (D)lookin&#180; (A)at the (D)sun,<br />(G)I was (D)lookin&#180; (A)at the (D)sun.<br /><br />I don&#39;t (G)listen to the (D)fools<br />That are (A)makin&#39; all the (D)rules,<br />I&#39;m (G)havin&#39; too much(D) fun.<br />Doin&#39; what I (G)want that I hit and (D)run,<br />Doin&#39; what I (G)want that I hit and (D)run,<br />(G)Hit and (D)run, (G)hit and (D)run, (G)hit and....<br />(E)  (A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)<br />(A)  (D) (E)  (A)  (D) (E)  (A)  (D) (E)<br />(A)  (D) (E)  (A) (G) (A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

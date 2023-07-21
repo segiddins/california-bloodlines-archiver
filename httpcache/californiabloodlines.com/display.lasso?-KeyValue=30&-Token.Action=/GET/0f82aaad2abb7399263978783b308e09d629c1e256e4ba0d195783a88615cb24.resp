@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2707
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:15 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EVANGELINE (alt. version)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Hot desert highways and cadillac towns.<br />A circus of cowboys and honky tonk clowns.<br />Evangeline waits, from the window she stares.<br />Cool summer dresses are all that she wears.<br /><br />Loud neon jukebox a rustle of coins<br />In the jeans of pretenders <br />They are hard living boys.<br />Playing the song of those who have lost<br />Their hearts and their lives, it&#8217;s part of the cost.<br /><br />Chorus:<br />Evangeline waits<br />In the cool of the night.<br />Like a caged nightingale<br />Dreaming of flight.<br />Evangeline waits<br />In the cool of the night.<br />Like a caged nightingale<br />Dreaming of flight.<br /><br />I stand by the highway and call out your name.<br />In any city or town my questions the same.<br />Have you seen any angels, <br />Who got lost in the wind.<br />I&#8217;d give anything to see her again.<br /><br />In Evangeline&#8217;s eyes are part of the clues,<br />Of all we have lost and all I can lose.<br />The Angel of Mercy is nowhere defined,<br />I search for salvation for Evangeline.<br /><br />(Repeat Chorus)<br /><br />Oh Evangeline, how can I survive these times?
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

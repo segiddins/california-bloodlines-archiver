@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3095
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE Man who would be king</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bullets in the Hour Glass (Shanachie, 8005, 1992)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh it&#8217;s time to tell the children<br />That it&#8217;s not about the war<br />It&#8217;s not about the winning,<br />It&#8217;s not about the score<br />It&#8217;s time to tell the children <br />That it&#8217;s not about the rings <br />That we put upon the fingers<br />Of the man who would be king<br /><br />Oh it&#8217;s time to tell the children<br />That it&#8217;s not about the gold <br />It&#8217;s not about the money <br />Things that are bought and sold<br />It&#8217;s time to tell the children <br />That they don&#8217;t mean a thing<br />Like the rings upon the fingers<br />Of the man who would be king<br /><br />Oh it&#8217;s time to tell the children<br />That it&#8217;s not about the plan<br />To see who is the richest<br />Or the baddest in the land<br />It&#8217;s time to tell the children<br />That the birds upon the wing<br />They would never give their power<br />To the man who would be king<br />They would never give their power<br />To the man who would be king<br /><br />Don&#8217;t you realize?<br />When you see the clues <br />Right before your eyes <br />On the evening news<br />Don&#8217;t you realize?<br />That the children know <br />What the children see <br />Is where the children go<br /><br />Oh it&#8217;s time to tell the children<br />That it is about the heart <br />That it is about the people <br />Of this world we are a part<br />That it is about forgiving <br />Those who stole the rings<br />To put upon the fingers<br />Of the man who would be king
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

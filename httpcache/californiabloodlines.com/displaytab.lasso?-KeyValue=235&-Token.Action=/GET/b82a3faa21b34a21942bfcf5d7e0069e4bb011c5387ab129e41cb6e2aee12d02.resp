@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3032
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:02 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DREAMERS ON THE RISE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)(D)Oh, (G)once  we were (C)dreamers on the (G)rise,<br />We were (G/F#)the (Em)sun  where the (C)sun (D7)never (G)shines,<br />And we (D)were (G)gold  where the (C)night bird only (Bm)flies.<br />Oh, that&#171;s a (G)long (G/F#)time, you (Em)know,<br />For that (Bm)kind of wind to (C)blow,<br />(G)Long (G/F#)time a(Em)go  we were (C)dreamers (D)on the (G)rise.<br /><br />(D)And (G)twice  we said (C)we&#171;d begin a(G)gain,<br />And we made (G/F#)a (Em)vow  that (C)we&#171;d re(D7)main as (G)friends,<br />And, fall(D)ing (G)down,  we said (C)we shall rise a(Bm)gain.<br />Oh, that&#171;s a (G)long (G/F#)time, you (Em)know,<br />For that (Bm)kind of wind to (C)blow,<br />(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)mend,<br />Long (G/F#)time a(Em)go,  we were (C)dreamers (D)on the (G)mend.<br /><br />And (D)if (G)three  wishes (C)came into my (G)life,<br />I&#171;d (G/F#)say (Em)one  was to (C)gaze in(D7)to your (G)eyes,<br />And I&#171;d (D)say (G)two  would be (C)turning back our (Bm)lives.<br />Three&#171;s a (G)long (G/F#)way to (Em)go<br />For that (Bm)kind of wind to (C)blow,<br />(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,<br />Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise. <br /><br />(D)Oh, (G)once  we were (C)dreamers on the (G)rise,<br />We were (G/F#)the (Em)sun  where the (C)sun (D7)never (G)shines,<br />And we (D)were (G)gold  where the (C)night bird only (Bm)flies.<br />Oh, that&#171;s a (G)long (G/F#)time, you (Em)know,<br />For that (Bm)kind of wind to (C)blow,<br />(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,<br />Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,<br />Long (G/F#)time a(Em)go, we were (C)drea(G)mers (D)on (D7)the (G)rise.(D)(G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

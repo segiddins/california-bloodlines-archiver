@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3701
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:56 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>KANSAS RAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Note: Of course it&#180;s easier to play in C and put a capo on the second fret.<br />Transpose if you like.<br /><br />Second note: The F#m/C# might really be an A/C#. <br />Difficult to say since the guitar doesn&#180;t play the note on the high E-string.<br /><br /><br /><br />(G &#8211; play high notes g-f#-d-b(quick bass note D) g-f#-d(C#-D)<br />g-f#-d(C#-D) g-f#-d-b-a&#8230;)  (A7, high notes c# -c#-d d-e e-a)<br />(fast bass run A-B-C#-E-D)<br /><br />(D) My oh (F#m/C#)my, the (Bm)time does (D7)fly,<br />(G) Wanna make you (F#m)lay right (Em)down and (A7)die,<br />(fast bass run A-B-C#-E-D to&#8230;)<br />(D) Or be an (F#m/C#)eagle (Bm)flying (D7)high,<br />(G)Spinning circles (D/F#)in the sky,<br />For (Em)he must know the (A7/4)reason why...(A7)<br /><br />Why there (D)ain&#39;t no (F#7/C#)change in (Bm)Kansas (D7)rain,<br />(G) Forever it (F#m)falls out (Em)on the (A7)plains,<br />And the (D)Phoenix (F#7/C#)sun like a (Bm)clockwork (D7)runs,<br />(G)Day by day, (D/F#)one by one,<br />We (Em)fall like candles (A7)in the sun.<br />All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,<br />(G)Ain&#39;t no change in Kansas rain,<br />There ain&#39;t no change in Kansas rain, no, (A7)no.<br />(high notes c# -c#-d d-e e-a)<br /><br />And I was (D)standing in (F#m/C#)line at the (Bm)Bank of A(D7)merica,<br />(G)Nobody (F#m)spoke, they were (Em)in the house of (A7)God,<br />(fast bass run A-B-C#-E-D to&#8230;)<br />And a (D)church I (F#m/C#)know is a (Bm)drive-in (D7)show,<br />And the (G)local band plays (D/F#)hymns to go,<br />(Em)&quot;Jesus loves me&quot; (A7/4)rock&#180;n roll.  (A7)<br /><br />There (D)ain&#39;t no (F#7/C#)change in (Bm)Kansas (D7)rain,<br />(G) Forever it (F#m)falls out (Em)on the (A7)plains,<br />And the (D)Phoenix (F#7/C#)sun like a (Bm)clockwork (D7)runs,<br />(G)Day by day, (D/F#)one by one,<br />We (Em)fall like candles (A7)in the sun.<br />All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,<br />(G)Ain&#39;t no change in Kansas rain,<br />There ain&#39;t no change in Kansas rain, no, (D)no...<br />(F#7/C#) (Bm) (D7) (G) (F#m) (Em) (A7)<br />(D) (F#7/C#) (Bm) (D7)<br /><br />Oh, (G)day by day, (D/F#)one by one,<br />We (Em)fall like candles (A7)in the sun.<br />All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,<br />(G)Ain&#39;t no change in Kansas rain,<br />There ain&#39;t no change in Kansas rain,<br />There ain&#39;t no change in Kansas rain         (D)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

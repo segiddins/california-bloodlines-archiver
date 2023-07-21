@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2766
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:12 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BAD RATS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bullets in the Hour Glass (Shanachie, 8005, 1992)<br />Neon Beach (Homecoming, 700, 1990)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Good rats all have wheels<br />Good rats all have names<br />Good rats all can feel<br />Good rats are the same<br />Good rats all have friends<br />Good rats all can eat<br />Good rats all get papers<br />To protect their little feet.<br /><br />It&#8217;s a song about the good rats<br /><br />Bad rats have no names<br />Bad rats have disease<br />Bad rats are the same<br />Bad rats all must leave<br />Bad rats have no friends<br />Bad rats die alone<br />Let&#8217;s all kill the bad rats<br />And pass around the stone<br /><br />It&#8217;s a song about the bad rats<br />Yeah, song about the bad rats<br />Yeah, song about the bad rats<br /><br />There ain&#8217;t no way you know <br />Of telling who&#8217;s a bad rat. <br />There ain&#8217;t no way you know<br />Of telling who&#8217;s a bad rat. <br />There ain&#8217;t no way that I know<br />Of telling who&#8217;s a bad rat. <br /><br />Look at all them Asian people<br />I&#8217;m glad they aren&#8217;t like me.<br />Look at all them inner city people<br />Glad they&#8217;re not like me<br />Look at all those homeless people<br />Glad they&#8217;re not like me<br />Song about the bad rats<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

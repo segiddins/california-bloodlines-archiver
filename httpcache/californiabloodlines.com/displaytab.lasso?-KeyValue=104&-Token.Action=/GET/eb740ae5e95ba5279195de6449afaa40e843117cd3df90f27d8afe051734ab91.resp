@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3775
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ROAD TO FREEDOM</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Single notes on the &#8220;high&#8221; strings:  (This section is echoed after the choruses)<br />GDED GDED CBAGG   GDED GDED GDED CBAGG  <br />GDED GDED GDED CBAGG<br />(B7)     Oh, (Em)I&#8217;m (G)gonna walk that (C)road (C/B)(A)(C/B)<br />(C) That we (D7)walked long be(G)fore,<br />Ma(G/F#)ny (Em)years ago, (Em/F#)(G)<br />And we&#8217;ll (Em)walk a (A7)hundred (D7)more.     (C)(G/B)(D7/A)<br /><br />For we&#8217;re (G/D)coming (C/E)one by (G/D)one,<br />You can (C)see them (F)two by (C)two,<br />(G) Every time you (Em)turn around,<br />There&#8217;s a(A7)nother one coming (D7)through.<br />(D9) So we&#8217;ll (G/D)sing it (C/E)long and (G/D)proud<br />So (C)every(F)one will (Em)know<br />That the (G) road to (C)freedom   <br />Is a (G)long, (F)long,(D7)(hold)  way to (G)go.<br />(G)(G/D)(C/E)(G/D)  (G)(G/D)(C/E)(G/D) (G)(G/D)(C/E)(G/D) (C)(G/B)(Am)(G)(G)<br />or, easier: (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(G)(G)(G) repeat 1x<br /><br />(B7)   (Em) Turn and (G)look out over (C)there, (C/B)(A)(C/B)<br />(C) Just as (D7)far as you can (G)see,<br />There (G/F#)are (Em)many more(Em/F#)(G)<br />Who would (Em)die for (A7)liber(D7)ty.      (C)(G/B)(D7/A)<br /><br />And we&#8217;re (G/D)coming (C/E)one by (G/D)one,<br />You can (C)see them (F)two by (C)two,<br />(G) Every time you (Em)turn around,<br />There&#8217;s a(A7)nother one coming (D7)through.<br />(D9) So we&#8217;ll (G/D)sing it (C/E)long and (G/D)proud<br />So (C)every(F)one will (Em)know,<br />(G) Road to (C)freedom   <br />Is a (G)long, (F)long,(D7)(hold)  way to (G)go.<br />(G)(G/D)(C/E)(G/D)  (G)(G/D)(C/E)(G/D) (G)(G/D)(C/E)(G/D) (C)(G/B)(Am)(G)(G)<br />or, easier: (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(G)(G)(G) repeat 3x<br /> <br /><br />(B7)     Oh, (Em)I&#8217;m (G)gonna walk that (C)road (C/B)(A)(C/B)<br />(C) That we (D7)walked long be(G)fore,<br />Ma(G/F#)ny (Em)years ago, (Em/F#)(G)<br />And we&#8217;ll (Em)walk a (A7)hundred (D7)more.     (C)(G/B)(D7/A)<br /><br />For we&#8217;re (G/D)coming (C/E)one by (G/D)one,<br />You can (C)see us (F)two by (C)two,<br />(G) Every time you (Em)turn around,<br />There&#8217;s a(A7)nother one coming (D7)through.<br />(D9) So we&#8217;ll (G/D)sing it (C/E)long and (G/D)proud<br />So (C)every(F)one will (Em)know,<br />(G) Road to (C)freedom   <br />Is a (G)long, (F)long,(D7)(hold)  way to (G)go.<br />(G)(G/D)(C/E)(G/D)  (G)(G/D)(C/E)(G/D) (G)(G/D)(C/E)(G/D) (C)(G/B)(Am)(G)(G)<br />or, easier: (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(C)(G)  (G)(G)(G)(G)(G) repeat 5x 
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

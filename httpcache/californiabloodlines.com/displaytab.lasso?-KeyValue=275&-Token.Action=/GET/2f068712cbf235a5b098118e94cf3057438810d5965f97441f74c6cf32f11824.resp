@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2919
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:49 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ONE EYED JOE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Am7 (short)<br />E-----------------<br />B--1--------------<br />G-----------------<br />D------2----------<br />A-----------------<br />E-----------------<br /><br /><br />One-Eyed Joe     John Stewart<br /><br />(Am7 &#8211; bass line: A-(low)E-A-(next three rapidly, as a bass run:<br />C-A-G, repeat)<br />(in the verses, it&#180;s usually A-(low)E alternating, C-A-G added<br />now and then. You&#180;ll hear.)<br /><br />Lightning strikes in the summertime,<br />One-Eyed Joe was a friend of mine.<br />And now he&#39;s (D7)gone, yeah, he&#180;s moving down the (Am7)line.<br />(E)One-Eyed Joe, (D7) well, he&#39;s on the border(Am7)line.<br /><br />He&#39;s a mover, that One-Eyed Joe.<br />Packed his bags and went to Mexico.<br />And now he&#39;s (D)gone, he&#39;s a-moving down the (Am7)line.<br />(E)One-Eyed Joe,(D9) well, he&#39;s on the border(Am7)line.<br /><br />Sideways Sally was his girlfriend&#39;s name.<br />She could dance like a monkey train.<br />And now she&#39;s (D)gone, yeah, she&#39;s moving down the (Am7)line.<br />(E7)Sideways Sally, (D7) she&#39;s on the border(Am7)line.<br />Instrumental (Am7)      (D7)  (Am7)    (E) (D9)  (Am7)<br /><br />One-Eyed Joe, he&#39;s a wanted man.<br />He couldn&#180;t fly right down to Birmingham.<br />&#180;N&#180; he can&#180;t (D7)move, can&#180;t move on down the (Am7)line.<br />(E)One-Eyed Joe (D7) is on the border(Am7)line.<br /><br />Sideways Sally, One-Eyed Joe,<br />Living out in a blue condo.<br />Now they&#39;re (D9)gone, (D7)they&#180;re moving down the (Am7)line.<br />(E)Sideways Sally, One-Eyed Joe, living down on the border(Am7)line.<br />(E)Sally and Joe,  (D9) on the border (Am7)line.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

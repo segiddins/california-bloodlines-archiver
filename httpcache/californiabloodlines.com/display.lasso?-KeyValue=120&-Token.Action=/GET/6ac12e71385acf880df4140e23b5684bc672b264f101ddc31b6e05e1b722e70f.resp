@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2625
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:38 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CRAZY </td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Lonesome Picker Rides Again (Warner Bros., K46135, 1971)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Crazy lives in Tempe<br />Married three times that Crazy knows<br />One dude was a hustler<br />One dude was a drifter<br />One dude I heard tell<br />Crazy didn&#39;t know<br /><br />You&#39;re crazy to let &#39;em use you<br />You&#39;re crazy to live alone<br />I will drive you, Crazy<br />If I see you by the road<br />&#39;Cause I will know Crazy<br />You have gone<br /><br />Yea, you&#39;ve gone, Crazy<br />I believe there&#39;s hope for you<br />You&#39;ve gone crazy<br />You&#39;ve got to be to face the world<br />You&#39;ve gone, Crazy<br />And I think of you<br />When I&#39;m going too<br /><br />Crazy to be lonely<br />Is just dying too damn slow<br />And Crazy, as it seems<br />You know to love somebody<br />Is just that, it&#39;s Crazy<br />The only way to go<br /><br />Yea, you&#39;ve gone, Crazy<br />I believe there&#39;s hope for you<br />You&#39;ve gone crazy<br />You&#39;ve got to be to face the world<br />You&#39;ve gone, Crazy<br />And I think of you<br />When I&#39;m going too
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

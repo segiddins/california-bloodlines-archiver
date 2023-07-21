@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2923
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:50 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL THE DESPERATE MEN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Dm) (Bb) (Dm) (Bb) (Dm) (Bb)<br />(Dm)Out there on the (Bb)street<br />(Dm)You can hear &#180;em mumble, (Bb)stumble on their feet.<br />They are(F) all the (C)desperate (Dm)men.<br /><br />Out there on the (Bb)road<br />You (Dm)see them on the highway, (Bb)ev&#180;rywhere you go.<br />They are(F) all the (C)desperate (Dm)men,<br />(Bb)All the (C)desperate (F)men,<br />(Bb)Singin&#180;,&quot;Will I (C)ever, will I (F)ever (Am7)love a(Bb)gain?&quot;<br />(Bb6)All the (C)desperate (F)men. (Dm) (Bb) (Dm) (Bb)<br /><br />(Dm)Right there in your (Bb)bed<br />(Dm)Tossin&#180; and a turnin&#180; on the (Bb)pillow by your head,<br />Yes,(F) all the (C)desperate (Dm)men.<br /><br />Right there in your (Bb)arm<br />(Dm)You can hear &#180;em crying, (Bb)sounding the alarm.<br />Yes,(F) all the (C)desperate (Dm)men, <br />(Bb)All the (C)desperate (F)men,<br />(Bb)Singin&#180;, &quot;Will I (C)ever, will I (F)ever (Am7)love a(Bb)gain?&quot;<br />(Bb6)All the (C)desperate (F)men.<br /><br />(Bb)(C)All the (Bb)desperate men,<br />Yes, (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men,<br />Yes, (Dm)all the (C)desperate (F)men. (Dm) (Bb) (Dm) <br /><br />(Bb)(C)All the (Bb)desperate men,<br />We are (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men, <br />We are (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men, <br />We are (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men,<br />We are (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men,<br />We are (Dm)all the (C)desperate (F)men.<br />(Bb)(C)All the (Bb)desperate men,<br />(Dm)All the (C)desperate (F)men.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,117 @@
+Playing hint: The intro has some signature notes – d-d-d  b-b,  c-b-b  a-a.
+The last two notes on G-string, the others on B-string.
+If you want to play those notes for the intro, add d-note on B-string for
+the (G), don´t play high E-string [okay, you can call that a (G5)], etc.
+
+G5
+E--xx---------
+B------3------
+G-------------
+D-------------
+A----2--------
+E-------3-----
+
+C(ma)j7
+E-------------
+B-------------
+G-------------
+D----2--------
+A-------3-----
+E-------------
+
+
+
+Children of the New Frontier     John Stewart
+
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)
+
+(D)“Where do we (G)go from here?"(Em)
+Cry the (C)voices of the (D)children,
+It was (G)once so loud and (Em)clear,
+It was (C)lightning in the (D)field.
+"And where do we (G)go from here?"(Em)
+Cry the (C)voices of the (D)children,
+And (G)burned into the (Em)time,
+We are the (C)children,
+The (D)(hold)children of the new fron(G)tier.
+
+   (G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C) (Cj7) (D)(hold)
+
+In the Texas (Em)sun,
+It was (G)196(D)3
+That he held the (C)hallowed gun.
+And the (D)Texas (Em)wind,
+Now there's (G)bullets in the (D)curb stone
+Where the (C)dream had been,
+There the (Am)dream would (G)end,
+It is (F)clear.  (D)
+
+´N´ you hear the (Em)train,
+And it's (G)rolling past the (D)farmyards
+Now with (C)corporate names.
+And you (D)hear the (Em)train,
+And it's (G)echoing the (D)voices
+That were (C)not the same.
+Have we (Am)lost the (G)game?
+That is the (F)fear.  (D)
+
+“Where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+It was (G)once so loud and (Em)clear,
+It was (C)lightning in the (D)field.
+"And where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+And (G)burned into the (Em)time,
+We are the (C)children,
+We´re the (D)(hold)children of the new fron(G)tier.
+
+   (G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C)(Cj7)(Cj7) (D)(D)
+(G)(G)(G) (Em)(Em) (C) (Cj7) (D)(hold)
+
+And you hear the (Em)song
+That they (G)called 'Sierra (D)Tango'
+When it (C)played Haiphong.
+And you (D)hear the (Em)song,
+And the (G)nightmares of the (D)boys
+Who went and (C)stayed too long,
+And their (Am)dreams go (G)on,
+And they are (F)here.  (D)
+
+“And where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+It was (G)once so loud and (Em)clear,
+It was (C)lightning in the (D)field.
+"And where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+And (G)burned into the (Em)time,
+We are the (C)children,
+We´re the (D)(hold)children of the new fron(G)tier.
+
+   (C)  (C5)(C) (G)   (C)  (C5)(C) (G)   (C)  (C5)(C) (G)   (C)(Cj7) (D)(D)
+
+“Where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+It was (G)once so loud and (Em)clear,
+It was (C)lightning in the (D)field.
+"And where do we (G)go from here?" (Em)
+Cry the (C)voices of the (D)children,
+And (G)burned into the (Em)time,
+We are the (C)children,
+We´re the (D)(hold)children of the new fron(G)tier. (Em)
+
+And (C)where do we go from (D)here?
+You (G)know, (Em) ah, it was (C)once so loud and (D)clear,
+But so it (G)goes, (Em) (C)
+(D)Oooh, and you cry, the (G)children, (Em) (C)
+(D)Oooh, and cry, the (G)children, (Em) (C)
+(D)Children of the new fron(G)tier. (Em) (C)(Cj7)(D)(D)(G)

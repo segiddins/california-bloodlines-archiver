@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3525
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CALIFORNIA BLOODLINES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>This tab is in G.<br />Capo 3rd fret to play along with Bb, 4th fret for B and 5th fret for C.<br />This little signature run &#8211;b bb b c b a g, b bb b c b a g, a aa a b a g a g-<br />can either be played as single notes- or &#8220;highlight &#8220; the notes while playing<br />the G-chord. You can either try to copy John&#180;s playing or follow my advice-<br />I love to play the song a little like John Hartford&#180;s &#8220;Gentle on My Mind&#8221;<br />(come on, you know that one). Try it and see what you think.  <br /><br />      <br />California Bloodlines     John Stewart<br /><br />(G)    (D9) (G)    (D9) (G)<br /><br />Had (Gj7)I been (G6)born in (G)New York (D9)City,<br />A New York (D7)City girl I&#39;d (G)know,<br />Oh, workin&#39; (Gj7)in the (G6)concrete, (G)not the (D9)sunlight,<br />Livin&#39; in the (D7)New York rain and (G)snow.<br /><br />Oh, there&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)woman in my (G)song,<br />Oh, there&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)heartbeat in my (G)soul.<br /><br />And just to (Gj7)think that I (G6)might have (G)never (D9)known you<br />If I had lived my (D7)life in Tennes(G)see,<br />But I really (Gj7)could have (G6)never (G)let that (D9)happen,<br />For you and Cali(D7)fornia are in (G)me.<br /><br />Oh, there&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)woman in my (G)song,<br />Oh, there&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)heartbeat in my (G)soul.<br /><br />Have you wondered (Gj7)where we (G6)were &#180;fore (G)we were (D9)born,<br />Rollin&#39; &#39;round the (D7)heavens like a (G)song?<br />Oh, I know it&#39;s (Gj7)then I (G6)saw the (G)big Si(D9)erras,<br />Saw a California (D7)sunrise comin&#39; (G)on.<br /><br />There&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)woman in my (G)song,<br />There&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)heartbeat in my (G)soul.<br /><br />There&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)woman in my (G)song,<br />There&#39;s California Bloodlines in (D9)my heart,<br />And a California (D7)heartbeat in my (G)soul.<br />(D9) (G)   (D9) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

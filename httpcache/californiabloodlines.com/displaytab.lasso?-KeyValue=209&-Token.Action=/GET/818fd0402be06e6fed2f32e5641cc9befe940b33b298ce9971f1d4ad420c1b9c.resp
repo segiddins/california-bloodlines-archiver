@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3017
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE CHOSEN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (D) (C) (D) (G) (D) (C) (D)<br />(G) (D) (C) (D) (G) (D) (C) (D)<br />(G) (D) (C) (D) (G) (D) (C) (D)<br /><br />(G)Theirs are the (D)faces that (C)shine in the (D)crowd,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(G)Theirs are the (D)voices who (C)whisper out (D)loud,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(C)Theirs are the (D)eyes that are (G)burning in(C)side<br />Like we&#39;re (G)frozen. (D) (C) (D)<br /><br />(G)Theirs are the (D)faces that (C)shine in the (D)crowd,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(G)Theirs are the (D)dreams that are (C)born in the (D)light,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(G)Theirs are the (D)Angels (C)guarding the (D)night,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(C)Theirs are the (D)eyes that are (G)burning in(C)side<br />Like we&#39;re (G)frozen. (D) (C) (D)<br /><br />(G)Theirs are the (D)faces that (C)shine in the (D)crowd,<br />They&#39;re the (G)chosen. (D) (C) (D)<br />(G) (D) (C) (D) (G) (D) (C) (D)<br />(G) (D) (C) (D)<br />(C)Theirs are the (D)eyes that are (G)burning in(C)side<br />Like we&#39;re(G)frozen. (D) (C) (D)<br /><br />(G)Theirs are the (D)faces that (C)shine in the (D)crowd,<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen, (D) (C) (D)<br />They&#39;re the (G)chosen. (D) (C) (D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

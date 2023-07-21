@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3097
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MAC BRASEL&#8217;S FARM</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There is something strange in the summer sky.<br />Something strange in things that fly<br />In silver suits and almond eyes.<br />Something strange in the summer sky.<br /><br />If Jesse Marcel was still around,<br />He would tell us what he found<br />Lying on Mac Brasel&#39;s ground.<br />If Jesse Marcel was still around.<br /><br />Chorus:<br />It&#8217;s as clear as a rose on a tattooed arm<br />What they found on Mac Brasel&#39;s farm<br />If you had seen in the Roswell barn<br />You must believe in Mac Brasel&#39;s farm<br />Mac Brasel&#39;s farm.<br /><br />Walter Haut at the 509<br />Told the press,&quot;It&#8217;s true this time.&#8217;<br />A saucer crashed and what they found<br />Was scattered all over Mac Brasel&#39;s ground.<br /><br />If you believe after forty-five years<br />At the risk of their careers.<br />All of those who are still around,<br />Who saw the crash on Mac Brasel&#39;s ground.<br /><br />Who drove the trucks and flew the planes<br />With things that just can&#8217;t be explained.<br />Who saw the faces and touched the arms<br />Of what they found on Mac Brasel&#39;s farm<br /><br />The army speaks from secret rooms.<br />It was nothing more than a weather balloon.<br />Yet some live in fear of harm<br />For what they saw on Mac Brasel&#39;s farm.<br /><br />(Repeat Chorus)<br /><br />There&#8217;s a million stars in the summer sky<br />A million people wonder why.<br />That some who live in the desert sun<br />Seem to know that they have come.<br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

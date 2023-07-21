@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3140
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CALIFORNIA BLOODLINES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>California Bloodlines (Capitol, ST203, 1969)<br />The Phoenix Concerts (RCA, APL2-0265, 1974)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />Gold (Wrasse Records, WRASS016, 2000)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Had I been born in New York City<br />A New York City girl I&#39;d know<br />Workin&#39; in the concrete, not the sunlight<br />Livin&#39; in the New York rain and snow<br /><br />Oh, there&#39;s California Bloodlines in my heart<br />And a California woman in my song<br />Oh, there&#39;s California Bloodlines in my heart<br />And a California heartbeat in my soul<br /><br />And just to think I might have never known you<br />If I had lived my life in Tennessee<br />But I really could have never let that happen<br />For you and California are in me<br /><br />Oh, there&#39;s California Bloodlines in my heart<br />And a California woman in my song<br />Oh, there&#39;s California Bloodlines in my heart<br />And a California heartbeat in my soul<br /><br />Have you wondered where we were before we were born<br />Rollin&#39; &#39;round the heavens like a song<br />I know it&#39;s then I saw the big Sierras<br />Saw a California sunrise comin&#39; on<br /><br />Oh, there&#39;s California Bloodlines in my heart<br />And a California woman in my song<br />Oh, there&#39;s California Bloodlines in my heart<br />And a California heartbeat in my soul<br /><br />Oh, there&#39;s California Bloodlines in my heart<br />And a California woman in my song<br />Oh, there&#39;s California Bloodlines in my heart<br />And a California heartbeat in my soul
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

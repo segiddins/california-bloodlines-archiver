@@ -1,0 +1,64 @@
+F4
+E---1----------
+B---1----------
+G-----------3--
+D-----------3--
+A--xx----------
+E--xx----------
+
+Baby, It´s You
+
+(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) 
+(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) 
+(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) 
+(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) 
+[either use this rhythm for the interludes and the outro or make it Œflow‚]
+
+And when the (F)stars at night
+Ah, they´re (F4)doing alright
+And they (F)sing to (F4)me of (Am)you,
+And the (F)moon on the hood
+Is (F4)doing what it should,
+And I (F)dream when the (F4)moon (F)is (C)blue∑
+
+And baby, it's (Dm)you, (Bb) (C)
+Baby, it's (F)you, (Dm7) (Bb) (C)
+Baby, it's (F)you, (Dm)you, (Bb)you,
+(C)Baby, it's (F)you.   (F4)   (F) (F4) (Am)
+
+And I'm (F)still in the spell
+Of the (F4)night I first fell,
+And (F)baby, you (F4)know that it´s (Am)true,
+And I'll (F)get my chance
+At the (F4)Nightingale Dance
+When they´ll (F)play every (F4)song (F)we (C)knew.
+
+And baby, it's (Dm)you, (Bb) (C)
+Baby, it's (F)you, (Dm7) (Bb) (C)
+Baby,it's (F)you, (Dm)yo(Bb)u,
+And (C)baby, it's (F)you.   (F4)   (F) (F4) (Am)
+(F)  (F4)   (F) (F4) (F) (C)
+
+And baby, it's (Dm)you, (Bb) (C)
+Baby, it's (F)you, (Dm7) (Bb) (C)
+Baby,it's (F)you, (Dm)you, (Bb)you,
+(C)Baby, it's (F)you.   (F4)  (F)  (C)
+
+And when the (F)clear blue sky
+Is (F4)falling in my eyes
+And there's (F)nothing that (F4)I can (Am)do,
+Oh, ´n´ the (F)music is sweet
+Down on (F4)Cadillac Street,
+And (F)baby, that´s (F4)when (F)I (C)knew∑
+
+That baby, it's (Dm)you, (Bb) (C)
+Baby, it's (F)you, (Dm7) (Bb) (C)
+Baby,it's (F)you, (Dm)you, (Bb)you,
+(C)Baby, it's (F)you.   (F4)
+
+And baby, it's (F)you, (Dm) (Bb)
+And (C)baby, it's (F)you, (Dm7) (Bb)
+And (C)baby,it's (F)you, (Dm)you, (Bb)you,
+ŒN‚ (C)Baby, it's (F)you.   (F4)  (F)  (F4) (F) (C)  
+(F)   (F4)   (F)  (F4) (F) (C)  (F)   (F4)   (F)  (F4) (F) (C)  
+(F)   (F4)   (F)  (F4) (F) (C)

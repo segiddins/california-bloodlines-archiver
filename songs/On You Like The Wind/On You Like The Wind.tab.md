@@ -1,0 +1,60 @@
+Capo 2nd fret
+
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+(D)Oh, (A) (G) (A)listen to the (D)wind blow,(A) (G)
+(A)Singing on a (D)crossbow.(A) (G)
+(A)Can't you feel our (D)love grow(A) (G)
+(A)On you like the (D)wind,(A) (G)
+(A)On you like the (D)wind?(A) (G) (D)(hold)
+
+And (D)oh,(A) (G) (A)listen to the (D)rain fall.(A) (G)
+(A)Can't you hear my (D)love call,(A) (G)
+(A)Can't you feel my (D)heart fall(A) (G)
+(A)On you like the (D)wind,(A) (G)
+(A)On you like the (D)wind?(A) (G) (A)(hold)
+Oh, (G)on (F#m)you (Em7)like (A)the (D)wind...
+      (A) (G) (A) 
+(D) (A) (G) (A)
+
+And (D)oh,(A) (G) (A)can't you feel it (D)on you?(A) (G)
+(A)Can't you feel it (D)on you,(A) (G)
+(A)Can't you feel it (D)on you,(A) (G)
+(A)On you like the (D)wind,(A) (G)
+(A)On you like the (D)wind?(A) (G) (A) (hold)
+Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...
+(lead notes on B-string: D-C#-D-E-D-E, 
+on high E-string: F#-E-F#-G-F#-E) Right! (solo continues over...)
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+(D) (A) (G) (A)
+
+And (D)oh,(A)(G) (A)if you ever (D)leave me,(A) (G)
+(A)Saying you don't (D)need me,(A) (G)
+(A)Saying you don't (D)believe in (A)me,(G)
+I'll be (A)on you like the (D)wind,(A) (G)
+(A)On you like the (D)wind.(A) (G) (A)(hold)
+Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...
+      (A) (G) (A)
+(D) (A) (G) (A)
+
+And (D)oh,(A) (G) (A)can't you feel me(D)on you?(A) (G)
+(A)Can't you feel me (D)on you,(A) (G)
+(A)Can't you feel me (D)on you,(A) (G)
+(A)On you like the (D)wind,(A) (G)
+(A)On you like the (D)wind?(A) (G) (A)(hold)
+Oh, (G)On (F#m)you (Em7)like (A)the (D)wind...
+     (A) (G) (A)
+(D)(A) (G) (A)
+(D)(A) (G) (A)
+(D)(A) (G) (A)
+
+And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)
+And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)
+And (D)oh,(A) (G) (A)on you like the (D)wind,(A) (G) (A)(hold)
+Oh, (G)on (F#m)you (Em7)like (A)the (D)wind...
+      (A) (G) (A)
+(D) (A) (G)(A)(D)

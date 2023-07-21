@@ -1,0 +1,134 @@
+C9 (short)
+E----------
+B------3---
+G----------
+D----2----
+A------3---
+E--XX----
+
+G5/D
+E----------
+B------3---
+G----------
+D----------
+A--XX----
+E--XX----
+
+D2
+E----------
+B------3---
+G----2-----
+D----------
+A----------
+E--XX----
+
+
+Playing hint: John bends the d-note on B-string
+more than a few times in this song. Written out
+in the intro – would be too confusing if I did
+that in the lyrics, too. You´ll hear.
+High E-string unplayed most of the time.
+Comes in again in last verse.
+
+
+(C)(C)(C9, bend d-note)(C)(G5/D)(G5/D)
+(F)(F,"highlight" a-note on G-string)(C)
+(C)(C)(C9, bend d-note)(C)(G5/D)(G5/D)
+(F)(F,"highlight" a-note on G-string)(C)
+
+Per(C9)haps (C)we (G5)waited (F)just too (C)long
+(C9)(C)(G5)(G5)(F)(F)(C)
+With (C9)all (C9)our (G5)euphe(F)mistic (C)songs,
+(C9)(C)(C7)
+For the (F)green grass of (Em)home
+Is all (F) con(G)crete and (C)stone,(hold)
+(F bass note)And (G bass)there's (C)nothing (C/B)for the (Am)wind (Am/G)
+To (F)gather (G7) where it's (C)blown.
+(C9)(C)(G5)(G5)(F)(F)(C)
+
+No (C9)one (C)reads the (G5)papers (F)any(C)more,
+(C9)(C)(G5)(G5)(F)(F)
+They are (C)nothing (C9)more (C)than (G5)lectures (F)on the (C)war.
+(C9)(C)(C7)
+And (F)those who hold the (Em)hope,
+They just (F)sit and (G)smoke their (C)dope,(hold)
+(F bass)And (G bass)they (C)talk of (C/B)where it's (Am)at (Am/G)
+And all the (F)books (G7) they (C) never wrote. (C7)
+
+And the (F)mucky Truckee (G)River (G7)sings (C) to me,
+(high notes highlighted: c-d-e-d-c)
+The (F)mucky Truckee (G)River sings (C)to me. (Am)
+(F) Here live the (G)hearts (C)where you (E/B)long to (A7)be,
+(high notes highlighted: c#-d-e-d-c#)
+The (F)mucky Truckee (D7)River sings(G) to me.(G7) (C)
+
+It (C9)seems (C)that (G5)every(F)one you (C)meet
+(C9)(C)(G5)(G5)(F)(F)
+(C) Talks a(C9)bout (C)the (G5)fighting (F)in the (C)street, (C7)
+But (F)no one has the (Em)time,
+And the (F)patri(G)ots you (C)find(hold)
+(F bass)Are (G bass)those (C)pink (C/B)poodle (Am)people (Am/G)
+Of (F)Sun(G7)set and (C)Vine. (C7)
+
+And the (F)mucky Truckee (G)River (G7)sings (C) to me,
+(high notes highlighted: c-d-e-d-c)
+The (F)mucky Truckee (G)River sings (C)to me. (Am)
+(F) Here live the (G)hearts (C)where you (E/B)long to (A7)be,
+(high notes highlighted: c#-d-e-d-c#)
+The (F)mucky Truckee (D7)River sings(G7) to (A7)me.
+
+(D) Per(D2)haps (D)we (A)waited (G)just too (D)long
+(high notes highlighted f#-e-d-e-e-[A-chord]c#-c#-[D-chord]f#)
+(D)With (D2)all (D)our (A)euphe(G)mistic (D)songs, (D7)
+For the (G)green grass of (F#m)home
+Is all (G)con(A)crete and (D)stone,(hold)
+And there's nothing for the wind
+To gather where it's (D)blown.
+(high notes highlighted d-a[on G-string]-d-e
+[on B-string, bend with pinkie]-d-e[empty E-string]-
+d-e-[A-chord]c#-c#) (G) (D[slow downstrum])
+
+
+
+Easy Guitar version
+
+
+(C) (F) (G7) (C)  (F) (G7) (C)
+
+Perhaps we wai(F)ted (G7) just too (C)long (F) (G7) (C)
+With all our (F)euphe(G7)mistic (C)songs, (C7)
+For the (F)green grass of (Em)home
+Is all (F) concrete and (C)stone,(hold)
+And there's (C)nothing (C/B)for the (Am)wind (Am/G)
+To (F)gather (G7)where it's (C)blown. (F) (G7) (C)
+
+No one reads the (F)papers (G7)any(C)more, (F) (G7)
+They are (C)nothing more than (F)lectures (G7)on the (C)war. (C7)
+And (F)those who hold the (Em)hope,
+They just (F)sit and smoke their (C)dope,(hold)
+And they (C)talk of (C/B)where it's (Am)at, (Am/G)
+And all the (F)books (G7) they (C) never wrote. (C7)
+
+And the (F)mucky Truckee (G7)River sings (C) to me,
+The (F)mucky Truckee (G7)River sings (C) to me. (Am)
+(F) Here live the (G)hearts (C)where you (Em)long to (A)be,
+The (F)mucky Truckee River (G7) sings to me.(C)
+
+It seems that (F)ever(G7)yone you (C)meet (F) (G7) (C)
+Talks about the (F)fighting (G7)in the (C)street, (C7)
+But (F)no one has the (Em)time,
+And the (F)patriots you (C)find(hold)
+Are those (C)pink (C/B)poodle (Am)people (Am/G)
+Of (F)Sun(G7)set and (C)Vine. (C7)
+
+And the (F)mucky Truckee (G7)River sings (C) to me,
+The (F)mucky Truckee (G7)River sings (C) to me. (Am)
+(F) Here live the (G)hearts (C)where you (Em)long to (A)be,
+The (F)mucky Truckee River (G7) sings to (A7)me.
+
+(D)Perhaps we (G)waited (A7)just too (D)long (G) (A7) (D)
+With all our (G)euphe(A7)mistic (D)songs, (D7)
+For the (G)green grass of (F#m)home
+Is all (G) concrete and (D)stone,(hold)
+And there's nothing for the wind
+To gather where it's (D)blown. (G) (A7) (D)

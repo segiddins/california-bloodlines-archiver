@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2962
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EASY MONEY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)<br />(E) Gold (E6)out (E)there,<br />(E6)Out in (E) Ca(E6)li(E)for(E6)nia,<br />(E) Get (E6)you a (E)map<br />To the (A) Dutchman Mine.<br />(E) Pickin&#39; (E6)up (E)gold<br />(E6)With our (E) bare (E6)hands, (E)ba(E6)by<br />(E)When we (E6)got (E)there,<br />It was (A)stone bone dry.<br /><br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby,<br />All in (A)all.(D) (E) (Bm) (E) (A)<br /><br />(E) Loafin&#39; (E6)a(E)round, (E6)<br />(E)Smokin&#39; (E6)and (E)drink(E6)ing,<br />(E)Woke up (E6)this (E)morning<br />And you (A)didn&#39;t have a dime.<br />(E) Out on (E6)the (E)street, (E6)(E)<br />Do you (E6)some (E)dealin&#39;, (E6)(E)<br />Your best (E6)friend, (E)baby,<br />Was the (A)police all the time.<br /><br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby,<br />All in (A)all.(D) (E) (Bm) (E) (A)<br /><br />(E) Got (E6)your(E)self, (E6)yes,<br />A (E)rich (E6)man, (E)ba(E6)by,<br />Buys you an(E6)y(E)thing<br />That your (A)little heart desires.<br />(E) Lots (E6)of (E)clothes, (E6) (E)<br />Trips to Mex(E6)i(E)co, (E6) (E)<br />Everybo(E6)dy (E)knows<br />That (A)he can&#39;t light your fire.<br /><br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby,<br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby,<br />All in (A)all.<br />(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)<br /><br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby,<br />(D) Easy (E)money<br />Is a (Bm) hard life, (E)baby, (hold)<br />All in (A)all.<br />(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)<br />(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)<br />(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3686
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BLAZE AND DIEGO</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rocket Roy in the Real World (Crow, 3, 1993)<br />Rocket Roy in the Real World Plus (Neon Dreams, 1999)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s Blaze and Diego on the Tucson road<br />Rocket Roy in the real world<br /><br />Hot wind and forbidden hair, top down weather, roadside flares<br />While eyes on the reservation watch the sky<br />As black asphalt ribbons cut across sacred ground, across sacred lives<br />And sad-eyed young braves stumble and fall<br />And remember one bright Angel in the window of the Christmas store<br />At the Fashion Square Mall<br /><br />Hot air balloons, flagship down, the speed of sidewinders, hot desert towns<br />Supermarkets, fireworks stands, steel machines, rock and roll bands<br />Radio carcasses, vulcanized road kill from an eighteen wheeler&#39;s speed<br />Budweiser billboards for Budweiser breeds, Blaze and Diego and Alamo wheels<br />Police tapes and Pepsi&#39;s and Circle K meals, yards off the highway<br />Reservation jams on well worn telecasters and hard weathered hands<br />Dead drunk in the tail bed of some pickup Dodge<br />Lucky Strike traders, the sweat of the lodge<br />As sad eyed young braves stumble and fall<br />And remember one bright Angel in the window of the Christmas store<br />In the Fashion Square Mall<br /><br />Blaze and Diego, strawberry dreams<br />Nightline and ready whip and pre-faded jeans<br />And Rocket Roy in the real world, life on the run<br />Blaze and Diego, way too much fun<br />While the Apache Nation, Hopee, Navajo and Mojave <br />Radio Shack stereo&#39;s, Amigo, Keemosabie<br />Turquoise bracelets and beaded belts<br />Medicine bundles and lion skin quivers<br />Mesquitewood war clubs, calendar sticks, <br />Eagle feathers on short rods, Shaman&#39;s tablets<br />Cocoons strung on cords, White man&#39;s schools<br />Corrupt chiefs, suicide races<br />As sad eyed young braves remember one bright Angel in the window of the<br />Christmas store <br />At the Fashion Square Mall<br /><br />It&#39;s Rocket Roy in the real world, <br />Blaze and Diego suck down crystal water bottles<br />And dream of one bright Angel in the window of the Christmas store<br />In the Fashion Square Mall
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

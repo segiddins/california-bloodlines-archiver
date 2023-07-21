@@ -1,0 +1,226 @@
+Capo 5th fret
+
+E------------------------------------------------------------
+B-----3-----0---------3-----0---------3-----0---------3-----0
+G---0-----0-----0---0-----0-----0---0-----0-----0---0-----0--
+D-5-----5-----5---3-----3-----3---2-----2-----2---1-----1----
+(repeat and continue pattern into verse)
+Taken all the good times,
+Put 'em in my pocket.
+B-----1-----h1----
+G---2-----2----2--
+D-0-----0---------
+(resume original pattern)
+Saved 'em for a rainy day,
+I'll be glad I got it.
+B-----1-----h1----
+G---2-----2----2--
+D-0-----0---------
+(resume original pattern)
+Put 'em in a trunk and lock it,
+Put 'em in a song and talk it,
+Gonna (C)leave it in the music
+B-----1-----1------
+G---0-----0-----0--
+D-2-----2-----2----
+And (D)rock it in my own (G)sweet time.
+B-----1-----1------
+G---2-----2-----2--
+D-0-----0-----0----
+Gonna (C)leave it in the music 
+And (D)rock it in my own (G)sweet time,
+(Am7)Moving with the rhythm 
+I'm (D)never gonna leave be(G)hind. (G7)
+(C)Leave it in the music 
+And (D)rock it in my own sweet (G)time.(G/F#)(Em)
+(Am7)This old (Am7/G)guitar 
+Feels like (Fj7)loving(Fj7/E)(D7)(hold)
+That love of (begin intro pattern) mine.
+
+(Second verse as in first verse.)
+San Francisco morning,
+You're lying close to me.
+B-----1-----h1---
+G---2-----2----2-
+D-0-----0--------
+I don't need a photograph,
+It's inside for me to see.
+B-----1-----h1---
+G---2-----2----2-
+D-0-----0--------
+'Cause I put it in a trunk and lock it,
+Put it in a song and talk it,
+Gonna (C)leave it in the music
+B-----1-----1------
+G---0-----0-----0--
+D-2-----2-----2----
+And (D)rock it in my own (G)sweet time.
+B-----1-----1-----
+G---2-----2----2--
+D-0-----0---------
+
+I´m gonna (C)leave it in the music 
+And (D)rock it in my own (G)sweet time,
+(Am7)Moving with the rhythm 
+I'm (D)never gonna leave be(G)hind. (G7)
+Gonna(C)leave it in the music 
+And (D)rock it in my own (G)sweet time,(G/F#)(Em)
+(Am7)This old (Am7/G)guitar 
+Feels like (Fj7)loving(Fj7/E)(D7)(hold)
+That love of (begin intro pattern) mine.
+
+Gonna (C)leave it in the music 
+And (D)rock it in my own (G)sweet time,
+(Am7)Moving with the rhythm 
+I'm (D)never gonna leave be(G)hind. (G7)
+Gonna (C)leave it in the music 
+And (D)rock it in my own (G)sweet time,(G/F#)(Em)
+(Am7)This old (Am7/G)guitar 
+Feels like (Fj7)loving(Fj7/E)(D7)(hold)
+That love of (begin intro pattern) mine.
+
+(use pattern from intro and out)
+Put it in a trunk and lock it,
+Put it in a song and talk it,
+Put it in a trunk and lock it,
+Put it in a song and talk it.
+Put it in a trunk and lock it,
+Put it in a song and talk it…
+
+
+
+Here comes a version without capo, in the original key,
+which is not as beautiful as the “capo 5th-original JS”-version,
+but might be easier to play for some of us, one reason being that
+you can use the picking patterns you´re familiar with.
+Don´t be deterred by the strange-looking chords, you only have to 
+move two fingers when you change chords. It´s mainly the same 
+two chords, C5 and C, with a descending bass line.
+That D7/4 and D9 should really be a C5/G# and C/G#, but I for one 
+can´t get that G# bass-note on low E fast enough, 
+so I decided to opt for those two chords.
+
+ C5
+E---------3---
+B--1----------
+G--------------
+D-x-----------
+A--------3----
+E--x----------
+
+ C5/Bb
+E----------3--
+B--1----------
+G--------------
+D--x----------
+A--1----------
+E--x-----------
+
+ C/Bb
+E---------------
+B--1------------
+G---------------
+D--x------------
+A--1------------
+E---x-----------
+
+ C5/A
+E-----------3--
+B--1-----------
+G--------------
+D--x----------
+A--------------
+E--x-----------
+
+ C/A
+E--------------
+B--1----------
+G--------------
+D--x----------
+A--------------
+E--x----------
+
+ D7/4
+E--------3-----
+B--1-----------
+G----2---------
+D---------------
+A--x-----------
+E--x------------
+
+ D9
+E----------------
+B-1--------------
+G----2-----------
+D-----------------
+A--x-------------
+E--x-------------
+
+ Bbj7
+E-----------------5--
+B---------3----------
+G---------3----------
+D---------3----------
+A-(1)----------------
+E--x-----------------
+
+
+
+(C5) (C) (C5/Bb) (C/Bb) (C5/A) (C/A) (D7/4) (D9)
+(C5) (C) (C5/Bb) (C/Bb) (C5/A) (C/A) (D7/4) (D9)
+(C5)Taken (C)all the (C5/Bb)good times,(C/Bb)
+(C5/A)Put 'em (C/A)in my (G7)pocket.
+(C5)Saved 'em (C)for a (C5/Bb)rainy day,(C/Bb)
+(C5/A)I'll be (C/A)glad I (G7)got it.
+(C5)Put 'em in a (C)trunk and (C5/Bb)lock it,(C/Bb)
+(C5/A)Put 'em in a (C/A)song and (D7/4)talk it,(D9)
+Gonna (F)leave it in the music
+And (G7)rock it in my own (C)sweet time. 
+(high notes run: e-d-e-f-e-d-c)
+
+Gonna (F)leave it in the music 
+And (G)rock it in my own (C)sweet time,
+(Dm7)Moving with the rhythm 
+I'm (G)never gonna leave be(C)hind. (C7)
+(F)Leave it in the music 
+And (G)rock it in my own (C)sweet time,(C/B)(Am)
+(Dm7)This old (Dm7/C)guitar 
+Feels like (Bbj7)loving(Bbj7/A)(G7) (hold)
+that love of (C5)mine. (C) (C5/Bb) (C/Bb) (C5/A) (C/A) (D7/4) (D9)
+
+(C5)San Fran(C)cisco (C5/Bb)morning,(C/Bb)
+(C5/A)You're lying (C/A)close to (G7)me.
+(C5)I don't (C)need a (C5/Bb)photo(C/Bb)graph,
+(C5/A)It's in(C/A)side for (G7)me to see.
+'Cause I (C5)put it in a (C)trunk and (C5/Bb)lock it,(C/Bb)
+(C5/A)Put it in a (C/A)song and (D7/4)talk it,(D9)
+(F)Leave it in the music
+And (G7)rock it in my own (C)sweet time. 
+(high notes run: e-d-e-f-e-d-c)
+
+I´m gonna (F)leave it in the music 
+And (G)rock it in my own (C)sweet time,
+(Dm7)Moving with the rhythm 
+I'm (G)never gonna leave be(C)hind. (C7)
+Gonna (F)leave it in the music 
+And (G)rock it in my own (C)sweet time,(C/B)(Am)
+´Cause (Dm7)this old (Dm7/C)guitar 
+Feels like (Bbj7)loving(Bbj7/A)(G7)(hold)
+that love of (C5)mine. (C) (C5/Bb) (C/Bb) (C5/A) (C/A) (D7/4) (D9)
+(F) (G7) (C) (high notes run: e-d-e-f-e-d-c)
+Gonna (F)leave it in the music 
+And (G)rock it in my own (C)sweet time,
+(Dm7)Moving with the rhythm 
+I'm (G)never gonna leave be(C)hind. (C7)
+Gonna (F)leave it in the music 
+And (G)rock it in my own (C)sweet time,(C/B)(Am)
+(Dm7)This old (Dm7/C)guitar 
+Feels like (Bbj7)loving(Bbj7/A)(G7) (hold)
+that love of (C5)mine. (C) (C5/Bb) (C/Bb) (C5/A) (C/A) (D7/4) (D9)
+
+(C5)Put it in a (C)trunk and (C5/Bb)lock it,(C/Bb)
+(C5/A)Put it in a (C/A)song and (D7/4)talk it.(D9)
+(C5)Put it in a (C)trunk and (C5/Bb)lock it,(C/Bb)
+(C5/A)Put it in a (C/A)song and (D7/4)talk it.(D9)
+(C5)Put it in a (C)trunk and (C5/Bb)lock it,(C/Bb)
+(C5/A)Put it in a (C/A)song and (D7/4)talk it

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2525
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>OLD RIVERS AND SLOW MOVING TRAINS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C)  (G)  (C)  (G)  (C)  (G)  (C)  (G)  <br />Sunny (C)skies <br />(G) Would never (Am)show without the (Em)rain,<br />Happy (F)times <br />(C) We&#39;d never (F)know without the (G)pain.<br />Rea(C)lize <br />(G)That you (Am)have no one to (Em)blame.<br />Moving (F)on like old (C)rivers,<br />And (F)slow (G)rolling (Am)trains,<br />(Em)Moving (F)on like old (C)rivers,<br />And (F)slow (G)rolling (C)trains.  (G)  (C)  (G)  <br /><br />Lose it (C)all, <br />(G) (Am)You might find it (Em)then,<br />Against the (F)wall, <br />(C) But you&#39;ll (F)know who are your (G)friends.<br />And if you (C)fall, <br />(G) (Am)You can rise a(Em)gain.<br />We&#39;re moving (F)on like old (C)rivers,<br />And (F)birds u(G)pon the (Am)wind,<br />We&#180;re (Em)moving (F)on like old (C)rivers,<br />And (F)birds u(G)pon the (C)wind.<br /><br />(F)Nothing good comes (G)easy,<br />(C)Nothing (G)easy&#39;s (Am)free...<br />And if (F)loving you is (G)all I do,<br />It&#39;s (C)still all (G)right with (Am)me.<br /><br />So we (F)take along a(G)nother song,<br />Go (C)moving (G)with the (Am)change.<br />We&#39;re moving (F)on like old (C)rivers<br />And (F)slow (G)moving (Am)trains...<br />Moving (F)on like old (C)rivers,<br />And (F)slow (G)rolling (C)trains....<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

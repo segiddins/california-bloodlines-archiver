@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3241
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>GREEN GRASSES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)  (D)  <br />(G)  (D5)(D5)(D4)(D)(D4)(D5)<br />(G[C formation 7th fret], quick A-note on high E-string)(G) (D5)(D5)(D4)(D)<br />(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)<br /><br />Oh (G)way out on a (D)lonely bayou,<br />(G)There waits a girl where the (D)green grasses grow.<br />(G)Waits she there with a (D)tear in her eye,<br />Dreaming of (G)years that (A7)long have gone (D)by.<br />(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)<br /><br />(G)How I yearn for the (D)days that are gone<br />When I&#39;d (G)wake in the morning to a (D)whippoorwill song.<br />(G)There by the fire sits (D)my lady fair,<br />Singing this (G)song as she (A7)combs her long (D)hair.<br /><br />She&amp;#8217;d sing (G)way out on a (D)lonely bayou<br />(G)There waits a girl where the (D)green grasses grow,<br />(G)Waits she there with a (D)tear in her eye,<br />Dreaming of (G)years that (A7)long have gone (D)by.<br />(D)(D5)(G[C formation 7th fret], quick A-note on high<br />E-string)(G)(D)(G)(D)(A7)(D)<br />(G)  (D5)(D5)(D4)(D)<br />(G)(G)(A-note on high E)(G[C formation 7th fret], quick A-note on high<br />E-string)(G)<br />(D5)(G)(D)(A7)(D)<br />(G) )(G[C formation 7th fret,3x]) (D5)(D5)(D4)(D)<br />(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)<br /><br />(G)Now I&#39;m thinkin&#39; (D)home I must go,<br />&#39;Cause (G)I&#39;ve been out here where the (D)four winds blow,<br />(G)Leavin&amp;#8217; tonight with the (D)big April moon,<br />She&#39;ll be at my (G)side by the(A7) third day of (D)June.<br /><br />(G)Way out on a (D)lonely bayou,<br />(G)There waits a girl where the (D)green grasses grow,<br />(G)Waits she there with a (D)tear in her eye,<br />Dreaming of (G)years that (A7)long have gone (D)by.<br /><br />Oh (G)way out on a (D)lonely bayou,<br />(G)There waits a girl where the (D)green grasses grow,<br />(G)Waits she there with a (D)tear in her eye,<br />Dreaming of (G)years that (A7)long have gone (D)by.<br />Dreaming of (G)years that (A7)long have gone (D)by.<br />(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

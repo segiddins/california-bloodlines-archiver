@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3323
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STRANGE RIVERS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)<br />Deep in the Neon (Homecoming, 750, 1991)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There are voices in the mirror<br />And there are faces at the door<br />And they open on the rivers<br />We&#39;ve never seen before<br />And are there choices for the Sparrow<br />Or does he only fly<br />High above the rivers<br />Pulling you and I?<br /><br />There are strange rivers<br />Rivers that you can not see<br />And there are strange rivers<br />Who know our destiny<br />And there are strange rivers<br />And we&#39;re sailors<br />You and me<br /><br />And he could have been a builder<br />He could have been the one<br />To turn his dreams to steel<br />Cathedrals in the sun<br />And he could have been a builder<br />But then he bought the gun<br />There are forces in that river<br />That keep him on the run<br /><br />There are strange rivers<br />Rivers that you can not see<br />And there are strange rivers<br />Who know our destiny<br />And there are strange rivers<br />And we&#39;re sailors<br />You and me<br /><br />Did you ever turn the corner<br />And you wondered why you did<br />&#39;Cause you haven&#39;t been that way, now<br />Since you were just a kid<br />And nothing really happened<br />But then you&#39;ve got to say<br />That you wonder what would&#39;ve happened<br />Had you gone the other way<br />There are strange rivers<br />Rivers that you can not see<br />And there are strange rivers<br />Who know our destiny<br />And there are strange rivers<br />And we&#39;re sailors<br />You and me<br /><br />For there are strange rivers<br />There are strange rivers<br />And there are strange rivers<br />There are strange rivers<br />Oh, there are strange rivers<br />There are strange rivers<br /><br />Feel the river<br />See the river<br />Be the river
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

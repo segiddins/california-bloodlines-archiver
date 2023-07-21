@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2551
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SUMMER&#39;S SUN&#39;S COLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes &#39;86 (Homecoming, 450, 1986)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Sometimes the summer sun&#39;s silver, sometimes the summer sun&#39;s gold<br />Sometimes the summer sun&#39;s blazing, sometimes the summer sun&#39;s cold<br />When the summer sun&#39;s cold<br /><br />Sometimes my soul is worth saving, sometimes my soul has been sold<br />Sometimes the summer sun&#39;s silver, sometimes the summer sun&#39;s gold<br />And the summer sun&#39;s gold<br /><br />Sometimes the people keep winning, sometimes the people just fail<br />Some people, life is like flying, some people, life is a jail<br />Life is a jail<br /><br />Sometimes the summer sun&#39;s silver, sometimes the summer sun&#39;s gold<br />Sometimes the summer sun&#39;s blazing, sometimes the summer sun&#39;s cold<br />And the summer sun&#39;s cold<br />And the summer sun&#39;s cold<br /><br />When the summer sun&#39;s cold<br />When the summer sun&#39;s cold<br />When the summer sun&#39;s cold<br />When the summer sun&#39;s cold<br />When the summer sun&#39;s cold
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

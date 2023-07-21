@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2949
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>18 WHEELS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Fire in the Wind (RSO, RSO SUPER 2394 194, 1977)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>See it shinning on the highway at night<br />Little lights burning from the cafe right<br />Fat Jack talking &#39;bout a girl named Rose <br />Looking for something to put up her nose<br />But I ain&#39;t got time tonight, I ain&#39;t got time tonight<br /><br />And if you want that flag to wave<br />Them eighteen wheels&#39;ll roll<br />Eighteen wheels gotta roll, road hugger<br />Them eighteen wheels&#39;ll roll and the wheels&#39;ll roll<br /><br />Chevrolet burning in the left hand lane<br />Me I&#39;m looking down through the window pain<br />A Beehive&#39;s laying with her head in his lap<br />I don&#39;t believe she was taking a nap<br />But I ain&#39;t got time tonight, I ain&#39;t got time tonight<br /><br />Oh, if you want that flag to wave<br />Them eighteen wheels&#39;ll roll<br />Eighteen wheels gotta roll, road hugger<br />Them eighteen wheels&#39;ll roll and the wheels&#39;ll roll<br /><br />An eight track&#39;s playing your &quot;Silver Wings&quot;<br />Like a razor&#39;s edge Merle Haggard sings<br />Earth bound ships on a four-lane sea<br />Don&#39;t look like there&#39;s any sleep for me<br />Cause I ain&#39;t got time tonight, I ain&#39;t got time tonight<br /><br />And if you want that flag to wave<br />Them eighteen wheels&#39;ll roll<br />Eighteen wheels gotta roll, road hugger<br />Them eighteen wheels&#39;ll roll, and the wheels&#39;ll roll
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

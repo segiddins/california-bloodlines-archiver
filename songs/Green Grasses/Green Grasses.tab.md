@@ -1,0 +1,45 @@
+(G)  (D)  
+(G)  (D5)(D5)(D4)(D)(D4)(D5)
+(G[C formation 7th fret], quick A-note on high E-string)(G) (D5)(D5)(D4)(D)
+(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)
+
+Oh (G)way out on a (D)lonely bayou,
+(G)There waits a girl where the (D)green grasses grow.
+(G)Waits she there with a (D)tear in her eye,
+Dreaming of (G)years that (A7)long have gone (D)by.
+(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)
+
+(G)How I yearn for the (D)days that are gone
+When I'd (G)wake in the morning to a (D)whippoorwill song.
+(G)There by the fire sits (D)my lady fair,
+Singing this (G)song as she (A7)combs her long (D)hair.
+
+She&#8217;d sing (G)way out on a (D)lonely bayou
+(G)There waits a girl where the (D)green grasses grow,
+(G)Waits she there with a (D)tear in her eye,
+Dreaming of (G)years that (A7)long have gone (D)by.
+(D)(D5)(G[C formation 7th fret], quick A-note on high
+E-string)(G)(D)(G)(D)(A7)(D)
+(G)  (D5)(D5)(D4)(D)
+(G)(G)(A-note on high E)(G[C formation 7th fret], quick A-note on high
+E-string)(G)
+(D5)(G)(D)(A7)(D)
+(G) )(G[C formation 7th fret,3x]) (D5)(D5)(D4)(D)
+(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)
+
+(G)Now I'm thinkin' (D)home I must go,
+'Cause (G)I've been out here where the (D)four winds blow,
+(G)Leavin&#8217; tonight with the (D)big April moon,
+She'll be at my (G)side by the(A7) third day of (D)June.
+
+(G)Way out on a (D)lonely bayou,
+(G)There waits a girl where the (D)green grasses grow,
+(G)Waits she there with a (D)tear in her eye,
+Dreaming of (G)years that (A7)long have gone (D)by.
+
+Oh (G)way out on a (D)lonely bayou,
+(G)There waits a girl where the (D)green grasses grow,
+(G)Waits she there with a (D)tear in her eye,
+Dreaming of (G)years that (A7)long have gone (D)by.
+Dreaming of (G)years that (A7)long have gone (D)by.
+(D)(D4)(D5)(G)(D)(A7)(G)(D)(A7)(D)

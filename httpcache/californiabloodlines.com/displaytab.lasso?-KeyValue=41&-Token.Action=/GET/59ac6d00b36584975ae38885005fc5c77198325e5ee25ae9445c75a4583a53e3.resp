@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2586
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CANNONS IN THE RAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Gm) (C7/G) (F) (Am7) (Dm) (Dm/C)<br />(Gm) (C7/G) (F) (Am7) (Dm) (Dm/C)<br /><br /><br />(Gm) How could you (C7/G)go, Virginia,<br />(F) And (Am7)play that drifter&#39;s (Dm)game?(Dm/C)<br />(Gm) He sold to (C7/G)you the thunder<br />(F) Were (Am7)cannons in the (Dm)rain. (G7) (F)<br /><br />And all his (G7)Holy (C)Roads  (Am)<br />(F) Were (E7)sidetracks just the (Am)same. (F)(G)<br />(Cj7) Still you (F) believe the thun(Em)der  (Am7)<br />(F) Are (G)cannons in the (Cj7)rain, (Am)<br />(F) Are (G)cannons in the (C)rain. (A7) (D) <br /><br />(Gm) Your Don Qui(C7/G)xote&#39;s windmills <br />(F) Were (Am7)giants in his (Dm)eyes. (Dm/C)<br />(Gm) To see things as they(C7/G) really are,<br />(F) It can (Am7))only make you (Dm)wise. (G7) (F)<br /><br />And all his (G7)Holy (C)Roads (Am)<br />(F) Were (E7)sidetracks just the (Am)same, (F)(G)<br />(Cj7) Still you (F) be(C)lieve the thun(Em)der (Am7)<br />(F) Are (G)cannons in the (Cj7)rain, (Am)<br />(F) Are (G)cannons in the (C)rain. (A7) (D)<br />(Gm) (C7/G) (F) (Am7) (Dm) (Dm/C)<br />(Gm) (C7/G) (F) (Am7) (Dm) (G) (F)<br /><br />And all his (G7)Holy (C)Roads (Am)<br />(F) Were (E7)sidetracks just the (Am)same, (F)(G)<br />(Cj7) Still you (F) be(C)lieve the thun(Em)der (Am7)<br />(F) Are (G)cannons in the(Cj7)rain, (Am)<br />(F) Are (G)cannons in the (C)rain. (F) (Cj7)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

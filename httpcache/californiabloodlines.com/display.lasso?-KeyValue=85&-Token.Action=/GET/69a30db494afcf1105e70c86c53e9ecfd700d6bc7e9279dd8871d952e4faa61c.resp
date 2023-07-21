@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2878
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:41 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE RUNNER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Fire in the Wind (RSO, RSO SUPER 2394 194, 1977)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>When your wings no longer catch the wind<br />Your wheels are throwing sparks from concrete on the rims<br />And when you&#39;ve run so long and you run so hard<br />Feeling every stone beneath your feet<br />As they repeat that when you run, you run alone<br /><br />And when your dreams are all just flashbacks<br />And you&#39;re crying beneath the wise cracks<br />I&#39;ve been here before and there is no more<br />And when you&#39;ve run so hard and you&#39;re worn so thin<br />You find that losing&#39;s just another way to win<br /><br />Then it&#39;s time for you to begin<br />To be wings, to be wheels<br />And to know how it feels<br />To be you on your own<br />&#39;Cause when you run<br />Oh, when you run<br />You run alone<br /><br />And you know you love the game<br />Like the river loves the rain<br />A sidewinder loves the plain<br />So you can&#39;t complain<br />No one hears and no one cares<br />That the road you&#39;re going<br />Doesn&#39;t get you anywhere<br />You&#39;re the one who put it there<br /><br />So why not go and chase the sun<br />That&#39;s one race that just can&#39;t be won<br />But at least you have begun<br />To be wings, to be wheels<br />And to know how it feels<br />To be you on your own<br />&#39;Cause when you run<br />Oh, when you run<br />You run alone
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

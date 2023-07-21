@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2921
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:56 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JOSIE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(D) (Em) (D) (Em)<br />(D) (Em) (F#m) (Em)<br /><br />(D) Josie loved the (Em)sailors<br />With their (D)bawdy, wet neck (Em)songs,<br />(D) Josie loved the (Em)stories<br />From the (F#m)halls of the Kublai (Em7)Khan.<br /><br />(D) And don&#39;t you know she (A)loved me<br />Ah, she (D)loved me all the (G)time,<br />And won&#39;t you (D)say hell(F#m)o to (Em7)Josie<br />On the (A)San Francisco (A7 short)county (D)line?<br />Oh, (D)say hell(F#m)o to (Em7)Josie<br />On the (A)San Francisco (A7 short)county (D)line.<br />(Em) (D) (Em)<br /><br />(D) Josie loved the (Em)soldiers<br />(D)Coming home from (Em7)war,<br />(D)Josie used to (Em)tell them<br />That you (F#m)won&#39;t go fight no (Em7)more.<br /><br />(D) But don&#39;t you know she(A)loved me<br />Ah, she (D)loved me all the (G)time,<br />And won&#39;t you (D)say hell(F#m)o to (G)Josie<br />On the (A)San Francisco (A7 short)county (D)line?<br />Oh, say hell(F#m)o to (G)Josie<br />On the (A)San Francisco (A7 short)county (D)line.<br />(Em) (D) (Em)<br /><br />(D) Josie don&#39;t work (Em)sidewalks<br />Or the (F#m)bars of the Tender(Em)loin,<br />&#39;Cause (D)Josie makes her (Em)money<br />From the (F#m)homesick, lonesome (Em7)boys.<br /><br />(D) But don&#39;t you know she (A)loved me<br />Ah, she (D)loved me all the (G)time,<br />(D)Say hell(F#m)o to (G)Josie<br />On the (A)San Francisco (A7 short)county (D)line.<br />Oh, say hell(F#m)o to (G)Josie<br />On the (A)San Francisco (A7 short)county (D)line,<br />Oh, say (F#m)hello to (Em7)Josie<br />On the (A)San Francisco (A7)county (D)line.<br />(F#m) (Em)(Em7) (A)(A7 short)(D)<br />(F#m) (Em)(Em7) (A)(A7 short)(D)<br />(F#m) (Em)(Em7) (A)(A7 short)(D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

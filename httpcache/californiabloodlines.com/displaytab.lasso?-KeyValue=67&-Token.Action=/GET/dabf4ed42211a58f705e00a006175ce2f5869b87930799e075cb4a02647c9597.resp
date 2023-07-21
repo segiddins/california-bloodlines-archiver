@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2701
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>OVER THE HILL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Suckin&#39; (C)wind,<br />I&#39;m slippin&#39; down the back road once a(F)gain.<br />And I&#39;m on the (C)run,<br />Slippin&#39; down the back road in the (F)sun.<br />And I&#39;m taking (C)flight,<br />Oh, I&#39;m slipping down the back road in the (F)night.<br />And I&#39;m running (C)still,<br />Slipping down and over the (F)hill.<br />(C)  (F)  (C)  (F)  (hold)<br /><br />For so (C)long,<br />Oh, I&#39;ve been out there looking for a (F)song.<br />And it&#39;s just in(C)sane,<br />It&#39;s like trying to run and chase a moving (F)train.<br />And you under(C)stand,<br />Oh, aren&#39;t you trying to find the promised (F)land?<br />And you (C)will,<br />Slippin&#39; down and over the (F)hill.<br /><br />Oh, it&#39;s (C)over the (F)hill,<br />(C)Over the (F)hill,<br />And (C)oh, hell yes, I (F)will, (Dm)<br />(Bb)Slipping down and (C)over the (F)hill.<br />(C)  (F)  (C)  (F)  (C)  (F)  (C)  (F)  (hold)<br /><br />Suckin&#39; (C)wind,<br />I&#39;m slippin&#39; down the back road once a(F)gain.<br />And I&#39;m on the (C)run,<br />Slippin&#39; down the back road in the (F)sun.<br />And I&#39;m taking (C)flight,<br />Oh, I&#39;m slipping down the back road in the (F)night.<br />And I&#39;m running (C)still,<br />Slipping down and over the (F)hill.<br /><br />Oh, it&#39;s (C)over the (F)hill,<br />(C)Over the (F)hill,<br />(C)Over the (F)hill,<br />(C)Over the (F)hill.<br />(C)  (F)  (C)  (F)  (C)  (F)  (C)  (F)  (C)  (F)  (C)  (F)  (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

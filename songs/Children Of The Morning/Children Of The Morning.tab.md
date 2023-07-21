@@ -1,0 +1,29 @@
+Capo 3rd fret
+
+ (G)(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+ (G)(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+ (Em)Dance to the (G)circle, watch it (A)grow,
+ (Em)Turning like for(G)ever moving (D)slow,
+ For it's (G)on(G/F#))ly a (G)moment, that I (Am7)know,
+ (D)Children of the (G)morning told me (D)so.
+
+ (Em)Burn with the (G)fire, make it (A)bright,
+ (Em)Catch it on the (G)wind when it´s in (D)flight.
+ Oh, it's (G)one (G/F#)lonely (G)flame against the (Am7)night,
+ (D)Children of the (G)morning, make it (D)light,
+ Make it (G)ooooh.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+ (G)Ooooh.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+
+ (Em)Stand upon the (G)mountain, it is (A)done,
+ (Em)Watch them at the (G)crossroads as they (D)come.
+ They were (G)blinded (G/F#)by a(G)nother winter's (Am7)sun,
+ (D)Children of the (G)morning, you have (D)won.
+
+ (Em)Dance to the (G)circle, watch it (A)grow,
+ (Em)Turning like for(G)ever moving (D)slow,
+ And it's (G)on(G/F#))ly a (G)moment, that I (Am7)know,
+ (D)Children of the (G)morning told me (D)so,
+ Children of the (G)morning.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+ (G)Ooooh....(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)
+ (G)Ooooh....(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)(G-'highlight' high notes
+ D-C-C-A, downstrum full chord G)

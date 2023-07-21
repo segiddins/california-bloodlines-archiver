@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4018
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>IT AIN&#39;T THE GOLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Single notes for intro and breaks<br /><br />E -----3-3-----3 h 5--3---0-----<br />B--1--------1----------------1--<br />G-------------------------------<br /><br />E-----------------------<br />B---3--0----------------<br />G--------2 p 0----------<br />D--------------2 p 0----<br /><br />E-----------------------<br />B---3--0----------------<br />G--------2 p 0----------<br />D--------------2 p 0----<br /><br />(repeats and into verses - <br />or play chords for the intro, as written out below &#710; on the (G5)&#710;(G) part,<br />don&#180;t play high E-string, accentuate [on B-string]d-note, then b-note,<br />follow with [on G-string] a-note, g-note)<br /><br />(C)  (C5)  (G5)(G) (G5)(G)  (C)  (C5)  (G5)(G) (G5)(G)<br /><br />It ain&#39;t the (C)gold (C5)<br />That keeps you on the highway in the (G5)cold.(G) (G5)(G)<br />It ain&#39;t the (C)gold (C5)<br />That keeps your wheels a-turning when you&#39;re (G5)old.(G) (G5)(G)<br />It&#39;s not the (D)end, it&#39;s the beginning,<br />Here&#39;s to Errol Flynning, mmmm,<br />It is the (C)winning. (C5)<br />It ain&#39;t the (G5)gold.(G) (G5)(G)<br /><br />(C)  (C5)  (G5)(G) (G5)(G)  (C)  (C5)  (G5)(G) (G5)(G)<br /><br />It ain&#39;t the (C)fame (C5)<br />That keeps you on the highway in the (G5)rain.(G) (G5)(G)<br />It ain&#39;t the(C) fame (C5)<br />That keeps the warhorse playing in the (G5)game.(G) (G5)(G)<br />It&#39;s not the (D)end, it&#39;s the beginning,<br />Not the fall, it is the pinning, mmmm,<br />It is the (C)winning.<br />It ain&#39;t the (G5)gold.(G) (G5)(G)<br /><br />(lead guitar)<br /><br />E--------3----3--<br />B-3 h 5----5-----<br />G----------------<br /><br />E--------3----3 h 5&#732;3----------<br />B-3 h 5----5-----------5----1--<br />G------------------------------<br /><br />E-------------------------<br />B--2--0-------------------<br />G--------2 p 0------------<br />D---------------2---0-----<br /><br />E--------------------------<br />B--2--0--------------------<br />G--------2 p 0-------------<br />D---------------2---0------<br /><br />E--------3----3 ---------3-----3-----5----7-<br />B-3 h 5----5-----3 h 5------5---------------<br />G-------------------------------------------<br /><br />E-10-12-10-7-8-7-------------<br />B------------------10-8-10---<br />G----------------------------<br /><br />(rhythm guitar)<br /><br />(C)  (C5)  (G5)(G) (G5)(G)  (C)  (C5)  (G5)(G) (G5)(G)<br /><br />It&#39;s not the (D)end, it&#39;s the beginning,<br />And here&#39;s to Errol Flynning...mmmm,<br />It is the (C)winning. (C5)<br />It ain&#39;t the (G5)gold.(G) (G5)(G)<br /><br />(C)  (C5)  (G5)(G) (G5)(G)  (C)  (C5)  (G5)(G) (G5)(G)<br /><br />It ain&#39;t the (C)gold, (C5)  (G5)(G) (G5)(G)<br />It ain&#39; the (C)gold, (C5)  (G5)ooohhh(G) (G5)(G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

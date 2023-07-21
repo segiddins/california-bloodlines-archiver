@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3124
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LIDDY BUCK</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Teresa and the Lost Songs (cass - Crow, 1, 1992; CD - Homecoming, HCCD00870, 1998)<br />Wires from the Bunker (Wrasse Records, 2000; Appleseed Records, APR CD 1047, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>You gotta keep running &#39;cause you can&#39;t go back<br />Everybody&#39;s looking for a home<br />You know you had it all but it had to fall<br />When you said that you&#39;d go it alone<br />You&#39;d go it alone<br /><br />Neither love nor money gonna keep you away<br />You can&#39;t stop the rolling of a stone<br />Take that, leave that, running on the same track<br />It&#39;s hard you know, hmmmmmm<br />When you go it alone<br />A whole lotta luck to you, Liddy Buck<br />A whole lotta luck to you, Liddy Buck<br />When you go it alone<br /><br />And it&#39;s been too long<br />It&#39;s gone too far <br />Go tear down the sky for a star<br /><br />A whole lotta luck to you, Liddy Buck<br />A whole lotta luck to you, Liddy Buck<br />A whole lotta luck to you, Liddy Buck<br /><br />You gotta keep running &#39;cause you can&#39;t go back<br />Everybody&#39;s looking for a home<br />You know you had it all but it had to fall<br />When you said that you&#39;d go it alone<br />You&#39;d go it alone<br /><br />And it&#39;s been too long<br />It&#39;s gone too far <br />Go tear down the sky for a star<br />A whole lotta luck to you, Liddy Buck<br />A whole lotta luck to you, Liddy Buck<br /><br />And it&#39;s been too long<br />It&#39;s gone too far <br />Go tear down the sky for a star<br />A whole lotta luck to you, Liddy Buck<br />A whole lotta luck to you, Liddy Buck<br /><br />A whole lotta luck to you, Liddy Buck
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

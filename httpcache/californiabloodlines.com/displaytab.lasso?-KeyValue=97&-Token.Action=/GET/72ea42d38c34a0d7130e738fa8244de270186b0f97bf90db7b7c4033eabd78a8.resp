@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4339
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AN ACCOUNT OF HALEY&#8217;S COMET</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and John S. Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>A2<br />E---------<br />B---------<br />G----2----<br />D----2----<br />A---------<br />E---------<br /><br /><br />Capo 2nd fret<br /><br />This is the story as I remember it, of my first seeing Haley&#39;s Comet &#8211; <br />Of my seeing Haley&#39;s Comet. (D) (Em) This was in Lexington, Ken(D)tucky,<br />and I was living at the (Em)Transylvania Inn, (D)  the place I was (Em)born. <br />(D) My mother was (Em)operating that inn.(D) My father was a horse trainer.(Em) <br />It must have been (D) (Em) in the late spring (D)or early summer, (Em)<br />my mother came to me and said, (D) &quot;Let&#39;s go (Em) upstairs (D) on the veranda.&quot; (Em)<br />She said, &quot;I (D)want you to see Haley&#39;s Comet.&quot;(Em)<br />(D)And to me it was only (Em) another star, (D) (Em) so every (D)night I went up<br />and (Em)watched and (D)as it got closer, (Em) what I though was a (D)star, <br />started to (Em)take on the look of a ball of fire with a tail behind it. <br /><br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (C)sky. (F)<br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (D)sky.<br /><br />And as it came around, (A2)it got bigger and (Em)bigger and lower and (A2)lower,<br />(Em) Till finally one (A2)night (Em) it was over the (A2)Tattersall&#39;s barn.  (Em)<br />(A2) It looked like that it was just (Em)hovering over that barn <br />and that it (A2)might fall (Em) at any minute. (A2) <br />The (Em)horses in the barn were(A2)restless.<br />They were  (Em) thrashing around (A2) in the stalls.<br />(Em) They were nickering. (A2) It was a (Em)nicker of (A2)fear. (Em)<br />My father, (A2)several other men, (Em)went to the barn to try to quiet the (A2)horses.(Em) and I went to my mother (A2) and I said, Mother, I&#39;m a(Em)fraid.&quot; (A2) <br />She says, (Em) &quot;So am I.&quot; (A2)  I said, &quot;What can I (Em)do?&quot;<br />(A2) She said,  &quot;Well, (Em)ask God to (Em)spare us.&quot;<br />It was so (A2)bright  (Em) that there were (A2)dark shadows (Em)under the eves<br />of the (A2)barn.(Em) I don&#39;t think I can describe (A2)that eerie light.<br />(Em) It wasn&#39;t  (A2) pure white, (Em) (A2) it wasn&#39;t red, <br />(Em) it just seemed like a light that reached your very soul. <br /> <br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (C)sky. (F)<br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (C)sky.<br /><br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (C)sky. (F)<br />(C)Ken(F)tucky (C)light shine, (Am)will it (Dm)fall [fades here] (G)from the (C)sky? (F)<br />(C) Ken(F)tucky (C)light (Am)shine, (F)stranger (G)in the (C)sky.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

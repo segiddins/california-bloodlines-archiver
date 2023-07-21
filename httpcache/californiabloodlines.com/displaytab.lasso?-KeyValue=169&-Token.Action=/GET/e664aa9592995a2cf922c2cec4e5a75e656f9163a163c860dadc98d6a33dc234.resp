@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3251
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>COOLER WATER, HIGHER GROUND (CD only)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C) (F) (G)  (C) (F) (G)  <br />(C) (F) (G)  (C) (F) (G)  <br /><br />Oh (C)Lord, will you (F)send me a (G)morning?<br />&#39;Cause I (C)need a little (F)sun on my (G)wall.<br />(C)Often at (Em7/B)night when the (Am7)sun&#39;s going (Am7/G)down<br />(F)I feel like giving (Dm7)up on it (G)all.<br />Ah, but (C)rolling in the (F)arms of my (G)darling,<br />(C) Cooling her (F)head with my (G)hand, *<br />Oh, a (C)song comes to (Em7/B)me when I&#39;m (Am7)dreaming (Am7/G) <br />Like it&#39;s (F)moving all (Dm7)over the (G)land.<br /><br />It goes, (C)Mm mm mm(Em7/B)mm mm mm (Am7)mm, (Am7/G)<br />(F)Here in my (G)heart I have (C)found, (G, more a note than a chord)<br />(C)Mm mm mm(Em7/B)mm mm mm (Am7)mm, (C7)<br />(F) Cooler (C)water, (G) higher (C)ground<br />(F) Cooler (C)water, (F) hi(G)gher (C)ground.<br />(F) (G)  (C) (F) (G)  (C) (Em/B) (A) (A7)<br /><br />I was (D)born in the (Em7)heat of Sep(A7)tember,<br />(D)Died in the (G)cool of the (A)fall.<br />Oh, (D)bornin&#39; and (F#m/C#)dieing, we (Bm)do all the (Bm/A)time,<br />(G)Don&#39;t mean much of (Em7)nothing at (A)all.<br />Now there&#39;s (D)no one looking (Em)over my (A)shoulder,<br />(D)No one&#39;s putting (G)nothing on (A)me. <br />You know, (D)sometimes I (F#m/C#)even be(Bm)lieve it, (Bm/A) <br />And I (G)know how it (Em7)feels to be (A)free. (A/G) (A/F#) (A/E)<br /><br />It&#39;s like, (D)Mm mm mm (F#m/C#)mm mm mm (Bm)mm, (Bm/A)<br />For (G)here in my (A)heart I have (D)found (A7)<br />(D)Mm mm mm(F#m/C#)mm mm mm (Bm)mm, (Bm/A)<br />(G) Cooler (D)water, (A)higher (D)ground,<br />(G) Cooler (D)water, (Em)hi(A)gher (D)ground. (G) (A7)<br /><br />And there are (D)hymns in the (F#m/C#)whims of the (Bm)lonely, (Bm/A) <br />And (G)here in my (A)heart I have (D)found (A7)<br />(D)Hymns in the (F#m/C#)whims of the (Bm)lonely, (Bm/A) <br />It&#39;s (G) cooler (D)water, (A)higher (D)ground, <br />(G) Cooler (D)water, (Em)hi(A)gher (D)ground.<br />(G) (A)  (D) (G) (A)   (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2724
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:13 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LADY OF FAME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Dream Babies Go To Hollywood (RSO, RS-1-3074, 1980)<br />The Best of John Stewart (Polydor 527 369-2, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>She sounds like birds, flying in the moonlight<br />She feels like fog, covering your eyes<br />She looks like gold, oh but don&#39;t you believe her<br />Beat the lady of fame at the lady&#39;s own game<br /><br />She&#39;s a blinding light, for the heros of the homeless<br />A one way flight, for believers in the dream<br />She&#39;s an endless night, for those who bought the starlight<br />Beat the lady of fame at the lady&#39;s own game<br />Beat the lady of fame at the lady&#39;s own game<br /><br />If you can laugh, in the face of the fire<br />If you can dance, in the light of the flames<br />And if you don&#39;t look down, when you&#39;re up on the wire<br />You&#39;ll beat the lady of fame at the lady&#39;s own game<br />You&#39;ll beat the lady of fame at the lady&#39;s own game<br /><br />If you can laugh, in the face of the fire<br />If you can dance, in the light of the flames<br />And if you don&#39;t look down, when you&#39;re up on the wire<br />You&#39;ll beat the lady of fame at the lady&#39;s own game<br />You&#39;ll beat the lady of fame at the lady&#39;s own game
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

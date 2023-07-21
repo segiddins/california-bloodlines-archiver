@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2498
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANNIE BORN AND DIED</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Em) (D) (Em) (D) (Em) (D)<br />(Em) Born to(D)day,(C) a new re(D)lation,<br />(Em) Quiet (D)hush (C) in the pink front (D)room.<br />(G) A bloodstone (D)birthstone (C) they will (D)give her,<br />(Em) Annie (D)born (C) on a summer after(D)noon.<br />(Em) (D) (C/E) (D) (Em) (D) (C/E) (D)<br /><br />(Em) Home to(D)day,(C) school va(D)cation,<br />(Em) Quiet (D)laughs (C) in the yellow front (D)room.<br />(G) Her own (D)curbstone,(C) shoes of (D)leather,<br />(Em) Annie (D)home on a (C)summer after(D)noon.<br />(Em) (D) (C/E) (D) (Em) (D) (C/E) (D)<br /><br />(Em) Held to(D)day,(C) a cele(D)bration,<br />(Em) Wedding (D)veil (C) in the white front (D)room.<br />(G) A diamond (D)ringstone (C) he will (D)give her,<br />(Em) Annie (D)married (C) on a summer after(D)noon.<br />(Em) (D) (C) (D) (Em) (D) (C) (D) (G) (D) (C) (D) (Em) (D) (C) (D)<br /><br />(Em) Gone to(D)day,(C) an old re(D)lation,<br />(Em) Quiet (D)hush (C) in the black front (D)room.<br />(G)One lone (D)tombstone (C) they will (D)give her,<br />(Em) Annie (D)died on a (C)summer after(D)noon.<br /><br />And (C)Annie born and (D)died,<br />(G)Annie (D/F#)born and (Em)died.(hold)<br />It was (C/E)just(hold) a little (D)song(hold)<br />Called (C)Annie (D)born and (Em)died.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

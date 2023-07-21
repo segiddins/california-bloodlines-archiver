@@ -1,0 +1,107 @@
+HTTP/1.0 200 OK
+Content-Length: 5996
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 17:38:44 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+
+	<head>
+		<title>John Stewart Lyrics Search Results</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<center>
+			<table cellspacing="0" cellpadding="1" width=550>
+				<tr>
+					<td align=left valign=middle><b><font size="+2"><font color="purple">Search Results</font></font></b></td>
+					<td align=right><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></font></b></td>
+				</tr>
+			</table>
+			<img src="images/dkpuline550.gif" alt="" width="550" height="25">
+			<br>
+			<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+	
+	
+	
+	
+	
+	
+	
+	
+ </td>
+		</tr>
+		<tr>
+			<td colspan="2"> 	
+	
+ </td>
+		</tr>
+		<table border="0" cellspacing="4" cellpadding="2" width=550>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple">Song Details,Tabs and Printable Lyrics</font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th></th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=111&-Token.Action=">JUST AN OLD LOVE SONG<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=111&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=111&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=112&-Token.Action=">THE ROAD SHINES BRIGHT<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=112&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=112&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=113&-Token.Action=">TOUCH OF THE SUN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=113&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=113&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=114&-Token.Action=">BOLINAS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=114&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=114&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=115&-Token.Action=">FREEWAY PLEASURE<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=115&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=115&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=116&-Token.Action=">SWIFT LIZARD<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=116&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=116&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=117&-Token.Action=">WOLVES IN THE KITCHEN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=117&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=117&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=118&-Token.Action=">LITTLE ROAD AND A STONE TO ROLL<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=118&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=118&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=119&-Token.Action=">DAYDREAM BELIEVER<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=119&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=119&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=120&-Token.Action=">CRAZY <br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=120&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=120&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=121&-Token.Action=">WILD HORSE ROAD<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=121&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=121&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=122&-Token.Action=">ALL THE BRAVE HORSES<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=122&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=122&-Token.Action=">Printable Lyrics<br><br></a>
+		 </td>
+		</tr></table>
+		<tr>
+			<td colspan="2"> 
+	  Showing 12 records out of 12 found (1 to 12)   
+ </td>
+		</tr>
+	</table>
+		<p><img src="images/dkpuline550.gif" alt="" width="550" height="25"><br>
+				<a href="search.lasso"><img src="images/Seachagain.gif" alt="" width="148" height="35" border="0"></a></p>
+		</center>
+	</body>
+
+</html>

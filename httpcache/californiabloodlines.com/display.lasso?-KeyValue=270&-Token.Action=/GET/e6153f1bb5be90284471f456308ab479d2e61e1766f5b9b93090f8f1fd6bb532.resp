@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3183
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TURN OF THE CENTURY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>She was born at the turn of the century it seems<br />Born from the world to awaken from a dream<br />It is out of her hands, it was meant to be<br />Oh you can&#39;t turn back Diana for it is your destiny<br />And I hope you&#39;re dancing yeah<br />And I hope you&#39;re dancing yeah<br /><br />Oh, the love of the world is the wings of the saints<br />Who answer the call when the light is getting faint<br />But they show you no mercy, the merchants of pain<br />And there is no one alive who isn&#39;t speaking your name<br />And I hope you&#39;re dancing yeah<br />And I hope you&#39;re dancing yeah<br />To the music of the Angels and the dawning of the day<br />I hope you&#39;re dancing Diana<br />I hope you&#39;re dancing Diana<br /><br />Oh, we must love one another, again it is heard<br />From Mother Calcutta who embodies the word<br />And humbled and shamed, bowed the head of the Queen<br />As you pass by Diana as if in a dream<br />And I hope you&#39;re dancing yeah<br />And I hope you&#39;re dancing yeah<br />To the music of the Angels and the dawning of the day<br />I hope you&#39;re dancing Diana<br /><br />Oh, she died at the turn of the century they say<br />At the end of a chase near the Champs Elyesse<br />You will never grow old, you will never be scorned<br />In a flash in the tunnel and a legend was born<br />And I hope you&#39;re dancing yeah<br />And I hope you&#39;re dancing yeah<br />To the music of the Angels and the dawning of the day<br />I hope you&#39;re dancing Diana<br /><br />I hope you&#39;re dancing Diana<br />I hope you&#39;re dancing Diana<br />I hope you&#39;re dancing Diana
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3057
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PATHS ARE MANY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th fret<br /><br />(Dm)  (C)  (Dm)  (C)  (Dm)  (C)  (Dm)  (C)  <br />It&#39;s (Dm)hard to say one (C)size fits all,<br />(Dm) Some are big and (C)some are small,<br />(Bb) Some are short and (C)some are tall,<br />It&#39;s (Dm)hard to say one (C)size fits all.<br /><br />(Dm) You say black and (C)I say white,<br />(Dm) You say wrong and (C)I say right,<br />(Bb) You say day and (C)I say night,<br />(Dm) Could take a lifetime to (C)get it right.<br /><br />But (Dm)truth is one, and  (C)paths are many,<br />(Dm) Are you having fun? I&#39;m not (C)having any.<br />You can (Bb)find the sun or you can (C)find a penny,<br />(Dm)Truth is one, and, (C)oh, paths are (Dm)many.<br />(C)  (Dm)  (C)<br /><br />(Dm) You&#39;re a Catholic, and (C)I&#39;m a Jew,<br />(Dm) I don&#39;t think we (C)have a clue.<br />There&#39;s a (Bb)Hindu chant carved (C)in the pew,<br />(Dm) But any rosary (C)beads will do,<br />Any rosary beads will (Dm)do.<br />(C)  (Dm)  (C)<br /><br />(Dm) Some say truth is a (C)long white beard,<br />(Dm) Some say truth is (C)to be feared,<br />(Bb) Some say truth is just (C)too darn weird,<br />(Dm) Some say truth, yeah, I (C)see it clear.<br /><br />(Dm)Truth is one, and  (C)paths are many,<br />(Dm) Are you having fun? I&#39;m not (C)having any.<br />You can (Bb)find the sun, you can (C)find a penny.<br />(Dm) Truth is one, and (C)ah, paths are (Dm)many,<br />(C) Yeah, paths are (Dm)many.<br />(C)  (Dm)  (C)  (Dm)  (C)<br /><br />(Dm)Flows through me and it (C)flows through you,<br />(Dm) No argument, it is, (C)too,<br />It flows through me, it (Dm)flows through you. (C)<br /><br />Paths are (Dm)many. (C)<br />Oh, truth is one and (Dm)paths are many. (C)<br />Paths are (Dm)many. (C)<br />Truth is (Dm)one, (C)<br />Truth is (Dm)one, (C)<br />Paths are (Dm)many. (C) (Dm)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2580
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOOKING FOR THE WAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I ain&#39;t jumped a freight train<br />Like some others I&#39;ve been told,<br />And I ain&#39;t froze my tail off<br />On the highway in the cold.<br /><br />If you thought I was doing wrong<br />I wish to hell you&#39;d say<br />Cause for all my life and maybe more<br />I&#39;ve been looking for the way.<br /><br />Thank you Tom and thank you Glen<br />For giving me the news.<br />I&#39;ve had it soft and I&#39;ve had it good<br />And I never paid my dues.<br /><br />If you thought I was doing wrong<br />I wish to hell you&#39;d say<br />Cause for all my life and maybe more<br />I&#39;ve been looking for the way.<br /><br />I&#39;ve been down and I&#39;ve been low<br />And I have played the part.<br />And I have loved and I have lost<br />And it almost broke my heart.<br /><br />The smartest man I ever knew<br />Had just one thing to say.<br />He said, &quot;John, we&#39;re all lost and far from home<br />And looking for the way&quot;.<br /><br />And I guess I&#39;m lost<br />and far from home<br />and still looking for the way
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

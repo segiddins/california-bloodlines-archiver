@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3132
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE RISIN CANAL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Folk Scene USA (The Cumberland Three-1960) (Collector&#39;s Choice,  CCM-086-2, Reissue 1999)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>We were twenty miles from Albany<br />Forget it I never shall<br />What a heck of a time we spent that night<br />On the E-rye-e canal<br />On the E-rye-e canal<br /><br />Oh the E-rye-e was risin&#39;<br />And the gin was gettin&#39; low<br />And I hardly think that we&#39;ll get another drink<br />Til we get to Buffalo<br />Til we get to Buffalo<br /><br />We were loaded down with barley<br />And the crew was full of rye<br />And the captain he looked down on me<br />With the gawl darned evil eye<br />With the gawl darned evil eye<br /><br />Oh the E-rye-e was risin&#39;<br />And the gin was gettin&#39; low<br />And I hardly think that we&#39;ll get another drink<br />Til we get to Buffalo<br />Til we get to Buffalo<br /><br />Oh the cook she was a kind old soul<br />She had a ragged dress<br />We hung her up upon a pole<br />As a signal of distress<br />As a signal of distress<br /><br />Oh the E-rye-e was risin&#39;<br />And the gin was gettin&#39; low<br />And I hardly think that we&#39;ll get another drink<br />Til we get to Buffalo<br />Til we get to Buffalo<br /><br />Now the cook she died of hunger<br />and the captain he went to jail<br />And I&#39;m the only son of a gun<br />That&#39;s left to tell the tale<br />That&#39;s left to tell the tale<br /><br />Oh the E-rye-e was risin&#39;<br />And the gin was gettin&#39; low<br />And I hardly think that we&#39;ll get another drink<br />Til we get to Buffalo<br />Til we get to Buffalo<br />Til we get to Buffalo<br />Til we get to Buffalo
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3381
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CHILLY WINDS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and John Phillips</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />(C) (D) (G) (C) (D) (G) (C)(C/B)(Am) (D) (G)<br /><br />Oh, I&#39;m (C)goin&#39; where them (D)chilly winds don&#39;t (G)blow,<br />(C) Gonna find a (D)true love, (G) that is where I (C)want to go,(C/B)(Am)<br />Out where them (D)chilly winds don&#39;t (G)blow.<br /><br />(C)Leavin&#39; in the springtime, (D)won&#39;t be back &#39;till (G)fall,<br />(C) And if I can for(D)get you, (G) I might not come (C)back at<br />all,(C/B)(Am)<br />Out where them (D)chilly winds don&#39;t (G)blow.<br /><br />(C)Wish I was a headlight (D) on a westbound (G)train,<br />(C) I&#39;d shine my (D)light on (G) cool Colo(C)rado rain,(C/B)(Am)<br />Out where the (D)chilly winds don&#39;t (G)blow.<br /><br />Oh, I&#39;m (C)goin&#39; where them (D)chilly winds don&#39;t (G)blow,<br />(C) Gonna find a (D)true love, (G)that is where I (C)want to go,(C/B)(Am)<br />Out where them (D)chilly winds don&#39;t (G)blow.<br /><br />(C)Sing you a song, (D)sing it soft and (G)low,<br />(C)I&#180;ll sing it for you, (D)baby, (G) and then I&#39;ll (C)have to go&#8230;(C/B)(Am)<br />(D) (G)<br /><br />Oh, I&#39;m (C)goin&#39; where them (D)chilly winds don&#39;t (G)blow,<br />(C) I&#180;m gonna find a (D)true love, (G) that is where I (C)want to<br />go,(C/B)(Am)<br />Out where them (D)chilly winds don&#39;t (G)blow,<br />(Am) Out where them (D)chilly winds don&#180;t (G)blow,<br />(C) Out where them (D)chilly (D7) (hold) winds don&#180;t (G)blow. (C) (D) (C)<br />(G)<br /><br />ADDITIONAL LYRICS &#8211; (from the famous John Stewart Lyrics Database)<br /><br />If you&#8217;re feeling lonely.<br />If you&#8217;re feeling low.<br />Remember that I loved you<br />More than you will ever know<br />Out where them chilly winds don&#8217;t blow.<br /><br />&#169; John Stewart &amp; John Phillips, All Rights Reserved<br /><br />janhauenstein@gmx.de<br /><br /><br />Alternate version<br /><br />Oh, I&#180;m  (Dm7)goin&#180; where them (G7)chilly winds don&#180;t (C)blow,<br />(Dm7)Gonna find a (G7)true love, (C)that is where I (F)want to go,(F/E)<br />(Dm7)Out where them (G7)chilly winds don&#180;t (C)blow.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3293
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>COWBOY IN THE DISTANCE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Way Too Much Fun (Neon Dreams 2000, 2000)<br />Buster (Neon Dreams, 2000)<br />Johnny Moonlight (Neon Dreams, 2000)<br />Havana (Appleseed Records, APR CD, 2003)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>She&#39;s running through the cornfields of New York City<br />I&#39;m driving by the cornfields of Illinois<br />I wonder how the dream feels in New York City<br />Same as the dream that I had in Illinois<br /><br />She&#39;s skating on the backroads of Joplin Missouri<br />She&#39;s skating on the avenues of New York City too<br />How do the wheels sound in Joplin, Missouri<br />Same as the sweet singing wheels in New York do<br /><br />And she shines like a diamond<br />To this runner in the night<br />I&#39;m a cowboy in the distance<br />Waiting for the light<br /><br />There&#39;s a girl who&#39;s in love in Joplin Missouri<br />There&#39;s a girl who&#39;s in love in New York just the same<br />In love with the boys out chasing their dreams<br />In love with a boy, and she hardly knows his name<br /><br />There&#39;s a telephone that&#39;s ringing in Joplin Missouri<br />There&#39;s a telephone that&#39;s ringing in New York plain as day<br />Waiting for a call in New York in the city<br />Waiting for a call from the boy who went away<br /><br />And she shines like a diamond<br />To this runner in the night<br />I&#39;m a cowboy in the distance<br />Waiting for the light<br /><br />She&#39;s running through the cornfields of New York City<br />I&#39;m driving by the cornfields of Missouri it seems<br />I wonder if she knows there&#39;s a cowboy in the distance<br />I wonder if she knows that she&#39;s in the cowboy&#39;s dreams<br /><br />And she shines like a diamond<br />To this runner in the night<br />I&#39;m a cowboy in the distance<br />Just waiting for the light...
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

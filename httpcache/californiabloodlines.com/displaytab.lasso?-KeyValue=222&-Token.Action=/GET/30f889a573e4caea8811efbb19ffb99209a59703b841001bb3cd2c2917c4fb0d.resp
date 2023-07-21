@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3940
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGELS WITH GUNS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br />(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br />(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br />(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br />(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br />(Em7/B)(Em7/B)(C)(Cj7)(C) (Em7/B)(Em7/B)(C)(Cj7)(C)<br /><br />(pattern continues into verse and sneaks in again later &amp;#8211;<br />you&#180;ll hear, not written out so as not to confuse you too much &amp;#8211;<br />OR play as intro (Em7)     (Cj7) three times, longer intervals)<br /><br />(Em) Across cold water lies the (Cj7)sun,<br />(Em) For now the journey has be(Cj7)gun. <br />(G) The soldiers (D)marching one by (C)one<br />(G) With golden (D)light and silver (C)drums,<br />(bass run C-B-A, last bass note already on...)(Am)<br />For the battle they have (D)come.   (D/A)(D)   (D/A)(D)<br /><br />Oh, and out of the (Em)sun<br />Come angels with (Cj7)guns, (C9)<br />Oh, and out of the (Em)sun<br />Come angels with (Cj7)guns, (C9)<br />Angels with (Em)guns. (Cj7) (C9)    (Em)  (Cj7) (C9)<br /><br />(Em) And there is thunder in the (Cj7)east,<br />(Em) Mark the time that the wind re(Cj7)leased. (C9)<br />(G6) The birds of (D)prey that shadow (C)Spain (C9)<br />(G6) Who stand a (D)witness to the (C)rain, (C9)<br />(G6) And there is (D)movement in the (C)west, (C9)<br />(G6) For they are (D)gathering the (C)blessed,<br />(bass run C-B-A, last bass note already on...)(Am)<br />Speaking as (D)one.   (D/A)(D)   (D/A)(D)<br /><br />Oh, and out of the (Em)sun<br />Come angels with (Cj7)guns, (C9)<br />Oh, and out of the (Em)sun<br />Come angels with (Cj7)guns, (C9)<br />Oh, and out of the (Em)sun<br />Come angels with (Cj7)guns, (C9)<br />Oh, and out of the (Em)sun<br />Come angels with (C)guns,<br />Angels with (Em)guns. (Cj7) (C9)  (Em)  (Cj7) (C9)<br />(Em)  (Cj7)  (Em)  (Cj7)<br /><br />With one more (Em)second,<br />With one more (Cj7)minute,<br />With one more (Em)hour,<br />With one more (Cj7)day,<br />We will find a (G)way,<br />We will find a (Cj7)way, (C5)<br />Oh, we will find a (G)way,<br />Oh, we will find a (Cj7)way.<br /><br />Oh, and out of the (Em)sun,<br />Oh, and out of the (Cj7)sun, (C5)<br />Out of the (Em)sun,<br />Oh, and out of the (Cj7)sun, (C5)<br />Out of the (Em)sun,<br />Out of the (Cj7)sun, (C5)<br />And out of the (Em)sun,<br />Oh, and out of the (Cj7)sun. (C5)<br />(Em)Angels fly in the July sky,<br />Out of the (Cj7)sun,  (C5)<br />(Em)Angels fly in the July sky,<br />Out of the (Cj7)sun.  (C5)<br />(Em)Angels fly in the July sky,<br />Out of the (Cj7)sun,  (C5)<br />(Em)Angels fly in the July sky,<br />Out of the (Cj7)sun...  (C5) (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

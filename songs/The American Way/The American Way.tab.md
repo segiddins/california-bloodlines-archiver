@@ -1,0 +1,84 @@
+A2
+E----------------
+B----------------
+G----2----------
+D----2----------
+A----------------
+E----------------
+
+
+Capo 5th fret
+
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+
+(D)Some(A)times, (G) (A)
+Early in the (D)morning, (A)yeah, (G) (A)
+Yeah, (D)some(A)times, (G) 
+When the (A)world goes (D)'round, (D2) (G) (A)
+And there was (D)one (A)lie (G) (A)
+I was be(D)lieving, yeah,(A) (G6) (A7 short)
+Said that (D)dream (Bm7)girls 
+(G)Never (A)bring you (D)down. (D2)  (G) (A7 short)
+
+(D)I (A)know (G) (A)
+Somebody's (D)daughter, (A)yeah, (G) (A)
+She didn't (D)mean (A)wrong (G) 
+When she (A)said those (D)things, (D2) (G) (A)
+She said that (D)I (A)was (G) 
+The (A)oil on the (D)water, (A)yeah, (G6) (A7 short)
+She was an (D)An(Bm7)gel
+(G)Who had (A)found her (D)wings. (G6) (D)(hold)
+
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Early in the (D)morning, (D2)yeah, (G6) (A7 short)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(D)Early in the (A)day, (A2) (A) (A4)(A)(A2)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Long about (D)midnight, yeah,(D2) (D) (D4) (D) 
+(A7 short)When your (D)love's (A7 short)gone,
+O(G)k, it's the A(A7 short)merican (D)way.
+
+    (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D)(D) (A)(A) (G)(G) (A7 short)
+(D)(D) (A)(A) (G)(G) (A7 short)
+
+(D)Some(A)times, (G) (A)
+Early in the (D)morning, (A)yeah, (G) (A)
+Yeah, (D)some(A)times, (G) 
+When the (A)world goes (D)'round, (D2) (G) (A)
+And there was (D)one lie (G) (A)
+I was be(D)lieving, yeah,(D2) (G6) (A7 short)
+I said that (D)dream (Bm7)girls 
+(G) Never (A)bring you (D)down. (G6) (D)(hold)
+
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Early in the (D)morning, (D2)yeah, (G6) (A7 short)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(D)Early in the (A)day, (A2) (A) (A4)(A)(A2)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Along about (D)midnight, yeah,(D2) (D) (D4) (D) 
+(A7 short)When your (D)love's (A7 short)gone,
+O(G)k, it's the A(A7 short)merican (D)way.
+
+    (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+(D) (D4)(D)(A7short)  (G6) (A7 short)
+
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Early in the (D)morning, (D2)yeah, (G6) (A7 short)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(D)Early in the (A)day, (A2) (A) (A4)(A)(A2)
+And when your (D)love's (A7 short)gone, woo-(G)hoo,
+(A7 short)Along around (D)midnight, yeah,(D2) (D) (D4) (D) 
+(A7 short)When your (D)love's (A7 short)gone,
+O(G)k, it's the A(A7 short)merican, (D)love's (A7 short)gone,
+O(G)k, it's the A(A7 short)merican, (D)love's (A7 short)gone,
+O(G)k, it's the A(A7 short)merican (D)way.
+(D4) (D) (A7short)   (G6)  (A7 short)   (D)

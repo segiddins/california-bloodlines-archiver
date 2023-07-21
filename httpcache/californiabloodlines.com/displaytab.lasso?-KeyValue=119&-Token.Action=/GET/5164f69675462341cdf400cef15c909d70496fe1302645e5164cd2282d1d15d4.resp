@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3320
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DAYDREAM BELIEVER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 5th to play the version from &#8220;Deep in the Neon&#8221;,<br />capo 4th for the one from &#8220;Airdream Believer&#8221;.<br /><br />Capo 2nd fret<br /><br />(C)   (F, F-bass hammered on) <br />(C, C-bass hammered on)   (G, single. note, really)(hold)<br /><br />If I could (C)hide &#39;neath the (F)wings<br />Of the (Em/B)bluebird (C)as she (F)sings,<br />(C) The six o&#39;(C/B)clock a(Am)larm (Am/G) <br />Would never (D7)ring. (G7)<br />But it (C)rings and I (F)rise,<br />Rub the (Em/B)sleep out (C)of my (F)eyes.<br />The (C)sha(C/B)ving (Am)ra(Am/G)zor&#39;s (F)old <br />(G/A) And (G/B)it (C)stings.  (C7/E)<br /><br />But (F)cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)a (C) day(G)dream be(F)liever <br />And a (C) home(Am)coming (D7)queen? (G7)<br /><br />(C) You once thought of (F)me<br />As a (Em/B)white knight (C)on his (F)steed,<br />(C) But now you &#180;(C/B)know how (Am)funky (Am/G)<br />I can (D7)be. (G7)<br />And our (C)good times start and (F)end<br />Without (Em/B)dollar (C)one to (F)spend,<br />But (C)how (C/B)much, (Am)ba(Am/G)by, (F)do we<br />(G/A)Real(G/B)ly (C)need?  (C7/E)<br /><br />So (F)cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)a (C) day(G)dream be(F)liever <br />And a (C) home(Am)coming (D7)queen? (G7)<br /><br />(F)Cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)a (C) day(G)dream be(F)liever <br />And a (C) home(Am)coming (D7)queen? (G7)<br /><br />(F)Cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)the (C)old (G)lonesome (F)picker<br />And a (C) home(Am)coming (D7)queen? (G7)<br /><br />(F)Cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)a (C) day(G)dream de(F)ceiver <br />And an (C) old (Am)closet (D7)queen? (G7)<br /><br />(F)Cheer up, (G7)sleepy (C)Jean, (C/A)<br />(F)Ah, what (G7)can it (C)mean<br />(F/A)To (G/B)a (C) day(G)dream be(F)liever <br />And a (C) home(Am)coming (D7)queen? (G7)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

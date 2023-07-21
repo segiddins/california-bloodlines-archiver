@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2611
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RODEO MARY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Rodeo Mary, she wrote me a letter<br />She said your room is all ready, for you<br />I saw in the papers they&#39;ll be riding the brahmas<br />Next Sunday, the fourth, about two....<br /> <br />And if you see Rodeo Mary, while you&#39;re out on the road<br />Tell her the rain don&#39;t fall on Georgia<br />The sun don&#39;t shine on New Mexico roads<br />Tell her the godchild don&#39;t like laughin&#39;...<br />But please don&#39;t say...why I&#39;m not coming home...<br /> <br />Rodeo Mary, I&#39;m reading your letter<br />I&#39;m lonely, and I want to come home<br />But it seems to be, that I caught a disease<br />From a waitress, who was leading me on<br /> <br />So if you see Rodeo Mary, while you&#39;re out on the road<br />Tell her that the rain don&#39;t fall on Georgia<br />That the sun never shines on those New Mexico Roads<br />You can tell her that the godchild don&#39;t like laughin&#39;...<br />But please don&#39;t say....why I&#39;m not coming home...<br /> <br />Rodeo Mary.......she wrote me a letter......
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3789
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MAZATLAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am &#8211; simultaneously A [on G-string] and C [on B-string],<br />G-A-B, A-B-C [on G], B-C-D, B-C-B [on B]<br />B-A-B, A-G-A, A-G [on G] to Am) (Bass run A-A-A-E-G-A-<br />A-G-A-A-G-E  A-A-A-E-G-A-A-G-A-E-G-E)<br /><br />Oh, Man(G)uel, I (F)must go (C)riding,<br />(Am) I must (G)go down to (F)Mazat(C)lan. (Bass C-B to&#8230;)<br />(Am)See, Man(G)uel, the (F)sparrow&#39;s (C)flying, (Bass C-B to&#8230;)<br />(Am)Shadows on the (G)ground over (F)Mazat(E7)lan.<br />(high string run from D- to high E-strings<br />E-G#-B-E  E-G#-B-E)<br /><br />(Am)Oh Man(G)uel, she (F)loves a(C)nother, (Bass C-B to&#8230;)<br />(Am) Mi cora(G)zon lost in (F)Mazat(C)lan. (Bass C-B to&#8230;)<br />I&#39;ll (Am)take her from the (G)arms<br />Of (F)my own (C)brother, (Bass C-B to&#8230;)<br />(Am) Tonight I (G)ride down to (F)Mazat(E7)lan.<br />(high string run from D- to high E-strings<br />E-G#-B-E  E-G#-B-E)<br /><br />Mazat(F)lan, Mazat(G)lan, Ma(C)ria, (Bass C-B to&#8230;) (Am)<br />Mazat(F)lan, Mazat(G)lan, my (C)song.<br />Mazat(F)lan, Mazat(E)lan, Ma(Am)ria, my (F)song.<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting, (Bass C-B to&#8230;)<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting, (Bass C-B to&#8230;)<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting. <br /><br />(Bass run: D-E, E-F-E-D-E-D [on D-string], G-A,<br />G-A-B [on G-string], A-B-C [on G], B-C-D, B-C-B [on B]<br />B-A-B, A-G-A, A-G [on G] to...) (Am) (Bass run A-A-A-E-G-A-<br />A-G-A-A) [continue bass run, similar to intro, for next section]<br /><br />And I will ride like the wind<br />Coming up from the canyon<br />On a hot summer night in September.<br />Oh Manuel, I will pray<br />To the great god speed<br />That Maria remember.<br /><br />Mazat(F)lan, Mazat(G)lan, Ma(C)ria, (Bass C-B to&#8230;) (Am)<br />Mazat(F)lan, Mazat(G)lan, my (C)song.<br />Mazat(F)lan, Mazat(E)lan, Ma(Am)ria, my (F)song.<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting,<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting,<br />(Am)Dark-eyed (G)girl Ma(F)ria is (C)waiting.<br /><br />La-la (Am)la-la-la (G)la-la-la (F)la-la, (C)<br />La-la (Am)la-la-la (G)la-la-la (F)laa,   (C)<br />La-la (Am)la-la-la (G)la-la-la (F)la-la, (C)<br />La-la (Am)la-la-la (G)la-la-la (F)laa,   (C)<br />La-la (Am)la-la-la (G)la-la-la (F)la-la, (C)<br />La-la (Am)la-la-la (G)la-la-la (F)laa,   (C)<br />La-la (Am)la-la-la (G)la-la-la (F)la-la, (C)<br />La-la (Am)la-la-la (G)la-la-la (F)laa,   (C)<br />La-la (Am)la-la-la (G)la-la-la (F)la-la, (C)<br />La-la (Am)la-la-la (G)la-la-la (F)laa&#8230;  (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

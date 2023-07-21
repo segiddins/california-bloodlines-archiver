@@ -1,0 +1,28 @@
+(Em) (D) (Em) (D) (Em) (D)
+(Em) Born to(D)day,(C) a new re(D)lation,
+(Em) Quiet (D)hush (C) in the pink front (D)room.
+(G) A bloodstone (D)birthstone (C) they will (D)give her,
+(Em) Annie (D)born (C) on a summer after(D)noon.
+(Em) (D) (C/E) (D) (Em) (D) (C/E) (D)
+
+(Em) Home to(D)day,(C) school va(D)cation,
+(Em) Quiet (D)laughs (C) in the yellow front (D)room.
+(G) Her own (D)curbstone,(C) shoes of (D)leather,
+(Em) Annie (D)home on a (C)summer after(D)noon.
+(Em) (D) (C/E) (D) (Em) (D) (C/E) (D)
+
+(Em) Held to(D)day,(C) a cele(D)bration,
+(Em) Wedding (D)veil (C) in the white front (D)room.
+(G) A diamond (D)ringstone (C) he will (D)give her,
+(Em) Annie (D)married (C) on a summer after(D)noon.
+(Em) (D) (C) (D) (Em) (D) (C) (D) (G) (D) (C) (D) (Em) (D) (C) (D)
+
+(Em) Gone to(D)day,(C) an old re(D)lation,
+(Em) Quiet (D)hush (C) in the black front (D)room.
+(G)One lone (D)tombstone (C) they will (D)give her,
+(Em) Annie (D)died on a (C)summer after(D)noon.
+
+And (C)Annie born and (D)died,
+(G)Annie (D/F#)born and (Em)died.(hold)
+It was (C/E)just(hold) a little (D)song(hold)
+Called (C)Annie (D)born and (Em)died.

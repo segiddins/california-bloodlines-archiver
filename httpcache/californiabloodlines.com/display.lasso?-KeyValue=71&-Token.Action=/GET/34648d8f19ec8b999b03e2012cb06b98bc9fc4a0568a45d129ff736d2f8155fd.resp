@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2697
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:36 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HAND YOUR HEART TO THE WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bombs Away Dream Babies (RSO, RSO SUPER RSS6, 1979)<br />The Best of John Stewart (Polydor 527 369-2, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There&#39;s always one more river the sea can carry<br />There&#39;s always one more soul that heaven can hold<br />There&#39;s always one more star the sky can hang on to<br />So hand your heart to the wind, let it carry you home<br /><br />There&#39;s always one more song to sing for the lonely<br />There&#39;s always one more dream to carry you along<br />There&#39;s always one more eagle come flying in the morning<br />So hand your heart to the wind let it carry you home<br /><br />So, hand your heart to the wind<br />Let it carry you away once again<br />Hand your heart to the wind<br />Let it carry you home<br /><br />There&#39;s always one more reason to keep you braving<br />There&#39;s always one more angel to carry you home<br />There&#39;s always one more rainbow, anywhere that you go<br />So hand your heart to the wind let it carry you home<br /><br />So, hand your heart to the wind<br />Let it carry you away once again<br />Hand your heart to the wind<br />Let it carry you home<br /><br />Let it carry you home<br />Carry you home
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

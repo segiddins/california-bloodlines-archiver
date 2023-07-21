@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2429
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:09 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE LAST CAMPAIGN TRILOGY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>It was (C)more than Indi(F)ana,<br />It was (Dm)more than (Am)South Da(G)kota,<br />It was (C)more than Cali(F)fornia, <br />It was (Dm)more than (Am)Ore(G)gon.<br />It was a (Am)race against (C)time,<br />It was (F)always (C)on our (G)minds,<br />And he (C)died (F)on the (Em)road. (D) (G)<br /><br />We were (C)tired, we were (F)hungry,<br />We were (Dm)living (Am)on a (G)dream,<br />For (C)all forgotten (F)people,<br />Never (Dm)heard and (Am)never (G)seen,<br />That there (Am)would come a (C)time, <br />For a (F)moment (C)they would (G)shine,<br />And it (C)died (F)on the (Em)road. (D)<br /><br />(F)Truly as the (C)sun, <br />(E)Truly as the (Am)rain,<br />(F)Truly (G)I be(C)lie(Am)ve <br />That it (F)was the (G)last cam(C)paign.<br />(F)Truly as the (C)sun, <br />(E)Truly as the (Am)rain,<br />(F)Truly (G)I be(C)lie(Am)ve <br />That it (F)was the (G)last cam(C)paign.<br /><br />It was more than Indi(F)ana,<br />It was (Dm)more than (Am)South Da(G)kota,<br />It was (C)more than Cali(F)fornia, <br />It was (Dm)more than (Am)Ore(G)gon.<br />It was a (Am)race against (C)time, <br />It was (F)always (C)on our (G)minds,<br />And he (C)died (F)on the (Em)road.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

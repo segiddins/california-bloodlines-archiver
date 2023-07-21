@@ -1,0 +1,91 @@
+HTTP/1.0 200 OK
+Content-Length: 4474
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 17:38:42 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+
+	<head>
+		<title>John Stewart Lyrics Search Results</title>
+	</head>
+
+	<body bgcolor="#FFFFFF">
+		<center>
+			<table cellspacing="0" cellpadding="1" width=550>
+				<tr>
+					<td align=left valign=middle><b><font size="+2"><font color="purple">Search Results</font></font></b></td>
+					<td align=right><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></font></b></td>
+				</tr>
+			</table>
+			<img src="images/dkpuline550.gif" alt="" width="550" height="25">
+			<br>
+			<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+	
+	
+	
+	
+	
+	
+	
+	
+ </td>
+		</tr>
+		<tr>
+			<td colspan="2"> 	
+	
+ </td>
+		</tr>
+		<table border="0" cellspacing="4" cellpadding="2" width=550>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple">Song Details,Tabs and Printable Lyrics</font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th align="left" valign="bottom"><font size="+1"><font color="purple"></font><br><br></th>
+	<th></th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=4&-Token.Action=">LOOKING FOR JACK<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=4&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=4&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=10&-Token.Action=">BAD RATS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=10&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=10&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=222&-Token.Action=">ANGELS WITH GUNS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=222&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=222&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=224&-Token.Action=">HUNTERS OF THE SUN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=224&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=224&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=242&-Token.Action=">A GRACE OF RAIN<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=242&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=242&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=243&-Token.Action=">SEVEN ANGELS<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=243&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=243&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=258&-Token.Action=">STRANGE ALLIANCE<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=258&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=258&-Token.Action=">Printable Lyrics<br><br></a>
+		</th>
+		<tr><td align="left" valign="middle"> <a href="display.lasso?-KeyValue=259&-Token.Action=">GOLD MEDLEY(GOLD/BOY IN THE BUBBLE/LITTLE ROAD AND A STONE TO ROLL)<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displaytab.lasso?-KeyValue=259&-Token.Action=">Guitar Tabulature<br><br></a></td>
+		<td align="left" valign="middle"> <a href="displayprint.lasso?-KeyValue=259&-Token.Action=">Printable Lyrics<br><br></a>
+		 </td>
+		</tr></table>
+		<tr>
+			<td colspan="2"> 
+	  Showing 8 records out of 8 found (1 to 8)   
+ </td>
+		</tr>
+	</table>
+		<p><img src="images/dkpuline550.gif" alt="" width="550" height="25"><br>
+				<a href="search.lasso"><img src="images/Seachagain.gif" alt="" width="148" height="35" border="0"></a></p>
+		</center>
+	</body>
+
+</html>

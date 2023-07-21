@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3377
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:00 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DRAFT AGE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(D bass, D on B-string) (C bass, C on B-string)<br />(B bass, B on B-string) (A bass, A on G-string)<br />(D bass, D on B-string) (C bass, C on B-string) <br />(B bass, B on B-string) (A bass, A on G-string)<br /><br />(D)Clarence Mul(D/C)loy (D/B)stands in his (A)bedroom and (D)stares,<br />(D/C) He is (D/B)going a(A)way.<br />(D) Clarence Mul(D/C)loy (D/B)stands at the (A)mirror and (D)shaves,<br />(D/C) To(D/B)day is the (A)day.<br />Oh, it (Em)had to come sooner or (F#m)later<br />That the (Em)letter of greetings would (A7 short)say,<br />&quot;Clarence, my (D)boy,(D/C) (D/B) you are (A)draft age (D)today.&quot;<br />(D/C) (D/B) (A)<br /><br />(D)Clarence Mul(D/C)loy (D/B)looks at his (A)shelves and the (D)soldiers<br />(D/C) (D/B)Made out of (A)clay.<br />(D)Clarence Mul(D/C)loy (D/B)looks at his (A)Ma and they (D)know<br />(D/C) There is (D/B)nothing to (A)say.<br />(Em)Boarding the bus on the (F#m)corner,<br />Every (Em)face on the street seemed to (A7 short)say,<br />&#8221;Clarence, Mul(D)loy,(D/C) (D/B) you are (A)draft age (D)today.&quot;<br /><br />And the (Em)boys have all gone to Bal(F#m)boa<br />With some (Em)girls that they met on the (F#m)way,<br />And A(Em)lexis stayed home like you (A7 short)told her.<br />&#8221;Clarence Mul(D)loy,(D/C) (D/B) you are (A)draft age (D)today.<br />(D/C) (D/B) (A)<br /><br />(D)Clarence Mul(D/C)loy (D/B)looks out the (A)window and (D)sees<br />(D/C) What is (D/B)passing him (A)by.<br />(D) Clarence Mul(D/C)loy how in(D/B)credibly (A)short it can (D)be,<br />(D/C) It is (D/B)making you (A)cry.<br />And the (Em)dirty small boy that has (F#m)seen you<br />Looks (Em)up from his baseball to (A)say,<br />&quot;Clarence Mul(D)loy,(D/C) (D/B) you are (A)draft age (D)today.&quot;<br /><br />And the (Em)boys have all gone to Bal(F#m)boa<br />With some (Em)girls that they met on the (F#m)way,<br />And A(Em)lexis stayed home like you (A7 short)told her.<br />Clarence Mul(D)loy,(D/C) (D/B) you are (A)draft age to(D)day,<br />(D/C) (D/B) You are (A)draft age (D)today,<br />(D/C) (D/B) You are (A)(hold)draft age  to(D)day. (D/C) (D/B) (A) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

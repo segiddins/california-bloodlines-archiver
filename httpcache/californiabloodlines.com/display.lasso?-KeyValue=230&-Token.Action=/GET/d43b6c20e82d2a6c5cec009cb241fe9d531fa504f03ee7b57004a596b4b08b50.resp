@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2864
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RUNAWAY TRAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)<br />Deep in the Neon (Homecoming, 750, 1991)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I&#39;m worried about you<br />And I&#39;m worried about me<br />The curves around midnight<br />Aren&#39;t easy to see<br />The flashing red warning<br />Unseen in the rain<br />This thing has turned into<br />A runaway train<br /><br />Long distance phone calls<br />There&#39;s a voice on the line<br />Electrical miles that soften the time<br />And dynamite too is hooked on the wire<br />So are the rails of American flyers<br /><br />Blind boys and gamblers<br />They invented the blues<br />We&#39;ll pay up in blood<br />When this marker comes due<br />To try and get off now<br />Is about as insane<br />As those who wave lanterns<br />At runaway trains<br />This thing has turned into<br />A runaway train<br /><br />Oh, steel rails and heartlines<br />They are always in twos<br />I have been here before, yeah<br />And now it&#39;s with you<br /><br />I&#39;m worried about you<br />And I&#39;m worried about me<br />We&#39;re lighting the fuses<br />And counting to three<br />What are the choices<br />For those who remain?<br />The sign of the cross<br />Or the runaway train?<br />This thing has turned into<br />A runaway train<br /><br />Our love has turned into<br />A runaway train
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

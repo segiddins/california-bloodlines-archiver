@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2688
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:15 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>VERANDAH OF MILLIUM AUGUST</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Randy Cierley</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Something Else (The Kingston Trio - 1965, Decca DL4694/74694)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>The yellow window&#39;s hanging on the bed across the wall<br />Well, always in the morning the yellowest of all<br />And the faces of the people in the window look so small<br />And the faces in the morning were the peoplest of all<br />Standing on the verandah of Millium August<br /><br />I love to watch the spider in the horn of the Victrola<br />And the window I have colored with a burnt umber crayola<br />The chairs are musty horses with something else&#39;s odor<br />And somewhere in the cushion is a secret ring decoder<br />Standing on the verandah of Millium August<br /><br />While I am turning cartwheels, the kaleidoscope is singing<br />And, somewhere in the distance, someone else&#39;s phone is ringing<br />There are rugs upon the ceiling, there are lamps upon the floor<br />And Rennisance wallpaper they put across the door<br />The house has been torn down and everyone has gone<br />And I am held a prisoner on a cemetary lawn<br />Standing on the verandah of Millium August
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

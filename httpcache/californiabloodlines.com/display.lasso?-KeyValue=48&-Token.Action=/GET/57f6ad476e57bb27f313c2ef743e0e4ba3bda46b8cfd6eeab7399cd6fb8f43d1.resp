@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3121
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SURVIVORS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Wingless Angels (RCA, APL1 0816, 1975)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>He broke his back<br />To put the food on the table<br />In Columbus Ohio he said to his wife<br />&quot;I believe that the flag<br />It was more than a rag<br />But the outlaws in office<br />Have shattered my life&quot;<br /><br />Can you hear me Ohio?<br />You are the country<br />You are the nation<br />You will survive<br />Can you hear me Ohio?<br />You are the country<br />You are the nation<br />You will survive<br /><br />Children in Cheyenne<br />Are taught in their schools<br />Believe in the country<br />Don&#39;t break any rules<br />But the T.V. is on and they<br />Know something&#39;s wrong<br />Someone must tell them<br />To keep pushing on<br /><br />Can you hear me Wyoming?<br />You are the country<br />You are the nation<br />You will survive<br />Can you hear me Wyoming?<br />You are the country<br />You are the nation<br />You will survive<br /><br />Devils and angels<br />Belong in the church<br />You try for the best<br />And you deal with the worst<br />Just keep on plugging<br />You old nine to five<br />For you are the heartbeat<br />That keeps us alive<br /><br />Can you hear me Virginia?<br />You are the country<br />You are the nation<br />You will survive<br /><br />Can you hear me Dakota?<br />Can you hear me Colorado?<br />Can you hear me California?<br />Can you hear me Wisconsin?<br />Can you hear me Arizona?<br />Can you hear me in Georgia?<br />Can you hear me in Texas?<br />Can you hear me Hawaii?<br />Can you hear me Alaska?<br /><br />You are the country<br />You are the nation<br />You will survive<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

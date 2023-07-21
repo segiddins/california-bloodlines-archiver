@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3423
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LADY AND THE OUTLAW</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Spoken) (hammer on c note in Am chord several times)<br />(Am) Well, they say that every woman,<br />(C) At one time or another,<br />(F) Wishes that the man in her arms (F#)(G)<br />Was an outlaw.(Am) (hammer on c note in Am chord several times)<br />And they say that every outlaw,<br />At (C)one time or another,(Am)(F)<br />Wishes that the girl in his arms,<br />I say wishes that the girl in his arms (F#)(G)<br />[Was a man&#8230;]<br />Was a lady!<br /><br />(C) With one hand (G)on the (Am)lady (Am/G)<br />And (F)one on the (G)contra(C)band, (F)(G)<br />(C)One eye (G)down the (Am)river, (Am/G)<br />(D)Lookin&#39; for a jealous (G)man&#8230;<br /><br />(Am)Please, let your hair down, (C)honey,<br />Oh (F)please, while the moon is (C)bright,<br />As the (E)lady and the (Am)outlaw, (Am/G)<br />They for(D)get who they are to(G)night.<br /><br />(Am)Please let your hair down, (C)honey,<br />(F)Please while the moon is (C)bright,<br />As the (E)lady and the (Am)outlaw, (Am/G)<br />They for(F)get who they (G)are to(Am)night.<br />(C) (G) (Am) (Am/G) (F) (G) (C) (F)(G)(C) (G) (Am) (Am/G) (D) (G)<br /><br />(Am)Please, let your hair down, (C)honey,<br />(F)Please, while the moon is (C)bright,<br />As the (E)lady and the (Am)outlaw,<br />They for(F)get who they (G)are to(Am)night.<br /><br />Aw, with (C)one hand (G)on the (Am)lady, (Am/G)<br />Keepin&#180; (F)one on the (G)contra(C)band, (F)(G)<br />(C)One eye (G)down the (Am)river, (Am/G)<br />Just a-(D)lookin&#39; for a jealous (G)man&#8230;<br /><br />(Am)Please, let your hair down, (C)honey,<br />Ah (F)please, while the moon is (C)bright,<br />As the (E)lady and the (Am)outlaw,<br />They for(F)get who they (G)are to(Am)night. (F)(G)<br /><br />(Am)Please, let your hair down, (C)honey,<br />(F)Please, while the moon is (C)bright,<br />(Am)Please, let your hair down, (C)honey,<br />(F)Please, while the moon is (C)bright,<br />Oh, (Am)please, let your hair down, (C)honey,<br />(F)Please, while the moon is (C)bright,<br />(Am)Please, let your hair down, (C)honey,<br />(F)Please, while the moon is (C)bright&#8230;<br />(Am) (C) (F) (C) (Am) (C) (F) (C) (Am) (C) (F) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

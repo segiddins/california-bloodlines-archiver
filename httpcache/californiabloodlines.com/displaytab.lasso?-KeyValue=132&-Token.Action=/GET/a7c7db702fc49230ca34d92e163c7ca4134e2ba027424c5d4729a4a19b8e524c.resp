@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3390
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RAZORBACK WOMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>John plays it in the key of  D, I have it in C- so put a capo on <br />the 2nd fret.<br /><br /><br />(C) (C/B) (Am) (Am/G-A-B)  (C) (C/B) (Am) (Am/G-A-B)<br />I (C)still can re(C/B)member Pa (Am)coming home (Am/G)drunk<br />With the (F)boys from the (G)Union Hall (C)station,<br />And it&#39;s hard to be(C/B)lieve all the (Am)words that I (Am/G)read,<br />We are (F)living in (G)God&#39;s favourite (Am)nation.<br />And I (F)knew he was ill from the (Cj7)size of his pills,<br />But he (F)choked on the (D7)preacher&#39;s sal(G)vation.<br />And I (C)know that his blood, it still (Em)flows in my (Am)veins,<br />As I (F)fall for each (G)blue-eyed temp(C)tation.<br /><br />And the (F)razorback woman who (Cj7)stood by his side<br />Is (F)skinny and (G)fixing to (C)die,<br />Oh, the (F)razorback woman is (Cj7)calling me home,<br />And she (F)cries, (G)(hold)<br />Oh my God, how she (C)cries&#8230;(C/B) (Am) (Am/G-A-B)<br />(C) (C/B) (Am) (Am/G-A-B)<br /><br />I was (C)only four(C/B)teen and my (Am)Dad, he was (Am/G)mean,<br />When his (F)face shined a (G)river of (C)sweat.<br />Oh, he started (C/B)yelling &quot;You&#39;ll (Am)go straight to (Am/G)hell,&quot;<br />And, &quot;You&#39;re (F)young and your (G)ears are still (Am)wet.&quot;<br />When the (F)other young boys were en(Cj7)joying their toys<br />He (F)gave me my (D7)first ciga(G)rette,<br />And (C)I&#39;d like to say that (Em)these were the (Am)days<br />That my (F)sprung lungs won&#180;t (G)ever for(C)get.<br /><br />And the (F)razorback woman who (Cj7))stood by his side<br />Is (F)skinny and (G)fixing to (C)die,<br />Oh, the (F)razorback woman is (Cj7)calling me home,<br />And she (F)cries, (G)(hold)<br />Oh my God, how she (C)cries&#8230;(C/B) (Am) (Am/G-A-B)<br />(C) (C/B) (Am) (Am/G-A-B) (C) (C/B) (Am) (Am/G-A-B) (C)...<br /><br />Cj7:<br /><br />E.....open<br />B.....open<br />G.....open<br />D.....2nd<br />A.....3rd<br />E.....3rd  <br /><br />Cover both E&amp;A strings with ring finger and play all strings<br />or play the low E-string with thumb or pinkie<br /><br />(You usually don&#180;t play the low E-string in a Cj7, but it&#180;s nice here)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

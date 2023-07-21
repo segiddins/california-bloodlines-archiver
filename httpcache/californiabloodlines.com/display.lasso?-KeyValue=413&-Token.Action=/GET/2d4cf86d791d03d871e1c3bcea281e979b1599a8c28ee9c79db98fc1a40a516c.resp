@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2929
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Midnight Train</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle></td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I&#39;m going down to the depot<br />Yeah, the Midnight train is on the track<br />I&#39;m going down to the depot<br />And the Midnight train is on the track<br />They&#39;re bringing out the soldiers<br />Some are never coming back<br /><br />I&#39;m going down to the depot<br />Midnight train is almost there<br />I&#39;m going down to the depot<br />El Presidente doesn&#39;t care<br />Presidente has two daughters<br />You will never find them there<br /><br />I&#39;m going down to the depot<br />And the Midnight train is right on time<br />I&#39;m going down to the depot<br />And the Midnight train is right on time<br />And when I get my baby<br />We&#39;ll be moving down the line<br /><br />Yeah, we&#39;re going to Savannah<br />Right on down to the Caroline<br />Yeah, we&#39;re going to Savannah<br />Right on through to the Caroline<br />And when I&#39;m with my baby<br />Oh, these are the happy times<br /><br />Yeah, they often called me Speedo<br />But my real name is-a Mr. Earl<br />Yeah, they often called me Speedo<br />But my real name was-a Mr. Earl<br />Yeah, and when I told my baby<br />She said, &quot;Who the hell is Mr. Earl?&quot;<br /><br />I&#39;m going down to the depot<br />Yeah, the Midnight train is on the track<br />Yeah, I&#39;m going to the depot<br />And the Midnight train is on the track<br />They&#39;re bringing out the soldiers<br />Some are never coming back
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

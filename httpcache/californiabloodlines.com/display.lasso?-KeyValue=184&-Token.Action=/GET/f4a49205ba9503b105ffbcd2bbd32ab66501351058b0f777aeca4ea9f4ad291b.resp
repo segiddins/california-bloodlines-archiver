@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3428
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PICK A BALE O&#39;COTTON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>Traditional</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day<br /><br />Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day<br /><br />Oh lordy pick a bale of cotton<br />Oh lordy, pick a bale a day  <br />Oh lordy pick a bale of cotton<br />Oh lordy, pick a bale a day  <br /><br />Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day<br /><br />Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day<br /><br />Me and my momma gonna pick a bale of cotton<br />Me and my momma, gonna pick a bale a day<br />Me and my momma gonna pick a bale of cotton<br />Me and my momma, gonna pick a bale a day<br /><br />He&#8217;s headed to the river just as sure as you&#8217;re born<br />Here rattler here<br />Headed to the river just as sure as you&#8217;re born<br />Here rattler here<br />Here own rattler<br />Here rattler here<br />Here own rattler<br />Here rattler here<br /><br />He&#8217;s headed to the river just as sure as you&#8217;re born<br />Here rattler here<br />Headed to the river just as sure as you&#8217;re born<br />Here rattler here<br />Here own rattler<br />Here rattler here<br />Here own rattler<br />Here rattler here<br /><br />When we get the river, gonna sing me by the rail<br />Sing a bale a day, sing it away<br />When we get the river, gonna sing me by the rail<br />Sing a bale a day, sing it away<br /><br />Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day<br /><br />Gonna jump down, turn around, <br />Pick a bale o&#8217; cotton<br />Gonna jump down turn around<br />Pick a bale a day
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

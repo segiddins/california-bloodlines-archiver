@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3609
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PROMISE THE WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(D4) (D) (D2) (D) (D4) (D) (D2) (D)<br />He was (D4)born a(D)gain (D2) (D) (D4) (D) (D2) (D)<br />In the (D4)Georgia (D)wind,  (D2) (D) (D4) (D) (D2) (D)<br />The (D4)eldest (D)son (D2)of (D)Miss (A7 short)Lilli(D)an.<br />He was (D4)born to (D)win  (D4) (D) (D2) (D)<br />With his (D4)Georgia (D)grin. (D2) (D) (D4) (D) (D2) (D)<br /><br />You just (D4)sell &#39;em the (D)Lord (D2)and (D)you (A7 short)promise the (D)wind,<br />(D4)Sell &#39;em the (D)Lord (D2)and (D)you (A7 short)promise the (D)wind.<br />(D4) (D) (D2) (A) (hold)<br /><br />And he said (G)I am the (D)one (A) (D) in the (G)Georgia (D)sun, (A) (D)<br />Oh, (G)Georgia dirt (D)farmers, there&#39;s (A)work to be (D)done.<br />He said (G)Rosa(D)lynn, (A) (D) keep on (G)smil(D)ing. (A) (D)<br />You just (D4)sell &#39;em the (D)Lord (D2)and (D)you (A7 short)promise the (D)wind,<br />(D4)Sell &#39;em the (D)Lord (D2)and (D)you (A7 short)promise the (D)wind.<br />(G)Sell &#39;em the (D)Lord and you (A)promise the (D)wind,<br />(G)Sell &#39;em the (D)Lord and you (A)promise the (Bm) (hold)wind.<br /><br />And a(Em)cross the fields of (D)Plains,<br />(G)Good old (D)boys walking (A)home in the (D)rain.<br />And there&#39;s (Em)redneck Billy and (D)beer,<br />(G)Don&#39;t look (D)like something&#39;s (A)going on (D)here.<br />But there&#39;s a (G)man there (D)out to (A)win,<br />(G)Banking on his (D)Georgia (A)grin.<br />Oh, (G)it&#39;s so (F#m)easy to (Em)sucker us (D)in,(hold)<br />(D4)Sell us the (D)Lord and you (D2)promise the (D)wind.<br /><br />(D4)Sell us the (D)Lord and you (A)promise the (D)wind,<br />(D4)Sell us the (D)Lord and you (A)promise the (D)wind,<br />(D4)Sell us the (D)Lord and you (A)promise the (D)wind.<br />(G)Sell us the (D)Lord and you (A)promise the (D)wind,<br />(G)Sell us the (D)Lord and you (A)promise the (D)wind.<br /><br />He was (G)born a(D)gain (A) (D)<br />In the (G)Georgia (D)wind , (A) (D)<br />The (G)eldest (D)son of Miss (A7 short)Lilli(D)an.<br />He was (G)born to (D)win (A) (D)<br />With his (G)Georgia (D)grin, (A) (D)<br />You just (G)sell&#39;us the (D)Lord and you (A)promise the (D)wind.<br /><br />(G)Sell us the (D)Lord and you (A)promise the (D)wind,<br />(G)Sell us the (D)Lord and you (A)promise the (D)wind,<br />(G)Sell us the (D)Lord and you (A)promise the (G)wind. (D)<br />(G) (D)  (G) (D) (A) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

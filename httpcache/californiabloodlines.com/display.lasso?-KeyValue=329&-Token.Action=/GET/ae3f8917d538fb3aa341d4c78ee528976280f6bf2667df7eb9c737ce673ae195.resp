@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2787
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:41 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BERTHA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Bertha overheated goin&#8217; down to LA,<br />I found I had been drivin&#8217; in the heat of the day.<br />Pulled on over to the side of the road.<br />Bertha&#8217;s makin&#8217; noises like she&#8217;s gonna explode.<br />Stopped to get some water,<br />Wound up with the daughter<br />Of the guy they call Texaco Joe.<br /><br />Well she got a little bored she said, &quot;What do you do&quot;?<br />&quot;Im a rock &#8216;n&#8217; roll monkey like you see in the zoo.&quot;<br />She said, &quot;I never heard you but I&#8217;d like to some day.<br />Maybe you could come to my high school and play.&quot;<br />Oh send me a top ten tune will you, Lord.<br />I could buy a new motor for my 52 Ford.<br /><br />Yeah, Bertha keep a rollin&#8217;,<br />Little girl get goin&#8217;.<br />Gotta get me down to LA.<br /><br />Got an agent, got a manager, accountant and such<br />But I ain&#8217;t got the money, Lord, to buy a new clutch.<br />Well meaning people, I&#8217;ll let it be known<br />That I am gonna make it if I make it alone.<br />Got a six oclock soundcheck, I&#8217;m meeting the band.<br />Tjis is the story of a six stringed medicine man.<br /><br />Yeah, Bertha keep a rollin&#8217;,<br />Little girl get goin&#8217;.<br />Gotta get me down to LA.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

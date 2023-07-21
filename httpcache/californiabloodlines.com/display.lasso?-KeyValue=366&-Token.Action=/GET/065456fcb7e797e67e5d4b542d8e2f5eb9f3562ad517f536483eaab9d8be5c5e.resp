@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3329
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:12 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STORIES OF OLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Stay Awhile (The Kingston Trio - 1965, Decca DL4656/74656)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I don&#39;t want to hear your stories of old<br />Don&#39;t show me your golden chains<br />For if there&#39;s just one man in this whole wide land<br />And he is living in pain<br />Oh, then freedom&#39;s not your name<br /><br />You told me of a dream that I would surely like to see<br />Where each man could keep the wolves from his door<br />But, then I saw an old man without a dollar in his hand<br />Saying, &quot;You don&#39;t need me anymore<br />I guess you just don&#39;t need me anymore&quot;<br /><br />I don&#39;t want to hear your stories of old<br />Don&#39;t show me your golden chains<br />For if there&#39;s just one man in this whole wide land<br />And he is living in pain<br />Oh, then freedom&#39;s not your name<br /><br />We&#39;ve got a lot of pride and that I can&#39;t deny<br />From those who bore us liberty<br />But, if freedom&#39;s at the door and we let it wait some more<br />Oh, I wonder how proud they are of me?<br />I wonder just how proud they are of me?<br /><br />Go ahead and walk away<br />Yeah, turn your back and say,<br />&quot;We&#39;ll show &#39;em who&#39;s got who on the run&quot;<br />But, if we could talk with folks out there<br />We might get somewhere<br />And maybe someday we could throw away these guns<br />Someday we could throw away these guns<br /><br />I don&#39;t want to hear your stories of old<br />Don&#39;t show me your golden chains<br />For if there&#39;s just one man in this whole wide land<br />And he is living in pain<br />Oh, then freedom&#39;s not your name<br /><br />If there&#39;s just one man in this whole wide land<br />And he is living in pain<br />Oh, then freedom&#39;s not your name
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

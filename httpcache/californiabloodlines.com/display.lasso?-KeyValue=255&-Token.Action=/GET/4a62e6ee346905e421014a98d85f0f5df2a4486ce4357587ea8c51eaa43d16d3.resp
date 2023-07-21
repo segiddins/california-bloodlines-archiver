@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3440
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:23 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NEVER GOING BACK MEDLEY(NEVER GOING BACK/DO YOU WANT TO DANCE/ALL THE LIGHTS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Deep in the Neon (Homecoming, 750, 1991)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Every time I see that Greyhound bus go rolling down the line<br />Makes me wish I&#39;d talked much more to you when we had all that time<br />Still, it&#39;s only wishing and I know it&#39;s nothing more<br />So I&#39;m never going back<br />Never going back<br />Never going back to Nashville anymore<br /><br />Oklahoma City, yes, I know that she won&#39;t treat me cruel<br />Denver, Colorado, never made me feel like such a fool<br />But these are only cities<br />But they&#39;re cities without you<br />So I&#39;m never going back<br />Never going back<br />Never going back to Nashville anymore<br /><br />Still, it&#39;s only wishing and I know it&#39;s nothing more<br />So I&#39;m never going back<br />Never going back<br />Never going back to Nashville anymore<br /><br /><br />Do you want to dance and hold my hand?<br />Tell me baby that I&#39;m you man?<br />Baby, do you want to dance?<br /><br />Do you want to dance and make romance?<br />Thrill me baby all through the night?<br />Baby, do you want to dance?<br /><br />Do you, do you, do you, do you want to dance?<br />Do you, do you, do you, do you want to dance?<br />Do you, do you, do you, do you want to dance with me?<br /><br /><br />All the lights and all the towns<br />And all the wheels turning round<br />And all the stars, if you count &#39;em down<br />Are less than love, when one heart&#39;s found<br /><br />And all the songs that were ever sung<br />And all the dreams that keep you young<br />And all the bells that were ever rung<br />Are less than love, when one heart&#39;s stung<br />Less than love, when one heart&#39;s stung<br /><br /><br />I&#39;m never going back<br />Got a good looking lady out across the track<br /><br />I&#39;m never going back<br />I&#39;m never going back<br />I&#39;m never going back no more
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

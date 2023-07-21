@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3711
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>IF YOU DON&#39;T LOOK AROUND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Time to Think (The Kingston Trio - 1963, Capitol T/ST 2011)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)<br />John Stewart-An American Original (Capitol, 80091, 1992)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>They told me, &quot;Don&#39;t ya go down to that city<br />Don&#39;t go down to that city I say<br />Oh, there&#39;s trouble there for sure<br />And it&#39;s no concern of yours&quot;<br />And that&#39;s all I had to hear them people say<br /><br />If you don&#39;t look around<br />You won&#39;t see me a goin&#39;<br />You won&#39;t see me a goin&#39; that way<br />If you don&#39;t look around<br />You have no way of knowin&#39;<br />I don&#39;t think you even know what I say<br /><br />And I saw children just walking along and singing<br />When a voice from behind me rang through<br />And I saw an ugly man with a mad dog in his hand<br />He said, &quot;Stand right there. I&#39;ll turn him loose on you&quot;<br /><br />If you don&#39;t look around<br />You won&#39;t see me a goin&#39;<br />You won&#39;t see me a goin&#39; that way<br />If you don&#39;t look around<br />You have no way of knowin&#39;<br />I don&#39;t think you even know what I say<br /><br />So don&#39;t tell me there ain&#39;t no time for singing<br />I don&#39;t need no empty words from you<br />If they&#39;re saying, &quot;Who ain&#39;t free?&quot;<br />Then, they&#39;re saying it right to me<br />So, go back home. I&#39;ll wake you when we&#39;re through<br /><br />If you don&#39;t look around<br />You won&#39;t see me a goin&#39;<br />You won&#39;t see me a goin&#39; that way<br />If you don&#39;t look around<br />You have no way of knowin&#39;<br />I don&#39;t think you even know what I say<br /><br />They told me, &quot;Don&#39;t ya go down to that city<br />Don&#39;t go down to that city I say<br />Oh, there&#39;s trouble there for sure<br />And it&#39;s no concern of yours&quot;<br />And that&#39;s all I had to hear them people say<br /><br />If you don&#39;t look around<br />You won&#39;t see me a goin&#39;<br />You won&#39;t see me a goin&#39; that way<br />If you don&#39;t look around<br />You have no way of knowin&#39;<br />I don&#39;t think you even know what I say
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

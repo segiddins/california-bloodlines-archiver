@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3655
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MORNING THUNDER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>D2/C <br />E--------------<br />B-------3------<br />G----2---------<br />D--------------<br />A------3-------<br />E--x-----------<br /><br />Em7 (in this song)<br />E-------------<br />B------3------<br />G-------------<br />D-------------<br />A----2--------<br />E-x-----------<br /><br />Picking pattern for (A)<br />E---------------------<br />B----2----------------<br />G----2----------------<br />D----2--2-3-5-4-------<br />A---------------------<br />E---------------------<br /><br />Picking pattern for (D)<br />E------2------------------<br />B---------3---------------<br />G-----2--------------3----<br />D------------0--0-4---4---<br />A-------------------------<br />E-------------------------<br /><br /><br />Capo 3rd fret<br /><br />(D)  (A)  (D)  (A)  (D)     (A)  (D)  (A)  (D)<br />Naked in the sun, that&#39;s (D2/C)how she runs,<br />(Em7)Rocking my heart like the (A7short)beat of a drum.<br />(D)Look at the sunlight (D2/C)dance on her hair,<br />(Em7)Over and over, I (A7short)stand there and stare,<br />And I (Bm)( hold) look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun.<br /><br />She is morning thunder and (D2/C)it&#39;s my hunger,<br />(Em7)Making me feel like I&#39;m (A7short)ten years younger.<br />(D)Lay me away any(D2/C)time night or day,<br />(Em7)Good god almighty, I (A7short)can&#39;t get away&#8230;<br />I just (Bm)(pause) look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun.<br /><br />She is (G)morning thunder and (A)it&#39;s no wonder<br />I (D)can&#39;t get (F#m)my work (Bm)(hold)done,<br />I just look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun.<br />(A)  (D)  (A)  (D)<br /><br />(Bm)(hold)Still I heed the (F#m)(hold)mustang creed<br />Whose (G)(hold)days have (A)(hold)known no (D)(hold)rain,<br />I (Bm)(hold)used to run with the (F#m)(hold)rising sun<br />When the (G)(hold)nightmares (A)(hold)call my (D)(hold)name.<br /><br />Now I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun,<br />Oh, I look at her (A)run, naked in the (D)sun&#8230;<br />(A) (D) (A) (D) (and fade)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

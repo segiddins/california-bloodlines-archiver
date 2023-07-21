@@ -1,0 +1,60 @@
+Capo 2nd fret
+
+(C) (F) (C) (F) (C) (F) (C)(G)(C)
+
+Yeah, all the words unspoken,
+(F)All the dogs in chains,
+(C)all the walls still standing,
+They will (F)own you, (C)baby (G)Jane.
+
+Will (C)they just stay inside your throat
+Til (F)one day they're heard?
+So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,
+And (F)you will (C)free the (G)words.
+
+Just say the (F)words,
+Say the (C)words,
+Oh, say the (F)words,
+Won’t you say the (C)words...
+
+(F) (C) (F)
+
+Well, you (C)wrote to me in letters
+That (F)flowed right from your heart,
+And you (C)wrote the words "I Love You,"
+And they (F)tore my (C)blues a(G)part.
+
+Yeah, but (C)when I call you on the phone,
+The (F)conversation’s blurred,
+So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,
+And (F)you will (C)free the (G)words.
+
+Just say the (F)words,
+Say the (C)words,
+Oh, say the (F)words,
+Say the (Cj7)words...
+
+(C) (F) (Cj7) (F) (Cj7) (F) (C)(G)(C)
+
+Oh, all the words unspoken, 
+And (F)all the dogs in chains,
+(C)All the walls still standing
+(F)Alone will (C)be re(G)tained.
+
+Will (C)they just stay inside your throat
+Un(F)til one day they're heard?
+So (C)take a (C/B)chance and (Am7)free your(Am7/G)self,
+And (F)you will (C)free the (G)words.
+
+Won’t you say the (F)words,
+Say the (Cj7)words,
+Won’t you say the (F)words,
+Say the (Cj7)words...  (F) (Cj7) (F)
+
+Oh, say the words,
+Say the (Cj7)words,
+Say the (F)words,
+Won’t you say the (Cj7)words?
+Just say the (F)words,
+Say the (Cj7)words,
+Just say the (F)words…(Cj7)

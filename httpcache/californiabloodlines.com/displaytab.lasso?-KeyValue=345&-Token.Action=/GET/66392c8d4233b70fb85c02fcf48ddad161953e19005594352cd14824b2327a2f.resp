@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3565
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:02 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HIGHWAY OF LIGHT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(D)   (G) (D)   (A7) (D)<br />Run to the cross(D/C)roads,<br />To the (G)bright shining (D/F#)crossroads,<br />(G)Follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />Oh, and (D)run to the cross(D/F#)roads,<br />The (G)bright shining cross(D/F#)roads,<br />The (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And those who are (D/C)weary,<br />(G)Run to the (D/F#)crossroads<br />And (G)follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And (D)those who are (D/F#)weary,<br />You&#8217;ll (G)never be (D/F#)weary,<br />For the (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And those are (D/C)troubled,<br />(G)Run to the (D/F#)crossroads,<br />(G)Follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And (D)those who are (D/F#)troubled,<br />Your (G)angels are (D/F#)doubled<br />When you (G)follow the chil(F#m)dren<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And you run to the cross(D/C)roads,<br />The (G)bright shining (D/F#)crossroads,<br />(G)Follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And (D)run to the cross(D/F#)roads,<br />The (G)bright shining cross(D/F#)roads,<br />The (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And those with a sor(D/C)row,<br />(G)Run to the (D/F#)crossroads,<br />(G)Follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And those with a sor(D/F#)row,<br />(G)Shinin&#8217; to(D/F#)morrow,<br />And the (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And you run to the cross(D/C)roads,<br />To the (G)bright shining (D/F#)crossroads,<br />(G)Follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And you (D)run to the cross(D/F#)roads,<br />The (G)bright shining cross(D/F#)roads,<br />For the (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.<br /><br />And you run to the cross(D/C)roads,<br />To the (G)bright shining (D/F#)crossroads,<br />And you (G)follow the spar(D/F#)row<br />To the (Em)highway of (A7)light.<br />And you (D)run to the cross(D/F#)roads,<br />The (G)bright shining cross(D/F#)roads,<br />For the (G)children will (F#m)lead you<br />To the (G)high(D)way (A7)of (D)light.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

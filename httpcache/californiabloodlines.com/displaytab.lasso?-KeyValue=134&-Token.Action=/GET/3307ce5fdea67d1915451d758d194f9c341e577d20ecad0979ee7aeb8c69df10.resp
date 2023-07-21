@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2826
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>OMAHA RAINBOW</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>A-keeping my (F)eyes on the Omaha (Gm)rainbow,<br />Making the (C)rain go out of my (F)way. (hold)<br />A-keeping my (F)eyes on the Omaha (Gm)rainbow,<br />Going down the (C)same roads as my younger (D#)days. (hold)<br /><br />And I remember the (G#)name, Ernesto (Bbm)Juarez,<br />Wherever the (D#)man says, we got to (G#)go. (hold)<br />There&#180;s going to be a (G#)change, Ernesto (Bbm)Juarez,<br />But it&#180;s a (D#)long way to (Fm)August, <br />I got a (C#)lot of roads to (G#)go.(hold)   (Fm)     (C)<br /><br />Yeah, and even if I (F)go, oh, out to (Gm)California,<br />I&#180;ve got to (C)warn you what I&#180;m going to (F)say. (hold)<br />Yeah, and even if I (F)go out to (Gm)California,<br />It&#180;s a (D#)long way to (Fm)August, <br />Picking up (C#)friends along the (G#)way.(hold)<br /><br />So keep your (Bbm)eyes on that (D#)far distant (G#)star,<br />And the (Bbm)sun&#180;s going to (D#)shine where you (G#)are.<br />Oh, keep your (Bbm)eyes on that (D#)far distant (G#)star,<br />And the (Bbm)sun&#180;s going to (Bbm7/G#)shine <br />Where (Bbm7/F)you (D#)are. (hold)<br /><br />A-keeping my (G#)eyes on that Omaha (Bbm)rainbow,<br />Making the (D#)rain go out of my (G#)way. (hold)<br />A-keeping my (G#)eyes on that Omaha (Bbm)rainbow,<br />Making the (D#)rain go out of my (G#)way. (hold) (G#) (Bbm) (D#) (G#)  <br />(Bbm) (D#) (G#)<br /><br /><br />Some awkward chords there.<br />If you want to transpose:<br /><br />F   Gm  C  D#  G#  Bbm  Fm  C#<br />G   Am  D  F   Bb  Cm   Gm  Eb<br />A   Bm  E  G   C   Dm   Am  F<br />D   Em  A  C   F   Gm   Dm  Bb
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

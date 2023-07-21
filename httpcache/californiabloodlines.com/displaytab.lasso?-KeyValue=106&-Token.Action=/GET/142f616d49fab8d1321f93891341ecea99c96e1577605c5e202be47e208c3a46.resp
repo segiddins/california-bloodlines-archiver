@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2922
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:02 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE NEW FRONTIER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />Oh, (G)some to the (Em)rivers<br />And (Am)some (D7)to the (G)sea,<br />Some to the (Bm)soil<br />That our (A7)fathers made (D)free,<br />And then (F)on to the (Dm7)stars<br />And the (Em)heavens for to (C)see,<br />(F) This is the (F/E)New Fron(D)tier,<br />Oh,(F)this is the (Am)New Fron(D)tier.<br /><br />(A)Let the word go (Em)forth<br />(D) From this day (C)on,<br />That a (G)new gene(Em)ration (C)has been (D)born.<br />(F)Born to the (Dm7)task<br />To (Em)keep us (C)free,<br />(F) Proud of the (F/A)rights (G) of the home coun(C)try.<br />(F) This is the (F/E)New Fron(D)tier<br />(F) This is the (Am)New Fron(D)tier<br /><br />And it&#180;s (G)some to the (Em)rivers<br />And (Am)some (D7)to the (G)sea,<br />Some to the (Bm)soil <br />That our (A7)fathers made (D)free.<br />And then (F)on to the (Dm7)stars<br />And the (Em)heavens for to (C)see,<br />(F) This is the (F/E)New Fron(D)tier,<br />(F) This is the (Am)New Fron(D)tier.<br /><br />(A) And the day will (Em)come,<br />(D) It&#8217;s got to (C)be,<br />(G) The day that (Em)we may (A7)never (D)see,<br />(F) But man for (Dm7)man<br />And (Em)town for (C)town<br />(F) Will find the (F/A)peace (G) that shall re(C)sound.<br />(F) This is the (F/E)New Fron(D)tier,<br />(F) This is the (Am)New Fron(D)tier.<br /><br />And it&#180;s (G)some to the (Em)rivers<br />And (Am)some (D7)to the (G)sea,<br />Some to the (Bm)soil <br />That our (A7)fathers made (D)free.<br />And then (F)on to the (Dm7)stars<br />And the (Em)heavens for to (C)see,<br />(F) This is the (F/E)New Fron(D)tier,<br />(F) This is the (Am)New Fron(D)tier,<br />(F) This is the (F/E)New Fron(D)tier. (F) (Am) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

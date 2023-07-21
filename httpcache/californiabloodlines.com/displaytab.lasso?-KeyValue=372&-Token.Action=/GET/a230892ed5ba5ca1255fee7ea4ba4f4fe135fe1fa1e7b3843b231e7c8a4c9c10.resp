@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3005
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BALLAD OF A QUIET FIGHTER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Don MacArthur</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Bm) (F#m) (Bm) (F#m) (Bm) (Gj7) (Em7) (A7)<br />Oh, (G/B)I (A7/C#)stood (D)wat(Em7)chin&#39;, <br />(F#m)Oh, (Em)I stood (D)wai(G)tin&#39;,<br />And as the (D)rivers of (G)freedom run through this (C)land,<br />I&#39;ll be (Bm)there for to (Em)lend (D)you (G)my (A)hand.<br />(Bm) (F#m)  (Bm) (F#m)<br /><br />(Spoken)<br />(Bm) Well, I listened to the (F#m)shouting<br />(Bm) Of those with their (F#m)lies<br />(Bm) Who tore at the (F#m)heart<br />(Bm) Of this country of (F#m)mine.<br /><br />(Sung)<br />But (Dj7)here&#39;s where a (G)quiet man (Dj7) with truth in his (G)hand<br />(D) Can make a (Bm)stand and be (Em7)heard in this (A7)land.<br /><br />So, (G/B)I (A7/C#)stood (D)wat(Em7)chin&#39;, <br />(F#m)Oh, (Em)I stood (D)wai(G)tin&#39;,<br />And as the (D)rivers of (G)freedom run through this (C)land,<br />I&#39;ll be (Bm)there for to (Em)lend (D)you (G)my (A)hand.<br />(Bm) (F#m)  (Bm) (F#m)<br /><br />(Spoken)<br />(Bm) So I stood by the (F#m)watch road <br />(Bm) Till the October (F#m)of their days,<br />(Bm) With the (F#m)winds to my left <br />(Bm) And then, (F#m)far from the right,<br />(Bm) Were (F#m)blowing my way.<br /><br />(Sung)<br />But (Dj7)now is the (G)hour, (Dj7) the time I can (G)see<br />when we&#39;ll (D)win with the (Bm)truth that has (Em7)made us so (A7)free.<br /><br />So, (G/B)I (A7/C#)stood (D)wat(Em7)chin&#39;, <br />(F#m)Oh, (Em)I stood (D)wai(G)tin&#39;,<br />And as the (D)rivers of (G)freedom run through this (C)land<br />I&#39;ll be (Bm)there for to (Em)lend (D)you (G)my (A)hand.<br /><br />Oh, (G/B)I (A7/C#)stood (D)wat(Em7)chin&#39;, <br />(F#m)Oh, (Em)I stood (D)wai(G)tin&#39;&#8230;<br />(Bm)  (F#m) (Bm)  (F#m) (Bm)  (F#m) (A[5th fret])<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

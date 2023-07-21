@@ -1,0 +1,106 @@
+D/F#
+E-----2-----------
+B----------3------
+G-----2-----------
+D--------------4--
+A---X-------------
+E---X-------------
+Play D-string, then G-string – B-string - E-string – B-string
+
+Em11
+E-----2---------
+B---------3-----
+G---------------
+D---X-----------
+A---X-----------
+E---X-----------
+Play G-string, then E-string – B-string
+
+D/hammer on G 2nd fret
+E-----2---------
+B----------3----
+G-----h2--------
+D---X-----------
+A---X-----------
+E---X-----------
+Play the G-string, then E-string – B-string
+
+A sus 2
+E----------------
+B----------------
+G-----2----------
+D-----2----------
+A----------------
+E----------------
+
+G* (a G-variant)
+E---X---------------
+B--------------5----
+G-----------4-------
+D--------------5----
+A--------------5----
+E-------(3)---------
+
+D* (a D-variant)
+E--------------5--------
+B--------------5----7---
+G--------------5----7---
+D--------------5----7---
+A--------------5--------
+E--------------5--------
+
+D5
+E-------------------5--
+B--------3-------------
+G-----2----------------
+D----------------------
+A----------------------
+E---X------------------
+
+
+Capo 3rd fret
+
+(D/F#) (Em11) (D/hammer on G 2nd fret) (Em11)
+(D/F#) (Em11) (D/hammer on G 2nd fret) (Em11)
+
+They were (D/F#)burning black (Em11) widows 
+In the (D/hammer on G 2nd fret)Alderman (Em11)cave-in (D/F#)today,
+(Em11) (D/hammer on G 2nd fret) (Em11)
+(D/F#)Ludi was (Em11)crying, 
+She (D/hammer on G 2nd fret)told me she (Em11)ran all the (G)way. (G/F#) (Em) (hold)
+Yeah, she knew they were (D)dying, (Am7) (hold)
+So what could I (D/F#) say? (Em11) (D/hammer on G 2nd fret) (Em11)
+
+A (D/F#)woodpecker (Em11)mama
+Was (D/hammer on G 2nd fret) nesting up (Em11)high in the (D/F#)leaves,
+(Em11) (D/hammer on G 2nd fret) (Em11)
+Some (D/F#)kids with an (Em11)air gun
+Were (D/hammer on G 2nd fret) shooting her (Em11)out of the(G)tree (G/F#) (Em) (hold)
+And they called over (D)Ludi, (Am7)(hold)
+Just so she could (D/F#) see. (Em11) (D/hammer on G 2nd fret) (Em11)
+
+(F#m)Fall(Em7)ing (G)sta(D)r (G)fade a(F#m)way, (A7 short)
+(F#m)Falling (Em)sta(G)r(hold) fade a(A7)way. (A) (Asus4)(A)(A)(Asus2)(A)
+
+They are (D)signals to (G)Ludi,
+An (D)angel's (F#)on its (G)way.
+See the (F#m)fall(Em7)ing (A7 short)star (D) (G)fade a(D)way.(D4)
+
+Some (D)guy down in (G*)Texas, 
+I (D*)hear went right (G*)out of (D)his head. (G*) (D*) (G*)
+I (D)see by the (G*)paper 
+That (D*)six sorry (D7)people are (G)dead.(G/F#) (Em) (hold)
+Thank the Lord little (D) Ludi (Am7)
+Can't read what it (D)said. (D4) (D5) (D4)
+
+(F#m)Fall(Em7)ing (G)sta(D)r (G)fade a(F#m)way, (A7 short)
+(F#m)Falling (Em)sta(G)r fade a(A7)way.
+
+They are (D)signals to (G)Ludi,
+An (D)Angel’s(hold) (F#)on(hold) its (G)way.(hold)
+See the (F#m)fall(Em7)ing (A7short)star(hold) fade a(D/F#)way. 
+(Em11) (D/hammer on G 2nd fret) (Em11)
+
+They were (D/F#)burning black (Em11) widows 
+In the (D/hammer on G 2nd fret)Alderman (Em11)cave-in (D/F#)today,
+(Em11) (D/hammer on G 2nd fret) (Em11) (D/F#)

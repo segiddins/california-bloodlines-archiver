@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3455
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:50 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NIGHTMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)    (G)(F)    (G)(Am)    (G)(F)    (G)(Am)<br />(G)(F)(Fmaj7)    (G)(Am)    (G)(F)(Fmaj7)   (G)<br />(Am)Everywhere that I go<br />Listen to the radi(G)o,<br />(F)wonder why I turned it (Fmaj7)on.(G)<br />(Am)Going to the record store,<br />Nothing does it any(G)more,<br />(F)wonder what&#39;s going (Fmaj7)on.<br />(G)Hoo(Am)oo, (G)mm(F)mm.(Fmaj7) (G)<br /><br />(Am)Knocking on the stage door,<br />Going to the Trouba(G)dour,<br />(F)Looking for the magic (Fmaj7)song  (G)<br />(Am)Sitting in the grandstand,<br />Jumpin&#39; up&#180;s a new (G)band,<br />(F)Tore it up at Madam (Fmaj7)Wong&#180;s.<br />(G)Hoo(Am)oo, (G)mm(F)mm,(Fmaj7)<br />(G)Hoo(Am)oo, (G)mm(F)mm. (G)(Am) (Em) (F) (G)<br />(Am) (Em) (F) (G)<br /><br />He&#180;s the (Am)Nightman,(Em) (F) (G)<br />He&#39;s the (Am)Nightman,(Em) (F) (G)<br />And there&#39;s (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(Em/G)man (Am)home.(Em) (F) (G)<br />There&#39;s (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(Em/G)man (Am)home.(Em) (F) (G)<br />There&#39;s (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(Em/G) man (Am)home.(Em) (F) (G)<br />(Am) (Em) (F) (G) (Am) (Em) (F)  (G)<br />(Am) (Em) (F) (G) (Fmaj7)  (G)<br /><br />And his (Am)music made my neck crack,<br />(Am7/G)Gotta get your life back,<br />(D9/F#)Dancing on a thumb tack,<br />(F)Running on the (Em)right track (Am)now.(Em) (F) (G)<br />There was (Am)magic on the bandstand,<br />(Am7/G)Hit me in the grandstand,<br />(D9/F#)Got me doing handstands,<br />(F)Drummer hit the (Em)wham-bam,(Am)yeah.(Em) (F) (G)<br /><br />There was (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(G)man (Am)home.(Em) (F) (G)<br />And there&#39;s (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(G)man (Am)home.(Em) (F) (G)<br />And there&#180;s (F)magic on the bandstand,<br />(G)Rocking with the (Em)Night(G)man (Am)home.(Em) (F) (G)<br />(Am) (Em) (F) (G) (Am) (Em) (F) (G) (Am) (Em) (F) (G)<br />(Am) (Em) (F) (G) (Am) (Em) (F) (G)  (Am)<br /><br /><br />Am7/G<br />E  open<br />B  1st<br />G  open<br />D  2nd<br />A  open<br />E  3rd<br /><br />D9/F#<br />E  xxx<br />B  1st<br />G  2nd<br />D  open<br />A  open<br />E  2nd
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3658
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Baby, It&#39;s You</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>F4<br />E---1----------<br />B---1----------<br />G-----------3--<br />D-----------3--<br />A--xx----------<br />E--xx----------<br /><br />Baby, It&#180;s You<br /><br />(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) <br />(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) <br />(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) <br />(C)(F)(F)(F)  (F)(F4)(F4)(F4)  (F4)(F)(F)(F4)(F4)(F)(C)(C)(C) <br />[either use this rhythm for the interludes and the outro or make it &#338;flow&#8218;]<br /><br />And when the (F)stars at night<br />Ah, they&#180;re (F4)doing alright<br />And they (F)sing to (F4)me of (Am)you,<br />And the (F)moon on the hood<br />Is (F4)doing what it should,<br />And I (F)dream when the (F4)moon (F)is (C)blue&#8721;<br /><br />And baby, it&#39;s (Dm)you, (Bb) (C)<br />Baby, it&#39;s (F)you, (Dm7) (Bb) (C)<br />Baby, it&#39;s (F)you, (Dm)you, (Bb)you,<br />(C)Baby, it&#39;s (F)you.   (F4)   (F) (F4) (Am)<br /><br />And I&#39;m (F)still in the spell<br />Of the (F4)night I first fell,<br />And (F)baby, you (F4)know that it&#180;s (Am)true,<br />And I&#39;ll (F)get my chance<br />At the (F4)Nightingale Dance<br />When they&#180;ll (F)play every (F4)song (F)we (C)knew.<br /><br />And baby, it&#39;s (Dm)you, (Bb) (C)<br />Baby, it&#39;s (F)you, (Dm7) (Bb) (C)<br />Baby,it&#39;s (F)you, (Dm)yo(Bb)u,<br />And (C)baby, it&#39;s (F)you.   (F4)   (F) (F4) (Am)<br />(F)  (F4)   (F) (F4) (F) (C)<br /><br />And baby, it&#39;s (Dm)you, (Bb) (C)<br />Baby, it&#39;s (F)you, (Dm7) (Bb) (C)<br />Baby,it&#39;s (F)you, (Dm)you, (Bb)you,<br />(C)Baby, it&#39;s (F)you.   (F4)  (F)  (C)<br /><br />And when the (F)clear blue sky<br />Is (F4)falling in my eyes<br />And there&#39;s (F)nothing that (F4)I can (Am)do,<br />Oh, &#180;n&#180; the (F)music is sweet<br />Down on (F4)Cadillac Street,<br />And (F)baby, that&#180;s (F4)when (F)I (C)knew&#8721;<br /><br />That baby, it&#39;s (Dm)you, (Bb) (C)<br />Baby, it&#39;s (F)you, (Dm7) (Bb) (C)<br />Baby,it&#39;s (F)you, (Dm)you, (Bb)you,<br />(C)Baby, it&#39;s (F)you.   (F4)<br /><br />And baby, it&#39;s (F)you, (Dm) (Bb)<br />And (C)baby, it&#39;s (F)you, (Dm7) (Bb)<br />And (C)baby,it&#39;s (F)you, (Dm)you, (Bb)you,<br />&#338;N&#8218; (C)Baby, it&#39;s (F)you.   (F4)  (F)  (F4) (F) (C)  <br />(F)   (F4)   (F)  (F4) (F) (C)  (F)   (F4)   (F)  (F4) (F) (C)  <br />(F)   (F4)   (F)  (F4) (F) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

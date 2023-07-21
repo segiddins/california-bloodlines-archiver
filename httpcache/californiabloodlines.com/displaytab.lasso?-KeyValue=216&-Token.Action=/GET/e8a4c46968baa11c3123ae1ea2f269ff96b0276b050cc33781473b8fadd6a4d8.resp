@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3864
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:09 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JENNY WAS A DREAM GIRL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Playing hint: for that &#8216;high guitar&#8217;/autoharp-like sound <br />(first time on &#8216;Running with the boys&#8230;&#8217; &#8211; check it out),<br />capo up fourth fret.  Nice. [E becomes C, B &#8211; G, A &#8211; F, G#m &#8211; Em, F#m &#8211; Dm.]<br /><br />Playing hint for these lines:<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.<br />CAREFUL HERE! Written out for John and background vocals singing<br />&#8216;Li-i-i-i-ine.&#8217; Lindsey sings the first two &#8216;Dream Girl&#8217;s before that part is finished.<br /><br /><br />(E)  (B)  (E)  (B)  (E)  (B)  (E)  (B)<br />(E)Jenny, when you find the (B)sun, (E)dream girls (B)do,<br />(E)Jenny, when you&#39;re on the (B)run, it&#39;s (E)dream girl (B)dues,<br />(F#m)Running with the boys when the (B)boys said &#8216;go&#8217;,<br />It (F#m)had them (B)on the (E)line,<br />And they (F#m)danced all night to the (B)song you sang.<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.<br /><br />(E)Jenny, you&#39;re before the (B)fall, (E)dream girls (B)do,<br />(E)Jenny, when you hit the (B)wall and your (E)dreams do, (B)too,<br />(F#m)Don&#39;t look lost in your (B)lover boy&#39;s eyes,<br />(F#m)You&#39;re gonna (B)see it&#39;s (E)true<br />That (F#m)nothing is free and the (B)heart you break,<br />(A) Jenny, like a (G#m)dream come (A)back to (E)yo(B)u(E)u.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.<br /><br />(F#m) Jenny was a (B)dream girl,<br />(F#m) Jenny was a (B)dream girl,<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.<br /><br />(F#m)Running with the boys when the (B)boys said &#8216;go&#8217;,<br />(F#m)Had them (B)on the (E)line,<br />And they (F#m)danced all night to the (B)song you sang.<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl.<br /><br />(F#m) Jenny was a (B)dream girl,<br />(F#m) Jenny was a (B)dream girl,<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl.<br /><br />(F#m) Jenny was a (B)dream girl,<br />(F#m) Jenny was a (B)dream girl,<br />(A) Jenny was a (G#m)dream girl (A)down the (E)li(B)i(E)ine.<br />(B)Dream girl, (E)dream girl, (B)dream girl, (E)dream girl, (B)dream girl,<br />(E)Dream girl, (B)dream girl, (E)dream girl.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

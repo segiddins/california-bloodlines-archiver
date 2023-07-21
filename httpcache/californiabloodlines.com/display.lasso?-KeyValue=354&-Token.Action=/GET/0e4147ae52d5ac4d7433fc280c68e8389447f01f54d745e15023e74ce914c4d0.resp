@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3380
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>METEOR MAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Buster (Neon Dreams, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Year of the comet<br />Eclipse of the moon<br />Was anybody on it?<br />Did it descend too soon<br />Fell out of the sky, it<br />Landed in a mall<br />He said, &quot;I&#39;m gonna buy it.&quot;<br />It was so very small.<br /><br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />He&#39;s the Meteor Man<br />He&#39;s the Meteor Man<br /><br />I&#39;m a circus boy in Dixieland<br /><br />Arizona sighting<br />Lights in the sky<br />It was so exciting<br />Nobody knows why<br />&quot;You gotta have a piece of<br />Eternity&quot;, he said<br />He put it on his VISA<br />Keeps it by his bed<br /><br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />He&#39;s the Meteor Man<br />He&#39;s the Meteor Man<br /><br />I&#39;m a circus boy in Dixieland<br /><br />Oh, ten million years<br />Oh, ten million years<br /><br />The healer came from China<br />He is smoking in the yard<br />There are people in a line<br />He is holding all the cards<br />The painter with the voodoo<br />Is keeping out of sight<br />He is locked up in his bedroom<br />It sings to him at night<br /><br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />He&#39;s the Meteor Man<br />He&#39;s the Meteor Man<br /><br />And I&#39;m a circus boy in Dixieland<br /><br />Oh, ten million years<br />Oh, ten million years<br /><br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />Now he&#39;s got it in his hand<br />He&#39;s the Meteor Man<br />He&#39;s the Meteor Man<br />He&#39;s the Meteor Man<br /><br />And I&#39;m a circus boy in Dixieland<br />Well I&#39;m a circus boy in Dixieland<br />Well I&#39;m a circus boy<br />He&#39;s the Meteor Man
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

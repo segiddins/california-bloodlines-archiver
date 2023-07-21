@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3342
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE Man who would be king</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (C5) (G)  (C) (C5) (G)<br />(C) (C5) (G)  (C) (C5) (G)<br /><br />Oh, it&#39;s (Cj7)time to tell the (C)children<br />That it&#39;s (G)not about the war,<br />That it&#39;s (Cj7)not about the (C)winning,<br />That it&#39;s (G)not about the score.<br />Oh, it&#39;s (Cj7)time to tell the (C)children<br />That it&#39;s (G)not about the rings<br />That we (D)put upon the fingers<br />Of the (Em)man who would be (C)king. (C5) (G) (hold)<br /><br />And it&#39;s (Cj7)time to tell the (C)children<br />That it&#39;s (G)not about the gold,<br />That it&#39;s (Cj7)not about the (C)money,<br />(G)Things that are bought and sold.<br />Oh, it&#39;s (Cj7)time to tell the (C)children<br />That (G)these don&#39;t mean a thing,<br />Just like the (D)rings upon the fingers<br />Of the (Em)man who would be (C)king. (C5) (G) (hold)<br /><br />And it&#39;s (Cj7)time to tell the (C)children<br />That it&#39;s (G)not about the plan<br />To (Cj7)see who is the (C)richest<br />Or the (G)baddest in the land.<br />Oh, it&#39;s (Cj7)time to tell the (C)children<br />That the (G)birds upon the wing,<br />They would (D)never give their power<br />To the (Em)man who would be (C)king,<br />They&#39;d (D)never give their power<br />To the (Em)man who would be (C)king. (G)<br />(banjo solo)<br />(Cj7)  (C5)  (G)  (Cj7)  (C5)  (G)<br /><br />Don&#39;t you real(D)ize<br />When you see the (G)clues<br />Right before your (D)eyes<br />On the evening (G)news?<br />Don&#39;t you real(D)ize<br />That the children (Em)know,<br />What the children (C)see<br />Is where the children (D)go? (hold)<br /><br />And it&#39;s (Cj7)time to tell the (C)children<br />That it (G)is about the heart,<br />That it (Cj7)is about the (C)people<br />Of this (G)world we are a part,<br />That it (Cj7)is about for(C)giving<br />(G)Those who (G/F#)stole the (Em)rings<br />To (D)put upon the fingers<br />Of the (Em)man who would be (C)king,<br />To (D)put upon the fingers<br />Of the (Em)man who would be (C)king. (G)<br />(banjo solo)<br />(Cj7)  (C5)  (G)  (Cj7)  (C5)  (G)<br />(Cj7)  (C5)  (G)  (Cj7)  (C5)  (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

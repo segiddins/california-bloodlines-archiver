@@ -1,0 +1,7 @@
+POST /listing.lasso HTTP/1.1
+Host: californiabloodlines.com
+User-Agent: Go-http-client/1.1
+Content-Length: 27
+Content-Type: application/x-www-form-urlencoded
+
+Recording=Escape+to+Arizona

@@ -1,0 +1,47 @@
+Capo 2nd fret
+
+Oh, (G)some to the (Em)rivers
+And (Am)some (D7)to the (G)sea,
+Some to the (Bm)soil
+That our (A7)fathers made (D)free,
+And then (F)on to the (Dm7)stars
+And the (Em)heavens for to (C)see,
+(F) This is the (F/E)New Fron(D)tier,
+Oh,(F)this is the (Am)New Fron(D)tier.
+
+(A)Let the word go (Em)forth
+(D) From this day (C)on,
+That a (G)new gene(Em)ration (C)has been (D)born.
+(F)Born to the (Dm7)task
+To (Em)keep us (C)free,
+(F) Proud of the (F/A)rights (G) of the home coun(C)try.
+(F) This is the (F/E)New Fron(D)tier
+(F) This is the (Am)New Fron(D)tier
+
+And it´s (G)some to the (Em)rivers
+And (Am)some (D7)to the (G)sea,
+Some to the (Bm)soil 
+That our (A7)fathers made (D)free.
+And then (F)on to the (Dm7)stars
+And the (Em)heavens for to (C)see,
+(F) This is the (F/E)New Fron(D)tier,
+(F) This is the (Am)New Fron(D)tier.
+
+(A) And the day will (Em)come,
+(D) It’s got to (C)be,
+(G) The day that (Em)we may (A7)never (D)see,
+(F) But man for (Dm7)man
+And (Em)town for (C)town
+(F) Will find the (F/A)peace (G) that shall re(C)sound.
+(F) This is the (F/E)New Fron(D)tier,
+(F) This is the (Am)New Fron(D)tier.
+
+And it´s (G)some to the (Em)rivers
+And (Am)some (D7)to the (G)sea,
+Some to the (Bm)soil 
+That our (A7)fathers made (D)free.
+And then (F)on to the (Dm7)stars
+And the (Em)heavens for to (C)see,
+(F) This is the (F/E)New Fron(D)tier,
+(F) This is the (Am)New Fron(D)tier,
+(F) This is the (F/E)New Fron(D)tier. (F) (Am) (D)

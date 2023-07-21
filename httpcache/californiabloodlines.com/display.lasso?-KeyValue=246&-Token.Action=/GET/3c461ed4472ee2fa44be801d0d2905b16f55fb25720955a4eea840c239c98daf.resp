@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2832
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:18 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>I COULD HAVE BEEN A RUNNER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes II (Homecoming, 650, 1987)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh I could have been a runner but I never had the speed<br />Yes, I have me two good legs but that&#39;s not all you need<br />And you know I had the heart for winning, yes indeed<br />Oh I could have been the runner but I never had the speed<br /><br />And I could have been a dancer but I never had the style<br />You can only go so far on costumes and a smile<br />And I had all the moves, it&#39;ll do you for awhile<br />Oh I could have been a dancer but I never had the style<br /><br />And all the years, they&#39;re starting doing numbers on your fears<br />Like all the times that I wasted as a pocket full of dimes<br />Oh, they live on in every tune, but yes I could have sung<br /><br />Oh, I could have been your lover but I never had a clue<br />What you&#39;d say to me, or what I&#39;d say to you<br />But you know I could have loved you, it&#39;s the one thing I can do<br />Oh, I could have been your lover but I never had a clue<br /><br />And I am the great pretender, living on my dreams<br />A little short of winning and a little long on schemes<br />As the dreams of mice and men are pulling at their seams<br />Oh I am the great pretender who is living on his dreams<br /><br />Oh I could have been a runner but I never had the speed
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

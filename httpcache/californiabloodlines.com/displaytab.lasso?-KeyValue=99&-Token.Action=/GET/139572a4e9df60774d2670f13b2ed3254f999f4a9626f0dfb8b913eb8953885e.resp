@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2978
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LIGHT COME SHINE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (F) (C) (F) <br />(C) Young holy (F)roller,<br />(C) I&#39;ve gone and (F)stolen her<br />(Am) Away from the (F)holy (C)man,<br />(Dm) His bible and (G)beads.<br />(C) Young holy (F)roller,<br />(C) What could be (F)holier<br />Than (Am) all of the (F)love (C)shining <br />(Dm) Between you and (G)me?<br /><br />(C) See the light come shine,<br />(F) See the light come (C)shining,<br />(F) Se-(G)e the (C)light (Am)come <br />(D) Shining (D7)right on (G)me.<br />(C) See the light come shine,<br />(F) See the light come (C)shining,<br />(F) Se-(G)e the (C)light (Am)come <br />(F) Shine (G)right on (C)me.<br />(F) (C) (F) <br /><br />(C) Lonely (F)rover,<br />(C) I was the (F)lonely one.<br />(Am) You aren&#39;t the (F)only (C)one<br />(Dm) Who yearns to be (G)free.<br />(C) Lonely (F)rover,<br />(C) We are the (F)lonely ones<br />(Am) Who look for the (F)light (C)like a <br />(Dm) Ship on the (G)sea.<br /><br />(C) See the light come shine,<br />(F) See the light come (C)shine, <br />(F) Se-(G)e the (C)light (Am)come <br />(D) Shining (D7)right on (G)me.<br />(C) See the light come shine,<br />(F) See the light come (C)shining,<br />(F) Se-(G)e the (C)light (Am)come<br />(F) Shine (G)right on (A7)me.<br /><br />(D) See the light come shine,<br />(G) See the light come (D)shining, <br />(G) Se-(A)e the (D)light (Bm)come <br />(E) Shine (E7)right on (A)me.<br />(D) See the light come shine,<br />(G) See the light come (D)shining,<br />(G) Se-(A)e the (D)light (Bm)come<br />(G) Shine (A)right on (D)me.<br />(G) (D) (G) (D)<br />See the (G)light come shine, (D)<br />See the (G)light come shine, (D)<br />See the (G)light come shine, (D)<br />See the (G)light come shine&#8230; (D)<br />(Repeat and fade out.)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

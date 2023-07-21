@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3058
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>QUARTER MOON ON THE GOLDEN GATE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>John plays it in the key of D<br />Transpose or capo 7th fret if you want to check.<br /><br /><br />(G5) (G) (G5) (G) (G5) (G) (C)(G)(D)  2x<br />Oh it (G)happened down in Texas, near the (D)town of San Antone,<br />He was (G)driving (G/F#)to Vir(Em)ginia who would (C)call him on the (D)phone.<br />She said, (Em)&quot;Sam, I can hardly (Bm)wait<br />To (C)see the quarter (D)moon on the Golden (G)Gate,(G/F#)(Em)<br />Oh, to (C)see the quarter (D)moon on the Golden (G)Gate.&quot;<br />-Instr. like intro, 1x-<br /><br />Vir(G)ginia&#39;s in the bedroom, (D)putting on the dress,<br />The (G)one she (G/F#)got on (Em)sale today that (C)showed her off the (D)best.<br />She said, (Em)&quot;Sam, oh don&#39;t be (Bm)late,<br />I want to (C)see the quarter (D)moon on the Golden (G)Gate,(G/F#)(Em)<br />I want to (C)see the quarter (D)moon on the Golden (G)Gate.&quot;<br />-Instr. like intro, 1x-<br /><br />And the (C)rains and winds of (D)Texas sure can (G)blow,<br />And I&#39;ve (C)seen the waters (D)run so hard that a (G)man could (G/F#)lose the (Em)road,<br />Taking it (D)slow, playing it (Em)safe<br />On his (C)way to the quarter (D)moon on the Golden (G)Gate,(G/F#)(Em)<br />On his (C)way to the quarter (D)moon on the Golden (G)Gate.<br />-Instr. like intro, 1x-<br /><br />Oh, (G)it&#39;s been fourteen years, maybe (D)fourteen years or more,<br />(G)She sits (G/F#)by the (Em)window, and a (C)chair beside the (D)door.<br />And she says, (Em)&quot;Sam, I&#39;ll forever (Bm)wait<br />To (C)see the quarter (D)moon on the Golden (G)Gate,(G/F#)(Em)<br />To (C)see the quarter (D)moon on the Golden (G)Gate,<br />Yes, to (C)see the quarter (D)moon on the Golden (G)Gate,(G/F#)(Em)<br />To (C)see the quarter (D)moon&#8230; on the Golden (G)Gate.&#8221;<br />-Instr. like intro, 2x- (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

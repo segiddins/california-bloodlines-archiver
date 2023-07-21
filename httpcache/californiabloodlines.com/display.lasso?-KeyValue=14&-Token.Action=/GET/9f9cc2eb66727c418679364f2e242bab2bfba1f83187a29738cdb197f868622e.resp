@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3129
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MIRACLE MILE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bandera (Folk Era, FE1436D, 1997)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Fandango on the boulevard,<br />You can count the cars<br />For I hear another cargo ship<br />Has just arrived from Mars<br />I&#39;ll take you to the blue light honey<br />You can wear your jeans<br />I&#39;ll Drink some Cuba Libres<br />And listen to your dreams<br /><br />And we can watch the rich and famous<br />In their limos at the light<br />Leave a trail of marching dust<br />Across LA at night<br />And out there on the boulevard<br />The castaways go home<br />To find a place where they belong in the concrete and the chrome<br /><br />Chorus:<br />They are lost for awhile,<br />Everybody&#39;s lost on the miracle mile<br /><br />Molly&#39;s got her leathers on,<br />She hangs them on the floor.<br />I hear she has a charge account <br />At the local bondage store.<br />Her boyfriend wears a mohawk<br />And plays in a local band<br />Who worship GG Allen<br />With self inflicted brands<br /><br />(Repeat Chorus)<br /><br />Life along the boulevard<br />There&#39;s nowhere left to go<br />We walk on stars from TV shows<br />That were canceled long ago<br />It is the ghost of Christmas past<br />Where believing still is real<br />I&#39;ll take you to the blue line honey<br />And we can remember how to feel<br /><br />Out across the boulevard<br />Along the earthquake zone<br />The boulevard has faces<br />Wearing cheap cologne<br />Veronica is bleeding<br />She never had much style<br />She said there&#39;s nothing really <br />happening<br />On the miracle mile.<br />(Repeat Chorus)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

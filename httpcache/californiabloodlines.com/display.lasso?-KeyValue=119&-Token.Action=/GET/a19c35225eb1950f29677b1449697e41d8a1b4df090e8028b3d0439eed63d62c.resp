@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2526
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:31 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DAYDREAM BELIEVER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Lonesome Picker Rides Again (Warner Bros., K46135, 1971)<br />Gold (Wrasse Records, WRASS016, 2000)<br />Airdream Believer (Shanachie, 8075, 1995)<br />Deep in the Neon (Homecoming, 750, 1991)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>If I could hide &#39;neath the wings<br />Of the bluebird as she sings<br />The six o&#39;clock alarm would never ring<br />But it rings and I rise<br />Rub the sleep out of my eyes<br />The shaving razor&#39;s old and it stings<br /><br />But cheer up, sleepy Jean<br />Ah, what can it mean<br />To a daydream believer <br />And a homecoming queen<br /><br />You once thought of me<br />As a white knight on his steed<br />But now you know how funky I can be<br />And our good times start and end<br />Without dollar one to spend<br />But how much, baby, do we really need<br /><br />So cheer up, sleepy Jean<br />Ah, what can it mean<br />To a daydream believer <br />And a homecoming queen<br /><br />Cheer up, sleepy Jean<br />Ah, what can it mean<br />To a daydream believer <br />And a homecoming queen
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

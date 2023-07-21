@@ -1,0 +1,156 @@
+HTTP/1.0 200 OK
+Content-Length: 8769
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 07:02:26 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Search Page</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<IMG SRC="images/searchhead.jpg" ALT="" WIDTH="530" HEIGHT="182">
+	<br>
+<b><font size="+2"><font color="purple">How to search the database</font></b>
+<p>
+		<table cool width="620" height="100" border="0" cellpadding="0" cellspacing="0" gridx="16" gridy="16" bgcolor="white">
+	<tr height="100">
+				<td width="1" height="100"><spacer type="block" width="1" height="100"></td>
+				<td width="17" height="100"><spacer type="block" width="17" height="100"></td>
+				<td width="19" height="100"><spacer type="block" width="19" height="100"></td>
+				<td width="586" height="100" colspan="1" rowspan="1" valign="top" align="left" xpos="36" content csheight="100">
+				You may search the database by entering the word or words that you want to search for in the Title, Songwriter, 
+				Recording, or Lyrics fields. If you put quotation marks around a group of words, the search engine will look for 
+				that particular phrase. If you do not use quotation marks, the search engine will look for those words whether they 
+				appear together or separately. The easiest way to find a particular song is to enter a word or words into either the 
+				title field or the lyrics field. If you select the name of a specific album, tape, or CD in the Recording field and 
+				leave all other fields blank, the database will find all of the songs from that recording.
+				<td width="36" height="100"><spacer type="block" width="36" height="100"></td>
+			</tr>
+		</table>
+			<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="listing.lasso" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="3"> <font size="+1"><b>Search Records</b></font>
+	
+ </td>
+		</tr>
+		<tr>
+			<td> Title </td>
+			<td><input type="text" name="title" value=""/></td>
+		</tr>
+		<tr>
+			<td> Songwriter </td>
+			<td><select name="songwriter">
+              <option value=""></option>
+              <option value="John Stewart">John Stewart</option>
+              <option value="John Stewart and George Yanok">John Stewart and George Yanok</option>
+              <option value="John Stewart and Don McArthur">John Stewart and Don McArthur</option>
+              <option value="John Stewart and Randy Cierley">John Stewart and Randy Cierley</option>
+              <option value="John Stewart and Mason Williams">John Stewart and Mason Williams</option>
+              <option value="John Stewart and Michael Cannon">John Stewart and Michael Cannon</option>
+              <option value="John Stewart and John S. Stewart">John Stewart and John S. Stewart</option>
+              <option value="John Stewart and Paul Simon">John Stewart and Paul Simon</option>
+              <option value="John Stewart and Paul Westphal">John Stewart and Paul Westphal</option>
+              <option value="John Stewart and Rosanne Cash">John Stewart and Rosanne Cash</option>
+              <option value="John Stewart and Buffy Ford">John Stewart and Buffy Ford</option>
+              <option value="Buffy Ford">Buffy Ford</option>
+              <option value="Public Domain">Public Domain</option>
+              <option value="Traditional">Traditional</option>
+             </select>
+		</p> </td>
+		</tr>
+		<tr>
+		<td valign=middle>Recording:</td>
+		<td align=left valign=middle><select name="Recording" size=1>
+              <option value=""></option>
+              <option value="Here We Go Again">Here We Go Again</option>
+              <option value="Folk Scene USA">Folk Scene USA</option>
+              <option value="Close Up">Close Up</option>
+              <option value="College Concert">College Concert</option>
+              <option value="Something Special">Something Special</option>
+              <option value="New Frontier">New Frontier</option>
+              <option value="Number 16">#16</option>
+              <option value="Sunny Side">Sunny Side</option>
+              <option value="Time to Think">Time to Think</option>
+              <option value="Back in Town">Back in Town</option>
+              <option value="Stay Awhile">Stay Awhile</option>
+              <option value="Something Else">Something Else</option>
+              <option value="Children of the Morning">Children of the Morning</option>
+              <option value="Signals Through the Glass">Signals Through the Glass</option>
+              <option value="California Bloodlines">California Bloodlines</option>
+              <option value="Willard">Willard</option>
+              <option value="The Lonesome Picker Rides Again">The Lonesome Picker Rides Again</option>
+              <option value="Sunstorm">Sunstorm</option>
+              <option value="Cannons in the Rain">Cannons in the Rain</option>
+              <option value="The Phoenix Concerts">The Phoenix Concerts</option>
+              <option value="Wingless Angels">Wingless Angels</option>
+              <option value="Fire in the Wind">Fire in the Wind</option>
+              <option value="Bombs Away Dream Babies">Bombs Away Dream Babies</option>
+              <option value="Dream Babies Go To Hollywood">Dream Babies Go To Hollywood</option>
+              <option value="Forgotten Songs of Some Old Yesterday">Forgotten Songs of Some Old Yesterday</option>
+              <option value="Blondes (Swedish Release)">Blondes (Swedish Release)</option>
+              <option value="Revenge of the Budgie">Revenge of the Budgie</option>
+              <option value="Blondes">Blondes</option>
+              <option value="Trancas">Trancas</option>
+              <option value="The Gathering">The Gathering</option>
+              <option value="Centennial">Centennial</option>
+              <option value="The Last Campaign">The Last Campaign</option>
+              <option value="The Secret Tapes '86">The Secret Tapes '86</option>
+              <option value="The Trio Years">The Trio Years</option>
+              <option value="Punch the Big Guy">Punch the Big Guy</option>
+              <option value="The Secret Tapes II">The Secret Tapes II</option>
+              <option value="Neon Beach">Neon Beach</option>
+              <option value="American Sketches">American Sketches</option>
+              <option value="Deep in the Neon">Deep in the Neon</option>
+              <option value="Bullets in the Hour Glass">Bullets in the Hour Glass</option>
+              <option value="Teresa and the Lost Songs">Teresa and the Lost Songs</option>
+              <option value="Savanah">Savanah</option>
+              <option value="John Stewart-An American Original">John Stewart-An American Original</option>
+              <option value="Chilly Winds">Chilly Winds</option>
+              <option value="Escape to Arizona">Escape to Arizona</option>
+              <option value="Rocket Roy in the Real World">Rocket Roy in the Real World</option>
+              <option value="Armstrong">Armstrong</option>
+              <option value="Bandera">Bandera</option>
+              <option value="The Essential John and Buffy">The Essential John and Buffy</option>
+              <option value="Airdream Believer">Airdream Believer</option>
+              <option value="The Best of John Stewart">The Best of John Stewart (Turning Music into Gold)</option>
+              <option value="Rough Sketches">Rough Sketches</option>
+              <option value="Havana">Havana</option>
+              <option value="One Night in Denver">One Night in Denver</option>
+              <option value="Darwin's Army">Darwin's Army</option>
+              <option value="Rocket Roy in the Real World Plus">Rocket Roy in the Real World Plus</option>
+              <option value="Buffy's Christmas">Buffy's Christmas</option>
+              <option value="Way Too Much Fun">Way Too Much Fun</option>
+              <option value="Gold">Gold</option>
+              <option value="The Stewart Years">The Stewart Years</option>
+              <option value="Buster">Buster</option>
+              <option value="Johnny Moonlight">Johnny Moonlight</option>
+              <option value="Wires from the Bunker">Wires from the Bunker</option>
+              <option value="The Americans">The Americans</option>
+              <option value="Tanforan">Tanforan</option>
+              <option value="The Day the River Sang">The Day the River Sang</option>
+              <option value="Unreleased">Unreleased</option>
+</select>
+	</tr>
+		<tr>
+			<td> Lyrics </td>
+			<td> <input type="text" name="Lyrics" value=""/> </td>
+		</tr>
+		<tr>
+			<td colspan="3"> 
+	<input type="submit" name="-Token.Action" value="Search Records"/>
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

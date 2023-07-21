@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2960
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NEVER GOING BACK</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo first fret<br /><br />Intro &#8211; play (E), <br />or (E)  (E4)-(E), without high strings,<br />or<br />E--xx--------------------------------------<br />B--xx--------------------------------------<br />G--xx--------------------------------------<br />D--xx--------------------------------------<br />A-2-2-4-4-2-2-4-4-2-2-4-4-5-5-4-4---<br />E-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0---  etc.<br /><br />Oh, every time I see that Greyhound <br />Bus go rolling down the line,<br />Makes me wish I&#39;d talked much more to <br />You when we had all that time. (E7)<br />(A) Still, it&#39;s only (B)wishing,<br />And I (E)know it&#39;s (G#m)nothing (C#m)more,<br />(E) Never goin&#180; (A)back,<br />(E) Never goin&#180; (A)back, no,<br />(E) Never goin&#180; (A)back, <br />Oh, to (B)Nashville anymore.<br /><br />(E) And Oklahoma City, yes, I know <br />That she won&#39;t treat me cruel.<br />Denver, Colorado, never <br />Made me feel like such a fool. (E7)<br />(A) These are only (B)cities,<br />But they&#39;re (E)cities (G#m)without (C#m)you,<br />(E) Never goin&#180; (A)back,<br />(E) Never goin&#180; (A)back, no,<br />(E) Never goin&#180; (A)back <br />Oh, to (B)Nashville anymore.<br />(E)                                         (E7) <br /><br />(A) Still, it&#39;s only (B)wishing,<br />And I (E)know it&#39;s (G#m)nothing (C#m)more,<br />(E) Never goin&#180; (A)back, no,<br />(E) Never goin&#180; (A)back,<br />(E) Never goin&#180; (A)back <br />Oh, to (B)Nashville anymore...<br />(follows an extended jam on (E), thank you to all the musicians <br />and the immortal call, &#8220;T-shirts! We have T-shirts!&#8221;<br />at seven minutes and five seconds into the song on the Phoenix Concerts)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

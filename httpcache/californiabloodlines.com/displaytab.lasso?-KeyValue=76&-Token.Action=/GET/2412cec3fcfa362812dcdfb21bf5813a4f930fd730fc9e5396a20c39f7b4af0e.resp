@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3993
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:55 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>(ODIN) SPIRIT OF THE WATER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)<br />Oh, there&#39;s a story, (Em7) (F) (Em)told on the (Am)coastline, (Em7) (F) (Em)<br />About a (Am)star-eyed (Em7)girl (F) and her (Em)man of the (Am)sea. (Em7) (F) (Em)<br />He was a (Am)whaler, (Em7) (F) ass(Em)assin of the (Am)sea wind, (Em7) (F) (Em)<br />She (Am)told him,(Em7) (F) &quot;Oh, let the (Em)whale go (Am)free.&quot; (Em7) (F) (Em)<br />(Am) (Em7) (F) (Em)<br /><br />And for the (Am)glory,(Em7) (F)  they (Em)sailed with the (Am)sunrise, (Em7) (F) (Em)<br />He was the (Am)devil on the (Em7)wind (F) out of (Em)Monter(Am)ey. (Em7) (F) (Em)<br />And she (Am)pleaded, (Em7) (F) (Em)&quot;Keeper of my (Am)heartline,&quot; (Em7) (F) (Em)<br />She (Am)pleaded, (Em7) (F)  &quot;Oh, let the (Em)whale go (Am)free.&quot; (Em7) (F) (Em)<br />(Am) (Em7) (F) (Em)<br /><br />She&#39;s (Am)waiting, (Em7) (F) (Em) she&#39;s (Am)praying, (Em7) (F) (Em)<br />And she&#39;s (Am)waiting, (Em7) (F) (Em) and she&#39;s (Am)praying, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin, (Em7) (F) (Em)god of the (Am)sea, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) oh, let the (Em)whale go (Am)free.<br />(Em7) (F) (Em) (Am) (Em7) (F) (Em) (Am) (Em7) (F) (Em) (Am) (Em7) (F) (Em)<br /><br />And then (Am)(let chord ring) one dark day in February, <br />Say on the (Am)(let chord ring) twenty-eighth, maybe the ninth,<br />You know, the (Am)(let chord ring) ship sailed in with nary a man<br />On the (Am)(let chord ring) deck there to hold the line,<br />And then, (Am)lashed to the (Em7)mast like a (F)ghost from the (Em)past,<br />Was the (Am)man who had (Em7)christened the (F)crime. (Em)<br />He said, &quot;The (Am)battle is (Em7)done and the (F)whale has (Em)won,<br />It&#39;s the (Am)last time I&#39;m (Em7)taking the (F)line.&quot; (Em)<br /><br />And she&#39;s (Am)waiting, (Em7) (F) (Em) and she&#39;s (Am)praying, (Em7) (F) (Em)<br />And she&#39;s (Am)waiting, (Em7) (F) (Em) and she&#39;s (Am)praying, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin, (Em7) (F) (Em)god of the (Am)sea, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) oh, let the (Em)whale go (Am)free. (Em7) (F) (Em)<br /><br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin, (Em7) (F) he was the (Em)god of the (Am)sea, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) (Em)spirit of the (Am)water, (Em7) (F) (Em)<br />(Am)Odin,(Em7) (F) oh, let the (Em)whale go (Am)free.<br />(Em7) (F) (Em) (Am) (Em7) (F) (Em) (Am) (Em7) (F) (Em) (Am)<br />(and fade with bg singers repeating &quot;Let the whale go free&quot;)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

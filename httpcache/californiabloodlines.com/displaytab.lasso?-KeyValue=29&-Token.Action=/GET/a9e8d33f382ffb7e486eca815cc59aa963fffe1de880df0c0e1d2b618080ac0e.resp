@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3900
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BECAUSE OF A DANCER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>    G4/C<br /><br />    E-------3----------------<br />    B-1----------------------  this is the &quot;4&quot; part<br />    G------------------------<br />    D------------------------<br />    A-------3---------------- this is the &quot;/C&quot; part. <br />    E------(3)---------------                                            <br /> Instead of the &quot;normal&quot; bass note &quot;G&quot; (the root) or the other<br /> normal bass notes for the G-chord, which are &quot;B&quot; or &quot;D&quot;, a &quot;C&quot;<br /> is played here. I use this way of indicating bass notes also for <br /> &quot;normal&quot; bass notes when they&#180;re part of a bass run.<br /><br /><br />  <br /> Capo 7th fret<br /><br /> (D) (Em) (G) (G4/C) (G/B) (D/A) (Em) (G) (G4/C) (G/B) (D/A)<br /> (Em)(G) (G4/C) (G/B) (D/A) (Em) (G) (G4/C) (G/B) (D/A)<br /> Because of a (Em)dancer,(G)<br /> The (G4/C)moon&#39;s (G/B)on my (D/A)shoulder,<br /> Because of a (Em)dancer,(G)<br /> (G4/C) I&#180;m wal(G/B)tzing through (D/A)time.<br /> And part of the (Em)answer(G)<br /> Is I&#39;m (G4/C) getting (G/B)no (D/A)older<br /> Because of a (Em)dancer,(G)<br /> I am (G4/C)hol(G/B)ding the (D/A)line.<br /> <br /> Because of a (Em)dancer,(G)<br /> (G4/C) I&#39;m play(G/B)ing with (D/A)angels,<br /> Because of a (Em)dancer,(G)<br /> They have (G4/C)turned (G/B)on the (D/A)light.<br /> Because of a (Em)dancer,(G)<br /> Oh I (G4/C)know (G/B)where the (D/A)rain goes,<br /> Because of a (Em)dancer,(G)<br /> I am (G4/C) feel(G/B)ing al(D/A)right.<br /> <br /> And if it (Am/E)all (Am7)comes (D)down<br /> (C) To the (G/B)whim of an (D/A)angel,<br /> And if it (Am/E)all comes (D)down<br /> (C) To the (G/B)toss of a (D/A)coin,<br /> And as we (Am/E)all go a(D)round,<br /> We (C)all (G/B)get en(D/A)tangled,<br /> Because of a (Em)dancer,(G)<br /> (G4/C) The cir(G/B)cle is (D/A)joined.<br /> -Instr. verse-<br /><br /> Because of a (Em)dancer,(G)<br /> (G4/C) I&#39;m lau(G/B)ghing at (D/A)shadows,<br /> Because of a (Em)dancer,(G)<br /> And (G4/C) all (G/B)the good (D/A)times,<br /> Because of a (Em)dancer,(G)<br /> There is (G4/C)no (G/B)basti(D/A)nado,<br /> Because of a (Em)dancer,(G)<br /> I&#39;m (G4/C)wal(G/B)tzing through (D/A)time.<br /><br /> And if it (Am/E)all (Am7)comes (D)down<br /> (C) To the (G/B)whim of an (D/A)angel,<br /> And if it (Am/E)all comes (D)down<br /> (C) To the (G/B)toss of a (D/A)coin,<br /> And as we (Am/E)all go a(D)round,<br /> We (C)all (G/B)get en(D/A)tangled,<br /> Because of a (Em)dancer,(G)<br /> (G4/C) The cir(G/B)cle is (D/A)joined.<br /> Because of a (Em)dancer,(G) (G4/C) (G/B) (D/A)<br /> Because of a (Em)dancer.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3149
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HUNG ON THE HEART (OF A MAN BACK HOME)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Wingless Angels (RCA, APL1 0816, 1975)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>She could have gone to Colorado<br />We were riding on that road<br />I said &quot;I&#39;m going, will you follow?&quot;<br />She said &quot;Yes,&quot; but then said &quot;No&quot;<br /><br />She&#39;s hung on the heart of a man back home<br />She&#39;s got the heart of a rolling stone<br />Hung on the heart of a man back home<br /><br />We&#39;d spend our time mostly just laughing<br />But not enough time to make a day<br />You should have seen her eyes when I was asking<br />&quot;Do you ever feel like running away?&quot;<br /><br />She&#39;s hung on the heart of a man back home<br />She&#39;s got the heart of a rolling stone<br />Hung on the heart of a man back home<br /><br />La la la la la la la la<br />Hung on the heart of a man back home<br /><br />We saw the road house lights were burning<br />We heard the music of the band<br />She said  &quot;Come on honey let&#39;s go dancing&quot;<br />And I just had to understand<br /><br />She&#39;s hung on the heart of a man back home<br />She&#39;s got the heart of a rolling stone<br />Hung on the heart of a man back home<br /><br />She&#39;s hung on the heart of a man back home<br />She&#39;s got the heart of a rolling stone<br />Hung on the heart of a man back home<br /><br />She&#39;s hung on the heart of a man back home<br />She&#39;s got the heart of a rolling stone<br />Hung on the heart of a man back home<br /><br />La la la la la la la la<br />Hung on the heart of a man back home
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

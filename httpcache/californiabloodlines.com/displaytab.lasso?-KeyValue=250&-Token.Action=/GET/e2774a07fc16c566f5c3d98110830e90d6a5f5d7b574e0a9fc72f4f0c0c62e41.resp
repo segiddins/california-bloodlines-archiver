@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3170
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TEARS OF THE SUN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (C)   <br />(G, play empty B-string, then D-note hammer on E pull off to D to...) (C)<br />Oh, you (G)got to hold the (Em)line <br />And have (Am7)faith (Am7/G)in the(D)river,<br />(G) Look for a (Em)sign <br />Any (Am7)way (Am7/G)you can (D)go.<br />(G) For now is the (Em)time <br />To (Am7)stand (Am7/G)and de(D)liver<br />With the (G)tears of the (Em)sun <br />Falling (Am7)o(Am7/G)ver the (D)snow.<br /><br />And (G)I have had a (Em)dream <br />I would (Am7)find (Am7/G)the re(D)deemer,<br />And (G)I have had a (Em)dream <br />Of the (Am7)sword (Am7/G)in the (D)stone.<br />(G) And I swore to my (Em)heart <br />That I would (Am7)go (Am7/G)on be(D)lieving<br />&#39;Till the (G)tears of the (Em)sun <br />Were falling (Am7)o(Am7/G)ver the (D)snow.<br /><br />And you (G)got to hold the (Em)line <br />And have (Am7)faith (Am7/G)in the(D)river,<br />(G) Look for a (Em)sign <br />Any (Am7)way (Am7/G)you can (D)go.<br />(G) For now is the (Em)time <br />To (Am7)stand (Am7/G)and de(D)liver<br />With the (G)tears of the (Em)sun <br />Falling (Am7)o(Am7/G)ver the (D)snow,<br />Over the (G)snow. (Em) <br />(C)  (G) (D)<br />(G)  (Em)<br />(Am7) (Am7/G) (D) (G) (hold)<br /><br />And (D)deep in your (D7)heart <br />There&#39;s the (G)song of a sailor,<br />And (D)deep in your (D7)heart <br />There&#39;s a (G)way that (D)you can (Em)go.<br />So (C)find any (D)star<br />Or the (G)song (G/Gb)of the (Em)Saviour<br />With the (C)tears of the (G)sun <br />Falling (A7)over the (D)snow.(D7)<br /><br />You (G)got to hold the (Em)line <br />And have (Am7)faith (Am7/G)in the(D)river,<br />(G)Look for a (Em)sign <br />Any (Am7)way (Am7/G)you can (D)go.<br />(G) For now is the (Em)time <br />To (C)stand (G)and de(D)liver<br />With the (G)tears of the (Em)sun <br />Falling (Am7)over, (D7) <br />Over the (G)snow, (Em) (C) (G) (D)<br />Over the (G)snow, (Em) (C) (G) (D)<br />Over the (G)snow. (Em) (C) (G) (D) (D7) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

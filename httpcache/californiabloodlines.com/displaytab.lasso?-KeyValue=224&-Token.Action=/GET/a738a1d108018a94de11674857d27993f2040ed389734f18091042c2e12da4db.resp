@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4064
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:50 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HUNTERS OF THE SUN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G6) (D) (G6)  (G) then, play in three chord segments<br />(C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G)<br />(C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G)<br />(C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G)<br />(C)(G)<br /><br />(D) Oh, and so the (C)story (G)goes, (C)(G)<br />(D) That when the tribes first went to (G)war, (C)(G)<br />(D) Ooh, they were sowers of the (G)seeds, yeah (C)(G)<br />(D) And they were hunters of the (G)boar. (C)(G)<br />(D) Oh, and so they set the (Em)stage, (C)(G)<br />(D) Yeah, but the play remained the (G)same, (C)(G)<br />(D) Oh, they were hunters of the (G)sun, (C)(G)<br />(D) They were catchers (C)of the (G)rain. (C)(G)(D) <br /><br />(D)(C)(G) (C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G) (C)(G)<br /><br />(D) Oh, and so the (C)story (G)goes, (C)(G)<br />(D) Ooh, and once upon a (G)time, (C)(G) <br />(D) Yeah, there were Spanish quista(G)dors,yeah, (C)(G)<br />(D) Down in the valley of the (G)Mayan. (C)(G)<br />(D) And they came to take the (Em)gold, (C)(G)<br />(D) Oh, for Jesus and for (G)Spain, (C)(G)<br />(D) And they were hunters of the (G)sun, (C)(G)<br />(D) They were catchers (C)of the (G)rain, (C)(G)<br />(D) And they were hunters of the (G)sun, (C)(G)<br />(D) They were catchers (C)of the (G)rain. (C)(G)(D)<br /><br />(D)(C)(G) (C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G) (C)(G)<br /><br />(D) Oh, and so the (C)story (G)goes, (C)(G)<br />(D) You just go and ask the (G)eyes, (C)(G)<br />(D) Oh, that closed at Naga(G)saki, yeah (C)(G)<br />(D) The day the fire (C)took the (G)skies. (C)(G)<br />(D) Still the bullies down the (Em)road, (C)(G)<br />(D) Ah, they are really all the (G)same, (C)(G)<br />(D) And they are hunters of the (G)sun, (C)(G)<br />(D) &#180;N&#180; they are catchers (C)of the (G)rain, (C)(G)<br />(D) Oh they are hunters of the (G)sun, (C)(G)<br />(D) And they are catchers (C)of the (G)rain.(C)(G)(D)<br /><br />(D)(C)(G) (C)(G)(D) (D)(C)(G) (C)(G)(D) (D)(C)(G) <br />(C)(G)(D) (D)(C)(G) (C)(G)<br /><br />(D) Oh and so the (C)story (G)goes, (C)(G)<br />(D) When the flags all (C)look the (G)same, (C)(G)<br />(D) Ooh, and all the (C)tribes were (G)gone, yeah, (C)(G)<br />(D) You know and no one (C)knew their (G)names. (C)(G)<br />(D) Oh, they said once upon a (Em)time, (C)(G)<br />(D) Ohh, back when we were (G)insane, (C)(G)<br />(D) When we were hunters of the (G)sun, (C)(G)<br />(D) Catchers (C)of the (G)rain, (C)(G)<br />(D) And we were hunters of the (G)sun, (C)(G)<br />(D) We were the catchers (C)of the (G)rain, (C)(G)(D) <br /><br />(D)(C)(G) (C)(G)(D) (D)(C)(G) <br /><br />Ooh were the (C)hunters (G)of the (D)sun, (D)(C)(G) (C)(G)(D)<br />Ooh, the catchers (C)of the (G)rain. (C)(G)(D) (D)(C)(G) <br />Ooh, the (C)hunters (G)of the (D)sun (D)(C)(G) (C)(G)(D)<br />Ooh, the catchers (C)of the (G)rain. (C)(G)(D)<br />(D)(C)(G) (fade out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

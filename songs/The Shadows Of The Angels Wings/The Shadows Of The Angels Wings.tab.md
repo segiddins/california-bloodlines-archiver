@@ -1,0 +1,74 @@
+E--R--------------------
+B-------------M--------
+G-------I------------I---
+D------------------------
+A------------------------
+E--T---------------------
+
+or
+
+E--R----------R---------
+B--------------------M--
+G-------I----------------
+D------------------------
+A------------------------
+E--T---------------------
+
+(T=thumb, R= ring finger, I= index finger, M= middle finger  -- of course
+the bass note 
+not always on low E-string)
+
+
+(G) (D/F#) (Em) (D) (G) (D/F#) (Em) (D)
+
+(G)Saw some (D/F#)words on a (Em)highway sign, (G) 
+(C) They (G)hit me in the (D)chest,
+(G) That seem to (D/F#)say that when (Em)things go (G)wrong,
+(C) That they (G)happen for the (D)best.
+(G) So I (D/F#)grabbed a piece of (Em)paper, (G)
+(C) For the (G)words just seemed to (D)sing:
+(C) Those aren't (G)clouds on the (C)horizon, no,(G)
+They're the (C)shadows of the (G)Angel's (D)wings.
+
+(G)I re(D/F#)call when (Em)I was just a (G)boy and my brother and I, 
+(C) Well we'd (G)listen through the (D)walls,
+(G) And heard our (D/F#)father (Em)tell our Ma, (G) he'd say, 
+(C) Those kids are (G)no good(D)all.
+(G) He said (D/F#)we were less than (Em)zero, (G)
+(C) Ah, but it (G)didn't mean a (D)thing.
+For (C)those weren't (G)clouds on the (C)horizon, no,(G)
+They were the (C)shadows of the (G)Angel's (D)wings.
+For (C)those weren't (G)clouds on the (C)horizon, no,(G)
+They were the (C)shadows of the (G)Angel's (D)wings.
+
+(G) Now I'm (D/F#)grown, I've got (Em)children of my own (G)
+(C) And I'm (G)careful what I (D)say,
+(G) For I (D/F#)know the power that (Em)words can have,(G)
+(C) Words you (G)can not take a(D)way.
+(G) So what I (D/F#)try to (Em)tell them (G)
+(C) Is the secret (G)of the (D)kings,
+That (C)those aren't (G)clouds on the (C)horizon, no,(G)
+They're the (C)shadows of the (G)Angel's (D)wings,
+(C)Those aren't (G)clouds on the (C)horizon, no,(G)
+They're the (C)shadows of the (G)Angel's (D)wings.
+
+Put it in your (C)pocket, (C/B)yeah, (Am)
+Oh, (D)keep it with your(G)things,(D) (G) (D)
+Put it where their(C)words seep (G/B)in your (D/A)soul, (G)
+The (C)secret of the (G)Angel's (D)wings.
+
+(G) Times are (D/F#)hard and (Em)thing are tough,(G)
+(C) And (G)money's getting (D)thin,
+(G)And it (D/F#)seems like there is (Em)no way out of here,(G)
+(C) There (G)is no way to (D)win.
+(G) Then I (D/F#)saw that piece of (Em)paper (G)
+(C) In the (G)dirt by the front porch (D)swing,
+Saying, (C)‚Those aren't (G)clouds on the (C)horizon, no,‚(G)
+It said, (C)‚Those aren't (G)clouds on the (C)horizon, no,‚(G)
+It said, (C)‚Those aren't (G)clouds on the (C)horizon, no, (G)
+They're the (C)shadows of the (G)Angel's (D)wings.‚(hold)
+Of the Angel‚s (G)wings, (D) (C)
+Of the (D)Angel‚s (G)wings, (D) (C)
+Of the (D)Angel‚s (G)wings, (D) (C)
+Of the (D)Angel‚s (G)wings, (D) (C) (D)
+(G) (D) (C) (D) (G) (D) (C) (D) (G) (D) (C) (D) (G)

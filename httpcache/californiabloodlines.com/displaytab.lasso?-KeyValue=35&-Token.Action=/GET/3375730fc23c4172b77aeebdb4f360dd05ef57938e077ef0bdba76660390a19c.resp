@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4889
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANNA ON A MEMORY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Dj9<br />E-----------------------<br />B-----2----------------<br />G-----2----------------<br />D----------------------<br />A----------------------<br />E--X-------------------<br /><br />Bm11<br />E----------------------<br />B----------------------<br />G----2----------------<br />D---------------------<br />A--X------------------<br />E--X------------------<br /><br />Dm9/G<br />E-----------------------<br />B---------3------------<br />G----2-----------------<br />D----------------------<br />A----------------------<br />E----------3------------<br /><br /><br />Anna On A Memory   John Stewart <br /><br />Capo 2nd fret <br /><br />Intro:<br />(D)                        (D7)            (Em)                     (G)<br /><br />--5--5-3-2pO--------------------------------------------------------<br />------------------3----h1---------------------------------------------<br />-------------------------------------O-h2-----------------------------<br />-------------------------------4-------------h4---4--O---------------<br />-----------------------------------------------------------h2----------<br />------------------------------------------------------------------3----<br /><br />-----------------------------------------------------------------------<br />------------------------O----------O-------O-------------------------<br />---------------------O---------O--------O----------------------------<br />--O--2slide to 4----------4----------4--------4--5--(D-chord)-----<br />-----------------------------------------------------------------------<br />-----------------------------------------------------------------------<br /><br /><br />(D)Anna on a memory, (D7, hammer on c-note on chord change)<br />She come rollin&#39; (Em)by. (bass notes E-D hammer on B on (G))<br />(D)Anna on a memory (D7, hammer on C-note on chord change)<br />Makes me laugh, she makes me (G)cry. (G/F#)(Em - hB-E-D)<br />Makes me (A)think of all the good times, <br />Like a bluebird learn to (D)fly.(accentuate high notes:<br />f#-f#-e hammer on f#-e-d. f#-f#-ehf#-e-d)<br /><br />(D)Blackballed in Abilene, (D7, hammer on c&#8230;)<br />But the morning looked the (Em)same. (bass notes E-D hB on (G) hB)<br />(D)Blackballed in Abilene, (D7, hammer on c&#8230;)<br />Anna woke up on a (G)train, (G/F#) (Em)<br />(A)Lookin&#39; at the stray dogs<br />Running on the highway in the (D)rain.(accentuate high notes:<br />f#-f#-e hammer on f#-e-d. f#-f#-ehf#-e-d)<br /><br />- Repeat intro -<br /><br />(D)Oh, run, dog, (Dj9)run,<br />(Bm11)You won&#39;t catch the (D)sun,<br />But you can (Dm9/G)try.  (G)<br />(D)Run, dog, (Dj9)run,<br />(Dm9/G)You&#39;ll just catch that (D7)semi rollin&#39; (G)by. (G/F#) (Em)<br />I (A)see that you caught the back wheels,<br />That&#39;s how all us stray dogs (D) gonna die.<br />(high notes run: hammer on f#-e-d - hf#-e-d - hf#-e-d  (D7, hammer on c&#8230;)<br /><br />Oh, (G)Anna on a memory,<br />Yeah, she come rollin&#39; (C)by. (high notes run: e-d-e-e-d-c   e-d-e-e-d)<br />(G)Anna on a memory<br />Makes me laugh, she makes me (C)cry.  (C/B) (Am)<br />Makes me (D)think of all the good times, (D7, hammer on c&#8230;)<br />Like a bluebird learn to (G)fly.<br /><br />She makes me (D)think of all the good times, (D7, hammer on c&#8230;)<br />Like a bluebird learn to (G)fly.    ((C), high notes run e d-c to (G), then<br />play only first four strings, slide up to 5th fret, slide up to 7th fret:)<br />------3----------5----------7--------------<br />------0----------0----------0--------------<br />------0----------0----------0--------------<br />------0----------0----------0--------------
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2519
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEN MY LOVE WAS HERE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Close Up (The Kingston Trio - 1961, Capitol T/ST 1642)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I thought I&#39;d spend a week or two<br />Where we went last year<br />The little cottage and the lake<br />That we held so dear<br /><br />But the trees all seemed much greener<br />Much greener than this year<br />Thinking about last summer<br />When my love was here<br /><br />And the stars all lost their glitter<br />They were so full of cheer<br />Thinking about last summer<br />When my love was here<br /><br />Even the old caretaker<br />Who brought us from the train<br />Says, &quot;This year just hasn&#39;t,<br />It hasn&#39;t seemed the same.&quot;<br /><br />And the winds across the meadow<br />Seem to hide a tear<br />Thinking about last summer<br />When my love was here<br /><br />It hasn&#39;t seemed the same.<br /><br />And the winds across the meadow<br />Seem to hide a tear<br />Thinking about last summer<br />When my love was here
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

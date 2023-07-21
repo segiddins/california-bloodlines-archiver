@@ -1,0 +1,43 @@
+(C)  (E7 short)  (Am)  (C7)  (F)  (G)  (C)  (G)
+(C) I (E7 short)never got to see New (Am)Orleans (C7)
+(F) Or (G)hear her mournful (C)sound, (G)
+(C) Hear that (E7 short)singing through the (Am)doorways, (C7)
+(F) The (G)tapping on the (C)ground, (C7)
+(F)Dancing feet on (G)Bourbon Street,
+The (E)jazz, the blues, the (Am)beat, (C7)
+I (F)never got to (G)see New (C)Orleans
+Or (G)feel the Delta (C)heat.  (E7 short)  (Am)  (C7)  (F)  (G)  (C)  (G)
+
+(C) Yeah, I (E7 short)never got to see New (Am)Orleans, (C7)
+(F) The pa(G)rade on Easy (C)Street, (G)
+(C) When (E7 short)Mardi Gras was (Am)swingin' (C7)
+(F) To the (G)Dixieland re(C)treat. (C7)
+(F)Voodoo Alley, (G)sweet King Cake,
+Con(E)fetti rain, for (Am)heaven's sakes, (C7)
+I (F)never got to (G)see New (C)Orleans
+Or (G)feel the Delta (C)heat.  (E7 short)  (Am)  (C7)  (F)  (G)  (C)  (C7)
+
+And her (F)water may be (G)rising,
+But Or(E)leans is (E7)still a(Am)live and
+For(F)ever she will (G)sing to me
+The (E)lulla(E7)bies of (Am)used to be. (C7)
+Will I (F)ever (G)see New (C)Orleans
+And (G)hear those melo(C)dies?  (E7 short)  (Am)  (C7)  (F)  (G)  (C)  (G)
+
+(C) I (E7 short)never got to see New (Am)Orleans, (C7)
+(F) Or the (G)Gulf of Mexi(C)co, (G)
+(C) And (E7 short)hear the old pi(Am)ano man (C7)
+(F) Play the (G)blues of long a(C)go, (C7)
+And (F)feel the simmer, (G)taste the sweets,
+And (E)hear the hum on (Am)Canal Street. (C7)
+Will I (F)ever (G)see New (C)Orleans
+And (G)feel the Delta (C)heat?  (E7 short)  (Am)  (C7)  (F)  (G)  (C)  (G)
+
+(C) I (E7 short)never got to see New (Am)Orleans, (C7)
+(F) Ride the (G)river to the (C)sea, (G)
+(C) Hear the (E7 short)muse of Lousi(Am)ana (C7)
+(F) (G)Sing her heart to (C)me. (C7)
+(F)Fats and Louis and (Cj7)Dixieland,
+She (E)is the river, she (Am)is the land, (C7)
+But I (F)never got to (G)see New (C)Orleans
+Or (G)hold her in my (F)hand. (Cj7)

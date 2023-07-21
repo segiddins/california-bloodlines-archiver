@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3187
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE LAST HURRAH</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G/B)Clear the (D)tracks, the (C)song&#39;s (G/B)been ta(D/A)ken,<br />(G/B)This may (D)be the (C)last (G/B)hur(D/A)rah.<br />(G/B)In Tennes(D)see, they (C)were (D)for(G/B)sa(G)ken,<br />(G/B)L.A. (D)was the (C)coup (G/B)de (D/A)grace.<br /><br />(G/B)Clean your (D)guns, the (C)bat(G/B)tle&#39;s o(D/A)ver,<br />(G/B)They be(D)long now (C)to (G/B)the (D/A)wind.<br />(G/B)The saddest (D)words I&#39;ve (C)e(D)ver (G/B)spo(G)ken<br />(G/B)Were the (D)words, &quot;It (C)might (G/B)have (D/A)been.&quot;<br /><br />(Em)And it&#39;s al(D)right, it&#39;s (C)only (G)music.<br />(Em)It is (D)singing (A)in the (D)stars.<br />(Em)Keep your (D)dreams as (C)clean (D)as (G/B)sil(G)ver,<br />(G/B)This may (D)be the (C)last (G/B)hur(D/A)rah.<br /><br /> -Instr. verse-<br /><br />(G/B)Loyal (D)friends and (C)front-(G/B)row dan(D/A)cers,<br />(G/B)Hitch your (D)wagon (C)to (G/B)a (D/A)star.<br />(G/B)Chilly (D)wind blew (C)cold (D)this (G/B)mor(G)ning,<br />(G/B)This may (D)be the (C)last (G/B)hur(D/A)rah.<br /><br />(Em)And it&#39;s al(D)right, it&#39;s (C)only (G)music,<br />(Em)It is (D)singing (A)in the (D)stars.<br />(Em)Keep your (D)dreams as (C)clean (D)as (G/B)sil(G)ver,<br />(G/B)This may (D)be the (C)last (G/B)hur(D/A)rah,<br />(G/B)This may (D)be the (C)last (G/B)hur(D/A)rah<br /><br />-Instr. verse,last chord:(G)<br /><br />&#169; John Stewart<br /><br />janhauenstein@gmx.de<br /><br />Quick pickers, this is for you:<br /><br />(G/B)Clear (C)the (D)tracks, (G)the (C)song&#171;s (G/B)been ta(D/A)ken,<br />(G/B)This (C)may (D)be (G)the (C)last (G/B)hur(D/A)rah.<br />(G/B)In Ten(C)nes(D)see, (G)they (C)were (D)for(G/B)sa(G)ken,<br />(G/B)L.A. (D)was (G)the (C)coup (G/B)de (D/A)grace...<br /><br />(Em)And it&#171;s al(D)right, it&#171;s (C)only (G)music,<br />(Em)It is (D)singing (A)in the (D)stars.<br />(Em)Keep your (D)dreams as (C)clean (D)as (G/B)sil(G)ver,<br />(G/B)This (C)may (D)be (G)the (C)last (G/B)hur(D/A)rah.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

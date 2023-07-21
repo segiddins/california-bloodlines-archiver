@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3089
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Naked Angel on a Star-Crossed Train</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)  (C)  (D)  (G)    (C)  (D)  (G)<br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward,<br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward.<br /><br />An angel brings the (D)rain<br />(C)When she (D)feels like (G)crying,<br />An angel brings the (D)pain<br />(C)When she (D)feels like (G)dying,<br />And an angel brings the (D)songs,<br />I can (C)feel &#39;em (D)coming (G)on.<br />I cry out her (D)name,<br />(D7)I cry out, &quot;De(G)lilah.&quot;<br /><br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward,<br />Naked angel on a (C)star-crossed train,<br />With a (D)guitar man and an Angel Band,<br />Sending me songs and (G)here&#39;s one.<br /><br />La dn da dn da (C)dee dn da da,<br />(D)La dn dee da da (G)da.<br />Dee dn dee dn dee (C)doo doo doo,<br />(D)Loo dn doo doo doo (G)doo.  (C)  (D)  (G)    (C)  (D)  (G)<br /><br />An angel is the (D)muse,<br />And the (C)musing (D)brings the (G)spirit.<br />I can not re(D)fuse,<br />If she (C)sings, you (D)know I&#180;ll (G)hear it.<br />An angel brings the (D)songs,<br />I can (C)feel &#39;em (D)coming (G)on,<br />I cry out her (D)name,<br />(D7)I cry out, &quot;De(G)lilah.&quot;<br /><br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward,<br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward,<br />Naked angel on a (C)star-crossed train,<br />(D)Riding the bright light (G)homeward,<br />Naked angel on a (C)star-crossed train,<br />With a (D7)guitar man and an Angel Band,<br />Playing me songs, you&#180;ll (G)hear one.<br /><br />Dee dn dee dn dee (C)dee doo dum dum,<br />(D)La dn dow dum da (G)dum dum.<br />La dn da dn da (C)dee dn dum dum,<br />(D)La dn da da da (G)dum.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

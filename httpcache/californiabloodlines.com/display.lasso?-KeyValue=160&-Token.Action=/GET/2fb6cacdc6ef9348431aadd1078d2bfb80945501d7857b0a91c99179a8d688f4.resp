@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2956
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:31 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ACROSS THE MILKY WAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Teresa and the Lost Songs (cass - Crow, 1, 1992; CD - Homecoming, HCCD00870, 1998)<br />Way Too Much Fun (Neon Dreams 2000, 2000)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>If you are lost as in a dream and you cannot find your way<br />All the reasons you are lost will guide you on your way<br />If you turn them all to stars, across the milky way<br />Truly they would make all the night as bright as day<br /><br />Children come and children go, they&#39;re not children any more<br />And all I have are photographs, I&#39;ve got hundreds on my door<br />And if I turned them all to stars, across the milky way<br />Truly they would make all the night as bright as day<br />Truly they would make all the night as bright as day<br /><br />And if all the hearts that the spirit loves were standing side by side<br />They would be forever long, and ten thousand miles wide<br />Turn them all to stars, across the milky way<br />Truly they would make all the night as bright as day<br />Truly they would make all the night as bright as day<br /><br />The light that shines in your true love&#39;s eyes, also shines in you<br />If we would only let it shine, the promise would come true<br />You could turn us all to stars, across the milky way<br />Truly they would make all the night as bright as day<br />Truly they would make all the night as bright as day<br />Truly they would make all the night as bright as day
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

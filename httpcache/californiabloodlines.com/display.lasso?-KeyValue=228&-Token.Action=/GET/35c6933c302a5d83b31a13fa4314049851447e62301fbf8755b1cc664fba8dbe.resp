@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3943
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:35 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BOTSWANNA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh I live in California<br />I can look out at the ocean<br />On the silver blue Pacific<br />It is always there to see<br />But I&#39;m so busy working<br />That I don&#39;t have time to see it<br />But it&#39;s the knowing that it&#39;s there<br />That means lot to me<br /><br />And it makes it hard<br />When I close my eyes<br />When I can see the pictures<br />Taken at Botswanna<br />The pictures of the children<br />With the flies in their eyes<br /><br />And those with all the money<br />They are having nervous breakdowns<br />And they&#39;re always taking pills<br />To make them feel the otherwise<br />Well how could I ever stumble <br />Or complain that thing&#39;s aren&#39;t going right?<br />How could I ever fail<br />To see rainbows in the skies?<br /><br />And it makes it hard<br />When I close my eyes<br />Because I can see the pictures<br />Taken at Botswanna<br />The pictures of the children<br />With the flies in their eyes<br /><br />Oh, faith it is a fire<br />And it&#39;s fanned by the winds of thanks<br />I am worried of our numbers<br />And I&#39;m worried of our ranks<br />As we fire up the Porsches<br />Fighting to survive<br />And we look for valet parking<br />Out on Rodeo Drive<br /><br /><br />And it makes it hard<br />I wonder if God cries<br />When he sees the pictures<br />Taken at Botswanna<br />The pictures of the children<br />With the flies in their eyes<br /><br />And I&#39;m not my brother&#39;s keeper<br />For I do not have the power<br />As if part of some great game<br />That they play on the other side<br />Because it&#39;s all I can do<br />To just keep myself together<br />Still I see the faces<br />In the blue pacific tide<br /><br />And it makes it hard<br />When I close my eyes<br />And I can see the pictures<br />Taken at Botswanna<br />The pictures of the children<br />With the flies in their eyes<br /><br />Is it not for us to wonder?<br />Is it not for us to question?<br />Is it not for us to cry out<br />This can not be denied?<br />For we are but a family<br />Without walls but we have waters<br />And every face you see<br />It is you and it is I<br /><br />And it makes it hard<br />When you close your eyes<br />And you can see the pictures<br />Taken at Botswanna<br /><br />The pictures of the children<br /><br />Yeah, the pictures of the children<br />With the flies in their eyes
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

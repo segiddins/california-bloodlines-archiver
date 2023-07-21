@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3512
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE ROAD SHINES BRIGHT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)<br />(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)<br />[keep playing this pattern for the verses &#710; <br />we haven&#180;t written it out there so as not to confuse you]<br /><br />(D)Listen to the (D4)hymn in the (D)high school (D4)gym,<br />&#180;Cause the (D)church burned (D4)down last (D)night.(D) (D4)(D4)(D4)<br />(D)Glory, (D4)Glory, (D)Halle(D4)lujah,<br />(D)I can (D4)see the (D)light.(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)<br /><br />But (D)I got a (D4)church right (D)here in(D4)side,<br />And it (D)does me (D4)quite all (D)right.(D) (D4)(D4)(D4)<br />It (D)shows me the (D4)road that (D)goes to (D4)home,<br />And (D)I can (D4)see the (D)light.(D) (D4)(D4)(D4) (D)(D) (A7)(A7)<br /><br />And the (D)road (F#m)shines (Bm)bright,<br />And the (E)road (E7)shines (A)bright, (A7)<br />Oh, the (D)road (F#)shines (G)bright<br />When you&#39;re (A)going (D)home.(D) (D4)(D4)<br />(D)(D)(D) (D4)(D4) (D)(D) (D4)(D4) (D)(D) (D) (D4)(D4)<br /><br />[resume pattern, sometimes 2, sometimes 3 (D4)s]<br />(D)Bless you, (D4)long and (D)lonesome (D4)highway,<br />(D)You&#39;re gonna (D4)save my (D)life.(D) (D4)(D4)(D4)<br />(D)Headlights (D4)shining in the (D)cat eyes (D4)walking,<br />And (D)I can (D4)see the (D)light.(D) (D4)(D4)(D4)<br /><br />(D)(hold)Glory, (G)(hold)Glory, (D)Hal(F#m)le(Bm)lujah,<br />(D)(hold)I can (A)(hold)see the (D)(hold)light. (G)(A)<br />(D)(hold)Glory, (G)(hold)Glory, (D)Hal(F#m)le(Bm)lujah,<br />(D)(hold)I can (A)(hold)see the (D)light.(D) (D4)(D4) (D)(D) (A7)(A7)<br /><br />And the (D)road (F#m)shines (Bm)bright,<br />And the (E)road (E7)shines (A)bright, (A7)<br />Oh, the (D)road (F#)shines (G)bright<br />When you&#39;re (A)going (D)home.(D) (D4)(D4) (D)(D) (A7)(A7)<br /><br />Oh, the (D)road (F#m)shines (Bm)bright,<br />Oh, the (E)road (E7)shines (A)bright, (A7)<br />Oh, the (D)road (F#)shines (G)bright<br />When you&#39;re (A)going...<br /><br />(D)Glory, (G)Glory, (D)Hal(F#m)le(Bm)lujah,<br />(D)I can (A)see the (D)light. (G)(A)<br />(D)Glory, (G)Glory, (D)Hal(F#m)le(Bm)lujah,<br />(D)I can (A)see the (G)(hold)light.....<br />(D)(D) (D4)(D4)(D4)<br />(D)(D)See the light. (D4)(D4)(D4)<br />(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)...(fade out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2786
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOOKING BACK JOANNA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Teresa and the Lost Songs (cass - Crow, 1, 1992; CD - Homecoming, HCCD00870, 1998)<br />Johnny Moonlight (Neon Dreams, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Looking back Joanna<br />When you really loved me<br />When the sun in the morning<br />Come without a warning on my door<br />Looking back Joanna<br />How it all just ended on the floor<br /><br />Looking back Joanna<br />When you were but a child<br />Even when you smiled you would cry<br />Looking back Joanna<br />Every time I touched you, I would lie<br /><br />There is a river<br />Running changes by me<br />There is a river<br />That takes me to the sea<br />There is a river<br />It has made me free<br /><br />Looking back Joanna<br />To that summer in Savannah<br />And I would find you lying in my bed<br />Looking back Joanna<br />I still can hear you breathing in my head<br /><br />There is a river<br />Running changes by me<br />There is a river<br />That takes me to the sea<br />There is a river<br />It has made me free<br /><br />Looking back Joanna<br />When you really loved me<br />When the sun in the morning<br />Come without a warning on my door<br />Looking back Joanna<br />How it all just ended on the floor<br />On the floor<br /><br />Looking back Joanna<br />Looking back Joanna<br />Looking back Joanna
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

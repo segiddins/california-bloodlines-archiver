@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 5039
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TO RIDE THE LIGHTNING (ONE MORE TIME)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>John Glenn is going to ride the lightning one more time, <br />and we&#39;re all going to ride it with him, once again. <br /><br />Not just as one of the old guard out to redefine aging&#8230; <br />but as a reluctant keeper of the flame from long ago and shining times&#8230;. <br /><br />He&#39;s going to climb that rocket one more time. <br /><br />A lost hero of the Heartland past, who came out of the fog of transparent heroes, and tacky headlines&#8230; <br /><br />To ride the lightning one more time. <br /><br />On the marshes of Cape Canaveral and Cocoa Beach <br />Amidst the ghosts of Grissom, White, Chaffey, Shepherd, McAulliffe <br />and all of the Challenger crew who rode the lightning one last time. <br /><br />He&#39;s going to climb aboard and buckle in.. <br /><br />Carrying the relics of the New Frontier and Camelot. <br /><br />Carrying the tiny withering flame of a time thirty six years ago when America felt young, <br />as though there was nowhere we could not go <br />nothing we couldn&#39;t do. <br /><br />On that day in February when we all stopped and watched Cronkite, Brinkley and Chancellor on black and white screens&#8230;. <br />count down the last seconds as Johnny Glenn was to about to become the first American to orbit the Earth. <br />High atop the volatile Atlas Rocket <br />That had exploded in a wall of white hot flame so many times during disastrous launches . <br /><br />When he and Shepherd, Grissom and Carpenter were writing the text book <br />Of how to fly that tiny tin can atop world&#39;s biggest fire cracker. <br />We all watched and prayed when Glenn told Mission Control that a light inside his capsule said that his heat shield was loose causing he and Friendship 7 to burn up on reentry. <br /><br />As if it was predestination, the boy scout from Ohio safely parachuted Friendship 7 into the Pacific as if it were all from a paperback novel. <br /><br />It was a bright shining moment in a clear crystal time, <br />when the shadows behind the legends were washed away by the light of a nations dreams. <br /><br />Johnny Glenn is going to ride the lightning one more time <br /><br />As the children and children&#39;s children of the New Frontier <br />Watch Cronkite, Brokaw and Rather count it down. <br />Count down the lift off that will hold the man, who probably has no interest of knowing that he may well hold the lost dreams of a fractured nation. <br /><br />A Nation who&#39;s heart had been broken by Vietnam, assassinations, scandals and leaders who have sold our future down the river for the fast buck and tainted power. <br /><br />People are coming from all over America, from all over the World and they really can&#39;t tell you why. <br />As the people in Close Encounters of the Third Kind who kept drawing Devils Tower. <br />They just want to be there and be a part of it all. <br /><br />To stand as a witness to the lift off that has become a pre millenium Resurrection for the tiny light that burned so deeply inside of us that we didn&#39;t know it was still there <br /><br />Johnny Glenn is going to ride the lightning one more time.. <br /><br />And in that moment of lift off.. <br />We all might dare, perhaps for just a moment, <br />To dream again of bright futures and newer worlds. <br /><br />Johnny Glenn is going to ride the lightning <br /><br />One more time.. <br /><br />And we&#39;re going to ride it with him <br /><br />One more time, <br /><br />Once again&#8230; 
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

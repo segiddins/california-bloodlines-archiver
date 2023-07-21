@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3577
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>INTERVIEW WITH AN ANGEL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>(Johnny)<br />Interview with an angel<br />Who&#8217;s off to catch a plane.<br />The tape machine is running<br />First I asked her name.<br />(Angel)<br />&quot;You can call me Vegas<br />But it&#8217;s really all the same.<br />Do you have any questions<br />&#8216;Cause I&#8217;m off to catch a plane&quot;<br />(Johnny)<br />&quot;What are all those stars <br />Across the evening sky?&quot;<br />(Angel)<br />&quot;Those are all the tears.<br />You&#8217;ve never cried.&quot;<br />(Johnny)<br />&quot;And all the grains of sand<br />Along the ocean beach?&quot;<br />(Angle)<br />&quot;Those are all the dreams<br />You could never reach.&quot;<br /><br />Chorus:<br /> (Johnny and Angel)<br />Interview with an angel<br />Who&#8217;s off to catch a plane.<br />The tape machine was running.<br />Outside it was pouring rain.<br /><br />(Johnny)<br />&quot;Just how many women<br />can only one man have?&quot;<br />(Angel)<br />&quot;You can know a legion,<br />But there&#8217;s none that you can have.&#8217;<br />(Johnny)<br />&quot;And why is there  just one moon<br />For all of us to see?&#8217;<br />(Angel)<br />&quot;That&#8217;s the one true love,<br />And that&#8217;s all you&#8217;ll ever need.&#8217;<br /><br />(Repeat Chorus)<br /><br />(johnny)<br />&quot;What then is the reason<br />That all of us are here?&#8217;<br />(Angel)<br />&quot;I could tell to you the reason<br />But you&#8217;d never hear.&#8217;<br />(Johnny)<br />&quot;What then is the answer?<br />Cause I really have to know&quot;<br />(Angel)<br />&quot;If you must know the answer<br />Then that&#8217;s the road that you must go.&#8217;<br /><br />(Repeat Chorus)<br /><br />(Johnny)<br />Then I said, &#8216;In closing,<br />Do you have any advice?&#8217;<br />(Angel)<br />&quot;Yeah, lose the mustache<br />And try to be more nice.&quot;<br />(Johnny)<br />Then she was gone as quickly<br />As quickly as she came.<br />The tape machine was running<br />As Vegas caught her plane.<br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

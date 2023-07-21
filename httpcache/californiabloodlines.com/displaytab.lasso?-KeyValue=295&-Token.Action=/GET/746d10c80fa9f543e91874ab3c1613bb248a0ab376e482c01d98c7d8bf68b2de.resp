@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3318
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JUSTICEVILLE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C)  (Em)<br />(Spoken)<br />This in from Los (C)Angeles, a group of homeless people built a town <br />of cardboard and plywood (Em)shacks on a vacant lot in downtown Los Angeles.<br />They were evicted to(C)day and their houses bulldozed down &#710; <br />the city considered them a health (Em)hazard.<br />They were moved, however, to the sidewalk ten feet away,<br />(C)where they remain today. <br />Many of them were women and children. <br />They (D)called their town Justiceville.<br /><br />(Sung)<br />Hey (C)Mama, (D) have you seen the (G)dream? (Em)<br />(C) Have you seen the (D)highway <br />(G) Where the (G/F#)El Dorados (Em)scream?<br />Hey (C)Mama, (D) have you seen the (Em)dream?<br /><br />And hey (C)Mama, (D) did we have a (G)light? (G/F#) (Em)<br />(C) Did it shine in our front (D)window <br />(G) In the (G/F#)middle of the darkest (Em)night?<br />Hey (C)mama, (D) have you seen the (Em)light?<br />Yes I (D)have and it&#39;s burning (Em)still (hold)<br /><br />Oh (C)Jus(G)tice(D)ville, (C) all they (D)wanted was a (G)home.<br />(C)Jus(G)tice(D)ville, (C) a little (D)place to call their (Em)own,<br />Where no one can (D)throw the stone.<br />Justice(Em)ville. (C) (Em) (C)<br /><br />Hey Mama, (D) have you seen Crazy (G)Joe? (Em)<br />(C) I hear he talks to (D)Angels <br />(G) And (G/F#)folks that he don&#39;t (Em)know.<br />Hey (C)Mama, (D) have you seen Cr(Em)azy Joe?<br /><br />Hey (C)Mama, (D) do we have a (Em)dream?<br />(C) Will we have a (D)home someday <br />(G) Where it&#39;s (G/F#)always safe and (Em)clean?<br />Hey (C)Mama, (D) do we have a (Em)dream?<br />Yes, we (D)do and it&#39;s burning (Em)still&#8721;(hold)<br /><br />Oh, (C)Jus(G)tice(D)ville, (C) all they (D)wanted was a (G)home.<br />(C)Jus(G)tice(D)ville, (C) a little (D)place to call their (Em)own,<br />Where no (C)one would (D)throw the stones.<br />Justice(Em)ville.<br /><br />Justiceville, (C) (D) <br />Justice(Em)ville,<br />Justice(C)ville, (D) <br />Justice(Em)ville, (C) (D)<br />Justice(Em)ville, (C) (D)<br />Justice(Em)ville.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

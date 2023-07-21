@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2871
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MISSOURI BIRDS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Cj7)  (Fj7)  (Cj7)  (Fj7) (G)<br />Missouri (Cj7)birds, (Fj7) (Cj7)<br />Flying over (Fj7)old Saint Louis, (Cj7)<br />Hear that song they&#39;re (Fj7)singing to me, (E)<br />&#8240;Go into the (Am)world (G) <br />While (Cj7)you&#39;re young.&#8240; (Fj7) (G)<br /><br />But the preacher&#39;s (Cj7)words (Fj7) (Cj7)<br />Echo from the (Fj7)old church steeple, (Cj7)<br />&quot;Stay here with the (Fj7)decent people, (E)<br />Settle down and (Am)marry (G)<br />While (Cj7)you&#39;re young.&quot; (high notes run: EEDBC)(Am)<br /><br />If I (Gm)go into the (C)world, Su(C7)sanna,<br />Oh,  (F)will you (G)wait for (Cj7)me? (Am)<br />If I (Bb)go in(Gm)to the (C)world, Su(Gm7)sanna, (Cm7) (hold)<br />I&#39;ll come back (Fj7) (hold)<br />And tell you what I&#39;ve (E)seen&#8721;(hold)<br /><br />The (Fj7)seeds (G)of (Cj7)change (Fj7) (Cj7)<br />Blow across the (Fj7)churchyard to me, (Cj7)<br />Tombstone faces (Fj7)see right through me, (E)<br />Today&#39;s so soon to(Am)morrow, (G)<br />And (Cj7)you&#39;re old. (high notes run: EEDBC)(Am)<br /><br />If I (Gm)go into the (C)world, Su(C7)sanna,<br />Oh, (F)will you (G)wait for (Cj)me? (Am)<br />If I (Bb)go in(Gm)to the (C)world, Su(Gm7)sanna, (Cm7) (hold)<br />I&#39;ll come back (Fj7) (hold) <br />And tell you what I&#39;ve (E)seen&#8721;(hold)<br /><br />Missouri (Cj7)birds, (Fj7) (Cj7)<br />Flying over (Fj7)old Saint Louis, (Cj7)<br />Hear that song they&#39;re (Fj7)singing to me, (E)<br />&#8240;Go into the (Am)world (G)<br />While (Cj7)you&#39;re young, (Fj7)(G)<br />While (Cj7)you&#39;re young, (Fj7)(G)<br />While (Cj7)you&#180;re young.&#8240; (Fj7)(G) (Cj7)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

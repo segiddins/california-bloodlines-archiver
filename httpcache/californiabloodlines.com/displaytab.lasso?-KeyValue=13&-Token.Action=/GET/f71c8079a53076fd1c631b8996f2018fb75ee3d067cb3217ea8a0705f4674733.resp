@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2958
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EVANGELINE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Em)  (A)(A)  (Em)  (A)(A)   (Em)<br />Hot desert (A)highways,  Cadillac (Em)towns (A)(A)  (Em)<br />Yeah, a circus of (A)cowboys  and honky tonk (Em)clowns.(A)(A)  (Em)<br />Evangeline (A)waits,(D)  from the window she (Em)stares.(A)(A) (Em)<br />Cool summmer (A)dresses (D) are all that she (Em)wears.(A)(A) (Em)<br /><br />A loud neon (A)jukebox, a rustle of (Em)coins(A)(A) (Em)<br />In the jeans of pre(A)tenders, they&#171;re hard living (Em)boys(A)(A) (Em)<br />Who are playing the (A)song(D)  of those who have (Em)lost(A)(A) (Em)<br />their hearts and their (A)lives,(D) it&#171;s part of the (Em)cost.(A)(A) (Em)<br /><br />Yeah, Evangeline (A)waits(C)  in the (B)cool of the (Em)night(A)(A) (Em)<br />Like a caged nightin(A)gale(C)  (B)dreaming of (Em)flight.(A)(A) (Em)<br /><br />Instrumental passage, a couple of (A)(A) (Em) and then chorus-chords<br />sound well on a lone guitar<br /><br />Yeah, I stand by the (A)highway,  call out your (Em)name(A)(A) (Em)<br />In ev&#171;ry city and (A)town  my question&#171;s the (Em)same.(A)(A) (Em)<br />&quot;Have you seen any (A)angels(D)  who got lost in the (Em)wind?&quot;(A)(A) (Em)<br />Yes, I&#171;d give any(A)thing(D)  to see her a(Em)gain.(A)(A) (Em)<br /><br />Oh, Evangeline (A)waits(C)  in the (B)cool of the (Em)night(A)(A) (Em)<br />Like a caged nightin(A)gale(C)  (B)dreaming of (Em)flight.(A)(A) (Em)<br />Yeah, Evangeline (A)waits(C)  in the (B)cool of the (Em)night(A)(A) (Em)<br />Like a caged nightin(A)gale(C)  (B)dreaming of (Em)flight.(A)(A) (Em)<br /><br />Instrumental as above<br /><br />Yeah Evangeline (A)waits(C)  in the (B)cool of the (Em)night(A)(A) (Em)<br />Like a caged nightin(A)gale(C) (B) dreaming of (Em)flight.(A)(A) (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

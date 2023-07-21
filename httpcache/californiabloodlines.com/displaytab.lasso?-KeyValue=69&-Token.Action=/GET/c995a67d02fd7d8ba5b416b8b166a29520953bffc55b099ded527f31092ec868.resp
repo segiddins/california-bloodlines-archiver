@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2664
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>COMING OUT OF NOWHERE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)   (F)   (G)   (F)   (G)   (F)   (G)   (F)   <br />(D)Don&#39; t look for (D7)heroes in the (G)morning,<br />(D)Don&#39; t look for (D7)heroes in the (G)sun.<br />(Bass run G-A-B, B-note on &quot;Oh&quot;)<br />Oh, (C)they will come by (D)night, <br />(G)Right before the light,<br />(Bass run G-A-B)<br />(C)Coming out of (D)nowhere on the (G)run.<br />(D)   (G)   (D)   (G)<br /><br />(D)Listen for the (D7)guitar playing (G)fire,<br />(D)Listen for the (D7)horseman on the (G)drum.<br />(C)Listen for the (D)sound <br />That&#39;ll (G)nail you to the ground,<br />(Bass run G-A-B)<br />(C)Coming out of (D)nowhere on the (G)run,<br />I&#39;m (C)coming out of (D)nowhere on the (G)run.<br />(D)   (G)   (D)   (G) (C) (D) (G)<br /><br />(C)Coming out of (D)nowhere on the (G)run,<br />I&#39;m (C)coming out of (D)nowhere on the (G)run.<br /><br />(Bm)Ooohhh, ooh, (Em)oohh,<br />(Cj7)Mmmmm, (D)hmm, (D7)hmm, (G)hmm,<br />(Bm)Ooohh, ooh, (Em)oooh.<br /><br />(C)Coming out of (D)nowhere on the (G)run,<br />I&#39;m (C)coming out of (D)nowhere on the (G)run.<br />I&#39;m (Em)coming out of (C)nowhere on the (D)run, (D7)<br />(Em)Coming out of (C)nowhere on the (D)run. (D7)<br />(Em)Coming out of (C)nowhere on the (D)run, (D7)<br />(Em)Coming out of (C)nowhere on the (D)run. (D7)<br />(Em)Coming out of (C)nowhere on the (D)run, (D7)<br />(Em)Coming out of (C)nowhere on the (D)run. (D7)<br />(D)         (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

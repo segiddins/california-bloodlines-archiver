@@ -1,0 +1,56 @@
+Play (G), hammer on b note on G-string (D) (G)
+Play (G), hammer on b note on G-string (D) (G)
+Play (G), hammer on b note on G-string (D) (G)
+Play (G), hammer on b note on G-string (D) (G)
+
+Yeah, I know you heard Gonzalez is an (D)excellent (G)man,
+You want him when you travel 'cause he'll (D)do what he (G)can,
+But (D)I gotta warn you, he won't understand,
+So (G)never (G/F#)say a (Em)word 
+(Em7/D)About (C)Art Faller's (G)land.
+ (G/F#) (Em) (Em7/D) (C)  (G)  (D) (G)
+
+Gonzalez, he's a guy with a (D)natural (G)calm,
+He makes a living as a lawyer and he (D)mows his own (G)lawn.
+He (D)checks outs the gigs and he (D7)drives to the shows,
+He'll (G)sell (G/F#)what you (Em)got 
+(Em7/D)When they're (C)ready to (G)close.
+Oh, (D)I got a guitar, so he (D7)gives me a hand,
+I (G)never (G/F#)say a (Em)word (Em7/D)about (C)Art Faller´s (G)land.
+ (G/F#) (Em) (Em7/D) (C)  (G) (G/F#) (Em) (Em7/D) (C)
+(highlight hammered on A-note on G-string, B-B on B-string, 2x)
+(D) (G)
+
+Faller picked me up for the (D)Rhode Island (G)show
+Stayed at his place, he´s as (D)nice as they (G)go.
+Said, (D)"You travel light and you (D7)don´t have a band,
+(G)Let me take you (G/F#)out and (Em)show you 
+(Em7/D)Some of (C)Art Faller´s (G)land."
+ (G/F#) (Em) (Em7/D) (C)  (G)  (Em)  (C)  (G)  
+ (G/F#) (Em) (Em7/D) (C)  (G)
+
+I asked about Gonzalez, says he (D)knows him real (G)good,
+They used to tear around in the (D)old neighbour(G)hood.
+Said, he (D)got a little funny and he (D7)called himself Dan,
+He (G)never (G/F#)took a (Em)drive 
+(Em7/D)Out to (C)Art Faller´s (G)land,
+He never (G/F#)took a (Em)drive (Em7/D)out to (C)Art Faller´s (G)land.
+(G/F#) (Em) (Em7/D) (C)  (G) (G/F#) (Em) (Em7/D) (C)  (G)   (C) (G5)
+(G)  (D) (G)
+
+On the last tour, maybe (D)nine months or (G)so,
+We stopped to get gas and a (D)Yoo-Hoo to (G)go
+(D)I asked Gonzalez, "Who calls you Dan?"
+He (G)snapped (G/F#)like a (Em)dog 
+(Em7/D)Goin´ to (C)take off your (G)hand.
+He said, (D)"How should I know? Maybe some little man,
+(G)Keeps monkeys (G/F#)wearing (Em)speedos (Em7/D)on (C)Art Faller´s (G)land.
+(G/F#) (Em) (Em7/D) (C)  (G)
+ 
+(D)He gets funny, so you (D7)don´t call him Dan,
+And (G)never (G/F#)say a (Em)word (Em7/D)about (C)Art Faller´s (G)land,
+No, never (G/F#)say a (Em)word a(Em7/D)bout (C)Art Faller´s (G)land,
+You never (G7F#)say a (Em)word, (G)never (G/F#)say a (Em)word,
+(G)Never (G/F#)say a (Em)word (Em7/D)about (C)Art Faller´s (G)land.
+ (G/F#) (Em) (Em7/D) (C)  (G) (G/F#) (Em) (Em7/D) (C)  (G)
+ (G/F#) (Em) (Em7/D) (C)  (G) (G/F#) (Em) (Em7/D) (C)  (G)

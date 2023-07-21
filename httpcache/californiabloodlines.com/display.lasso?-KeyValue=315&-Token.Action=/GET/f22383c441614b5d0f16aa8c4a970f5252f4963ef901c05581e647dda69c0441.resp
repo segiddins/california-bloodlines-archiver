@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3567
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STAR IN THE BLACK SKY SHINING</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Appleseed Records, APR CD, 2003)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>There was a woman <br />I saw on the street,<br />I swear she was wearing <br />The moon on her  feet.<br />She said, &quot;Do you know me?&quot;<br />And I said, &quot;I don&#39;t know.&quot;<br />She told me to listen<br />And then I could go.  <br /><br />And there was a boy <br />Who I found on the road,<br />I said, &quot;Are you lost <br />With nowhere to go?&quot;<br />And he said, &quot;No I&#39;m not,<br />I believe that you are.&quot;<br />And he told me to sit <br />On the hood of the car.  <br /><br />He said, &quot;I am the course <br />That the river is winding,<br />And I am the horse <br />That the angel is riding,<br />And I am the source <br />Of the love you are finding.<br />Do you know who I am?<br />It is blinding, <br />I am the star<br />In the black sky shining.&quot;<br /><br />There was a dog <br />Who had followed me home,<br />He was not young,<br />But not fully grown.<br />And he said, &#8220;Do you know me?<br />We spoke on the phone,<br />I was a king <br />And the world is my throne.&#8221;  <br /><br />He said, &#8221;I am the flame <br />In the heat of the fire,<br />And I am to blame <br />For the tongue of the liar,<br />And I am the same <br />As the birds on the wire.<br />Do you know who I am?<br />It is blinding, <br />I am the star   <br />In the black sky shining.&#8221;<br /><br />And there was a thief <br />Who was tied to a pole,<br />At his feet was a list <br />Of the things that he stole.<br />And I said, &#8220;I am only <br />Playing a role.&#8221;<br />And he asked if I dared <br />Look deep in his soul. <br /><br />He said, &#8221;I am the heart <br />Of the warrior child,<br />And I am the moment <br />That the beast becomes mild,<br />And I am the part <br />Of the soul that is wild. <br />Do you know who I am?<br />It is blinding,<br />I am the star<br />In the black sky shining, oh.<br /><br />And I come from the light,<br />It is blinding, <br />For I am the star    <br />In the black sky shining, oh.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

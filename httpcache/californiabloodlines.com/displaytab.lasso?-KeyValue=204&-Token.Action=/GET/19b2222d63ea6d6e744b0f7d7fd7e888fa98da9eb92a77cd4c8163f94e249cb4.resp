@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2830
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TILL THE LIGHTS COME HOME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Bass runs:<br /><br />D-0-------------------0------------------<br />A---0-4-0-2-0----0-----0-4-0-2-0---0-<br />E----------------2-------------------2---<br /><br />Occasionally, either<br />D-0-------------------0-------2-4-2---------<br />A---0-4-0-2-0----0----0-4----------4-2----<br />E----------------2----------------------------<br /><br />or<br />D------------------------------------------ <br />A-0-0------0-0------0-0-------0-0------<br />E------2-0------2-0-------2-0------2-0--<br /><br /><br />(A)  (D2)  (A)  (D)  (E) <br />(A)Kenya knows, so does Montevideo,<br />That freedom (D)rolls, in the (A)hills of old Montenegro.<br />And they (D)dance,<br />And they (E)dance<br />Till the light comes (D2)home. (A)<br /><br />Call the girls, call them up to the mountain,<br />And tell the (D)world, that (A)even with blood in the fountain<br />We will (D)dance,<br />We will (E)dance<br />Till the light comes (D)home. (A)<br />(D)  (A)  (D)  (E)  (D)  (A)  (D)  (E)  <br /><br />(A)Kenya knows, so does Montevideo,<br />That freedom (D)rolls, in the (A)hills of old Montenegro,<br />And they (D)dance,<br />And they (E)dance<br />Till the light comes (D2)home. (A)<br /><br /><br />And they (D)dance,<br />And they (E)dance,<br />And they (F#m)dance<br />Till the light comes (D2)home. (A)<br /><br />And they (D)dance,<br />And they (E)dance,<br />And they (F#m)dance<br />&#39;Till the light comes (D2)home. (A)<br /><br />And they (D)dance,<br />And they (E)dance<br />And they (F#m)dance<br />&#39;Till the light comes (D2)home. (A)  (D)  (A)  (D)  (and fade)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

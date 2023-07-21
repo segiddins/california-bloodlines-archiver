@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3536
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NEON ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G, bass run G-A-B-[C, already on next chord] (C, C-B-A-[G])<br />(G, G-A-B-[C]) (C, A&#8212;[G])<br />(G, G-A-B-[C]) (C, C-B-A-[G])<br />(G, G-A-B-[C]) (C, A&#8212;[G]) (G)<br />If you&#8217;re (C)driving on the (G)highway<br />And you (C)see the (D) stumble (G)man,<br />You can (C)stop and pick me (G)up and<br />You can (C)tell me (A) who I (D)am.<br />I&#8217;ve been (C)searching for an (G)answer<br />Like a (C)runner (A)I have (G)said,<br />I bel(C)lieve that I will (G)find it<br />On the (C)black top (A) up a(D)head. (bass run on D-chord: D-C-B-A)<br /><br />Give me (C)Airstreams, give me (G)highways,<br />Oh, (C)show me the (D)neon (Em)road.<br />Give me (C)Chi-Town, give me (G)St. Louis,<br />Show me the (C)high(G)way (D)home,<br />The highway (Em)home.<br /><br />It was (C)194(G)5 and<br />We were (C)living (D)through the (G)war,<br />In the (C)words of Harry (G)Truman,<br />&#8221;Give &#8216;em (C)Hell then (A) give &#8216;em (D)more.&#8221;<br />We had (C)honour, we had (G)promise,<br />We had (C)dreams of (A)better (Em)days.<br />Yeah, but (C)somewhere in the (G)short strokes<br />We got (C)lost a(A)long the (D)way. (bass run on D-chord: D-C-B-A)<br /><br />Give me (C)Fairlanes, give me (G)top down,<br />Oh, (C)show me the (D)Neon (Em)Road<br />Give me (C)Tulsa, give me (G)Flagstaff, yeah,<br />Show me the (C)high(G)way (D)home,<br />Yeah, the highway (Em)home.<br /><br />I re(C)call the days of (G)summer<br />In my (C)shining (D)Chevro(G)let,<br />In the (C)orange groves of Po(G)mona.<br />Awkward (C)moves and (A)endless (D)days,<br />El Do(C)rados sang &quot;Momma (G)Knockin&quot;,<br />We were (C)rockin&#8217; (D)through the (Em)times.<br />Down in (C)Memphis they were (G)talking, yeah,<br />About a (C)boy who (A)crossed the (D)line. (bass run on D-chord: D-C-B-A))<br /><br />Give me (C)Airstreams, give me (G)joy rides,<br />Oh, (C)show me the (D)Neon (Em)Road.<br />Give me (C)Kingman, give me (G)Barstow, yeah,<br />Show me the (C)high(G)way (D)home.<br />Give me (C)Fairlanes, yeah, give me (G)tailfins, yeah,<br />(C)Show me the (D)Neon (Em)Road.<br />Give me (C)Baghdad, give me (G)Amboy,<br />Show me the (C)high(G)way (D)home,<br />Yeah, the highway (Em)home,<br />Yeah, the (D)highway (Em)home,<br />Yeah, the (D)highway (Em)home.   (D)  (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

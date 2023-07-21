@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3524
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:00 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JUST AN OLD LOVE SONG</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle></td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Intro:<br />Single notes, starting on D-string:<br />F-F hammer on G-hammer on A   A-pull off to G&#8211;F-<br />D-D hammer on F, on A-string: bass Bb-Bb hammer on C,<br />on D-string: F-G hammer on A-G-D-on A-string: C,<br />on D-string: F hammer on G-A, now rapidly, as a bass-run:<br />E-D-C (the C on A-string)<br />OR: play the chords for the first two lines.<br /><br />(F) Just an old (Am)love song the (Dm)boys can all (Bb)sing,<br />Pumpin&#180; (F)gas on them (Dm)long (G7)cold (C)nights.<br />(F) Just an old (Am)love song the (Dm)boys can all (Bb)sing,<br />(F)Pumpin&#180; gas on (C)them long (Bb)cold nights.<br /><br />(F)Just an old (Am)love song (Dm)for dung dirty (Bb)girls<br />Who (F)feel like they&#39;re (Dm)drea(G7)ming (C) again.<br />(F) Just an old (Am)love song (Dm)for dung dirty (Bb)girls<br />Who (F) feel like they&#39;re (C)dreaming (Bb) again.<br /><br />(F) Just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) Just an old (Dm7)love (G7)song (C)for you.<br />Oh, it&#39;s (F) just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) But any old (C)love song (Bb) would do.<br />(F) (Am) (Dm) (Bb) (F) (Dm)(G)(C) (F) (Am) (Dm) (Bb) (F) (C) (Bb)<br /><br />(F) Just an old (Am)love song (Dm) for kids ev&#180;ry(Bb)where,<br />(F) Gettin&#180; on in the (Dm)back seat (G7)of the (C)car.<br />(F) Just an old (Am)love song (Dm)for kids ev&#180;ry(Bb)where,<br />(F) God love you gettin&#180; (C)on in the back of the (Bb)car.<br /><br />And it&#180;s (F) just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) Just an old (Dm7)love (G7)song for (C)you.<br />Oh, it&#39;s (F) just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) But any old (C)love song (Bb) would do.<br /><br />Oh, it&#180;s (F)just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) Just an old (Dm7)love (G7)song for (C)you.<br />Oh, it&#39;s (F) just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) But any old (C)love song (Bb) would do.<br /><br />Oh, it&#180;s (F)just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) Just an old (Dm7)love (G7)song for (C)you.<br />Oh, it&#39;s (F) just an old (Am)love song, (Dm)just an old (Bb)love song,<br />(F) But any old (C)love song (Bb) would do.(F)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

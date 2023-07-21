@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2411
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:18 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEATIES IN THE AFTERNOON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>That misfit, ne&#39;er do well<br />good for nothing, night person me...<br />That&#39;s the way I&#39;m looked upon<br />by the vast majority<br /><br />But I just make music<br />And I sing the midnight tune<br />Then I sleep away the mornings, <br />And have Wheaties in the afternoon...<br /><br />No bus stop, time clock<br />small talkin&#39; mornings for me<br />It&#39;s that good time, red wine<br />sublime, midnight to three<br /><br />But I just make music<br />And I sing the midnight tune<br />Then I sleep away the mornings<br />And have Wheaties in the afternoon<br /><br />In that pre-dawn, half-gone<br />I sing all the songs once again<br />Mingle, and tingle, and single<br />and out with some old friends...<br /><br />But I just make music<br />And I sing the midnight tune<br />Then I sleep away the mornings<br />And have Wheaties in the afternoon
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

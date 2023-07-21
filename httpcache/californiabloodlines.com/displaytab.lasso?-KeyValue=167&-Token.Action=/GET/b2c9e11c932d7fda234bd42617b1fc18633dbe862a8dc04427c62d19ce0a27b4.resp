@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3492
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>REMEMBERING THE SUN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />Drop D tuning<br /><br />Play Em like this:<br /><br />E---------<br />B---------<br />G---------<br />D---------<br />A----2---<br />D----2---<br /><br />(G)<br />E-----3------<br />B------------<br />G------------<br />D------------<br />A------------<br />D---------5--<br /><br /><br />Intro<br />(D)<br /><br />Riff: alternate F# and E-notes on D-string while playing chord<br />and accenting bass D (or play D-chord in the &amp;#8220;usual&amp;#8221; way &amp;#8211;<br />sounds good, too)<br /><br /><br />On old forgotten altars<br />Are the sacrifices laid,<br />Are you looking for a virgin<br />For they&#39;re (Em) hard to find to(A7 short)day?<br />Those who took the (D)family,<br />Those who took the cause,<br />Those who took the music, (F#m)<br />(Bm) You should (D)stop to give them (Em)pause. (A7 short)<br /><br />To be (Bm)ready and be (A7 short)steady,<br />For the (G)future, (A) it will (D)come,<br />And you can sur(F#m)vive the (Bm)darkest (D)night<br />(G) (A) (hold)<br />Remembering the (D)sun.<br /><br />Scholder paints dream horses<br />While I paint dream lives,<br />The wise man knows the answer, (Bm)<br />But the dreamer will sur(Em)vive. (A7 short)<br />Time went by so (D)quickly<br />That I didn&#39;t see it go,<br />But I never saw it coming, (F#m) (Bm)<br />So (D)how was I to (Em)know? (A)<br /><br />To be (Bm)ready and be (A)steady,<br />For the (G)future, (A7 short) it will (D)come,<br />And you can sur(F#m)vive the (Bm)darkest (D)night<br />(G) (A) (hold)<br />Remembering the (D)sun.<br /><br />Looking to the future,<br />And I see myself alone,<br />In the desert, in an Airstream, (F#m) (Bm)<br />With a (D)mantra and a (Em)phone. (A)<br />And you&#39;d come by to (D)see me,<br />And we&#39;d play the VCR,<br />Stare at who we were, (F#m) (Bm)<br />(D)Not at who we (Em)are. (A)<br /><br />So be (Bm)ready and be (A)steady,<br />For the (G)future, (A) it will (D)come,<br />And you can sur-(F#m)vive the (Bm)darkest (D)night<br />(G) (A) (hold)<br />Remembering the (D)sun.<br /><br />Oh, you can sur(F#m)vive the (Bm)darkest (D)night<br />(G) (A) (hold)<br />Remembering the (D)sun,<br />Remembering the sun,<br />Remembering the sun,<br />Remembering the sun.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

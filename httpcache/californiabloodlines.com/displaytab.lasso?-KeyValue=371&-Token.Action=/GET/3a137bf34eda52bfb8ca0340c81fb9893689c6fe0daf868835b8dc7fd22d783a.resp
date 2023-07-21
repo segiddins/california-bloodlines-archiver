@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3322
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RIVER RUN DOWN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and Don MacArthur</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Dm7) (G) (Dm7) (G)  (Dm7) (G) (C) (C7)<br />Oh, the (Dm7)river run (G)down,<br />But the (C)stream (Em7/B)ran (Am)dry,<br />(Dm7)Big, strong (G)man don&#39;t (C) (Em7/B)ever (Am7)cry,<br />Just (Dm)stands to (G)watch his (C)love (Em7/B)go (Am)by.<br />Oh, the (Em)river run (Fj7)down,<br />But the (Dm)stream (G) ran (C)dry. (Dm) (C) (C7)<br /><br />(Dm)Yes, he loved a (G)woman,<br />But he (C)let her get a(Am)way,<br />(Dm)Didn&#39;t ever (G)think he&#39;d (C)regret (Em7/B)that (Am7)day.<br />A (Dm)laugh and a (G)smile,<br />He&#39;d (C)still (Em7/B)play the (Am)game,<br />But he (Dm)knew that day would (G) never be the (C)same. (C7)<br /><br />Oh, the (Dm7)river run (G)down,<br />But the (C)stream (Em7/B)ran (Am7)dry,<br />(Dm7)Big, strong (G)man don&#39;t (C) (Em7/B)ever (Am)cry,<br />Just (Dm)stands to (G)watch his (C)love (Em7/B)go (Am)by.<br />Oh, the (Em)river run (Fj7)down,<br />But the (Dm)stream (G) ran (C)dry. (Dm) (C) (C7)<br /><br />(Dm7)There walks a (G)man,<br />He (C)could&#39;ve had a (Am)home,<br />(Dm)Fine baby (G)children, a (C)woman (Em7/B)of his (Am7)own.<br />He (Dm)walks all a(G)lone,<br />He (C)doesn&#39;t (Em7/B)have a (Am)care,<br />But he (Dm7)keeps on thinking that he (G)sees her every(C)where. (C7)<br /><br />Oh, the (Dm7)river run (G)down,<br />But the (C)stream (Em7/B)ran (Am)dry,<br />(Dm7)Big, strong (G)man don&#39;t (C) e(Em7/B)ver (Am7)cry,<br />Just (Dm)stands to (G)watch his (C)love (Em7/B)go (Am)by.<br />Oh, the (Em)river run (Fj7)down,<br />But the (Dm)stream (G) ran (C)dry. (Dm) (C) (C7)<br /><br />Oh, the (Dm7)river run (G)down,<br />But the (C)stream (Em7/B)ran (Am)dry,<br />(Dm7)Big, strong (G)man don&#39;t (C) e(Em7/B)ver (Am7)cry,<br />Just (Dm)stands to (G)watch his (C)love (Em7/B)go (Am)by.<br />Oh, the (Em)river run (Fj7)down,<br />But the (Dm)stream (G) ran (C)dry. (Dm)<br /><br />(Cj7)River run (Dm7)down,<br />But the (Cj7)stream ran (Dm7)dry,<br />(C)River run (Dm)down,<br />But the (Cj7)stream ran (Dm7)dry,<br />(C)River run (Dm)down,<br />But, the (Cj7)stream ran (Dm7)dry.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

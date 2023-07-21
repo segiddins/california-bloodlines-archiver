@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2607
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:09 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SKY BLUE 8</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh it happened down in Texas,<br />Near the town of San Antone,<br />He was driving to Virginia,<br />She had called him on the phone.<br /><br />She said &quot;Sam, oh don&#39;t be late,<br />Let me see your pickup, painted Sky Blue 8.&quot;<br /><br />Virginia, she&#39;s in the bedroom,<br />Putting on her dress,<br />The one she bought on sale that day,<br />That shows her off the best.<br /><br />Singing, &quot;Sam, I can hardly wait,<br />To see your pickup, painted Sky Blue 8.&quot;<br /><br />But the rains and winds of Texas sure can blow,<br />And I&#39;ve seen the water run so hard <br />A man can lose the road.<br /><br />Takin&#39; it slow, playin&#39; it safe,<br />&#8221;Oh, let me see your pickup, painted Sky Blue 8.&#8221;<br /><br />It&#39;s been 14 years,<br />Maybe 14 years or more,<br />She sits by the window<br />In a chair beside the door.<br /><br />Singing &quot;Sam, you&#39;re forever late...<br />Let me see your pickup, painted Sky Blue 8. <br />Let me see your pickup, painted Sky Blue 8, <br />See your pickup painted...<br />Oh, Sky Blue 8.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

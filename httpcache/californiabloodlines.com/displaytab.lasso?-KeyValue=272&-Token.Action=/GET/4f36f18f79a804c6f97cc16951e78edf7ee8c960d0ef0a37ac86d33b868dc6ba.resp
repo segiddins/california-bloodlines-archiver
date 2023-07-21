@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2755
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DAVEY ON THE INTERNET</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(A) (Esus4) (A)     ( Esus4) (A)    (Asus4) (A)(E)   (A)<br />Yeah, dot com, CD ROM, AOL, you can&#39;t get on,<br />Davey on the Internet, (E)talking to (A)me.<br />Carpal tunnel&#39;s too tense, looking out for Lord French,<br />Davey&#39;s on the Internet and he&#39;s (E)talking to (A)me.<br /><br />Yeah, Davey on the Internet, talk, talk, talking,<br />Davey on the Internet is (E)talking to (A)me.<br />Davey on the Internet, talk, talk, talking,<br />Davey on the Internet is (E)talking to (A)me.<br />(A) (Esus4) (A) (Esus4) (A) (Asus4) (A)(E) (A)<br /><br />Download, upload, PC&#39;s on the overload,<br />Davey on the Internet, (E)talking to (A)me.<br />Netscape, escape, tomorrow is out of date,<br />Davey&#39;s on the Internet, and he&#39;s (E)talking to (A)me.<br /><br />Yeah, Davey on the Internet, talk, talk, talking,<br />Davey on the Internet is (E)talking to (A)me.<br />Yeah, Davey on the Internet, talk, talk, talking,<br /> Davey on the Internet is (E)talking to (A)me.<br />(A) (Esus4) (A) (Esus4) (A) (Asus4) (A)(E) (A)<br /><br />Yeah, Bill Gates, won&#39;t wait, one world, fluoridate,<br />Davey on the Internet, (E)talking to (A)me.<br />And Bloodlines, grapevine, looking for the iodine,<br />Davey&#39;s on the Internet and he&#39;s (E)talking to (A)me.<br /><br />Yeah, Davey on the Internet, talk, talk, talking,<br />Davey on the Internet is (E)talking to(A)me.<br />Yeah, Davey on the Internet, talk, talk, talking,<br />Davey on the Internet is (E)talking to (A)me.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

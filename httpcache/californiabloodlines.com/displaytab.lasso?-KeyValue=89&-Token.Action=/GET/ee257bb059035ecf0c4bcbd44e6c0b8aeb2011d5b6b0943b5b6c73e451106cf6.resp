@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4252
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:55 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>18 WHEELS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />(Em - hammer on E-note on D-string, play E a couple of times, repeat)<br /><br />See it shining on the (D)highway at night,<br />(C)Little light burning from the (G)cafe right.<br />(Em)Fat Jack talking &#39;bout a (D)girl named Rose,<br />(C)Looking for something to put (G)up her (Em)nose,<br />But I (Am)ain&#39;t got (D)time (Em)tonight,<br />I (A)ain&#39;t got (A7short)time to(D7)night.<br /><br />And if you (C)want that (D)flag to (G)wave,(G/F#) (Em)<br />Them (C)eighteen (D)wheels&#39;ll (Em)roll, (Em/D)<br />(C)Eighteen (D)wheels gonna (Em)roll, road (C)hugger,<br />Them (G)eighteen wheels&#39;ll (D)roll (hold)<br />And the wheels&#39;ll (Em)roll. [Em as in intro]<br /><br />Chevrolet burning in the (D)left hand lane,<br />(C)Me, I&#39;m looking down through the (G)window pane.<br />A (Em)Beehive&#39;s laying with her (D)head in his lap,<br />(C) I don&#39;t believe she was (G)taking a (Em)nap,<br />But I (Am)ain&#39;t got (D)time to(Em)night,<br />I (A)ain&#39;t got (A7short)time (D)tonight. (D7)<br /><br />Oh, if you (C)want that (D)flag to (G)wave,(G/F#) (Em)<br />Them (C)eighteen (D)wheels&#39;ll (Em)roll, (Em/D)<br />(C)Eighteen (D)wheels gonna (Em)roll, road (C)hugger,<br />Them (G)eighteen wheels&#39;ll (D)roll (hold)<br />And the wheels&#39;ll (Em)roll. [highlight G- and D-strings]<br /><br />Next chord counting from capo<br />E-------------<br />B-------------<br />G----2--------<br />D----------4--        [G- and D-strings]<br /><br />Then,<br /><br />E------------<br />B-----2------<br />G---------4--         [B- and G-strings]<br /><br />Then,<br /><br />E------------<br />B------------<br />G----2-------         [B- and G-strings]<br /><br />[back to &#338;normal&#8218; playing]<br /><br />An (Em)eight track&#39;s playing me (D)&quot;Silver Wings&quot;,<br />Like a (C)razor&#39;s edge Merle (G)Haggard sings.<br />(Em)Earth bound ships on a (D)four-lane sea,<br />(C) Don&#39;t look like there&#39;s any (G)sleep for (Em)me,<br />Cause I (Am)ain&#39;t got (D)time (G)tonight,<br />I (A)ain&#39;t got (A7)time to(D)night.<br /><br />And if you (C)want that (D)flag to (G)wave, (G/F#) (Em)<br />Them (C)eighteen (D)wheels&#39;ll (Em)roll, (Em/D)<br />(C)Eighteen (D)wheels gonna (Em)roll, road (C)hugger,<br />Them (G)eighteen wheels&#39;ll (D)roll, (D2)(D)<br />And if you (C)want that (D)flag to (G)wave, (G/F#) (Em)<br />Them (C)eighteen (D)wheels&#39;ll (Em)roll, (Em/D)<br />(C)Eighteen (D)wheels gonna (Em)roll, road (C)hugger,<br />Them (G)eighteen wheels&#39;ll (D)roll, (hold)<br />And the wheels&#39;ll (Em)roll. [highlight G- and D-strings]<br /><br />Next chords counting from capo<br />E-------------<br />B-------------<br />G----2--------<br />D----------4--        [G- and D-strings]<br /><br />Then,<br /><br />E------------<br />B-----2------<br />G---------4--         [B- and G-strings]<br /><br />Then,<br /><br />E------------<br />B------------<br />G----2-------         [B- and G-strings]<br />(Repeat and fade out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,42 @@
+Capo 2nd fret
+
+(C) (F) (G)  (C) (F) (G)  
+(C) (F) (G)  (C) (F) (G)  
+
+Oh (C)Lord, will you (F)send me a (G)morning?
+'Cause I (C)need a little (F)sun on my (G)wall.
+(C)Often at (Em7/B)night when the (Am7)sun's going (Am7/G)down
+(F)I feel like giving (Dm7)up on it (G)all.
+Ah, but (C)rolling in the (F)arms of my (G)darling,
+(C) Cooling her (F)head with my (G)hand, *
+Oh, a (C)song comes to (Em7/B)me when I'm (Am7)dreaming (Am7/G) 
+Like it's (F)moving all (Dm7)over the (G)land.
+
+It goes, (C)Mm mm mm(Em7/B)mm mm mm (Am7)mm, (Am7/G)
+(F)Here in my (G)heart I have (C)found, (G, more a note than a chord)
+(C)Mm mm mm(Em7/B)mm mm mm (Am7)mm, (C7)
+(F) Cooler (C)water, (G) higher (C)ground
+(F) Cooler (C)water, (F) hi(G)gher (C)ground.
+(F) (G)  (C) (F) (G)  (C) (Em/B) (A) (A7)
+
+I was (D)born in the (Em7)heat of Sep(A7)tember,
+(D)Died in the (G)cool of the (A)fall.
+Oh, (D)bornin' and (F#m/C#)dieing, we (Bm)do all the (Bm/A)time,
+(G)Don't mean much of (Em7)nothing at (A)all.
+Now there's (D)no one looking (Em)over my (A)shoulder,
+(D)No one's putting (G)nothing on (A)me. 
+You know, (D)sometimes I (F#m/C#)even be(Bm)lieve it, (Bm/A) 
+And I (G)know how it (Em7)feels to be (A)free. (A/G) (A/F#) (A/E)
+
+It's like, (D)Mm mm mm (F#m/C#)mm mm mm (Bm)mm, (Bm/A)
+For (G)here in my (A)heart I have (D)found (A7)
+(D)Mm mm mm(F#m/C#)mm mm mm (Bm)mm, (Bm/A)
+(G) Cooler (D)water, (A)higher (D)ground,
+(G) Cooler (D)water, (Em)hi(A)gher (D)ground. (G) (A7)
+
+And there are (D)hymns in the (F#m/C#)whims of the (Bm)lonely, (Bm/A) 
+And (G)here in my (A)heart I have (D)found (A7)
+(D)Hymns in the (F#m/C#)whims of the (Bm)lonely, (Bm/A) 
+It's (G) cooler (D)water, (A)higher (D)ground, 
+(G) Cooler (D)water, (Em)hi(A)gher (D)ground.
+(G) (A)  (D) (G) (A)   (D)

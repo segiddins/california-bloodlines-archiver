@@ -1,0 +1,64 @@
+(E)(E/G)(E) (E/G) (E)(E/G)(E)(A)  (E) (A)(E)  (A)(E)  (hold)
+You gotta wake up the (E)child, (A)(E)
+There's (A)wolves in the (E)kitchen, (A)(E)
+Comin´ in the (B)back door,
+(A) Sneakin´ in the (E)hall. (A)(E)(hold)
+Aw, wake up the (E)child, (A)(E)
+There's (A)wolves in the (E)kitchen, (A)(E)
+Tell her, "Better (B)run now,"
+(A) 'Cause she can't get 'em (E)all. (A)(E) (hold)
+
+Oh, pretty little (E)girl (A)(E)
+(A)Standing on the (E)bus stop, (A)(E)
+Sticking out her (B)young thumb
+(A) As the cars go (E)by. (A)(E)(hold)
+Oh, pretty little (E)girl, (A)(E)
+You´d (A)better keep your (E)legs crossed, (A)(E)
+I'd hate to see you (B)get lost
+(A) On a long, long (E)ride. (A)(E) (hold)
+
+Oh, wake up the (F)child, (Bb)(F)
+There's (Bb)wolves in the (F)kitchen, (Bb)(F)
+Comin´ in the (C)back door,
+(Bb) A-sneakin´ in the (F)hall. (Bb)(F)(hold)
+Aw, wake up the (F)child, (Bb)(F)
+There's (Bb)wolves in the (F)kitchen, (Bb)(F)
+Tell her, "Better (C)run now,"
+(Bb) 'Cause she can't get 'em (F)all. (Bb)(F)(hold)
+
+Just look at all the (F#)warlords, (B)(F#)
+And they're (B)talkin´ on the (F#)TV, (B)(F#)
+Aw, sellin´ us (C#)blue sky 
+(B) That we're never gonna (F#)see. (B)(F#)(hold)
+Forget all the (F#)ransom, (B)(F#)
+And I (B)think we ought to (F#)pants 'em (B)(F#)
+And put 'em on a (C#)lead boat
+(B) In the Salt Lake (F#)Sea. (B)(F#)(hold)
+
+Aw, wake up the (G)child, (C)(G)
+There's (C)wolves in the (G)kitchen, (C)(G)
+Aw, they´re comin´ in the (D)back door,
+(C) And they´re sneakin´ in the (G)hall. (C)(G)(hold)
+Aw, wake up the (G)child, (C)(G)
+There's (C)wolves in the (G)kitchen, (C)yeah,(G)
+Aw, tell her, "Better (D)run now,"
+(C) 'Cause she can't get 'em (G)all, (C)no, no, (G)no.(hold)
+
+(G) (C)(G) (C) (G) (C)(G)  (D)  (C) (G) (C)(G)(hold)
+(G) (C)(G) (C) (G) (C)(G)  (D)  (C) (G) (C)(A)(hold)
+[the last (A) could be an (E) – we´re not sure.]
+
+Aw, wake up the (A)child, (D)(A)
+There's (D)wolves in the (A)kitchen, (D)(A)
+Comin´ in the (E)back door,
+(D) Sneakin´ in the (A)hall. (D)(A)(hold)
+You gotta wake up the (A)child, (D)(A)
+There's (D)wolves in the (A)kitchen, (D)yeah,(A)
+Tell her, "Better (E)run now,"
+(D) 'Cause she can't get 'em (A)all. (D)(A)(hold)
+Tell her, "Better run now,"
+'Cause she can't get 'em all, no,
+Aw, (A)won´t you tell her, “Better (E)run now,”
+(D) Oh, ´cause she can´t get ´em (A)all, (D)(A)
+Yeah, tell her, Better (E) run now,”
+(D) ´Cause she can´t get ´em (A)all. (D)(A)

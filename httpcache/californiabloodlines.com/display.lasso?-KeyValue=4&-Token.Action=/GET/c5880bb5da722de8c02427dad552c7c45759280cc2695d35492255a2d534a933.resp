@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2778
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOOKING FOR JACK</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bullets in the Hour Glass (Shanachie, 8005, 1992)<br />Neon Beach (Homecoming, 700, 1990)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>We were living in a magic time<br />We were living with time to burn<br />Believing we had nowhere to go, <br />Believing we had nothing to learn.<br /><br />Had the big time dreams,<br />Self-inflicted wounds, <br />Bullets in the hour glass<br />Life on other moons<br /><br />I will work for food<br />I will work for fame<br />I will work for money<br />I will work the game.<br /><br />What are you working for,<br />Do you know the name?<br />Don&#8217;t kid yourself,<br />They are not the same.<br /><br />Chorus:<br /><br />Unchain the dogs<br />Cause I&#8217;m back again. <br />Just looking for Jack <br />On the other side of the wind<br /><br />But I can&#8217;t seem to reach you, <br />With words in the way<br />The moon&#8217;s behind a cloud, <br />The night porters say, <br />Collective blessings<br />Get you through the day. <br />A limited truce, <br />Can we live this way?<br /><br />The promise of the crossing<br />The house dogs sound<br />To find ground zero,<br />You just look straight down.<br />The final sighting, <br />Waiting for the light,<br />With lawyers on my lawn <br />Another sleepless night<br /><br />(Repeat Chorus)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

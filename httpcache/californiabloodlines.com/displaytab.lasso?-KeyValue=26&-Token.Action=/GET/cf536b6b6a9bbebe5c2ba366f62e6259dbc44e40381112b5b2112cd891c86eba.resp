@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3558
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGEL DELGADILLO</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)<br />(C)I was talking to (Dm7)Angel,<br />(F)Angel Delga(G)dillo,<br />(F)Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.<br />(C)Angel Delga(Dm7)dillo<br />In Se(F)ligman, Ari(G)zona,<br />Se(F)ligman, Ari(G)zona (F) on the Blue (C)Dream (G)Road.<br /><br />(C)Angel, he&#171;s the (Dm7)barber there,<br />Since (F) 1950 (G)cutting hair.<br />(F)Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.<br />(C)On the wall the (Dm7)old clock ticks<br />(F)Away the days on (G)Sixty-Six<br />(F)In Seligman, Ari(G)zona, (F) and the Blue (C)Dream (G)Road.<br /><br />(F)He remembers (G)`78<br />(C)When they opened (G)up the (Dm7)interstate<br />That (F)ran around Se(G)ligman (F) and the Blue (C)Dream (G)Road.<br />(F)And Angel sits to (G)watch the road,<br />Says,(C) &quot;They&#171;ll come (G)back one (Dm7)day, you know,<br />(F)To Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road.&quot;<br />(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)<br /><br />(C)Angel played the (Dm7)saxophone,<br />(F)Juan and Lucy (G)played their own<br />In (F)Seligman, Ari(G)zona, (F) on the Blue (C)Dream (G)Road.<br />(C)They played &quot;Moonlight (Dm7)Serenade&quot;<br />And (F)talked about the (G)plans they made<br />(F)With Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.<br /><br />(C)It&#171;s a story as (Dm7)old as time,<br />The (F)road and the people (G)left behind<br />(F)In Seligman, Ari(G)zona (F) on the Blue (C)Dream (G)Road.<br />(C)From around the world they be(Dm7)gan to come<br />(F)To find the road, and (G)one by one<br />(F)Find Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road.<br /><br />(F)For he remembers (G)`78<br />(C)When they opened (G)up the (Dm7)interstate<br />That (F)ran around Se(G)ligman (F) and the Blue (C)Dream (G)Road.<br />(F)And Angel sits to (G)watch the road,<br />Says,(C)&quot;They&#171;ll come (G)back one (Dm7)day, you know,<br />(F)To Angel Delga(G)dillo (F)and the Blue (C)Dream (G)Road.&quot;<br />(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)<br /><br />(C)I was talking to (Dm7)Angel,<br />(F)Angel Delga(G)dillo,<br />(F)Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road.<br />(C)Angel Delga(Dm7)dillo<br />(F)In Seligman, Ari(G)zona,<br />(F)Seligman, Ari(G)zona, (F) and the Blue (C)Dream (G)Road.(C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

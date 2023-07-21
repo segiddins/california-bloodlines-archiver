@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2774
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:14 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ZAPATA&#39;S OWN COMRADES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Fire in the Wind (RSO, RSO SUPER 2394 194, 1977)<br />(Wrasse CD version only)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Juanita walks down to the well, she is angry and dry,<br />Where the bandits&#39; own horses are tied in the trees there to hide.  <br />And the guns are all rusted, the spirit is bright in her eyes,<br />As Zapata&#180;s own comrades sing out the legend, the song is that he is alive.<br /><br />Viva you Mexico, viva the hills,<br />The song of the people is singing there still.<br />Viva you Mexico, viva say I,<br />The song is that he is alive.<br />        <br /><br />Ah, Santa Maria, do the old women live just to cry?<br />&#180;Cause the men of the mountains go singing the legend, the song is that he is alive.<br />He is the eagle, the wind and the stallion, I cry.<br />He is there in the mountains, he&#180;ll come when we need him.<br />The song is that he is alive.<br /><br />Viva you Mexico, viva the hills,<br />The song of the people is singing there still.<br />Viva you Mexico, viva say I,<br />The song is that he is alive.<br />Viva you Mexico, viva the hills,<br />The song of the people is singing there still.<br />Viva you Mexico, viva say I,<br />The song is that he is alive.<br /><br />Heeee heeee,<br />Heeee heeee,<br />Heeee heeee.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

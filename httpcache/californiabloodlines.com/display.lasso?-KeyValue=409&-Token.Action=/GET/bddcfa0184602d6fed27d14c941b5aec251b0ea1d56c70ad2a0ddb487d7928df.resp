@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2464
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Broken Roses</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>All the times I&#39;ve run<br />When we&#39;ve just begun<br />We lost the midnight sun<br />In the dream<br /><br />And all the times I cried<br />All the times I tried<br />To make a lame bird fly<br />In the sun<br /><br />If all the lights break through<br />Shades of afternoon<br />All the dreams were you<br />Everyone<br /><br />So I ride the tired road<br />Every story I have told<br />Is just all as it seems<br />Broken roses, weathered dreams<br /><br />And all the days run clean<br />Faces on the screen<br />Don&#39;t know what it means<br />But I&#39;m playing it through<br /><br />And all the times I&#39;ve run<br />When we&#39;ve just begun<br />Lost the midnight sun<br />In the dream<br /><br />And I ride the tired road<br />Every story I have told<br />And it&#39;s just all as it seems<br />Broken roses, weathered dreams<br />And the broken roses, weathered dreams
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

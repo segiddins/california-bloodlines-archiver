@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3125
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BRINGING DOWN THE MOON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Trancas (Affordable Dreams, 001, 1984)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Just when you think you got it all<br />It&#39;s taken from your hands<br />And when you feel you&#39;ll never fall<br />You don&#39;t crash, you land on the floor<br />Still you&#39;re going&#39; back for more<br />Only the dreamer understands<br /><br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here<br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here<br /><br />And when all the shadows fall<br />You&#39;re spirited away<br />And you say that you will call<br />Come some other day, and you&#39;re gone<br />But the memory lives on<br />Always a dreamer finds a way<br /><br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here<br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here<br /><br />Just when you think you got it all<br />It&#39;s taken from your hands<br />And when you feel you&#39;ll never fall<br />You don&#39;t crash, you land on the floor<br />Still you&#39;re going&#39; back for more<br />Only the dreamer understands<br /><br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here<br />If I&#39;m missing you, then soon<br />I&#39;ll be bringing down the moon<br />Turning midnight into noon to keep you here
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2920
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGELS WITH GUNS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)<br />Neon Beach (Homecoming, 700, 1990)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Across cold water lies the sun<br />For now the journey has begun<br />The soldiers marching one by one<br />With golden light and silver drums<br />For the battle they have come<br /><br />Oh, and out of the sun<br />Come angels with guns<br />Oh, and out of the sun<br />Come angels with guns<br />Angels with guns<br /><br />And there is thunder in the east<br />Mark the time that the wind released<br />The birds of prey that shadow Spain<br />Who stand a witness to the rain<br />And there is movement in the west<br />For they are gathering the blessed<br />Speaking as one<br /><br />Oh, and out of the sun<br />Come angels with guns<br />Oh, and out of the sun<br />Come angels with guns<br />Oh, and out of the sun<br />Come angels with guns<br />Oh, and out of the sun<br />Come angels with guns<br />Angels with guns<br /><br />With one more second<br />One more minute<br />One more hour<br />One more day<br />We will find a way<br />We will find a way<br />Oh, we will find a way<br /><br />Oh, and out of the sun<br />Oh, and out of the sun<br />Out of the sun<br />Oh, and out of the sun<br />Out of the sun<br />Out of the sun<br />Oh, and out of the sun<br />Out of the sun,<br /><br />Angels fly in the July sky<br />Out of the sun<br />Angels fly in the July sky<br />Out of the sun
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

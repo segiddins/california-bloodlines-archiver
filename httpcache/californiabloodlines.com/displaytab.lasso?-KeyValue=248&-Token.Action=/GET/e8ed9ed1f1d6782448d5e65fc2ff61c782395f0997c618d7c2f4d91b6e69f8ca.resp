@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4524
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:26 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SWEET DREAMS WILL COME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret.<br />Drop D tuning is advisable if you want to reach the lowest note<br />of the rapid bass run at the end of each verse.<br /><br /><br />Em7 short<br />E----------------<br />B----------------<br />G----------------<br />D----------------<br />A----2-----------<br />D----------------<br /><br /><br />Sweet Dreams Will Come     John Stewart <br /><br />Capo 2nd fret<br /><br />(D)(no high E-string at first, then:)<br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />(D) (rapid bass figure during first 2 lines of verses, A-D-B-D&#8230;)<br />Oh, I&#39;m sleepin&#39; less in L. A.,<br />Dreaming of days yet to (Em7)come.(G)<br />(high notes run: B-D-A(on high E)-G slide to F#, pull off-<br />AAA-G pull off)<br />And (D)I don&#39;t care what you say,<br />I know that those days are sure to (Em7)come.(G)<br />(high notes run: B-D-A(on high E)-G slide to F#, pull off-<br />A-D-A)<br />And I&#39;m (F#m)wakin&#39; and I&#39;m (G)callin&#39;,<br />(Bm)Shakin&#39;, ooh, and then I&#39;m (G) fallin&#39;,<br />And (F#m)oh, little (Bm)darlin&#39;,<br />Don&#180;t ya (G)wonder when those (A)sweet dreams will (D)come?<br />(rapid descending bass line here, middle D to root)<br /><br />And there&#39;s a hole in the sky,<br />Made by my Right Guard last (Em7) night.(G)<br />(high notes run&#8230;)<br />(D)And then there&#39;s you and I,<br />Assuring that everything&#180;s all(Em7)right.(G)<br />(high notes run&#8230;)<br />We are (F#m)nursing, pre(G)tending,<br />(Bm)Cursing, and then de(G)pending,<br />(F#m)Yeah, it&#39;s never(Bm)ending,<br />Makes ya (G)wonder when those (A)sweet dreams will (D)come.<br />(rapid bass run&#8230;)<br /><br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />(D)Mmm, looking for some love,<br />I guess that&#39;s why people buy (Em7)dogs.(G)<br />(high notes run&#8230;)<br />Is there (D)someone up above?<br />And I wonder is the Captain keeping (Em7)logs?(G)<br />(high notes run&#8230;)<br />We are (F#m)cursing and we&#180;re (G)praying,<br />Never (Bm)knowin&#39; what we&#39;re (G)saying,<br />And (F#m)yet, it&#39;s every (Bm)daying,<br />Makes ya (G)wonder when those (A)sweet dreams will (D)come.<br />(rapid bass run&#8230;)  (G)  (D)  (G)  (D)  (G)<br /><br />And I (D)feel like a fire<br />In the morning when the fire is (Em7)out.(G)<br />(high notes run&#8230;)<br />I am (D)walking on the wire,<br />And the wire&#39;s what the whole thing is a(Em7)bout.(G)<br />(high notes run&#8230;)<br />The pre(F#m)tender is (G)spinning,<br />Sur(Bm)render is (G)winning,<br />(F#m)Yes, it is a be(Bm)ginning<br />Oh, to (G)feel like those (A)sweet dreams will (D)come.<br />(rapid bass run&#8230;)<br /><br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />(D)(D5)(D5)(D4)(D)  (D)(D5)(D5)(D4)(D) (D)(D4)(D4)<br />And the pre(F#m)tender is (G)spinning,<br />Sur(Bm)render, it is (G)winning,<br />And (F#m)oh, it is be(Bm)ginning<br />Oh, to (G)feel like those (A)sweet dreams will (D)come.<br />(rapid bass run)<br />And (F#m)yeah, little (Bm)darlin&#39;,<br />Don&#39;t ya (G)wonder when those (A)sweet dreams will (D)come?<br />(rapid bass run&#8230;)(solo on D-chord)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

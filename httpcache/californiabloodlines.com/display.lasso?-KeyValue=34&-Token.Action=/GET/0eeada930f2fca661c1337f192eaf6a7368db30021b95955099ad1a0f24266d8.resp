@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2457
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EASY MONEY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Cannons in the Rain (RCA, LSP 4827, 1973)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Gold out there<br />Out in California<br />Get you a map<br />To the Dutchman Mine<br />Pickin&#39; up gold<br />With our bare hands, baby<br />When we got there<br />It was stone bone dry<br /><br />Easy money<br />It&#39;s a hard life, baby<br />All in all<br /><br />Loafin&#39; around<br />Smokin&#39; and drinking<br />Woke up this morning<br />And you didn&#39;t have a dime<br />Out on the street<br />Do you some dealin&#39;<br />Your best friend, baby<br />Was the police all the time<br /><br />Easy money<br />It&#39;s a hard life, baby<br />All in all<br /><br />Got yourself, yes<br />A rich man, baby<br />Buys you everything<br />That your little heart desires<br />Lots of clothes<br />Trips to Mexico<br />Everybody knows<br />That he can&#39;t light your fire<br /><br />Easy money<br />It&#39;s a hard life, baby<br /><br />Easy money<br />It&#39;s a hard life, baby<br />All in all
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

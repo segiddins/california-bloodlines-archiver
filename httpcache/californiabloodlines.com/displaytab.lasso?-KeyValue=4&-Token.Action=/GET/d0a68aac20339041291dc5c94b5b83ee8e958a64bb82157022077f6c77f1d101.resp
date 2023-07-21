@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3543
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOOKING FOR JACK</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 1st fret for &quot;Bullets in the Hourglass&quot; version <br />  <br />  <br />We were living in a (A)magic time, <br />We were living with (E)time to burn, <br />Believing that there&#39;s (B7)nowhere to go, <br />Believing we had (E)nothing to learn. (hold) <br />  <br />Had the big time (A)dreams, <br />Self-inflicted (E)wounds, <br />Bullets in the (A)hour glass, <br />(B7) (hold) Life on other (E)moons. (hold) <br />  <br />I will work for (A)food, <br />I will work for (E)fame, <br />I will work for (B7)money, <br />I will work the (E)game. <br />  <br />What are you (A)working for, <br />Do you know the (E)name? <br />Don&#39;t kid your(A)self, (B7) (hold) <br />They are not the (E)same. <br />  <br />Unchain the (F#m)dogs, (B) <br />&#180;Cause I&#39;m back (E)again, (G#) (C#m) (B) <br />Just (E)looking for Jack <br />On the (B7)other side of the (E)wind. (hold) <br />  <br />But I can&#39;t seem to (A)reach you, <br />With the words in the (E)way, <br />Ooh, and the (B7)moon&#39;s behind a cloud, yeah, <br />And, the (E) night porters say, <br />Collective (A)blessings<br />Will get you through the (E)day. <br />A liveable (A)truce, (B7) (hold) <br />Can we live this (E)way? <br />(A)  (E) (A) (B7) (E)  (hold) <br />  <br />The promise of the (A)crossing, <br />Oh, and the house dogs (E)sound, <br />Ooh, and to find ground (B7)zero, <br />You just look straight (E)down. <br />The final (A)sighting, <br />Ah, waiting for the (E)light, <br />With lawyers on my (A)lawn, (B7) (hold)  <br />Another sleepless night.(E) <br />  <br />Unchain the (F#m)dogs, (B) <br />For I&#39;m back (E)again, (G#) (C#m) (B) <br />Just (E)looking for Jack <br />On the (B7)other side of the (E)wind. <br />  <br />Unchain the (F#m)dogs, (B) <br />For I&#39;m back (E)again, (G#) (C#m) (B) <br />I&#180;m just (E)looking for Jack <br />On the (B7)other side, <br />I&#180;m (E)looking for Jack <br />On the (B7)other side, <br />I&#180;m (E)looking for Jack <br />On the (B7)other side <br />of the (A)wind. <br />  <br />(E) (A) (B7) (A) (E) <br />(A)Looking for Jack, (E)Looking for Jack, <br />(B7)Aaah (A)aaah (E)aah. <br />(A)Looking for Jack, (E)Looking for Jack, <br />(B7)Aaah (A)aaah (E)aah.  <br />(A)Looking for Jack, (E)Looking for Jack, <br />(B7)Aaah (A)aaah (E)aah.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

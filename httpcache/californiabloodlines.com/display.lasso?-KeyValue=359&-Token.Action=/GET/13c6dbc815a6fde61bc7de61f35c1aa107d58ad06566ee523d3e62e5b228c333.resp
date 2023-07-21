@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2807
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:42 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEN YOU&#39;VE BEEN AWAY FOR A LONG TIME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Children of the Morning (The Kingston Trio - 1966, Decca DL4758/74758)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>When you&#39;ve been away from the color of the sky<br />When you&#39;ve been away for a long time<br />You will see it true. It&#39;s a different shade of blue<br />When you&#39;ve been away for a long time<br /><br />When you&#39;ve been away from the music in your heart<br />When you&#39;ve been away for a long time<br />The songs come back again like an old familiar friend<br />When you&#39;ve been away for a long time<br /><br />I can hear, I can see<br />I can feel, I am free<br />And I&#39;ve been away for a long time<br /><br />When you&#39;ve been away from a lovin&#39; in your soul<br />When you&#39;ve been away for a long time<br />I hear it&#39;s like a rain that washes all your pain<br />When you&#39;ve been away for a long time<br /><br />When you&#39;ve been away from someone you once knew<br />When you&#39;ve been away for a long time<br />If you find it true that someone was just you<br />Then you&#39;ve been away for a long time<br /><br />I can hear, I can see<br />I can feel, I am free<br />And I&#39;ve been away<br />I&#39;ve been away<br />I&#39;ve been away for a long time
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

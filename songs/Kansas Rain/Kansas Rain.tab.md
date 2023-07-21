@@ -1,0 +1,53 @@
+Note: Of course it´s easier to play in C and put a capo on the second fret.
+Transpose if you like.
+
+Second note: The F#m/C# might really be an A/C#. 
+Difficult to say since the guitar doesn´t play the note on the high E-string.
+
+
+
+(G – play high notes g-f#-d-b(quick bass note D) g-f#-d(C#-D)
+g-f#-d(C#-D) g-f#-d-b-a…)  (A7, high notes c# -c#-d d-e e-a)
+(fast bass run A-B-C#-E-D)
+
+(D) My oh (F#m/C#)my, the (Bm)time does (D7)fly,
+(G) Wanna make you (F#m)lay right (Em)down and (A7)die,
+(fast bass run A-B-C#-E-D to…)
+(D) Or be an (F#m/C#)eagle (Bm)flying (D7)high,
+(G)Spinning circles (D/F#)in the sky,
+For (Em)he must know the (A7/4)reason why...(A7)
+
+Why there (D)ain't no (F#7/C#)change in (Bm)Kansas (D7)rain,
+(G) Forever it (F#m)falls out (Em)on the (A7)plains,
+And the (D)Phoenix (F#7/C#)sun like a (Bm)clockwork (D7)runs,
+(G)Day by day, (D/F#)one by one,
+We (Em)fall like candles (A7)in the sun.
+All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,
+(G)Ain't no change in Kansas rain,
+There ain't no change in Kansas rain, no, (A7)no.
+(high notes c# -c#-d d-e e-a)
+
+And I was (D)standing in (F#m/C#)line at the (Bm)Bank of A(D7)merica,
+(G)Nobody (F#m)spoke, they were (Em)in the house of (A7)God,
+(fast bass run A-B-C#-E-D to…)
+And a (D)church I (F#m/C#)know is a (Bm)drive-in (D7)show,
+And the (G)local band plays (D/F#)hymns to go,
+(Em)"Jesus loves me" (A7/4)rock´n roll.  (A7)
+
+There (D)ain't no (F#7/C#)change in (Bm)Kansas (D7)rain,
+(G) Forever it (F#m)falls out (Em)on the (A7)plains,
+And the (D)Phoenix (F#7/C#)sun like a (Bm)clockwork (D7)runs,
+(G)Day by day, (D/F#)one by one,
+We (Em)fall like candles (A7)in the sun.
+All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,
+(G)Ain't no change in Kansas rain,
+There ain't no change in Kansas rain, no, (D)no...
+(F#7/C#) (Bm) (D7) (G) (F#m) (Em) (A7)
+(D) (F#7/C#) (Bm) (D7)
+
+Oh, (G)day by day, (D/F#)one by one,
+We (Em)fall like candles (A7)in the sun.
+All (D)gone are (F#7/C#)all those (Bm7)lonesome (D7)trains,
+(G)Ain't no change in Kansas rain,
+There ain't no change in Kansas rain,
+There ain't no change in Kansas rain         (D)

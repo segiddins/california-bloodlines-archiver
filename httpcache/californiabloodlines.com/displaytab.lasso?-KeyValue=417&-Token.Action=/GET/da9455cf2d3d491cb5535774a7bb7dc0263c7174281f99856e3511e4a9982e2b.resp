@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2742
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SKY BLUE 8</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G5) (G) (G5) (G) (G5) (G) (C)(G)(D) 2x<br />Oh it (G)happened down in Texas,<br />Near the (D)town of San Antone,<br />He was (G)driving (G/F#)to Vir(Em)ginia,<br />She had (C)called him on the (D)phone.<br /><br />She said (Em)&quot;Sam, oh don&#39;t be (Bm)late,<br />Let me (C)see your pickup, (D)painted Sky Blue (G)8.&quot;<br />-Instr. like intro 1x-<br /><br />Vir(G)ginia, she&#39;s in the bedroom,<br />(D)Putting on her dress,<br />The (G)one she (G/F#)bought on (Em)sale that day,<br />That (C)shows her off the (D)best.<br /><br />Singing, (Em)&quot;Sam, I can hardly (Bm)wait,<br />To (C)see your pickup, (D)painted Sky Blue (G)8.&quot;<br />-Instr. Like intro 1x-<br /><br />But the (C)rains and winds of (D)Texas sure can (G)blow,<br />And I&#39;ve (C)seen the water (D)run so hard <br />A (G)man can (G/F#)lose the (Em)road.<br /><br />Takin&#39; it (D)slow, playin&#39; it (Em)safe,<br />&#8221;Oh, (C)let me see your pickup, (D)painted Sky Blue (G)8.&#8221;<br />-Instr. 1x-<br /><br />(G)It&#39;s been 14 years,<br />Maybe (D)14 years or more,<br />(G)She sits (G/F#)by the (Em)window<br />In a (C)chair beside the (D)door.<br /><br />Singing (Em)&quot;Sam, you&#39;re forever (Bm)late...<br />Let me (C)see your pickup, (D)painted Sky Blue (G)8.(G/F#) (Em)<br />Let me (C)see your pickup, (D)painted Sky Blue (G)8,(G/F#) (Em)<br />(C)See your pickup (D)painted...(hold)<br />Oh, Sky Blue (G)8.&#8221;(G5) (G) (G5) (G) (G5) (G) (C)(D)(G)<br />(G5) (G) (G5) (G) (G5) (G) (C)(G)(D)(G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

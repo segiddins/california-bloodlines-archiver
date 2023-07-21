@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2922
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:06 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MOONLIGHT DREAM</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Cj7<br />E-------------<br />B-------------<br />G-------------<br />D-----2-------<br />A----------3--<br />E-------------<br /><br />Cj7/G<br />E----------3--<br />B-------------<br />G-------------<br />D-----2-------<br />A----------3--<br />E----------3--<br /><br /><br /><br />Capo 4th fret<br /><br />(C) (Am) (F)<br />(C) (Am) (F) (G)<br /><br />(C) Lost in a (Am)paradise,<br />(F) Tasting the (G)cream<br />(Em) Falling like (Am)rain now (F)<br />(G) In a moonlight (C)dream. (Am) (F) (G)<br /><br />(C) And the bright city (Am)skyline<br />(F) Omaha (G)fate,<br />(C) Cold dancing (Am)angels<br />(F) Touching our (G)face,<br />(C) Oh oh (Am)oh oh (F)oh,<br />(G) In a moonlight (C)dream, (Am) (F)<br />In a (G)moonlight (Cj7)dream. (Am) (F) (G)<br /><br />(F) &#180;N&#180; Tangerine (G)Betty<br />(Em)With the cool yellow (Am)shades,<br />(F) She was my (G)steady<br />In the (Em)St. Augustine (Am)days.<br />(F) Tangerine (G)Betty<br />(Em) Cruising the (Am)scene (Am/G) (F)<br />(G) In a moonlight (C)dream. (Am) (F) (G)<br /><br />(C) And the Miami (Am)skyline<br />(F) Boulevard (G)queens,<br />(C) Cold blue fla(Am)mingos<br />(F) Holding the (G)dream,<br />(Cj7) Mm mm (Am)mm mm mm mm (F)mm,<br />(G) In a moonlight (Cj7)dream, (Am) (F)<br />(G) In a moonlight (C)dream. (Am) (F) (G)<br /><br />(F) &#180;N&#180; Tangerine (G)Betty<br />(Em) With the cool yellow (Am)shades,<br />(F) And she was my (G)steady<br />(Em) In the St. Augustine (Am)days.<br />(F) Tangerine (G)Betty<br />(Em) Cruising the (Am)scene (Am/G) (F)<br />(G) In a moonlight (Cj7)dream, (Am) (F)<br />(G) In a moonlight (Cj7)dream, (Am) (F)<br />(G) In a moonlight (C)dream. (F) (Cj7/G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

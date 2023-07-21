@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2756
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:45 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BRAVE BOBBIE CAMPBELL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart. All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Folk Scene USA (The Cumberland Three-1960) (Collector&#39;s Choice,  CCM-086-2, Reissue 1999)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>The cry of the raven rang over the morn<br />The drums were calling the clans to war<br />A lad, Bobbie Campbell, wept for the dead<br />Remembered the words that his father had said<br /><br />&quot;Never forget who you are, my son<br />Never dishonor the clan.<br />For your fathers before you have died in the field<br />Died for our green pasture land&quot;<br /><br />They rolled out the cannon and summoned their men<br />The women were praying they&#39;d come home again<br />But it&#39;s goodbye my Mary I&#39;m goin&#39; to war<br />Fight for the honor of the son that you bore<br /><br />&quot;Never forget who you are, my son<br />Never dishonor the clan.<br />For your fathers before you have died in the field<br />Died for our green pasture land&quot;<br /><br />The pipes they are still. A victory&#39;s in hand<br />Now his Mary knows peace in the land<br />And over the glen lies brave Bobbie Campbell<br />The gun still clutched in his hand<br /><br />&quot;Never forget who you are, my son<br />Never dishonor the clan.<br />For your fathers before you have died in the field<br />Died for our green pasture land&quot;
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

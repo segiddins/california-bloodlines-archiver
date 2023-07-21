@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3290
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOCK ALL THE WINDOWS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C)(F)(G)(C) 4x   ,<br />There was time for the laughter and (F)time for the rain,                     <br />(G)Time for the people who (C)don&#180;t know my name,<br />And time for everything, (F)I know it&#39;s true,<br />And I (G)know that I should have had (G7)more time for (C)you.(F)(C)(hold)<br /><br />So lock all the (F)windows(F/E)(F/D) <br />And (G)close all the (C)doors(C/B)(C/A)<br />And (C/G)don&#39;t let me (F)go(F/E)(F/D) <br />Out (G)running no (C)more.(F)(C)<br />Oh, lock all the (F)windows (F/E)(F/D) <br />And (G)close all the (C)doors(C/B)(C/A)<br />And (C/G)don&#39;t let me (F)go(F/E)(F/D) <br />Out (G)running no (C)more.(F)(C)(G)<br /><br />And there&#180;s (C)so many places that (F)I&#39;ve never been,<br />(G)So many faces are (C)calling me friend,<br />L.A. is pretty, (F)New York is cold,<br />Chi(G)cago is just an old (G7)story I&#39;ve (C)told.(F)(C)(hold)<br /><br />So lock all the (F)windows(F/E)(F/D) <br />And (G)close all the (C)doors(C/B)(C/A)    <br />And (C/G)don&#39;t let me (F)go(F/E)(F/D) <br />Out (G)running no (C)more.(F)(C)           <br />Oh, lock all the (F)windows(F/E)(F/D) <br />And (G)close all the (C)doors(C/B)(C/A)<br />And (C/G)don&#39;t let me (F)go(F/E)(F/D) <br />Out (G)running no (C)more.(F)(C)(A)<br /><br />And the (D)hands on the clock keep on (G)going around,                              <br />And the (A)calendar pages keep (D)falling on down,                                      <br />So come, follow me then, wher(G)ever we go,                                                <br />And (A)when we&#39;ll go home, yeah, I (A7)really don&#39;t (D)know.(G)(D)(hold)<br /><br />We&#39;ll lock all the (G)windows(G/F#)(G/E) <br />And (A)close all the (D)doors(D/C#)(D/B)<br />And (D/A)we&#39;ll go out (G)running,(G/F#)(G/E) <br />Oh, (A)just like (D)before.(D/F#)(D)<br />We&#39;ll lock all the (G)windows(G/F#)(G/E) <br />And we&#39;ll (A)close all the (D)doors(D/C#)(D/B)<br />And (D/A)we&#39;ll go out (G)running,(G/F#)(G/E) <br />Oh, (A)just like (D)before.(G)(D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

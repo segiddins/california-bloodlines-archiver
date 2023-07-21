@@ -1,0 +1,53 @@
+Capo 2nd fret
+
+(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)
+(E) Gold (E6)out (E)there,
+(E6)Out in (E) Ca(E6)li(E)for(E6)nia,
+(E) Get (E6)you a (E)map
+To the (A) Dutchman Mine.
+(E) Pickin' (E6)up (E)gold
+(E6)With our (E) bare (E6)hands, (E)ba(E6)by
+(E)When we (E6)got (E)there,
+It was (A)stone bone dry.
+
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby,
+All in (A)all.(D) (E) (Bm) (E) (A)
+
+(E) Loafin' (E6)a(E)round, (E6)
+(E)Smokin' (E6)and (E)drink(E6)ing,
+(E)Woke up (E6)this (E)morning
+And you (A)didn't have a dime.
+(E) Out on (E6)the (E)street, (E6)(E)
+Do you (E6)some (E)dealin', (E6)(E)
+Your best (E6)friend, (E)baby,
+Was the (A)police all the time.
+
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby,
+All in (A)all.(D) (E) (Bm) (E) (A)
+
+(E) Got (E6)your(E)self, (E6)yes,
+A (E)rich (E6)man, (E)ba(E6)by,
+Buys you an(E6)y(E)thing
+That your (A)little heart desires.
+(E) Lots (E6)of (E)clothes, (E6) (E)
+Trips to Mex(E6)i(E)co, (E6) (E)
+Everybo(E6)dy (E)knows
+That (A)he can't light your fire.
+
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby,
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby,
+All in (A)all.
+(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)
+
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby,
+(D) Easy (E)money
+Is a (Bm) hard life, (E)baby, (hold)
+All in (A)all.
+(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)
+(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)
+(E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (E)(E6) (A)

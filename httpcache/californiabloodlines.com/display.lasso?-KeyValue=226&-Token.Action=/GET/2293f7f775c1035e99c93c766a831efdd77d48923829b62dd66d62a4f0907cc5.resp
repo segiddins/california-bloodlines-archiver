@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 4256
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:35 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MIDNIGHT OF THE WORLD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Is it true that we are living<br />In the last days of the world?<br />And often I have wondered<br />Will you always be my girl?<br />Will you be my girl?<br />And we&#39;ll dance the night away<br />And we&#39;ll remember Elvis<br />And we&#39;ll dream of better days<br />Dream of better days<br />As we listen to the sound <br />And we chew upon the lessons<br />We won&#39;t always be around <br />And you hear the sound<br />It&#39;s &quot;Will you always be my girl <br />And we can dance together<br />In the midnight of the world?&quot;<br /><br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br /><br />How long have we been talking<br />About the poison in the rain?<br />And the faceless corporations<br />Who really are to blame<br />Are they to blame<br />That we don&#39;t get along?<br />So let&#39;s turn on the T.V<br />And pretend that nothings wrong<br />It&#39;s like a song<br />That you must always be my girl <br />And we can dance together<br />In the midnight of the world<br /><br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br />Of the world, take care<br />It&#39;s the midnight of the world<br /><br />This white man got the message<br />From everyone we&#39;ve screwed<br />From the women, blacks and Indians<br />It was on the evening news<br />On the evening news<br />They had pictures at the scene<br />And I wonder who among them<br />Could say their skirts are clean?<br />But what I mean is<br />&quot;Will you always be my girl<br />So we can dance together<br />In the midnight of the world?&quot;<br /><br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br />Of the world, take care<br />It&#39;s the midnight of the world<br /><br />It&#39;s time I should be thankful<br />For all that I have got<br />Instead of bitching and complaining<br />Of all that I have not<br />I just forgot<br />That there are people with the blues<br />Who are living on the sidewalk<br />And sleeping in their shoes<br />They are the clues<br />That you must always be my girl<br />So we can dance together<br />In the midnight of the world<br /><br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br />Of the world, yeah<br />In the midnight of the world<br />Of the world, take care<br />It&#39;s the midnight of the world<br />Of the world, say yeah<br />In the midnight of the world
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3093
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DRIVE AGAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(F)  (Bb)  (F)  (Bb)<br />(F) Oh, sweet (Bb)traveler,<br />(F) Her head on my (Bb)shoulder,<br />(Gm) Gonna (Bb)do that drive a(F)gain. (Bb)<br />(F) Ah, I got to (Bb)have her,<br />(F) Every dream I (Bb)sold her, oh,<br />(Gm) Gonna (Bb)do that drive a(F)gain. (hold)<br /><br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)do that drive a(C)gain. (hold)<br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)do that drive a(C)gain.<br /><br />(F) Hard luck and (Bb)trouble<br />(F) Gonna follow (Bb)where I been,<br />(Gm) Gonna (Bb)do that drive a(F)gain. (Bb)<br />(F) In the corn field (Bb)stubble<br />(F)I shall plant the (Bb)seeds again,<br />(Gm) Gonna (Bb)do that drive a(F)gain. (hold)<br /><br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)do that drive a(C)gain. (hold)<br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)do, (hold)<br />(Bb) Gonna(C)do that drive a(F)gain.<br />(Bb) (F) (Bb) (Gm) (Bb) (C) (C7) (F)  (hold)<br /><br />Shotgun rider,<br />Stay right by me, friend,<br />(single bass notes on next line)<br />(g)Go(a)nna (bb)do (c)that (d)drive (e)a(f)gain. (Bb)<br />(F) Sweet white (Bb)spider,<br />(F) Bite me every (Bb)now and then,<br />(Gm) Gonna (Bb)do that drive a(F)gain.<br /><br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)do that drive a(C)gain.<br />I&#39;m gonna do that (Bb)drive a(C)gain,<br />Do that (Dm)drive a(C)gain,<br />(Bb) Gonna (F)(hold)do,  (Bb) gonna (F)(hold)do,<br />(Bb) Gonna (C)do that drive a(F)gain.<br /><br />(Bb) Oh, drive a(F)gain,(Bb) oh, drive a(F)gain,(Bb) drive a(F)gain,<br />(Bb) Drive a(F)gain,(Bb) drive a(F)gain,(Bb) drive a(F)gain.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

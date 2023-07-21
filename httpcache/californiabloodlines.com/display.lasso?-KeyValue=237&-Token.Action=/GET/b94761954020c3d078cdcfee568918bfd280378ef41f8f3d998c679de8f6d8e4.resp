@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3006
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:16 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SPIRIT/SURVIVORS MEDLEY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Last Campaign (Homecoming, 300, 1985)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Spirit my friend<br />Come on and move me<br />Spirit my heart lies ready to fly<br />Above the news of the morning street paper<br />Spirit my arrow is pulled<br />And aimed at the sky<br /><br />Spirit you moved<br />On the land of my father<br />Cherokee women lie broken and down<br />Spirit them on to the land of their brother<br />Spirit their mother&#39;s own blood<br />Has hallowed the ground<br /><br />Oh once it was mother<br />And God and the country<br />And once it was flags<br />And the Forth of July<br />But Spirit the eagle is changing its course<br />And you know that the horses of war<br />Finally die<br /><br /><br />Children in Cheyenne are taught in their schools<br />Believe in the country, don&#39;t break any rules<br />But the T.V. is on and they know something&#39;s wrong<br />Someone must tell them to keep pushing on<br /><br />Can you hear me Wyoming?<br />You are the country<br />You are the nation<br />You will survive<br />Can you hear me Wyoming?<br />You are the country<br />You are the nation<br />You will survive<br /><br />Can you hear me Virginia?<br />You are the country<br />You are the nation<br />You will survive<br /><br />Can you hear me Dakota?<br />Can you hear me in Texas?<br />Can you hear me Hawaii?<br />Can you hear me Wisconsin?<br />Can you hear me California?<br />Can you hear me Colorado?<br /><br />You are the country<br />You are the nation<br />You will survive
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

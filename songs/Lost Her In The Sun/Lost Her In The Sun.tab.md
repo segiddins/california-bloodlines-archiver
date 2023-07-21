@@ -1,0 +1,52 @@
+Capo 2nd fret
+
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+
+Given any day there's a (F)jet flying (G7)somewhere,
+(C)Oh, she bought a ticket and she (Dm)vanished in the (G7)sky.
+(C)How was I to know she was (F)leaving in the (G7)morning?
+(C) Never heard her go, she (Dm)never said good(G7)bye.
+
+I've (C)learned to love the night 'cause the (F)light's gonna (G7)get ya
+(C)Right between the eyes in the (Dm)morning like a (G7)gun.
+(C)Reaching out your hand, and (F)she's not there be(G7)side ya.
+(C)Oh, what can I say? (Dm) (G7)Lost her in the (C/E)sun.
+(C/E)(C/E)(C/D)(C) (F)(F)
+
+(F)What have (F/E)I(F/D) (C/E)done?)(C/E)(C/E)(C/D)(C) 
+(F)Lost her in the (C/E)sun,(C/E)(C/E)(C/D)(C) (F)
+(F)Lost (F)her (F/E)in (F/D)the (C/E)sun.(C/E)(C/E)(C/D)(C) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F)
+(G7)Lost her in the (C)sun. (Em7)
+(F) Oh, I (G7)lost her in the (C/E)sun.
+(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+
+Fire up your heart, for the (F)wind is getting (G7)cold now,
+It (C)always gets cold for the (Dm)riders of the (G7)night.
+You (C)carry that scar when you (F)know what (G7)lonesome is,
+(C)Looking for a home like a (Dm)bird(G7) in (C/E)flight.
+(C/E)(C/E)(C/D)(C) (F)(F)
+
+And(F)what have (F/E)I(F/D) (C/E)done?)(C/E)(C/E)(C/D)(C) 
+(F)Lost her in the (C/E)sun,(C/E)(C/E)(C/D)(C) (F)
+(F)Lost (F)her (F/E)in (F/D)the (C/E)sun.(C/E)(C/E)(C/D)(C) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F)
+(G7)Lost her in the (C)sun. (Em7)
+(F)Oh, I (G7)lost her in the (C/E)sun.
+(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+(C/E)(C/E)(C/E)(C/D)(C) (F)(F)(F)(F/E)(F/D)(C)
+
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun, (Em7) (F) (G7)
+O(C)o(Em7)o(F)oh, (G7)lost her in the (C)sun. (Em7) (F) (G7) (C)

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3768
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:12 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TICKET TO THE STARS (aka HOME TO THE STARS)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Punch the Big Guy (The Ship on Cypress/AEM YD0105, 1987)<br />The Secret Tapes &#39;86 (Homecoming, 450, 1986)<br />Way Too Much Fun (Neon Dreams 2000, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh there is a train and it runs by my room<br />And it wakes me up in the middle of the night<br />At the arch of the rising moon<br />It says &quot;Do you know who you are?<br />Do you know where you&#39;re going?<br />Will you survive, yeah<br />In the fire when the wind is blowing?&quot;<br /><br />Ah, there is a train and it runs by my room<br />And the train is called reality<br />And it&#39;s coming way too soon<br />Way too soon for a guy<br />Who is living on the lies<br />Looking for the short cut<br />And the secrets to survive<br /><br />And there are forces to guide you<br />Spirits beside you<br />Rivers to ride you home to the stars<br />And there are forces to guide you<br />Spirits beside you<br />Rivers to ride you home to the stars<br /><br />There is a voice shouting in my head<br />And there is a voice<br />That is singing there instead<br />And there is a choice<br />To which one will I listen<br />For one the road is long and hard<br />The other yeah, the road will glisten<br /><br />And not a day goes by that I don&#39;t think I&#39;m crazy<br />And not a day goes by<br />That the answers don&#39;t seem hazy<br />Sometimes I&#39;m lost and I&#39;m down and out<br />But then I&#39;m lost and lazy<br />But if I were lost in the middle of the light<br />You know it would surely save me<br />Be saved<br />And this guy who is living on the lies<br />Looking for a short cut<br />And the secret to survive<br />And there are forces to guide you<br />Spirits beside you<br />Rivers to ride you home to the stars<br />And there are forces to guide you<br />Spirits beside you<br />Rivers to ride you home to the stars<br /><br />And there are forces to guide you<br />Spirits beside you<br /> Rivers to ride you home to the stars<br />And there are forces to guide you<br />Spirits beside you<br />Rivers to ride you home to the stars<br /><br />Believing in the stars<br />And living in the stars<br />And dying in the stars<br />And home to the stars<br /><br />Get your ticket to the stars<br />Get your ticket to the stars
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

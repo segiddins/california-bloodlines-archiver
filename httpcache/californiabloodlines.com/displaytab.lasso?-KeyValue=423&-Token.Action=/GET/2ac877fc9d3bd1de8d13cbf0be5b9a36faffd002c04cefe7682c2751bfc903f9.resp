@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3790
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Where the wind can&#39;t find me</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(D) (D4) (D) (D4) (D) (D4) (D) (D4)<br />Once my (D)heart was many eagles,<br />Once my (Dj7)eyes saw many suns,<br />Once my (D7)ears heard distant thunder,<br />Once my (G)voice (G/F#) was many (Em)guns.<br /><br />Now I (Bm)hide where the wind can&#180;t (F#m)find me,<br />Where the (G)rain and sun (G/F#)can&#180;t (E)blind me,<br />And I (Bm)watch out (A)who&#180;s be(G)hind me,<br />And (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me. (Bb) (A)<br /><br />Once the (D)road lay out before me,<br />Once my (Dj7)heart was full of songs,<br />Once the (D7)gold was there for taking,<br />Once the (G)world (G/F#) was moving (Em)on.<br /><br />And I (Bm)hide where the wind can&#180;t (F#m)find me,<br />Where the (G)rain and sun (G/F#)can&#180;t (E)blind me,<br />And I (Bm)watch out (A)who&#180;s be(G)hind me,<br />And (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me.<br /><br />And I (G)hide where the (A)wind can&#180;t (D)find me,<br />Where the (Em)rain and (A)sun can&#180;t (D)blind me,<br />And I (Bm)watch out (A)who&#180;s be(G)hind me,<br />As I (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me. (Bb) (A)<br /><br />Once my (D)heart was many eagles,<br />Once my (Dj7)eyes saw many suns,<br />Once my (D7)ears heard distant thunder,<br />And once my (G)voice (G/F#) was many (Em)guns.<br /><br />Now I (Bm)hide where the wind can&#180;t (F#m)find me,<br />Where the (G)rain and sun (G/F#)can&#180;t (E)blind me,<br />And I (Bm)watch out (A)who&#180;s be(G)hind me,<br />As I (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me. (Bm)<br /><br />And I (G)hide where the (A)wind can&#180;t (D)find me,<br />Where the (Em)rain and (A)sun can&#180;t (D)blind me,<br />And I (Bm)watch out (A)who&#180;s be(G)hind me,<br />As I (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me. (hold)<br /><br />(G)Hide where the (A)wind can&#180;t (D)find me,<br />Where the (Em)rain and (A)sun can&#180;t (D)blind me,<br />(G)Watch out (A)who&#180;s be(Bm)hind me, (hold)<br />As I (D)h(Bm)I(G)de where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (D)find me, (Bm) (G)<br />Where the (A)wind can&#180;t (D)find me, (Bm) (Em)<br />Where the (A)wind can&#180;t (Bm)find me. (Bb) (A) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

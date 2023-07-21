@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3348
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE QUEEN OF HOLLYWOOD HIGH</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Blondes (Alegiance, AV431, 1983)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Saturday night<br />Wheels along the boulevard<br />You&#39;re looking alright<br />&#39;Cause love don&#39;t come too hard<br />To the Queen of Hollywood High<br /><br />The boys are on the move<br />Hustling the boulevard<br />She knows she couldn&#39;t loose<br />Still she never gets that far<br />The Queen Of Hollywood High<br /><br />Hollywood High<br />The Queen of Hollywood High<br /><br />There are spirit&#39;s taking flight<br />And wings across the boulevard<br />They&#39;re dancing in the night<br />And they&#39;re calling her across the yard<br />The Queen of Hollywood High<br /><br />Hollywood High<br />The Queen of Hollywood High<br /><br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br /><br />Saturday night<br />Wheels along the boulevard<br />You&#39;re looking alright<br />&#39;Cause love don&#39;t come too hard<br />To the Queen of Hollywood High<br /><br />Hollywood High<br />The Queen of Hollywood High<br /><br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br />The Angels fly in the northern sky<br />Only for the Queen of Hollywood High<br /><br />Oh, Saturday night<br />With the Queen of Hollywood High<br />The boy&#39;s are taking flight<br />Of the Queen of Hollywood High<br />And they&#39;re dancing in the night<br />With the Queen of Hollywood<br />She&#39;s the Queen of Hollywood<br />She&#39;s the Queen Of Hollywood High<br /><br />Hollywood High<br />The Queen of Hollywood High
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

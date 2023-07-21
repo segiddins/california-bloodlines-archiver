@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2806
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:08 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TALL BLONDES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Try playing the song in Am (capo 2nd fret).<br />Bm becomes Am, A becomes G, G becomes F.<br /><br /><br />(Bm)  (A)  (Bm)  (A)  (Bm)  (A)  (Bm)  (A)<br /><br />(Bm)Tall blondes, hitching on the highway, (A)<br />(Bm)Tall blondes, hope you&#39;re going my way. (A)<br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls, (hold)<br />I&#39;m walking with the (Bm)tall blondes. (A)<br />(Bm)Tall blondes&#8230;(A)  (Bm)  (A)  (Bm)  (A)<br /><br />(Bm)Tall blondes, working on the suntan, (A)<br />(Bm)Tall blondes, never stay with one man. (A)<br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls, (hold)<br />I&#39;m walking with the (Bm)tall blondes.<br />Look at all the (A)tall blondes.<br />I wish you were the (Bm)tall blondes,<br />Looking for the (A)tall blondes.<br />(Bm)  (A)  (Bm)  (A)<br /><br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls,<br />(G)Ooohh, the Wilshire (A)girls, (hold)<br />I&#39;m walking with the (Bm)tall blondes.<br />(A)Tall blondes,<br />Look at all the (Bm)tall blondes.<br />Look at all the (A)tall blondes,<br />I&#180;m walking with the (Bm)tall blondes, yeah, yeah,<br />(A)Tall blondes.<br />(Bm)Tall blondes,<br />Seeing all the (A)tall blondes.<br />Got to have (Bm)tall blondes,<br />Got to have (A)tall blondes, yeah,<br />(Bm)Tall blondes, yeah,<br />(A)Tall blondes, yeah,<br />(Bm)Tall blondes, yeah,<br />(A)Tall blondes.<br />(Bm)Tall blondes, yeah,<br />(A)Tall blondes.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

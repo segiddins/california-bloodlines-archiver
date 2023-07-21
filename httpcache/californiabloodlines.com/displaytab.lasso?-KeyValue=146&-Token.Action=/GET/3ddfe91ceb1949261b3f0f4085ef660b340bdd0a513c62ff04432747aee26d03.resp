@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3738
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:19 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>FRIEND OF JESUS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C)Jesus (C/B)was a (F)friend of (C/G)John&#180;s,<br />(Dm/C)hm hm (G/D)hm hm (C)hm,(bass run:GG-A-B) <br />(C)Jesus (C/B)was a (F)friend of (C/G)Paul&#39;s, <br />(Dm7/C)hm hm (G/D)hm hm (C)hm. (bass run:GA-GB)<br />(C)He was a (C/E)friend of (F)Matthew, (high notes: ccdc)<br />(C)James, John, (C/B)down the (F)line, (high notes: ccdc)<br />I (C)do be(C/B)lieve I&#39;d have (Am)been a (Am/G)friend <br />of (F)Jesus (G)in his (C)time. (F) (Em) (G/D) <br /><br />(C)Jesus (C/B)walked the (F)streets at (C/G)night, <br />(Dm/C)hm hm (G/D)hm hm (C)hm, (bass run:GG-A-B) <br />(C)Jesus, (C/B)he didn&#39;t (F)need a (C/G)light, <br />(Dm7/C)hm hm (G/D)hm hm (C)hm.(bass run:GA-GB)<br />(C)Jesus (C/E)walked with the (F)harlots, (high notes:ccdc) <br />and he (C)ran with the (C/B)hoodlum (F)kind, (high notes:ccdc)<br />and I (C)do (C/B)believe I&#39;d have (Am)been a (Am/G)friend <br />of (F)Jesus (G)in his (C)time. (F) (Em) (G/D)<br />(C)Hm (F)hm (C/E)hm (A7/E)hm&#8230;<br /><br />(D)Jesus (D/C#)hung with the (G)hard line (D/A)gang,<br />(Em/D)hm hm (A/E)hm hm (D)hm,(bass run:AABC#)<br />(D)Jesus (D/C#)knew the (G)songs they (D/A)sang, <br />(Em7/D)hm hm (A/E)hm hm (D)hm. (bass run:AB-AC#)<br />(D)He didn&#39;t (D/F#)have no (G)money, (high notes:dded)<br />I (D)hear he didn&#39;t (D/C#)have a (G)dime, (high notes:dded)<br />I (D)do (D/C#)believe I&#39;d have (Bm)been a (Bm/A)friend <br />of (G)Jesus (A)in his (D)time, <br />I do (D/C#)believe I&#39;d have (Bm)been a (Bm/A)friend <br />of (G)Jesus (A)in his (D)time. <br /><br />Good God Al(D/C#)mighty, my (Bm)darling (Bm/A)Jesus,<br />(G)you are a (A)friend of (D)mine. <br />Come on (D/C#)along, we&#39;ll (Bm)sing another (Bm/A)song <br />of (G)Jesus (A)in his (D)prime.<br />They caught him in the (D/C#)yard, the (Bm)national (Bm/A)guard, <br />and (G)Jesus, (A) he was (D)crucified. <br />Open up the (D/C#)door, he&#39;s (Bm)seen it all (Bm/A)before, <br />and (G)Jesus, (A)he is (D)on your side. <br />Good God (D/C#)Almighty, my (Bm)darling (Bm/A)Jesus, <br />(G)you are a (A)friend of (D)mine.<br />You aren&#180;t a(D/C#)lone, (Bm)he will walk you (Bm/A)home,<br />(G)Jesus, (A)he&#39;s there (D)by your side. <br />Good God (D/C#)Almighty, my (Bm)darling (Bm/A)Jesus, <br />(G)you are a (A)friend of (D)mine.<br /><br /><br />P.S. You can play an (Em/B) instead of the (C/B) in the<br />first line of the verses. The important thing is to let<br />the bass note ring out. That&#180;s a (F#m/C#) after the key shift.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2932
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:36 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RALLY DOWN THE NIGHT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Rally down the night<br />Earth has found the distant light<br />Risen voices come from dogs<br />Alive and mad as Godless love<br />Rally down the night<br /><br />Rally down the night<br />Rising in the distant light<br />They have found a face on Mars<br />Messages from distant stars<br />Who will find the hidden clues<br />In 19 point five latitude<br />And I have seen the shining light<br />Still above me in the night<br />Yes it is still, it does not move<br />Behind the black door is the clue<br />Refracted light is known to bend<br />When seen through a camera lens<br />Rally down the night<br /><br />I have seen the shining light<br /><br />Rally down the night<br />Well I still seek the shining light<br />Spoken of by chosen few<br />Privileged by the holy view<br />That transforms souls of common thieves<br />And shatters what a man can see<br />A spider&#8217;s webs of lies believes<br />It is I who fly the pale balloon<br />And walks the dark side of the moon<br />And I stand naked in the night<br />For just one glimpse of lady light<br />The watchman&#39;s lantern&#39;s flag the train<br />For all the waiting, silence reigns<br />To realise the golden crane<br />Where one may taste the holy name<br />And dogs no longer feel the storm<br />on carefree roads on their way home<br /><br />Rally down the night<br />Earth has moved the chance of light
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2821
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:41 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CADILLAC RANCH</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Cadillac Ranch<br />West of Amarillo<br />On the i-40 side<br />No way to miss it<br />For a Cadillac ride<br />Walk through the gate<br />And listen to the sound<br />Of ten &#8216;50 Cadillacs<br />Planted in the ground.<br /><br />Out on route 66<br />There&#8217;s something going on<br />Something in the water<br />Something in the songs<br />&quot;Lullaby of Birdland&quot;<br />Rocking to the sound<br />Of ten &#8216;50 Cadillacs<br />Planted in the ground.<br /><br />Chorus:<br />When you go to Texas<br />Give it a chance.<br />Take me back down to Cadillac Ranch<br />Kick off your shoes<br />If you know how to dance<br />Take me back down to Cadillac Ranch.<br /><br />People gonna say<br />What does it mean?<br />A monument to the American Dream<br />It doesn&#8217;t mean a thing<br />If you don&#8217;t hear the sound.<br />Of ten &#8216;50 Cadillacs<br />Planted in the ground<br /><br />You don&#8217;t need a reason<br />You just go as you are,<br />Go and write your name<br />On the Cadillac cars.<br />Johnny loves Lucy<br />Chu Chu was here<br />Love to leave my name<br />On an El Dorado&#8217;s rear<br />The winds gonna blow<br />Making the sound<br />Of ten &#8216;50 Cadillacs<br />Planted in the ground.<br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

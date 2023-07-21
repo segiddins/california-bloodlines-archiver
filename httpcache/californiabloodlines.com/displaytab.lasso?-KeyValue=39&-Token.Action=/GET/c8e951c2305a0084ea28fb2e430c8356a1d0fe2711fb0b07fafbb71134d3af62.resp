@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3473
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SPIRIT</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Dm7/C<br />E--1------------<br />B--1------------<br />G----2----------<br />D---------------<br />A------3--------<br />E---------------<br /><br />Play only the &quot;fingered&quot; notes on this chord when you pick.<br />And go for that fabulous bass line.<br /><br /><br />Capo 2nd<br /><br />(G) (Bm) (C) (D) (G) (Bm) (C) (D)<br />(G)Spirit, my (Bm)friend, (C)come on and (D)move me.<br />(G)Spirit, my (Bm)heart lies (C)ready to (F)fly <br />(on D- and G-string: single notes f-g-a)<br />(Bb)Above the (Am)news of the (Bb/D)morning street (Am)paper,<br />(F)Spirit, my (Am/E)arrow is (Bb/D)pulled (Dm7/C) (Bb)<br />And (C)aimed (C/D)at (C/E)the (F)sky.<br />(Am) (D, accentuate high notes f#-e-f#-g-f#-e)<br /><br />(G)Spirit, you (Bm)moved on the (C)land of my (D)father.<br />The (G)Cherokee (Bm)women lie (C)broken and (F)down.<br />(on D- and G-string: single notes f-g-a)<br />(Bb)Spirit them (Am)on to the (Bb/D)land of their (Am)brothers,<br />(F)Spirit, their (Am/E)mothers&#39; own (Bb/D)blood (Dm7/C) (Bb)<br />Has (C)hal(C/D)lowed (C/E)the (F)ground. <br />(Am) (D, accentuate high notes d-e-f#-g-f#-e)<br /><br />Oh, (C)once it was Mother and (G)God and the country,<br />And (Am)once it was (G)flags and the (B7)Fourth of Ju(Em)ly. (G7)<br />But (C)Spirit, the (D)eagle, is (G)changing his (Bm)course,<br />And I (C)know that the (Bm)horses of (Am)war  (Am7)  (D)  (hold)<br />Finally (G)die. (Bm) (C) (D)<br /><br />(G)Spirit, my (Bm)friend,(C)come on and (D)move me.<br />(G)Spirit, my (Bm)heart lies (C)ready to (F)fly <br />(on D- and G-string: single notes f-g-a)<br />(Bb)Above the (Am)news of the (Bb/D)morning street (Am)paper,<br />(F)Spirit, my (Am/E)arrow is (Bb/D)pulled (Dm7/C) (Bb)<br />And (C)aimed (C/D)at (C/E)the (F)sky.<br />(Am) (D, accentuate high notes d-e-f#-g-f#-e)<br /><br />Oh, (C)once it was Mother and (G)God and the country,<br />And (Am)once it was (G)flags and the (B7)Fourth of Ju(Em)ly. (G7)<br />But (C)Spirit, the (D)eagle, is (G)changing his (Bm)course,<br />And I (C)know that the (Bm)horses of (Am)war  (Am7)  (D)  (hold)<br />Finally (G)die. (Bm) (C) (D) <br />(G)Oohh(Bm)Oohh(C)Oohh(D)Oohh<br />(G)Oohh(Bm)Oohh(C)Oohh(D)Oohh <br />(G)Oohh(Bm)Oohh(C)Oohh(D)Oohh   (G)(hold)Oohh.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

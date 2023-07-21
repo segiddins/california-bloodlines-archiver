@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3298
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:08 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AMERICAN NIGHTS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Playing hint:<br />Use (Em7) and (Cadd9) for variety frequently, as John does in the live<br />version.<br /><br /><br />Capo 2nd fret<br /><br />(Em)  (C)  (Em)<br />Lights of the (C)city<br />Like jewels in the (Em)night,<br />Their music is the (C)siren and the (Em)scream.<br />Faces in the (C)city<br />Won&#8218;t look you in the (Em)eye,<br />The faces of the (C)wounded, faces of the (Em)mean.<br />(C)  (Em)  (C)  (Em)<br /><br />Shadows on the (C)highway,<br />Ravens in the (Em)yard.<br />Who is that (C)coming this (Em)way?<br />Dealers in the (C)school yard<br />In a West Virginia (Em)town,<br />How did things (C)ever, ever get this (D)way?<br /><br />American (C)nights and Ameri(D)can (Em)days.<br />Oh, A(C)meri(D)can (C)nights and Ameri(D)can (Em)days.<br />(C) (Bm)  (C)  (Em)<br /><br />A young mans (C)life<br />Is hanging by a (Em)gun.<br />Everyone should (C)have one, so they (Em)say.<br />He&#8218;d be better (C)off<br />In the front lines of the (Em)war,<br />Safer than he (C)is in the (Em)city here today.<br />(C) (Bm)  (C)  (Em)<br /><br />If Times Square was a (C)circus,<br />Than the animals are (Em)free,<br />Standing in the (C)neon with the (Em)clowns.<br />The slamming of the (C)taxis,<br />And the hookers looking (Em)cool,<br />No one&#8218;s really (C)safe when the (D)circus is in town.(hold)<br /><br />American (C)nights, Ameri(D)can (Em)days.<br />Oh, A(C)meri(D)can (C)nights, Ameri(D)can (Em)days.<br />American (C)nights, Ameri(D)can (Em)days.<br />Oh, A(C)meri(D)can (C)nights&#8721;<br />(Em)  (C)  (Em)  (C)  (Em)  (C)  (Em)  (C)  (Em)<br /><br />And (C)somewhere the river (Em)flows,<br />And (C)somewhere, that&#8218;s all we (Em)know,<br />(C)Someday it will be(Em)gin,<br />Some(C)day, hearts (G)will (D)win.(hold)<br /><br />The American (C)nights, Ameri(D)can (Em)days.<br />A(C)meri(D)can (C)nights, Ameri(D)can (Em)days.<br />Oh, A(C)meri(D)can (C)nights,(hold) American (Em)days.<br />American (C)nights(hold) and American (Em)days.<br />(C)  (Em)  (C)  (Em)  (C)  (Em)  (C)  (Em)  (C)  (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

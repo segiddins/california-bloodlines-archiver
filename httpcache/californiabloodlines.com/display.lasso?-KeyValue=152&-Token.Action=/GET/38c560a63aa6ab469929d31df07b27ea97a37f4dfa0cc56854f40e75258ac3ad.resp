@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2731
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:31 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL AMERICAN GIRL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Willard (Capitol, ST540, 1970)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Parochial school uniforms<br />They don&#39;t have any pearls<br />Any ruffles you can twirl<br />Just the blue serge pressed against her skin<br /><br />Parochial school girls<br />They don&#39;t have any thoughts<br />That they know that they should not<br />They&#39;re afraid that they might die in sin<br /><br />But I wonder what she thinks about<br />When her mother&#39;s turned her night light out<br />Covered with her comforter and curls<br />All American girl<br />All American girl<br /><br />She&#39;s a blue eyed blonde<br />And she knows she&#39;s a queen<br />And her life is but a dream<br />But I wonder what dreams run through her head?<br /><br />She&#39;s a blue eyed blonde<br />Daddy&#39;s girl <br />In her heart she&#39;s ashamed<br />&#39;Cause she knows that she has changed<br />From the dreams that haunt her in her bed<br /><br />Ah, yes, I wonder what she thinks about<br />When her mother&#39;s turned her night light out<br />Covered with her comforter and curls<br />Yes, I wonder what she thinks about<br />When her mother&#39;s turned her night light out<br />Covered with her comforter and curls<br />All American girl<br />All American girl
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

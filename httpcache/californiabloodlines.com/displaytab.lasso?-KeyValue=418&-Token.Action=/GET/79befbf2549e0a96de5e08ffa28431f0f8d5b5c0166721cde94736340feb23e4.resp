@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2774
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ZAPATA&#39;S OWN COMRADES</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C)  (Am) (E)<br />Juanita walks (C/B)down to the (Am)well, she is (Am/G)angry and (F)dry,<br />Where the bandits&#39; own horses are tied in the trees there to (C)hide.(C/B) (Am) (Am/G)<br />And the (C)guns are all (C/B)rusted, the (Am)spirit is (Am/G)bright in her (F)eyes,<br />As Zapata&#180;s own comrades sing out the legend, the (G)song is that he is a(C)live.<br /><br />(F)Viva you (G)Mexico, (C)viva the (Am)hills,<br />The (F)song of the people is (G)singing there (C)still.<br />(F)Viva you (G)Mexico, (C)viva say (Am)I,<br />The (G)song is that he is alive.<br />(C)    (Am)    (E)<br /><br />Ah, (C)Santa Ma(C/B)ria, do the (Am)old women(Am/G) live just to (F)cry?<br />&#180;Cause the men of the mountains go singing the legend, the (G)song is that he is a(C)live.<br />(C)He is the (C/B)eagle, the (Am)wind and the (Am/G)stallion, I (F)cry.<br />He is there in the mountains, he&#180;ll come when we need him.<br />The (G)song is that he is a(C)live.<br /><br />(F)Viva you (G)Mexico, (C)viva the (Am)hills,<br />The (F)song of the people is (G)singing there (C)still.<br />(F)Viva you (G)Mexico, (C)viva say (Am)I,<br />The (G)song is that he is alive.<br />(F)Viva you (G)Mexico, (C)viva the (Am)hills,<br />The (F)song of the people is (G)singing there (C)still.<br />(F)Viva you (G)Mexico, (C)viva say (Am)I,<br />The (G)song is that he is alive.<br /><br />(C)(C/B)(Am)Heeee (Am/G)(F)heeee,<br />(C)(C/B)(Am)Heeee (Am/G)(F)heeee,<br />(C)(C/B)(Am)Heeee (E)heeee.(Am) <br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

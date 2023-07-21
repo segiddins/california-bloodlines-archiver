@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3295
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SOME LONESOME PICKER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Play (D) chord, moving [bass notes]:<br /><br />[D] [C] [hammer on B] [hammer on Bb]<br />[D] [C] [hammer on B] [hammer on Bb]<br />[D] [C] [hammer on B] [hammer on Bb]<br />(continue pattern into verse, using hammer-ons occasionally,<br />more often clean notes)<br /><br />I [D]often get the [C]feeling that I&#39;m [B]talking to the [Bb]wind<br />And no-one [D]hears, [C] [B]no-one listens [Bb]in.<br />Then [D]I start singing [C]songs<br />And the [B]music makes the [Bb]whole world feel like [D]home,<br />[C] [B] Sing a [Bb]song and you&#39;re not a[D]one.<br />[C] [hammer on B] [hammer on Bb]<br /><br />[D] Lilly Mc[C]Lean, you are [B]standing in the [Bb]rain<br />And you are [D]cold, [C] you are [B]hungry and a[Bb]fraid.<br />You are [D]waiting for a [C]sunrise,<br />A [B]sunrise makes you [Bb]feel so very [D]small.<br />[C] [B] Darling [Bb]Lilly, aren&#39;t we [D]all? (D-chord)<br /><br />(chords)<br />Oh I&#39;m be(G)liev(D)ing, be(G)lie(A7 short)(Bm)ving,<br />Be(G)lieving that (Em)even when I&#39;m (Em7)go(A7)ne,<br />(back to bass note pattern with (D) chord...)<br />Maybe [D]some lonesome [C]picker will<br />[B] Find some [Bb]healing in this [D]song.<br />[C] [hammer on B] [hammer on Bb]<br /><br />[D] Julie get the [C]gun, Julie [B]throw it in the [Bb]river,<br />Let it [D]roll [C] [B]far on out to [Bb]sea.<br />Let it [D]carry the con[C]fusion,<br />The [B]hatred and the [Bb]worry here in [D]me,<br />[C] [B] River [Bb]rolling out to [D]sea. (D chord)<br /><br />(chords)<br />Oh I&#39;m be(G)liev(D)ing, be(G)lie(A7 short)(Bm)ving,<br />Be(G)lieving that (Em)even when I&#39;m (Em7)go(A7)ne,<br />(back to bass note pattern with (D) chord...)<br />Maybe [D]some lonesome [C]picker will<br />[B] Find some [Bb]healing in this [D]song.<br />[C] [hammer on B] [hammer on Bb]<br /><br />Maybe [D]some lonesome [C]picker will<br />[B] Find some [Bb]healing in this [D]song.<br />[C] [hammer on B] [hammer on Bb]<br /><br />I hope that [D] some lonesome [C]picker will<br />[B] Find some [Bb]healing in this [D])song.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

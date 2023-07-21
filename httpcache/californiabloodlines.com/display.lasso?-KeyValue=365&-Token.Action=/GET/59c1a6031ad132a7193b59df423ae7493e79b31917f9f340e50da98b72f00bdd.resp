@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2501
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:42 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RUNAWAY SONG</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Something Else (The Kingston Trio - 1965, Decca DL4694/74694)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I ain&#39;t asking to cry on your shoulder<br />I don&#39;t want to see your happiness folder<br />I gotta sing when things go wrong<br />I gotta sing a runaway song<br /><br />And I run, (run, run, run) run away<br />I run, (run, run, run) run away<br />Fly, fly away<br />Sneak away, fly away<br />Watch me as I get away<br />Anyway I can run away<br /><br />Don&#39;t need a man with a pocketful of causes<br />Says he knows who Santa Claus is<br />Talking &#39;bout a war I should renounce<br />Over in a country with a name I can&#39;t pronounce<br /><br />And I run, (run, run, run) run away<br />I run, (run, run, run) run away<br />Fly, fly away<br />Sneak away, fly away<br />Watch me as I get away<br />Anyway I can run away<br /><br />I run, run away<br />I run, (run, run, run) run away<br />Fly, fly away<br />Anyway I can run away
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3498
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:13 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WAITING FOR CASTRO TO DIE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It&#39;s midnight in Havana, there&#39;s a party on the streets<br />Nylons on the sea wall, music on the beach<br />It&#39;s midnight in Havana, young girls in the streets<br /><br />Will someone dance fandango yeah, with Epiphany tonight<br />I believe that she needs someone to make her feel that it&#39;s alright<br />Will someone dance fandango yeah, with Epiphany tonight<br /><br />She has seen the boats go out from the dark beach late at night<br />She believes she saw the glow of the blue Miami lights<br />She has seen the boats row out from the dark beach late at night<br /><br />And though the revolution came way before her time<br />There is a resolution to the old man&#39;s party line<br />Oh, the revolution came and it has had it&#39;s time<br /><br />Waiting for Castro to die, waiting for Castro to die<br />And oh, it should be magic yeah, in the morning sky<br />And oh, it should be magic yeah, in every young girls eyes<br />And oh, it should be magic as they&#39;re waiting for Castro to die<br /><br />The sands of Varadero are lined with diamond dust<br />Blondes read German novels yeah, Yankee dollars are discussed<br />The sands of Varadero the one the Euros trust<br /><br />She could ride the railroad yeah, that robbed the sugar cane<br />Take pictures of Guantanamo before the hurricane <br />She could ride the railroad yeah, who&#39;s steam would feel like rain<br /><br />Waiting for Castro to die, waiting for Castro to die<br />And oh, it should be magic yeah, in the morning sky<br />And oh, it should be magic yeah, in every young girls eyes<br />And oh, it should be magic as they&#39;re waiting for Castro to die<br /><br />It&#39;s midnight in Havana, there&#39;s a party on the streets<br />Nylons on the sea wall, music on the beach<br />It&#39;s midnight in Havana, young girls in the streets<br /><br />Waiting for Castro to die<br />Waiting for Castro to die<br />Waiting for Castro to die
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

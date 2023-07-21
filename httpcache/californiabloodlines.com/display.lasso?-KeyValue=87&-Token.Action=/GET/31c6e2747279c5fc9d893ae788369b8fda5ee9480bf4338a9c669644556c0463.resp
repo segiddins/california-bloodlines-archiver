@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2938
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PROMISE THE WIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Fire in the Wind (RSO, RSO SUPER 2394 194, 1977)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>He was born again in the Georgia wind<br />The eldest son of Miss Lillian<br />He was born to win with his Georgia grin<br />You just sell &#39;em the Lord and you promise the wind<br />Sell &#39;em the Lord and you promise the wind<br /><br />And he said &quot;I&#39;m the one&quot; in the Georgia sun<br />&quot;Oh, Georgia dirt farmers, there&#39;s work to be done&quot;<br />He said &quot;Rosalynn, keep on smiling<br />You just sell &#39;em the Lord and you promise the wind&quot;<br />Sell &#39;em the Lord and you promise the wind<br />Sell &#39;em the Lord and you promise the wind<br />Sell &#39;em the Lord and you promise the wind<br /><br />And across the fields of Plains <br />Good old boys walking home in the rain<br />And there&#39;s redneck Billy and beer<br />Don&#39;t look like something&#39;s going on here<br />But there&#39;s a man there out to win<br />Banking on his Georgia grin<br />Oh, it&#39;s so easy to sucker us in<br />Sell us the Lord and you promise the wind<br />Sell us the Lord and you promise the wind<br /><br />He was born again in the Georgia wind<br />The eldest son of Miss Lillian<br />He was born to win with his Georgia grin<br />You just sell us the Lord and you promise the wind<br />Sell us the Lord and you promise the wind<br />Sell us the Lord and you promise the wind<br />Sell us the Lord and you promise the wind
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

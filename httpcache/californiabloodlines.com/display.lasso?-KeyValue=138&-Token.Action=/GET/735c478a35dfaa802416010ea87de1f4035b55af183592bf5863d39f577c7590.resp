@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2615
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:17 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SOME LONESOME PICKER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>California Bloodlines (Capitol, ST203, 1969)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I often get the feeling that I&#39;m talking to the wind<br />And no-one hears, no-one listens in<br />Then I start singing songs <br />And the music makes the whole world feel like home<br />Sing a song and you&#39;re not alone<br /><br />Lilly McLean, you are standing in the rain <br />And you are cold, you are hungry and afraid<br />You are waiting for a sunrise<br />A sunrise makes you feel so very small<br />Darling Lilly, aren&#39;t we all?<br /><br />Oh I&#39;m believing, believing<br />Believing, that even when I&#39;m gone<br />Maybe some lonesome picker will<br />Find some healing in this song<br /><br />Julie get the gun, Julie throw it in the river <br />Let it roll far on out to sea<br />Let it carry the confusion<br />The hatred and the worry here in me<br />River rolling out to sea<br /><br />Oh I&#39;m believing, believing<br />Believing, that even when I&#39;m gone<br />Maybe some lonesome picker will<br />Find some healing in this song<br /><br />Maybe some lonesome picker will<br />Find some healing in this song
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

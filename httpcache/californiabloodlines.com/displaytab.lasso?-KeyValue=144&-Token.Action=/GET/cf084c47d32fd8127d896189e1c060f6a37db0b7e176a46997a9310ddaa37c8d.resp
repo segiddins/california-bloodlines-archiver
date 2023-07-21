@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3049
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JULIE, JUDY, ANGEL RAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C,b-hammer on c-b-hc) (F,b-hc-b-hc) <br />(C,b-hc-b-hc) (F,b-hc-b-hc)<br />(C) Julie, Judy, (F)Angel Rain, (G)<br />I&#39;m on the road a(C)gain.(b-hc-b-hc)<br />Julie, Judy, (D7)Angel Rain, (G)<br />I&#39;m on the road a(C)gain.(b-hc-b-hc) (F,b-hc-b-hc)<br /><br />(Am) Julie was my (G)woman,<br />(Dm) We never (G)laughed or (C)cried.<br />(Am) Julie was my (G)woman<br />(F) Who never (G)looked in(C)side.<br />(F) Now my woman&#39;s (Em)Angel Rain,<br />(Dm) She&#39;s the one who (G)drives me sane<br />And (C)understands when (G/B)I go chase<br />Some (Bb)endless, (Eb)hopeless (G)train.(G4) (G5) (G7)<br /><br />Oh, (C) Julie, Judy, (F)Angel Rain, (G)<br />I&#39;m on the road a(C)gain.(b-hc-b-hc)<br />Julie, Judy, (Dm)Angel Rain,<br />(Em)(hold)You are the loved ones,<br />(A)(hold)Face it, friends,<br />(Dm)I won&#39;t find the (G)like (hold)<br /><br />OR PLAY<br />E------------------<br />B-----3------3-----<br />G---0-----0-------0<br />D 5-----4------0---<br /><br />Where the highway (C)ends.(b-hc-b-hc)<br />(F,b-hc-b-hc) (C,b-hc-b-hc) (F,b-hc-b-hc)<br /><br />(Am) Judy was my (G)lover,<br />(Dm7) A flicker (G)in the (C)dark.<br />(Am) Judy&#39;s songs(G) in the early dawn<br />(Dm) Play a(G)cross my (C)heart.<br />(F) Now my lover&#39;s (Em)Angel Rain<br />(Dm) Who stayed with me<br />Through (G)all the change<br />And (C)knows the wind that (G/B)blows within<br />Is (Bb)driving (Eb)me in(G)sane. (A)<br /><br />Oh, (D) Julie, Judy, (Em)Angel Rain, (A)<br />I&#39;m on the road a(D)gain.<br />Julie, Judy, (Em)Angel Rain, (A)<br />I&#39;m on the road a(D)gain.<br /><br />Julie, Judy, (Em)Angel Rain, (A)<br />I&#39;m on the road (D) back again.<br />Julie, Judy, (Em)Angel Rain, (A)<br />I&#39;m on the road ag(D)ain. <br />(Em) (A7) (D)   (Em) (A) (D) hmms and out.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

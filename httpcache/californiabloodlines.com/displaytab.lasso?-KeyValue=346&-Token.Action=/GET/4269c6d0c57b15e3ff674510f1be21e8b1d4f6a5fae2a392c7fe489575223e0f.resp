@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3830
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ROCKIN&#39; AS THE NIGHT ROLLS ON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (D) (Em)(Em) (C) (G)<br />Friday night is breaking,<br />And I&#8218;m (C)working till a quarter to (G)five.<br />Gonna give the (G/B)world fair (Em)warning,<br />We&#8218;re going to (Am7)celebrate being a(D)live.<br /><br />(G)Out on the misty (G7)morning<br />When the (C)last brave star is(A7short)gone,<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on.(D)[seven fast downstrokes]<br /><br />(G)Hot rods out on the highway,<br />(C) A caravan gone (G)mad,<br />Annie on the (G/B)seat be(Em)side me,<br />It&#8218;ll be the (Am7)best night we ever (D)had.<br /><br />And (G)on to the misty (G7)morning<br />When the (C)straights all rise at (A7short)dawn,<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on.(D)[seven fast downstrokes]<br /><br />(G)Rockin&#8218; as the night rolls on,<br />Rockin&#8218; as the night rolls (D)on.<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on. (D)<br />(G)  (G7)  (C)  (G)   (G/B) (Em)  (Am7)  (D)  (G)  (G7)  (C)  (A7)<br /><br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on.(D)[seven fast downstrokes]<br /><br />Aw, (G)Annie, can you drown a heartache?<br />(C)This boy&#8218;s going to (G)try.<br />Five days (G/B)workin&#8218; for the (Em)weekend<br />For the (Am7)thrills that you just can&#8218;t (D)buy.<br /><br />Then it&#8218;s (G)on to the misty (G7)morning,<br />Oh, (C)Annie, when we&#8218;re drained and (A7short)gone,<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on.(D)[seven fast downstrokes]<br /><br />(G)Rockin&#8218; as the night rolls on,<br />Rockin&#8218; as the night rolls (D)on.<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />Just (G)rockin&#8218; as the (D)night rolls (G)on.(D)[seven fast downstrokes]<br />(G)Rockin&#8218; as the night rolls on,<br />Rockin&#8218; as the night rolls (D)on.<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song, (hold)<br />Weeelll, we&#180;re just (G)rockin&#8218; as the (D)night rolls (G)on<br /><br />Rockin&#8218; as the night rolls on,<br />Rockin&#8218; as the night rolls (D)on.<br />You (G)can&#8218;t go (D)wrong with a (Em)rock &#338;n roll (C)song,<br />(G)Rockin&#8218; as the (D)night rolls (G)on
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

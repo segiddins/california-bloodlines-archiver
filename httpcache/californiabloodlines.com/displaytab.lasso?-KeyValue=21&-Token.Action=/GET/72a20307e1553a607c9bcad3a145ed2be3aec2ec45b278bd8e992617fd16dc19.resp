@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3455
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:01 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WAITING FOR SAINTS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)<br />Out across the heartland, yeah,<br />People on the move.<br />Sometimes, ah, they can&#39;t win,<br />And sometimes, ah, they can&#39;t lose.<br />And (D)sometimes they are hopeless, yeah,<br />And sometimes they are blue,<br />(Am) Sometimes they are looking<br />A (E7)lot like me and you. (Am)<br />(D)  (Am)  (D)  (Am)<br /><br />You say you like my moves,<br />But you don&#39;t like my style.<br />You say you like my shoes,<br />But you don&#39;t like my smile.<br />Oh, (D)you are Mister Perfect, yeah,<br />They don&#39;t make that kind,<br />(Am) When I start open up your eyes<br />Unless you&#39;re (E)deaf and dumb and blind.<br /><br />Are you (Am) waiting for saints<br />To be born in the light?<br />But they (E)are not born,<br />They just appear<br />And walk out of the (Am)night.<br />(D) (Am)  (D) (Am)  (D) (Am)  (D)<br /><br />(Am) I guess you were lonely,<br />So you fell in love.<br />That&#39;s what you had told me, yeah,<br />When push had come to shove.<br />You&#39;re (D)always disappointed, yeah,<br />They never measure up.<br />Well, (Am)get your list of all you&#39;ve missed<br />And (E) come and fill your cup.<br /><br />Are you just (Am) waiting for saints<br />To be born in the light?<br />But they (E)are not born,<br />They just appear<br />And walk out of the (Am)night.<br />(D) (Am)  (D) (Am)  (D) (Am)  (D)<br /><br />(Am) If you knew the grass is greener,<br />You ain&#39;t got a clue.<br />What you got is mighty hot<br />And good enough for you.<br />So, (D)why not just surrender, yeah?<br />It&#39;s one thing you can do.<br />(Am) Take a friend and then you kiss,<br />(E)What have you got, what have you got to lose?<br /><br />And you are (Am) waiting for saints<br />To be born in the light?<br />But they (E)are not born,<br />They just appear<br />And walk out of the (Am)night.<br /><br />Are you waiting for saints<br />To be born in the light?<br />But they (E)are not born,<br />They just appear<br />And walk out of the (Am)night. (D) (Am)<br /><br />Waiting for (D)Saints,(Am)<br />Waiting for (D)Saints,(Am)<br />Waiting for (D)Saints,(Am)<br />Waiting for (D)Saints.(Am)<br />(D) (Am)  (D) (Am)  (D) (Am)<br />(D) (Am)  (D) (Am)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

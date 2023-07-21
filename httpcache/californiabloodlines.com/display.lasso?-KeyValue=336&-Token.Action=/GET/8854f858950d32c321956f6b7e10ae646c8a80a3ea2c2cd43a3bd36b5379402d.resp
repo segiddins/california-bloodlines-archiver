@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2782
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:37 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WALTZ OF THE CRAZY MOON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Buster (Neon Dreams, 2000)<br />Johnny Moonlight (Neon Dreams, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Diva morning and the new moon rising<br />Who will take the silver spoon?<br />Honey thighs on satin lying,<br />In the light of the crazy moon.<br /><br />Oranges soaked in their own juices<br />Licking lips of voices sung.<br />Magic trips on velvet cruises<br />Sainted slaves of our own tongues.<br /><br />Strangers who meet by chance<br />Eyes across the room<br />Remain the prisoners of the dance<br />And the waltz of the crazy moon<br /><br />Inner thighs and magic angels<br />Looking out on Harvard Square<br />Penny wise the pale white strangers<br />Were the only faces there.<br /><br />Lay me down in blond warm shadows<br />Speak to me of golden pond<br />Torture me slow blue tangos<br />Even when the thrill is gone.<br /><br />Strangers who meet by chance<br />Eyes across the room<br />Remain the prisoners of the dance<br />And the waltz of the crazy moon<br /><br />Connection made<br />The feel of shoulders<br />The smell of honey, salt and tears.<br />Blinded by a flash of lightning,<br />A moment or a million years.<br /><br />Strangers who meet by chance<br />Eyes across the room<br />Remain the prisoners of the dance<br />And the waltz of the crazy moon
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

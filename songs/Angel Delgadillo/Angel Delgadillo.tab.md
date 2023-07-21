@@ -1,0 +1,51 @@
+(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)
+(C)I was talking to (Dm7)Angel,
+(F)Angel Delga(G)dillo,
+(F)Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.
+(C)Angel Delga(Dm7)dillo
+In Se(F)ligman, Ari(G)zona,
+Se(F)ligman, Ari(G)zona (F) on the Blue (C)Dream (G)Road.
+
+(C)Angel, he«s the (Dm7)barber there,
+Since (F) 1950 (G)cutting hair.
+(F)Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.
+(C)On the wall the (Dm7)old clock ticks
+(F)Away the days on (G)Sixty-Six
+(F)In Seligman, Ari(G)zona, (F) and the Blue (C)Dream (G)Road.
+
+(F)He remembers (G)`78
+(C)When they opened (G)up the (Dm7)interstate
+That (F)ran around Se(G)ligman (F) and the Blue (C)Dream (G)Road.
+(F)And Angel sits to (G)watch the road,
+Says,(C) "They«ll come (G)back one (Dm7)day, you know,
+(F)To Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road."
+(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)
+
+(C)Angel played the (Dm7)saxophone,
+(F)Juan and Lucy (G)played their own
+In (F)Seligman, Ari(G)zona, (F) on the Blue (C)Dream (G)Road.
+(C)They played "Moonlight (Dm7)Serenade"
+And (F)talked about the (G)plans they made
+(F)With Angel Delga(G)dillo (F) on the Blue (C)Dream (G)Road.
+
+(C)It«s a story as (Dm7)old as time,
+The (F)road and the people (G)left behind
+(F)In Seligman, Ari(G)zona (F) on the Blue (C)Dream (G)Road.
+(C)From around the world they be(Dm7)gan to come
+(F)To find the road, and (G)one by one
+(F)Find Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road.
+
+(F)For he remembers (G)`78
+(C)When they opened (G)up the (Dm7)interstate
+That (F)ran around Se(G)ligman (F) and the Blue (C)Dream (G)Road.
+(F)And Angel sits to (G)watch the road,
+Says,(C)"They«ll come (G)back one (Dm7)day, you know,
+(F)To Angel Delga(G)dillo (F)and the Blue (C)Dream (G)Road."
+(C)  (Dm7)  (F)  (G)  (F)  (G)  (F)  (C)(G)
+
+(C)I was talking to (Dm7)Angel,
+(F)Angel Delga(G)dillo,
+(F)Angel Delga(G)dillo (F) and the Blue (C)Dream (G)Road.
+(C)Angel Delga(Dm7)dillo
+(F)In Seligman, Ari(G)zona,
+(F)Seligman, Ari(G)zona, (F) and the Blue (C)Dream (G)Road.(C)

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3398
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:56 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LILLY AND JOE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret, drop D tuning<br /><br />[Em7/D - play (em7) and include<br />low E-string string tuned down to D]<br /><br />(D) (Em7/D) (D)(Em7/D) (D) (Em7/D) (D)(Em7/D)<br /><br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(E7/B) Lilly and (A7 short)Joe.<br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(A7) Lilly and (D)Joe. (D/A)(Em7/B) (D) (G5)<br /><br />(G) Lilly would (F#m)paint on the (Em)walls (A7short)of her (D)room,<br />(Bm) Pictures of the (F#m)sun, (Em)using (A)only (D)blue.<br />(G) She said it was be(F#m)cause the (Em)sun must (A7 short)be so (D)lonely<br />(Bm) With no one there to (F#m)share <br />Such a (Em7)never (E7/B)ending (A)view.(A7short)<br /><br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(E7/B) Lilly and (A7 short)Joe.<br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(A7) Lilly and (D)Joe. (Em7/D) (D) (Em7/D) (D) (Em7/D) (D) (G5)<br /><br />(G)Hitchhike any (F#m)road, (Em) (A7short)who do you (D)find?<br />(Bm) Orphans on the (F#m)run, (Em) they (A7short)were her (D)kind.<br />(G) Poets and (F#m)hobos, (Em)(A7short)Hershey&#39;s and (D)wine,<br />(Bm)Lilly, she was (F#m)loved and (Em7)for(E/B)gotten (E7/B)by (A)time.<br /><br />Oh, I be(D)lieve she be(Em7/D)lieved<br />We would (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(E7/B) Lilly and (A7 short)Joe.<br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(A7) Lilly and (D)Joe.<br /><br />Oh, I believe she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(E7/B) Lilly and (A7 short)Joe.<br />Oh, I be(D)lieve she be(Em7/D)lieved<br />That we&#39;d (D)all live for(Em7/D)ever,<br />(D) Both of us to(Em7/D)gether,<br />(A7) Lilly and (D)Joe. (Em7/D) (D) (Em7/D) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

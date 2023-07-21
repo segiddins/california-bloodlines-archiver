@@ -1,0 +1,69 @@
+D2/C 
+E--------------
+B-------3------
+G----2---------
+D--------------
+A------3-------
+E--x-----------
+
+Em7 (in this song)
+E-------------
+B------3------
+G-------------
+D-------------
+A----2--------
+E-x-----------
+
+Picking pattern for (A)
+E---------------------
+B----2----------------
+G----2----------------
+D----2--2-3-5-4-------
+A---------------------
+E---------------------
+
+Picking pattern for (D)
+E------2------------------
+B---------3---------------
+G-----2--------------3----
+D------------0--0-4---4---
+A-------------------------
+E-------------------------
+
+
+Capo 3rd fret
+
+(D)  (A)  (D)  (A)  (D)     (A)  (D)  (A)  (D)
+Naked in the sun, that's (D2/C)how she runs,
+(Em7)Rocking my heart like the (A7short)beat of a drum.
+(D)Look at the sunlight (D2/C)dance on her hair,
+(Em7)Over and over, I (A7short)stand there and stare,
+And I (Bm)( hold) look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun.
+
+She is morning thunder and (D2/C)it's my hunger,
+(Em7)Making me feel like I'm (A7short)ten years younger.
+(D)Lay me away any(D2/C)time night or day,
+(Em7)Good god almighty, I (A7short)can't get away…
+I just (Bm)(pause) look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun.
+
+She is (G)morning thunder and (A)it's no wonder
+I (D)can't get (F#m)my work (Bm)(hold)done,
+I just look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun.
+(A)  (D)  (A)  (D)
+
+(Bm)(hold)Still I heed the (F#m)(hold)mustang creed
+Whose (G)(hold)days have (A)(hold)known no (D)(hold)rain,
+I (Bm)(hold)used to run with the (F#m)(hold)rising sun
+When the (G)(hold)nightmares (A)(hold)call my (D)(hold)name.
+
+Now I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun,
+Oh, I look at her (A)run, naked in the (D)sun…
+(A) (D) (A) (D) (and fade)

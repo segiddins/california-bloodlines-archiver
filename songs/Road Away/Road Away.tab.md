@@ -1,0 +1,72 @@
+(C/G)
+E-------------
+B--1----------
+G-----2-------
+D-------------
+A---------3---
+E---------3---
+
+
+(F)(F/E)(Dm) (F)(F/E)(Dm) (F)(F/E)(Dm) (F) (Am) (Bb) (C)
+
+Well he (F)left his (Bb)home in (C)San Jose,
+He was (F)just a (Bb)boy of (C)nine,
+And he'd (F)only (Bb)gone a (C)mile to (Dm)find
+(F) He didn't (Bb)have a (C)dime,
+He didn't have a (Dm)dime.  (C) (C7) (C/G) (C)
+
+He said, (F)"Mamma, have you (Bb)got a (C)dollar?
+Oh, (F)Mamma when you're (Bb)off the (C)phone."
+Oh, but (F)Mamma kept (Bb)talkin'
+And the (C)boy kept (Dm)walkin'
+(F) Without a (Bb)road of his (C)own.
+Oh, no, no, (Dm)no,
+Mamma don't you (C)know…(C7) (C/G) (C) (hold)
+
+That you're takin' my (Bb)road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own.
+You're takin' my (Bb)road a(F)way,
+(Bb)Ooh, (F)road away.
+(Gm)You got a (C)road of your (F)own, your (Dm)own,
+(Bb) You got a (C)road of your (F)own.(F/E)(Dm)  (F) (C) (Bb) (C)
+
+Then he (F)came to the (Bb)Mission (C)San Luis Rey,
+Lupe (F)Jones was (Bb)doing (C)well.
+She (F)owned a (Bb)Ford and (C)served the (Dm)Lord
+And (F)rang the (Bb)mission (C)bell,
+Rang the mission (Dm)bell.
+La-da-da-da-de-do-(C)da-da-(C7)da. (C/G) (C)
+
+She (F)turned him (Bb)on
+And she (C)turned him down,
+And she (F)turned him (Bb)over (C)slowly.
+“Ah, (F)stay with (Bb)me and I'll (C)fill your (Dm)needs”,
+The (F)boy, he (Bb)answered (C)lowly,
+"No, no, (Dm)no,
+Lupe don't you (C)know…(hold)
+
+You're takin' my (Bb) road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own.
+You're takin' my (Bb)road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own, your (Dm)own,
+(Bb) You got a (C)road of your (F)own.(F/E)(Dm)  (F) (C) (Bb) (C)
+
+Ah, you're takin' my (Bb)road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own,
+You're takin' my (Bb)road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own, your (Dm)own,
+(Bb) You got a (C)road of your (F)own.(F/E)(Dm)  (F) (C) (Bb) (C)
+
+Oh, takin' my(Bb) road a(F)way,
+(Bb)Ooh, (F)road away,
+(Gm) You got a (C)road of your (F)own,
+You're takin' my (Bb)road a(F)way,
+(Bb)Oh, (F)road away,
+(Gm) You got a (C)road of your (F)own, your (Dm)own,
+(Bb) You got a (C)road of your (F)own.(F/E)(Dm)
+Ahhhhh...” (Bb) (F) (Bb) (F) (Gm) (C) (F) (Bb) (F) (Bb) (F) (Gm) (C) (F)

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3112
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DREAMERS ON THE RISE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Last Campaign (Homecoming, 300, 1985)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>&quot;The kids waved from the curbstones as a piece of history rolled by<br />for these were the things that dreams were made of.&quot;<br /><br />Ah, once<br />We were dreamers on the rise<br />We were the sun<br />Where the sun never shines<br />And we were gold<br />Where the night bird only flies<br />Oh, that&#39;s a long time you know<br />For that kind of wind to blow<br />A long time ago<br />We were dreamers on the rise<br /><br />And twice<br />We said we&#39;d begin again<br />And we made a vow<br />That we&#39;d remain as friends<br />And fallen down<br />We said we shall rise again<br />Ah, that&#39;s a long time you know<br />For that kind of wind to blow<br />A long time ago<br />We were dreamers on the mend<br />A long time ago<br />We were dreamers on the mend<br /><br />And if three<br />Wishes came into my life<br />I&#39;d say one<br />Was to gaze into your eyes<br />And I&#39;d say two<br />Would be turning back our lives<br />And three&#39;s a long way to go<br />For that kind of wind to blow<br />A long time ago<br />We were dreamers on the rise<br />A long time ago<br />We were dreamers on the rise<br /><br />Ah, once<br />We were dreamers on the rise<br />We were the sun<br />Where the sun never shines<br />And we were gold<br />Where the night bird only flies<br />Oh, that&#39;s a long time you know<br />For that kind of wind to blow<br />A long time ago<br />We were dreamers on the rise<br />A long time ago<br />We were dreamers on the rise<br />A long time ago<br />We were dreamers on the rise
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

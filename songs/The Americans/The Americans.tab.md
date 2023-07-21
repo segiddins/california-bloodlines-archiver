@@ -1,0 +1,44 @@
+Beginning at the end of the first verse, there is an additional guitar
+capoed at 7, played in D -- just transpose accordingly for that high, jingly sound
+that's  on the cut. It's almost a "Here Comes the Sun" sort of sound.
+
+Bass notes  A  EED  DEA  EED  DE leading to 
+(A)  (A/E)(A/E)(D)  (D)(A/E)(A/E)(A)  (A)(A/E)(A/E)(D) (hold)
+There are(A)heroes on the streets of (D)New York,
+(A)Heroes on the (F#m)planes who(D)won't come (E)home.
+(A)Heroes all the guys who rode (D)engine number nine,
+The (Bm)heroes that will (E)never be (A)known, (F#m)
+(D)Heroes who will (E)never be (A)known.
+(A/E)(A/E)(A/E)(D)  (D)(A/E)(A/E)(A) (A)(A/E)(A/E)(D) (hold)
+
+And they were (A)watching from the farms of (D)Kansas,
+(A)Watching from the (F#m)homes of (D)Ohi(E)o,
+(A)Watching from the schools out on (D)Second Avenue,
+The (Bm)heroes that will (E)never be (A)known, (F#m)
+(D)Heroes that will (E)never be (A)known.  (F#m) (D) (E)
+
+(A/C#))Here's (E/B)to the (D)Americans,
+(A)Born in the (F#m)land of the (Bm)brave and the (E)free.
+(A/C#))Here's  (E/B)to the (D)Americans,
+Sure they (A)look a whole (F#m)lot like (E)you and (A)me.
+(A/E)(A/E)(A/E)(D)  (D)(A/E)(A/E)(A)  (A)(A/E)(A/E)(D)
+ 
+(G) Don't they know who we (F#m)are?
+(G) Don't they know who we've (F#m)been?
+(G) In every (A)city and (D)farm, (Bm)
+(G) All the (A)women and (D)men,
+Who were (G)born at the time of holding the line,
+And we'll (Em)do it again and (A)again.  (E)
+ 
+And (A/C#)we (E/B)are the (D)Americans,
+(A)Born in the(F#m)land of the (Bm)brave and the (E)free.
+(A/C#)We (E/B)are the (D)Americans,
+And we (A)look a whole (D)lot like (E)you and (A)me.
+
+(E/B)Oh,  (A/C#)we (E/B)are the (D)Americans,
+(A)Born in the (F#m)land of the (D)brave and the (E)free.
+(A/C#))We (E/B)are the (D)Americans,
+Sure we (A)look a whole (D)lot like (E)you and (A)me,
+Sure we (A)look a whole (D)lot like (E)you and (A)me.
+ 
+Oh, we(hold) are the (D)Americans… (A)

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2827
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:30 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MUCKY TRUCKEE RIVER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Signals Through the Glass (Capitol 2975, 1968)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Perhaps we waited just too long<br />With all our euphemistic songs<br />For the green grass of home<br />Is all concrete and stone<br />And there&#39;s nothing for the wind<br />To gather where it&#39;s blown<br /><br />No one reads the papers any more <br />They are nothing more than lectures on the war<br />And those who hold the hope<br />They just sit and smoke their dope<br />And they talk of where it&#39;s at<br />And all the books they never wrote<br /><br />And the mucky Truckee River sings to me<br />The mucky Truckee River sings to me<br />Here live the hearts of where you long to be<br />The mucky Truckee River sings to me<br /><br />It seems that everyone you meet<br />Talks about the fighting in the street<br />But no one has the time<br />And the patriots you find<br />Are those pink poodle&#39;d people<br />Of Sunset and Vine<br /><br />And the mucky Truckee River sings to me<br />The mucky Truckee River sings to me<br />Here live the hearts of where you long to be<br />The mucky Truckee River sings to me<br /><br />Perhaps we waited just too long<br />With all our euphemistic songs<br />For the green grass of home<br />Is all concrete and stone<br />And there&#39;s nothing for the wind<br />To gather where it&#39;s blown
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

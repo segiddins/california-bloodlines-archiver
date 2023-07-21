@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3085
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:33 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CHINA DANCER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Escape to Arizona (Homecoming, 800, 1993)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Johnny Echo is a soldier, got a Sony in his hand<br />And he puts it on his shoulder, finds the action if he can<br />Yeah, Johnny caught the dancer, yeah, he shot her in the sun<br />Yeah, Johnny has the answer, use a camera not a gun<br />Use a camera not a gun<br />Use a camera not a gun<br /><br />And he said you are the revolution<br />Said you are the revolution<br />Said have you got the answer<br />Ooooh, China dancer<br /><br />Johnny&#39;s on the front lines, dancer&#39;s on the wire<br />Johnny caught the headline, dancer caught the fire<br />Oh, he met her up in Berlin or was it Mandolay <br />He said baby where have you been, gonna beam you up today<br />Gonna beam you up today<br />Gonna beam you up today<br /><br />And he said you are the revolution<br />Said you are the revolution<br />Said have you got the answer<br />Ooooh, China dancer<br /><br />Then you shoot &#39;em in the plaza and you shoot &#39;em on the wall<br />Shoot &#39;em on the singles, there ain&#39;t no light at all<br />You shoot &#39;em by the torches and you shoot &#39;em being free<br />You shoot &#39;em to the satellite so everyone can see<br />China Dancer<br /><br />Freedom is a dancer just trying to get the light<br />Johnny has the answer, gonna beam you up tonight<br />Gonna beam you up tonight<br />Gonna beam you up tonight<br /><br />And he said you are the revolution<br />Said you are the revolution<br />Said you have the answer<br />Ooooh, China dancer<br />China Dancer<br />China Dancer<br />China Dancer
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

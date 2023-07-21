@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3972
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:33 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>The Day the River Sang</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>They were travelers in the night<br />They&#39;re the ones who held the light<br />And they whispered it&#39;s alright<br />And the Promise came<br /><br />And there are those who rode the line<br />They&#39;re the keepers of the wine<br />It all happens in good time<br />And the Promise rang<br />The Day the River Sang<br /><br />And the day I first found you<br />That&#39;s when I heard the clues<br />And I knew that it was true<br />When the Promise came<br /><br />And we stood beneath the trees<br />Where the Vision was to be<br />And it was only you and me<br />And the Promise came<br />The Day the River Sang<br />The Day the River Sang<br /><br />We were blessed, we were bruised<br />We were taken by the news<br />And oh oh oh<br />When the Promise came<br />The Day the River Sang<br />The Day the River Sang<br /><br />And the day that the cripple stood<br />By the man who knew he would<br />But no one thought he could<br />And the Promise rang<br /><br />And hearts can win the race<br />Just show a little faith<br />Like Mary full of Grace<br />And the Promise came<br />The Day the River Sang<br />The Day the River Sang<br /><br />And you can almost touch the stars<br />Like the moon in your back yard<br />And we played our old guitars<br />And the Promise rang<br /><br />And secrets kept within<br />Like there&#39;s no way to win<br />When did love become a sin<br />And the Promise came<br />The Day the River Sang<br />The Day that the River Sang<br /><br />Send me the doctors&#39; names<br />Who really are to blame<br />If the junkies live in pain<br />And the Promise rang<br />The Day the River Sang<br />The Day the River Sang<br /><br />And if we could all agree<br />That we should all be free<br />If we could let it be<br />And the Promise came<br />Today the River Sang<br />The Day the River Sang<br />The Day the River Sang<br /><br /><br />Additional verses in the album booklet<br /><br />When victory is ours<br />We&#39;re watching from the towers<br />Counting down the hours<br />Till the Promise rang<br />The Day the River Sang<br /><br />When women shared the rings<br />To sanctify the thing<br />It is love, love, love<br />And the Promise rang<br />The Day Me River Sang<br /><br />Who&#39;s invited to the feast<br />They all will be increased<br />And the women will be priests<br />As the Promise rang<br />The Day the River Sang
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

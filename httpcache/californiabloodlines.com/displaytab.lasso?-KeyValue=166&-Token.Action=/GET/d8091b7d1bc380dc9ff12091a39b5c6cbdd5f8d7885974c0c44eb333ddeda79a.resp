@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2861
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:03 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CROWS LANDING</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>G/F<br />E-------3---<br />B-------0---<br />G-------0---<br />D-------3---<br />A-------x---<br />E-------x---<br /><br />Crows Landing     John Stewart<br /><br />(C) (Fj7) (C) (Fj7) (C) (Fj7)<br />(C) (Fj7) (Cj7) (Fj7)<br /><br />(C) Lonely as the (Fj7)night time,<br />(Cj7) As the day without a (Fj7)sunshine,<br />(Cj7) As a kid without a (Fj7)good time,<br />(Cj7) As a drunk without some (Fj7)bad (G)wine,<br />(C)Keeping that in (Fj7)mind,<br />(Dm7) You know I&#39;m (G)still in (G/F)love with (C)you. (Fj7) (Cj7) (Fj7)<br /><br />And (C)hopeless as a (Fj7)snowflake,<br />(Cj7) As a frozen pond and only (Fj7)one skate,<br />(Cj7) A fisherman with(Fj7)out bait,<br />(Cj7) No gas station and (Fj7)you can&#39;t (G)wait,<br />(C)Keeping that in (Fj7)mind,<br />(Dm7) You know I&#39;m (G)still in (G/F)love with (C)you. (Fj7) (Cj7) (C7)<br /><br />And (F)hope is like des(Em)pair,<br />It won&#39;t (F)get you (G)any(C)where.<br />And those (F)days on Crows (Em)Landing<br />To (F)me are (G)like a (C)branding,<br />Keeping that in (Fj7)mind,<br />(Dm7)You know I&#39;m (G)still in (G/F)love with (C)you. (Fj7) (Cj7) (Fj7)<br />(Cj7) (Fj7) (Cj7) (Fj7) (Cj7) (Fj7) (Cj7) (Fj7)<br /><br />(C) Empty as a (Fj7)tin can,<br />(Cj7) A parade without a (Fj7)brass (G)band,<br />(Cj7) Dancer without a (Fj7)feather fan,<br />(Cj7) A mayor without a (Fj7)grand(G)stand,<br />And (C)keeping that in (Fj7)mind,<br />(Dm7) You know I&#39;m (G)still in (G/F)love with (C)you. (Fj7) (Cj7) (Fj7)<br />(Cj7)Keeping that in (Fj7)mind,<br />(Dm7) You know I&#39;m (G)still in (G/F)love with (C)you. (Fj7) (Cj7) (Fj7)<br />(Cj7)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

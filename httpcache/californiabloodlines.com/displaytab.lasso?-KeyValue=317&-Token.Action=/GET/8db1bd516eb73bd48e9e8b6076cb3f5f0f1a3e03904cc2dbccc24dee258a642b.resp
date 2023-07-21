@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4013
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PEOPLE IN THE MIRROR</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (G) (D) (G) (C)(C5) (G) (D) (G)<br /><br />Yeah, some will (C)rise, some will (G)fall,<br />Some will (D)run and some will (G)crawl.<br />Some will (C)laugh, (C5) some will (G)cry,<br />Some will (D)live, some will (G)die.<br />(C) (C5) (G) (D) (G)<br /><br />Some are (C)kind, (C5) some are (G)cruel,<br />Some will (D)serve and some will (G)rule.<br />Yeah, some will (C)stand, (C5) some will (G)kneel,<br />Some will (D)curse, some will (G)heal.<br /><br />We&#39;re the people in the (C)mirror, <br />(C5) We&#39;re the people in the (G)light,<br />We&#39;re the people in the (D)morning, <br />We&#39;re the people in the (G)night.<br />We&#39;re the people of the (C)heartland, <br />(C5) We&#39;re the people on the (G)train,<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />(C) (C5) (G) (D) (G) (C) (C5) (G) (D) (G)<br /><br />Some will (C)take,(C5) some will (G)give,<br />Some will (D)blame, some will for(G)give.<br />Some are (C)wise, (C5) some are (G)fools,<br />Some are (D)stones &#180;n&#180;some are (G)jewels.<br /><br />We&#39;re the people in the (C)mirror, <br />(C5) We&#39;re the people in the (G)light,<br />We&#39;re the people in the (D)morning, <br />We&#39;re the people in the (G)night.<br />We&#39;re the people of the (C)heartland, <br />(C5) We&#39;re the people on the (G)train,<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br /><br />We&#39;re the people in the (C)mirror, <br />(C5) We&#39;re the people in the (G)light,<br />We&#39;re the people in the (D)morning, <br />We&#39;re the people in the (G)night.<br />We&#39;re the people of the (C)heartland, <br />(C5) We&#39;re the people on the (G)train<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br /><br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same<br />We&#39;re the people in the (C)mirror, <br />(D) and the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.<br />We&#39;re the people in the (C)mirror, <br />(D) And the people are the (G)same.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

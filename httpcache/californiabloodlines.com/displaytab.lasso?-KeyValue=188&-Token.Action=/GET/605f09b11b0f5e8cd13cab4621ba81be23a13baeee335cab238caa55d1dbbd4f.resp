@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3526
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:56 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LINCOLN&#39;S TRAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 1st fret<br /><br />E  muted<br />B  muted<br />G  2--1--2--4--2--1--2--1--<br />D  ---------------------------<br />A  ---------------------------<br />E --X------------------------<br />(repeat a second time, then continue pattern into opening)<br /><br />(2)Jamie (1)caught the (2)fire(4)fly, (2)la, (1)da, (2)da (1)<br />(2)Jamie (1)caught the (2)fire(4)fly,  (D)put it in a (A)jar.<br />(2)Jamie (1)caught the (2)fire(4)fly, (2)la, (1)da, (2)da (1)<br />(2)Jamie (1)caught the (2)fire(4)fly,  (D)put it in a (A)jar.<br />(G muting all strings)Leighlie is (E muted)calling, (G)&quot;Jamie, come(E7short) home.&quot;<br /><br />(A) Then from my (D)window, (E) I can hear them (A)talking,<br />(E)Walking to the crossing in the (A)rain, (D) (A) (E)<br />And (A)over the (B7)voices, (D)I can (E)hear the (A)train<br />That is (F#m)taking Mister (D)Lincoln (Bm)to the prair(D)ie once a(E7short)gain.<br />(A)Over the (B7)voices, (D)I can (E)hear the (A)train<br />That is (F#m)taking Mister (D)Lincoln (Bm)to the prair(D)ie once again.<br /><br />(G)Lincoln&#39;s Train, Lincoln&#39;s Train&#8230;<br /> (spoken as in a crowd)<br />&quot;Yeah, they said they saw it coming, oh,<br />Four or five mile back, down by the water tower.&quot;<br />&quot;Don&#39;t get to close to the tracks,<br />You see, the train can suck you right on up.&quot;<br /><br />&quot;Poor Mister Lincoln, who would do a thing like that!&quot;<br />&quot;Poor Mister Lincoln, who would do a thing like that!&quot;<br />&quot;Poor Mister Lincoln, who would do a thing like that!&quot;<br />&quot;Poor Mister Lincoln, who would do a thing like that!&quot;<br />&quot;Poor Mister Lincoln, who would do a thing like that!&quot;<br />Jamie caught the firefly, la, da, (E7)da&#8230;<br /><br />(A) Then from my (D)window, (E) I can hear them (A)talking,<br />(E)Walking to the crossing in the (A)rain, (D) (A) (E)<br />And (A)over the (B7)voices, (D)I can (E)hear the (A)train<br />That is (F#m)taking Mister (D)Lincoln (Bm)to the prair(D)ie once a(E)gain. (A) (hold)<br /><br />(sung a capella while last A chord is ringing)<br />Over the voices, I can hear the train<br />That is taking Mister Lincoln to the prairie once again.<br />(2) (1) (2) (4) (2) Jamie caught the firefly, (D)la, da, da&#8230; 
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

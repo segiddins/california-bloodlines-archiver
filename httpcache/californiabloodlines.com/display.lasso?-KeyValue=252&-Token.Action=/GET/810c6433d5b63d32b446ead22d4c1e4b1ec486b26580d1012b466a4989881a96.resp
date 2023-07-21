@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3187
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:34 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HEART OF A KID</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Trancas (Affordable Dreams, 001, 1984) (CD only)<br />The Secret Tapes II UK Release (Homecoming, 650, 1987)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Oh, I&#39;m still running<br />Running on the highway line<br />I am still running, a wild one<br />Using the Marlon Brando line<br />I&#39;m still running<br />And it&#39;s easier somehow<br />Knowing the things that I know now<br />I&#39;m still running<br />Running like I always did<br />Still with the heart of a kid<br />Heart of a kid<br /><br />Oh, we&#39;re still singing<br />Singing the songs we&#39;ve always known<br />We&#39;re still singing, oh even<br />If we have to sing alone<br />We&#39;re still singing<br />And it&#39;s easier somehow<br />Knowing the things, that we know now<br />We&#39;re still singing<br />Singing like we always did<br />Still with the heart of a kid<br />Still with the heart of a kid<br />Still with the heart of a kid<br />Heart of a kid<br /><br />We&#39;re still hoping<br />There&#39;s hope for me and you<br />We&#39;re still hoping<br />Oh, that we will see it through<br />We&#39;re still hoping<br />And it&#39;s easier somehow<br />Knowing the things, that we know now<br />We&#39;re still hoping<br />Hoping like we always did<br />Still with the heart of a kid<br />Still with the heart of a kid<br />Still with the heart of a kid<br />Heart of a kid<br /><br />Oh, I&#39;m still running<br />Running on the highway line<br />I am still running, a wild one<br />Using the Marlon Brando line<br />I&#39;m still running<br />And it&#39;s easier somehow<br />Knowing the things that I know now<br />I&#39;m still running<br />Running like I always did<br />Still with the heart of a kid<br />Heart of a kid
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

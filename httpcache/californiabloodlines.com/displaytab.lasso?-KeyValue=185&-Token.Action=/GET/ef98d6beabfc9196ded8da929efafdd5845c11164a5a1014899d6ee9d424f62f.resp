@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2038
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:05 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>EAST VIRGINIA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>Traditional</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd<br /><br />(Am)<br />He was born in East Virginia,<br />North Caro(G)lina, he did (Am)roam,<br />And there he met a fair young maiden,<br />Her name and (G)age, he did not (Am)know.<br /><br />Her hair it was, a soft brown color,<br />Her lips they (G)were, a ruby (Am)red,<br />And on her breast, well she wore white linen,<br />And there he (G)longed to lay his (Am)head.<br /><br />I&#39;d rather be in some dark hovel<br />Where the (G)sun refused to (Am)shine,<br />Than to see him with another<br />And to (G)know that he won&#39;t be (Am)mine.<br /><br />So I&#39;m going down where we&#39;d go wander,<br />Down where the (G)chase, it meets the (Am)sea,<br />But now his heart is with another,<br />And he no (G)longer dreams of (Am)me.<br /><br />He was born in East Virginia...
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

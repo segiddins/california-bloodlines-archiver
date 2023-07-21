@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3228
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ONE SHINING DAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>E4<br />E---------------<br />B--------------- <br />G------2--------<br />D------2--------<br />A------2--------<br />E---------------<br /><br /><br /><br /><br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br />(E4) And a-one (E)shining (E4)day, (E)<br />It&#39;ll (A)all be (E)working and (B)going our (E)way.<br />(E4) And a-one (E)shining (E4)day (E)<br />There&#39;ll be (A)food on the (E)table and the (B)devil to (E)pay.<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br /><br />(E4) And a-one (E)shining (E4)day, (E)<br />(E4) All of the (E)dogs will be (B)having their (E)day.<br />(E4) And a-one (E)shining (E4)day, (E)<br />(A)Up from the (E)valley we are (B)making our (E)way.<br /><br />It&#39;s the (A)high that you&#39;re (E)in when the (A)wheel does (E)spin,<br />(A)Looking for the (E)gold where the (F#)rainbow (B)ends.<br />It&#39;s the (A)high that you&#39;re (E)in when the (A)wheels do (E)spin,<br />(A)(hold)Ooh, (G#m)(hold)yeah, (A)(hold) one (B)(hold)shining (E)(hold)day.<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br /><br />(E4) And a-one (E)shining (E4)day, (E)<br />It&#39;ll (A)all be (E)working and (B)going our (E)way.<br />(E4) And a-one (E)shining (E4)day (E)<br />(A)Up from the (E)valley we are (B)making our (E)way.<br /><br />It&#39;s the (A)high that you&#39;re (E)in when the (A)wheel does (E)spin,<br />(A)Looking for the (E)gold where the (F#)rainbow (B)ends.<br />It&#39;s the (A)high that you&#39;re (E)in when the (A)wheels do (E)spin,<br />(A)(hold)Ooh, (G#m)(hold)yeah, (A)(hold) one (B)(hold)shining (E)(hold)day.<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br />(E4) (E)  (E4) (E)  (E4) (E)   (B) (E)<br /><br />(E4) And a-one (E)shining (E4)day, (E)<br />(E4) (E)   (B) (E)<br />(E4) And a-one (E)shining (E4)day, (E)<br />(E4) (E)   (B) (E)<br />(E4) And a-one (E)shining (E4)day. (E)<br />(E4) (E)   (B) (E)<br />(E4) (E)  (E4) (E)  (E4) (E)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

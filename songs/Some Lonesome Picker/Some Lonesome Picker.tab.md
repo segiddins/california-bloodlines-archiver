@@ -1,0 +1,49 @@
+Play (D) chord, moving [bass notes]:
+
+[D] [C] [hammer on B] [hammer on Bb]
+[D] [C] [hammer on B] [hammer on Bb]
+[D] [C] [hammer on B] [hammer on Bb]
+(continue pattern into verse, using hammer-ons occasionally,
+more often clean notes)
+
+I [D]often get the [C]feeling that I'm [B]talking to the [Bb]wind
+And no-one [D]hears, [C] [B]no-one listens [Bb]in.
+Then [D]I start singing [C]songs
+And the [B]music makes the [Bb]whole world feel like [D]home,
+[C] [B] Sing a [Bb]song and you're not a[D]one.
+[C] [hammer on B] [hammer on Bb]
+
+[D] Lilly Mc[C]Lean, you are [B]standing in the [Bb]rain
+And you are [D]cold, [C] you are [B]hungry and a[Bb]fraid.
+You are [D]waiting for a [C]sunrise,
+A [B]sunrise makes you [Bb]feel so very [D]small.
+[C] [B] Darling [Bb]Lilly, aren't we [D]all? (D-chord)
+
+(chords)
+Oh I'm be(G)liev(D)ing, be(G)lie(A7 short)(Bm)ving,
+Be(G)lieving that (Em)even when I'm (Em7)go(A7)ne,
+(back to bass note pattern with (D) chord...)
+Maybe [D]some lonesome [C]picker will
+[B] Find some [Bb]healing in this [D]song.
+[C] [hammer on B] [hammer on Bb]
+
+[D] Julie get the [C]gun, Julie [B]throw it in the [Bb]river,
+Let it [D]roll [C] [B]far on out to [Bb]sea.
+Let it [D]carry the con[C]fusion,
+The [B]hatred and the [Bb]worry here in [D]me,
+[C] [B] River [Bb]rolling out to [D]sea. (D chord)
+
+(chords)
+Oh I'm be(G)liev(D)ing, be(G)lie(A7 short)(Bm)ving,
+Be(G)lieving that (Em)even when I'm (Em7)go(A7)ne,
+(back to bass note pattern with (D) chord...)
+Maybe [D]some lonesome [C]picker will
+[B] Find some [Bb]healing in this [D]song.
+[C] [hammer on B] [hammer on Bb]
+
+Maybe [D]some lonesome [C]picker will
+[B] Find some [Bb]healing in this [D]song.
+[C] [hammer on B] [hammer on Bb]
+
+I hope that [D] some lonesome [C]picker will
+[B] Find some [Bb]healing in this [D])song.

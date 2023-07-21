@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3078
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CODY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Signals Through the Glass (Capitol 2975, 1968)<br />The Last Campaign (Homecoming, 300, 1985)<br />The Phoenix Concerts (RCA, APL2-0265, 1974)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />The Essential John and Buffy (Feegie, ADFCD29, 1995)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>&quot;And there&#39;d be old men standing at the back of the crowd who seemed to<br />remember America being born.&quot; (Intro on The Last Campaign)<br /><br />Cody sang to me<br />A song about the great Montana sky<br />Cody sang to me<br />And I could see Montana in his eyes<br />And I could see Montana in his eyes<br /><br />Cody&#8217;s hair is long<br />And dirty as the rivers of L.A.<br />Cody&#8217;s mind is gone<br />You never know just what he&#8217;s gonna say<br />No, you never know just what he&#8217;s gonna say<br /><br />See him fall out on the road<br />Oh, won&#8217;t you go and help him on his way<br />See him fall out on the road<br />The forgotten son of some old yesterday<br />The forgotten son of some old yesterday<br /><br />Cody starts to tell<br />How he led the wagons to the sea<br />Cody starts to yell<br />And he waves his gnarled hand to follow me<br />And he waves his gnarled hand to follow me<br /><br />He&#8217;s been living for so long<br />Cody&#8217;s begging please take me away<br />He&#8217;s been living for so long<br />The forgotten son of some old yesterday<br /><br />Cody sang to me<br />A song about the great Montana sky<br />Cody sang to me<br />And I could see Montana in his eyes<br />I could see Montana<br />I could see Montana in his eyes
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

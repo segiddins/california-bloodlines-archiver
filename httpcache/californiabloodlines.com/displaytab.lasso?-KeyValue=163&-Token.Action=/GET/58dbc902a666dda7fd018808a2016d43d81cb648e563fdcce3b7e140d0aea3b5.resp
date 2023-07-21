@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3096
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:08 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LOOKING BACK JOANNA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am)   (A4)(A4) (Em) (Am)  <br />          (A4)(A4) (Em) (Am)<br />          (A4)(A4) (Em) (Am)<br /><br />Looking back, Jo(Em)anna,<br />(Am)When you really (Em)loved me,<br />(Am)When the sun in the (Em)morning <br />(Am)Come without a war(Em)ning on my (Am)door. (Em)<br />(Am)Looking back, Jo(Em)anna,<br />(Am)How it all just (Em)ended on the (Am)floor.<br />       (A4)(A4)(Em) (Am) <br />       (A4)(A4)(Em) (Am)  <br /><br />Looking back, Jo(Em)anna<br />(Am)When you were but a (Em)child,<br />(Am)Even when you (Em)smiled you would (Am)cry. (Em)<br />(Am)Looking back, Jo(Em)anna,<br />(Am)Every time I (Em)touched you, I would (A)lie.<br /><br />There is a (F)river<br />Running changes by (Am)me,<br />There is a (F)river<br />That takes me to the (Am)sea,<br />There is a (Am)river,<br />It has made me (A)free.  (Am)   (A4)(A4)(Em)(Am) (10x)<br /><br />Looking back, Jo(Em)anna,<br />(Am)To that summer in Sa(Em)vannah,<br />(Am)And I would find you (Em)lying in my (Am)bed. (Em)<br />(Am)Looking back, Jo(Em)anna,<br />(Am)I still can hear you (Em)breathing in my (A)head.<br /><br />There is a (F)river<br />Running changes by (Am)me,<br />There is a (F)river<br />takes me to the (Am)sea,<br />There is a (F)river,<br />It has made me (A)free. (Am)   (A4)(A4)(Em) (Am) 4x<br /><br />Looking back, Jo(Em)anna,<br />(Am)When you really (Em)loved me,<br />(Am)When the sun in the (Em)morning<br />(Am)Come without a (Em)warning on my (Am)door. (Em)<br />(Am)Looking back, Jo(Em)anna,<br />(Am)How it all just (Em)ended on the (Am)floor,(Em)<br />on the (Am)floor.(Em)<br />Looking back, Jo(Am)anna,(Em)<br />Looking back, Jo(Am)anna,(Em)<br />Looking back, Jo(Am)anna. (Em) (Am) (Em) (Am) (Em) (Am) (Em) (Am) (Em) (Am)<br /><br />These are the bare bones, really. John keeps index finger and pinkie<br />busy embellishing the chords.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

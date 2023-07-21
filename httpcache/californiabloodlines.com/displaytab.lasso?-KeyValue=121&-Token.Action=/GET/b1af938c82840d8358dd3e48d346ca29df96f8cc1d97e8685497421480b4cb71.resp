@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3459
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:58 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WILD HORSE ROAD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Am) (G) (F) (Em) (hold) <br />Oh, there (Am)ain&#39;t no wild (G)horses  <br />Out on (F) Wild Horse (Em)Road, <br />There (C)ain&#39;t no (Em/B)wild (Am)horses (Am/G)there,  <br />(Dm) I know.(G) <br />Some(Am)where they&#39;re trucking (G)mustangs  <br />On a (F)lonesome (G)desert (A)road, <br />But there (C)ain&#39;t no (Em/B)wild (Am)horses  <br />(Am/G)Out on (F7) Wild Horse Road, (hold) <br />No, no, no,(C, add D# on B-string)no. (F) (C, add D#) (F) <br /> <br />(Am)Looking at the long line  <br />(G)Behind the stallions, <br />(F)All the faithful (Em)mares, <br />(C) Just (Em/B)like (Am)women on the (Am/G)road, <br />(Dm)Ev&#180;rywhere.(G) <br />(Am)Following the big time, <br />(G)They caught a dead line, <br />(F)Where did (Em)they all (A)go? <br />&#180;Cause there (C)ain&#39;t no (Em/B)wild (Am)horses  <br />(Am/G)Out on (F7) Wild Horse Road. (hold) <br /> <br />There (Am)ain&#39;t no wild (G)horses  <br />Out on (F)Wild Horse (Em)Road, <br />There (C)ain&#39;t no (Em/B)wild (Am)horses (Am/G)there,  <br />I (Dm)know.(G) <br />Some(Am)where they&#39;re trucking (G)mustangs  <br />On a (F)lonesome (G)desert (A)road, <br />But there (C)ain&#39;t no (Em/B)wild (Am)horses  <br />(Am/G)Out on (F7) Wild Horse Road, (hold) <br />No, no, no, (C, add D# on B-string)no. (F) (C, add D#) (F) <br /> <br />(Am)Running down a mustang,  <br />(G)Oh, what&#39;ll it take, <br />A (F)pick up and a (Em)gun? <br />(C) Hey, (Em/B)young (Am)moonlight (Am/G)gunner, <br />(Dm)Where&#39;s the sun?(G) <br />And (Am)don&#39;t it make you feel like<br />(G)Kicking in a whitewall <br />(F)Now you (Em)fin&#180;lly (A)know <br />That there (C)ain&#39;t no (Em/B)wild (Am)horses  <br />(Am/G)Out on (F7)Wild Horse Road. (hold) <br /> <br />There (Am)ain&#39;t no wild (G)horses  <br />Out on (F) Wild Horse (Em)Road, <br />No, there (C)ain&#39;t no (Em/B)wild (Am)horses (Am/G)there,  <br />I (Dm)know.(G) <br />Some(Am)where they&#39;re trucking (G)mustangs  <br />On a (F)lonesome (G)desert (A)road, <br />But there (C)ain&#39;t no (Em/B)wild (Am)horses, <br />Yeah, there (F)ain&#180;t no (Dm)wild (G)horses, <br />No, there (C)ain&#180;t no (Em/B)wild (Am)horses <br />(Am/G)Out on (F7) Wild Horse Road.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

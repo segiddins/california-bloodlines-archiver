@@ -1,0 +1,45 @@
+Capo 2nd fret
+
+(C)   (F)   (G)   (C)      (G7)  (C)   (F)(G)(C)
+Just when you (C/B)think you got it (Am)all,
+It's (F)taken from your (C)hands.
+And when you (C/B)feel you'll never (Am)fall,
+(F)You don't (G)crash, you (Am)land on the (Em)floor.
+Still, you're (F)going (G)back for (C)more.
+(Dm)Only the (Dm7)dreamer under(G)stands. (hold)
+
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G)noon to keep you (C)here.  (F)(G)
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G7)noon to keep you (C)here.  (F)(G)(C)
+
+And when (C/B)all the shadows (Am)fall,
+You're (F)spirited a(C)way.
+And you (C/B)say that you will (Am)call
+(F)Come some (G)other (Am)day, and you're (Em)gone,
+But the (F)memo(G)ry lives (C)on.
+(Dm)Always a (Dm7)dreamer finds a (G)way.  (hold)
+
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G)noon to keep you (C)here.  (F)(G)
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G7)noon to keep you (C)here.  (F)(G)(C)
+(F)   (C)   (F)(G)(C)
+
+Just when you (C/B)think you got it (Am)all,
+It's (F)taken from your (C)hands.
+And when you (C/B)feel you'll never (Am)fall,
+(F)You don't (G)crash, you (Am)land on the (Em)floor.
+Still, you're (F)going (G)back for (C)more.
+(Dm)Only the (Dm7)dreamer under(G)stands. (hold)
+
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G)noon to keep you (C)here.  (F)(G)
+If I'm (C)missing you, then soon
+I'll be (F)bringing (C)down the (G)moon,
+Turning (F)midnight into (G7)noon to keep you (C)here.  (F)(G)(C)

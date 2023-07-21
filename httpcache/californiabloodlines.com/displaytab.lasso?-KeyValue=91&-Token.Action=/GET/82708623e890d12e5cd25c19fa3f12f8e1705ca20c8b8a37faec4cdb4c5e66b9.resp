@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3671
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE WILD SIDE OF YOU</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (C) (D)(C) (G) (C) (D)(C) <br /><br />(G) I ain&#39;t afraid of the (C)lightning and rain (D)(C) <br />(G) When the wind blows (C)from the north, (D)(C) <br />(G) Don&#39;t bother me if I&#39;m (C)lost at sea (D)(C) <br />And my (G)ship blows off its (C)course. (D)(C) <br />(Em) Take it from me as the (C)wind blows free,<br />(Em) You will know it&#39;s (C)true.<br />But what (G)scares me to (Bm)death<br />To my (Em)dying (D)breath<br />(Em) Is the wild side of (C)you,<br />(Em) Oh, the wild (C)side of you.<br />(G) (C) (D)(C) (G) (C) (D)(C) (G)<br /><br />And I have seen the (C)wicked and the mean, (D)(C)<br />(G) The midnight rider&#39;s (C)gun, (D)(C)<br />(G) Taking leave of the (C)bull dog&#39;s teeth(D)(C)<br />(G) When that mother&#39;s (C)on the run. (D)(C)<br />(Em)Take it from me as the (C)wind blows free,<br />(Em) You will know it&#39;s (C)true.<br />And what (G)scares me to (Bm)death<br />To my (Em)dying (D)breath,<br />(Em) Is the wild side of (C)you,<br />(Em) Oh, the wild (C)side of you.<br />(G) (C) (D)(C) (G) (C) (D)(C) (G)<br /><br />Stranger still is the (C)bitter pill (D)(C)<br />(G) That I swallow now and (C)then, (D)(C)<br />(G) The devil says to (C)bend my head,(D)(C)<br />He&#180;s saying (G)&quot;You ain&#39;t no different, (C)friend.&quot; (D)(C)<br />(Em) And you will know how the (C)story goes,<br />It&#39;s as (Em)easy as one, two, (C)three.<br />And what (G)scares me to (Bm)death<br />To my (Em)dying (D)breath,<br />(Em) It&#39;s the wild side of (C)me,<br />(Em) Ah, the wild (C)side of me. (G)<br />(G) (C) (D)(C) (G) (C) (D)(C) (G)<br />(C) (D)(C) (E)<br /><br />(A) I ain&#39;t afraid of the (D)lightning and rain (E)(D)<br />(A) When the wind blows (D)from the north, (E)(D)<br />(A) Don&#39;t bother me if I&#39;m (D)lost at sea (E)(D)<br />And my (A)ship blows off its (D)course. (E)(D)<br />(F#m) Take it from me as the (D)wind blows free,<br />(F#m) You will know it&#39;s (D)true.<br />And what (A)scares me to (C#m)death<br />To my (F#m)dying (E)breath,<br />(F#m) Is the wild side of (D)you,<br />(F#m) Oh, the wild (D)side of you.<br />(A)  (D7)  (A)  (D7)<br /><br />(A) Wild side of (D7)you,<br />(A) Wild side of (D7)you,<br />(A) Wild side of (D7)you,<br />(A) Wild side of (D7)you,<br />(A) Wild side of (D7)you,<br />Sing (A)yeah, sing (D7)oh,<br />Sing (A)yeah yeah yeah yeah-(D7)yeah, oh.<br />(A)  (D7)  (A)  (D7)  (A)  (D7)  (A)  (D7)  (A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

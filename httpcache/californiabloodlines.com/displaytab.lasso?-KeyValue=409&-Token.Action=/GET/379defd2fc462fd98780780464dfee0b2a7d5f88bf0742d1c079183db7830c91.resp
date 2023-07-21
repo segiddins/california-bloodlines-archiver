@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2533
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Broken Roses</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(C)  (F)  (Am)  (G)  (C)  (F)  (Am)  (G)<br />All the times I&#39;ve (C)run<br />When we&#39;ve just be(F)gun,<br />We lost the midnight (Am)sun<br />In the (G)dream.<br /><br />And all the times I (C)cried,<br />All the times I (F)tried<br />To make a lame bird (Am)fly<br />In the (G)sun. (G7)<br /><br />If all the lights break (C)through<br />Shades of after(F)noon,<br />All the dreams were (Am)you,<br />Ev&#180;ry(G)one.<br /><br />So I (F)ride the (G)tired (Am)road,<br />Every (F)story (G)I have (C)told<br />Is (F)just all as it (G)seems.<br />Broken (F)roses, weathered (G)dreams. (G7)<br />(C)  (F)  (Am)  (G)  (C)  (F)  (Am)  (G) (G7)<br /><br />And all the days run (C)clean,<br />Faces on the (F)screen.<br />Don&#39;t know what it (Am)means,<br />But I&#39;m playing it (G)through.<br /><br />And all the times I&#180;ve (C)run<br />When we&#180;ve just be(F)gun,<br />Lost the midnight (Am)sun<br />In the (G)dream. (G7)<br /><br />And I (F)ride the (G)tired (Am)road,<br />Every (F)story (G)I have (C)told,<br />And it&#180;s (F)just all as it (G)seems.<br />Broken (F)roses, weathered (G)dreams,<br />And the broken (F)roses, (G) weathered (C)dreams.<br />(C)  (F)  (Am)  (G)  (C)  (F)  (Am)  (G)<br />(C)  (F)  (Am)  (G)  (C)  (F)  (Am)  (G)  (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

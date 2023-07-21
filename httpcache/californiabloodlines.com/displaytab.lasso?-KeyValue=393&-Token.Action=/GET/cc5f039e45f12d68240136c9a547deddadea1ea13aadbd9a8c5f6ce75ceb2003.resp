@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3466
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:29 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>MARY&#39;S BABY BOY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>E7 short in chorus<br />E----------------<br />B----------------<br />G--1------------<br />D---------------<br />A--------2------<br />E----------------<br /><br />Em7 short<br />E-----------------<br />B-----------------<br />G-----------------<br />D-----------------<br />A--------2--------<br />Exxxxxxxxxxxx<br /><br />C6 (usually called C/G, but then with C-note on A-string)<br />E------------------<br />B--1---------------<br />G------------------<br />D--------2---------<br />A------------------<br />E--------------3----<br /><br />Mary&#180;s Baby Boy     John Stewart<br /><br />Capo 2nd<br /><br />Intro: (C) (Em7) (Am7)     (F) (G) (C) (G)<br />(C) (Em7) (Am7)    (F) (G) (C)<br /><br />See the (Em7)star,(Am7) it&#39;s almost (C6)blinding,<br />(F) For Mary&#39;s (G)baby (C)boy, (Cj7) (C)<br />So the (Em7)shepherds(Am7) all will (C6)find him, (F)<br />Mary&#39;s (G)baby (C)boy.<br /><br />See the (Em7)kings (Am7) who came to (C6)see him, (F)<br />Mary&#39;s (G)baby (C)boy. (Cj7) (C)<br />And those three (Em7)kings (Am7) will kneel be(C6)fore him, (F)<br />Mary&#39;s (G)baby (C)boy.<br /><br />(F)Born in a (G)manger, (C)born (Em7)in (Am7)Bethlehem,<br />(F) Mary&#39;s (G)baby (C)boy.<br />(Dm)Laid in a (G)manger, (E7)born in (Am7)Bethlehem, (F)<br />On a (G)Christmas (C)morn.<br /><br />Silver (Em7)angels (Am7) singing (C6)to &#39;ya, (F)<br />Mary&#39;s (G)baby (C)boy. (Cj7) (C)<br />Hear them (Em7)singing, (Am7)&quot;Alle(C6)luia,&quot; (F)<br />To Mary&#39;s (G)baby (C)boy. (Cj7) (C)<br /><br />And they will (Em7)call (Am7) the baby (C6)Jesus (F)<br />Mary&#39;s (G)baby (C)boy.<br />He will (Em7)heal (Am7) and he will (C6)save us, (F)<br />Mary&#39;s (G)baby (C)boy.<br /><br />(F)Born in a (G)manger, (C)born (Em7)in (Am7)Bethlehem,<br />(F) Mary&#39;s (G)baby (C)boy.<br />(Dm)Laid in a (G)manger, (E7)born in (Am7)Bethlehem,<br />(F) On a (G)Christmas (C)morn.<br /><br />See the (Em7)Star, (Am7) it&#39;s almost (C6)blinding, (F)<br />For Mary&#39;s (G)baby (C)boy.<br />So the (Em7)shepards (Am7)all can (C6)find him, (F)<br />Mary&#39;s (G)baby (C)boy,   (F)<br />Mary&#39;s (G)baby (C)boy<br />(C) play high string e-d-c-b  (Am7)a- c-e-c- g-(F)a-c-(G)b-c-d-b-(C)c<br />(F)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

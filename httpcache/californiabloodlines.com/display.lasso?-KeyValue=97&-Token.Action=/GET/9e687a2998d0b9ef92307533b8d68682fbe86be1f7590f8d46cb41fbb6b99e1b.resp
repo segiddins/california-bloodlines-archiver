@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3638
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:40 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>AN ACCOUNT OF HALEY&#8217;S COMET</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and John S. Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Sunstorm (Warner Bros., BS 2611, 1972)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>This is the story as I remember it, of my first seeing Haley&#39;s Comet - of<br />my seeing Haley&#39;s Comet.  This was in Lexington, Kentucky, and I was<br />living at the Transylvania Inn, the place I was born.  My mother was<br />operating that Inn.  My father was a horse trainer.  It must have been in<br />the late spring or early summer, my mother came to me and said, &quot;Let&#39;s go<br />upstairs on the veranda.&quot;  She said, &quot;I want you to see Haley&#39;s Comet.&quot; <br />To me it was only another star, so every night I went up and watched and<br />as it got closer, what I though was a star, started to take on the look of<br />a ball of fire with a tail behind it.  <br /><br />Kentucky light shine<br />Will it fall from the sky?<br />Kentucky light shine<br />Stranger in the sky<br />Kentucky light shine<br />Will it fall from the sky?<br />Kentucky light shine<br />Stranger in the sky<br /><br />And as it came around, it got bigger and bigger and lower and lower, till<br />finally one night it was over the Tattersall&#39;s barn.  It looked like that<br />it just hovering over that barn and that it might fall at any minute. The<br />horses in the barn were restless. They were thrashing around in the<br />stalls. They were nickering. It was a nicker of fear. My father,<br />several other men, went to the barn to try to quiet the horses.  I went<br />to my mother and I said, &quot;Mother, I&#39;m afraid.&quot;  She says, &quot;So am I.&quot; I<br />said, &quot;What can I do?&quot;  She said, &quot;Well, ask God to spare us.&quot; It was so<br />bright that there were dark shadows under the eves of the barn. I don&#39;t<br />think I can describe that eerie light. It wasn&#39;t pure white, it wasn&#39;t<br />red, it just seemed like a light that reached your very soul. <br /><br />Kentucky light shine<br />Will it fall from the sky?<br />Kentucky light shine<br />Stranger in the sky<br />Kentucky light shine<br />Will it fall from the sky?<br />Kentucky light shine<br />Stranger in the sky
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

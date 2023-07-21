@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3633
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:06 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WILLARD</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th fret<br /><br />(G) Willard, he&#39;s a (G/F#)loner,<br />(G/E) Living by the (G/D)railway,(G/E)(G/F#)(G)<br />Living (G/F#)by (G/E)the (G/D)tracks <br />(G/B)Be(G)side his (Am7)home.(D7)(D7/A)(D7)<br />[D7s: on B-string, hammer on c pull off to b, 2x. Repeat where appropriate.]<br />(G) Willard, he&#39;s a (G/F#)loner,<br />(G/E)If you&#39;re going (G/D)his way,<br />Say hel(Am7)lo, he ain&#39;t got (G)no one to call his (D7)own. (D7/A)(D7)<br /><br />(G) Soldiers of (G/F#)glass,<br />(G/E) Standing by the (G/D)trash, (G/E)(G/F#)(G)<br />Willard&#39;s (G/F#)co(G/E)loured (G/D)bottles <br />(G) In a (Am)line. (D7)(D7/A)(D7/A)(D7)<br />(G) Soldiers of (G/F#)glass,<br />It&#39;s (G/E)funny you should (G)ask,<br />But they&#39;re the (C)only friends he (G/B)has to pass the (D/A)time,<br />They&#39;re the (G)only friends he (C)has to (D)pass the (G)time.(G7)<br /><br />And his (Am7)Mama knows that (D)he was once a (G)child,<br />(C) Mama, she was the (D)first one to hear his (G)cry.<br />And my (Am7)Mama knows that (D)I was (D7)once a (G)child,<br />Could it (Am7)be we&#39;re all just (D)Willard in dis(G)guise?<br />Could it (C)be we&#39;re all just (D)Willard (D7) in dis(G)guise?(G/F#) (G/E)<br />(G/D)<br /><br />I (G)hear they&#39;re tearing (G/F#)down<br />All the (G/E)buildings in his (G/D)town, (G/E)(G/F#)(G)<br />The house (G/F#)where (G/E)Willard (G/D)Jeffer(G/B)son<br />(G) (Am)Stayed.(D7)(D7/A)(D7)<br />But (G)they can&#39;t tear him (G/F#)down,<br />No, he will (G/E)always be a(G/D)round<br />&#39;Cause he&#39;s as (Am)hard as all that (D)old black (D7/A)river (G)clay. (G7)<br /><br />Yet his (Am7)Mama knows that (D)he was once a (G)child,<br />(C) Mama, she was the (D)first one to hear his (G)cry.<br />And my (Am7)Mama knows that (D)I was (D7)once a (G)child,<br />Could it (Am7)be we&#39;re all just (D)Willard in dis(G)guise?<br />Could it (C)be we&#39;re all just (D)Willard (D7) in dis(G)guise?<br /><br />Oh, Willard, he&#39;s a (G/F#)loner,<br />(G/E) Living by the (G/D)railway,(G/E)(G/F#)(G)<br />Living (G/F#)by (G/E)the (G/D)tracks <br />(G/B)Be(G)side his (Am7)home.(D7)(D7/A)(D7/A)(D7)<br />(G) Willard, he&#39;s a (G/F#)loner,<br />(G/E)If you&#39;re going (G/D)his way,<br />Say hel(Am7)lo,he ain&#39;t got (D)no one to (D7)call his (G)own.<br />(finger Am, play [descending] c-b a-g e-d, then, on G-string slide from a to<br />a# to b)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

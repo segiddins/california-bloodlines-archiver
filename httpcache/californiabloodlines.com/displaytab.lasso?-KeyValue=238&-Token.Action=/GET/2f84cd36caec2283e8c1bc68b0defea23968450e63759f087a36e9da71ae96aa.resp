@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3732
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:59 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>HEARTS AND DREAMS ON THE LINE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Aadd11<br />E-------------------<br />B--------2---------<br />G--------2---------<br />D-------------------<br />A--xx--------------<br />E--xx--------------<br /><br />G6: G-chord with high E-string played &#8216;empty&#8217;<br /><br /><br />&quot;And in a moment it was over, and we were left with what we might have been<br />and what we had become.&quot;<br /><br />Capo 3rd fret<br /><br />(D) (Aadd11)(D)   (Aadd11)(D)<br />(G)  (A7short)   (D)  (G)   (D)  (Em7) (A7 short) (D) (Aadd11)(D)(hold)<br /><br />Ah, (D)time (Aadd11)after (D)time<br />You can (Aadd11)read the (D)signs,<br />With our hearts and our (Em7)dreams on the (D)line.(A7short) (D)<br />And if someone (Aadd11)has a (D)light,<br />You&#39;d better shine it (Aadd11)every (D)night,<br />With our hearts and our (Em7)dreams on the (D)line.(A7short) (D)<br />With our hearts and our (Em7)dreams on the (D)line.(A7short) (D)(hold)<br />(D) (Aadd11)(D)   (Aadd11)(D)<br />(G)  (A7short)   (D)  (G)   (D)  (Em7) (A7 short) (D) (Aadd11)(D)(hold)<br /><br />There are (Dsoldiers (Aadd11)in the (D)cold<br />Whose spirits (Aadd11)have been (D)sold<br />With our hearts and our (Em7)dreams on the (D)line (A7short) (D)(hold)<br />And there&#39;s (D)nowhere (Aadd11)left to (D)run<br />For the children (Aadd11)all have (D)guns,<br />With our hearts and our (Em7)dreams on the (D)line,(A7short) (D)(hold)<br />With our (D)hearts and our (Em7)dreams on the (D)line,(A7 short) (D)(hold)<br />Yeah, with our (G)hearts and our (A)dreams(hold) on the (D)line.<br />(Aadd11) (D)   (Aadd11)(D)<br />(G)  (A7 short)  (D)  (G)  (D)  (Em7) (A7 short) (D) (Aadd11)(D)(hold)<br />(G6) (A7 short)(hold)  (G6) (A7)(hold) (D)  (G)  (A7 short)  (D)(hold)<br /><br />And (D)have you (Aadd11)heard the (D)news?<br />There&#39;s nothing (Aadd11)left to (D)lose,<br />With our hearts and our (Em7)dreams on the (D)line.(A7 short) (D)(hold)<br />And (D)you won&#39;t (Aadd11)feel the (D)sting<br />Till you hear the (Aadd11)Angel&#39;s (D)wings,<br />With our hearts and our (Em7)dreams on the (D)line,(Aadd11) (D)(hold)<br />With our (D)hearts and our (G)dreams on the (D)line,(A7 short) (D)(hold)<br />Yeah, with our (G)hearts and our (A)dreams(hold) on the (D)line, (Aadd11)(D)   (A)<br />[this A-chord played as F at 8th fret, yep, fifth if you count &#8216;from capo&#8217;]<br />With our (D)hearts and our (G)dreams on the (D)line, (Aadd11)(D)(hold)<br />With our (D)hearts and our (G)dreams (A)on the (D)line. (G) (A) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

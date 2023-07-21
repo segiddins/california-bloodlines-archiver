@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3326
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ART FALLER&#39;S LAND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Tanforan (Neon Dreams, 2003)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Yeah, I know you heard Gonzalez is an excellent man,<br />You want him when you travel &#39;cause he&#39;ll do what he can,<br />But I gotta warn you, he won&#39;t understand,<br />So never say a word <br />About Art Faller&#39;s land.<br /><br />Gonzalez, he&#39;s a guy with a natural calm,<br />He makes a living as a lawyer and he mows his own lawn.<br />He checks outs the gigs and he drives to the shows,<br />He&#39;ll sell what you got <br />When they&#39;re  ready to close.<br />Oh, I got a guitar, so he gives me a hand,<br />I never say a word about  Art Faller&#180;s land.<br /><br />Faller picked me up for the Rhode Island show<br />Stayed at his place, he&#180;s as nice as they go.<br />Said, &quot;You travel light and you don&#180;t have a band,<br />Let me take you out and show you <br />Some of  Art Faller&#180;s land.&quot;<br /><br />I asked about Gonzalez, says he knows him real good,<br />They used to tear around in the old neighbour(G)hood.<br />Said, he got a little funny and he called himself Dan,<br />He never took a drive <br />Out to  Art Faller&#180;s land,<br />He never took a drive out to  Art Faller&#180;s land.<br /><br />On the last tour, maybe nine months or so,<br />We stopped to get gas and a Yoo-Hoo to go<br />I asked Gonzalez, &quot;Who calls you Dan?&quot;<br />He snapped like a dog <br />Goin&#180; to  take off your hand.<br />He said, &quot;How should I know? Maybe some little man,<br />Keeps monkeys wearing speedos on Art Faller&#180;s land.<br /> <br />He gets funny, so you don&#180;t call him Dan,<br />And never say a word about  Art Faller&#180;s land,<br />No, never say a word about  Art Faller&#180;s land,<br />You never say a word, never say a word,<br />Never say a word about Art Faller&#180;s land.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

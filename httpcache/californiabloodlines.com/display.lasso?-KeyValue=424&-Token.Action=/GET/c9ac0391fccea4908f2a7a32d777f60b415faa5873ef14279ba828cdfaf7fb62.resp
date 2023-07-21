@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3867
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:44 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>tanforan</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Tanforan (Neon Dreams, 2003)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>It was post time in the meadows,<br />I had my wager in my hand. <br />I was trying to keep the sun out<br />Of my eyes the best I can.<br />And I could hear the cheering  <br />From the people  in the stands, yeah,<br />Who were waiting for the pony <br />Who won at Tanforan.<br /><br />He was roughed and he was beaten,<br />He was &#39;buked and he was scorned. <br />He was the horse nobody wanted<br />From the day that he was born.<br />And somewhere deep inside him<br />A voice said,  &quot;I don&#39;t give a damn,&quot;<br />The broken little pony <br />Who won at  Tanforan,<br />The broken little pony, yeah,<br />Who won at Tanforan.<br />      <br />      <br /><br />And there were rainbows in the infield, yeah,<br />There were kids upon the rail. <br />Clark Gable&#39;s in the club house <br />With a blonde named Lucy Gale.<br />There were bookies in fedoras <br />Writing numbers on their hands <br />For that broken little pony, yeah, <br />Who won at Tanforan,<br />For that broken little pony <br />Who won at Tanforan.<br />      <br />       <br /><br />You can smell the tanbark<br />Where the jockeys all parade, <br />And you know they call the horses<br />When you hear the bugle played.<br />And here&#39;s to all the losers <br />Who gathered wings to fly, yeah,<br />Like that little broken pony <br />Who just looked me in the eye.<br /><br />He&#39;s in the hearts of all the people, <br />Every woman, hild and man, <br />That broken little pony, yeah,<br />Who won at Tanforan.<br /><br />He&#39;s in the hearts of all the people, <br />Every woman, child and man, yeah,<br />That broken little pony  <br />Who won at Tanforan.<br />      <br />      <br /><br />And there were rainbows in the infield <br />With ponies left to run, <br />Where the jockeys&#39; silks were dancing <br />As they rode into the sun.<br /><br />He&#39;s in the hearts of all the people, yeah,<br />Every woman, child and man, <br />That broken little pony <br />Who won at Tanforan.<br />He&#39;s in the hearts of all the people, <br />Every woman, child and man, yeah,<br />That broken little pony, yeah,<br />Who won at Tanforan.<br /><br />He&#39;s in the hearts of all the people, yeah,<br />Every woman,  child and man, yeah,<br />That little broken pony, yeah,<br />Who won at Tanforan.<br />     <br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2607
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:38 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGEL DELGADILLO</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>I was talking to Angel<br />Angel Delgadillo<br />Angel Delgadillo<br />On the blue dream road<br />Angel Delgadillo<br />In Seligman Arizona<br />Seligman Arizona<br />On the blue dream road.<br /><br />Angel he&#8217;s the barber there<br />Since 1950 cutting hair.<br />Angel Delgadillo<br />On the blue dream road.<br />On the wall the old clock ticks<br />Away the days on &#8216;66 in Seligman Arizona<br />And the blue dream road.<br /><br />Angel played the saxophone<br />Juan and Lucy played their own<br />In Seligman Arizona<br />And the blue dream road.<br />They played &quot;Moonlight Serenade&quot;<br />And talked about the plans that they made<br />With Angel Delgadillo<br />On the blue dream road.<br /><br />It&#8217;s a story as old as time<br />The road and people left behind<br />In Seligman Arizona<br />On the blue dream road.<br /><br />From around the world they began to come<br />To find the road and one by one<br />Find Angel Delgadillo <br />And the blue dream road.<br /><br />Repeat Verse 3<br />Repeat Verse 1
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

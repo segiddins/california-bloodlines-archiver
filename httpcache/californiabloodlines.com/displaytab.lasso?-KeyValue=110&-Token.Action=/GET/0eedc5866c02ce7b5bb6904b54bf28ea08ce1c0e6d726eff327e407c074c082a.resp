@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2633
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:49 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CHILDREN OF THE MORNING</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle> Capo 3rd fret<br /><br /> (G)(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /> (G)(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /> (Em)Dance to the (G)circle, watch it (A)grow,<br /> (Em)Turning like for(G)ever moving (D)slow,<br /> For it&#39;s (G)on(G/F#))ly a (G)moment, that I (Am7)know,<br /> (D)Children of the (G)morning told me (D)so.<br /><br /> (Em)Burn with the (G)fire, make it (A)bright,<br /> (Em)Catch it on the (G)wind when it&#180;s in (D)flight.<br /> Oh, it&#39;s (G)one (G/F#)lonely (G)flame against the (Am7)night,<br /> (D)Children of the (G)morning, make it (D)light,<br /> Make it (G)ooooh.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /> (G)Ooooh.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /><br /> (Em)Stand upon the (G)mountain, it is (A)done,<br /> (Em)Watch them at the (G)crossroads as they (D)come.<br /> They were (G)blinded (G/F#)by a(G)nother winter&#39;s (Am7)sun,<br /> (D)Children of the (G)morning, you have (D)won.<br /><br /> (Em)Dance to the (G)circle, watch it (A)grow,<br /> (Em)Turning like for(G)ever moving (D)slow,<br /> And it&#39;s (G)on(G/F#))ly a (G)moment, that I (Am7)know,<br /> (D)Children of the (G)morning told me (D)so,<br /> Children of the (G)morning.(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /> (G)Ooooh....(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)<br /> (G)Ooooh....(G/F#)(G/F)   (C)(Am7)(Am7/G)(D)(G-&#39;highlight&#39; high notes<br /> D-C-C-A, downstrum full chord G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

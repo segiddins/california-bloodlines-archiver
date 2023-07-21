@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3825
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:45 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Golden Gate Fields</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Day the River Sang (Appleseed Records, APR CD, 2006)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Down in the valley<br />At the sunrise you&#39;ll find<br />Jose and Maria on old 405<br />And he said to Maria<br />&quot;I&#39; II call you tonight<br />After the claim stake<br />When everything&#39;s right&quot;<br /><br />And they&#39;re driving to Glendale<br />And the race is at noon<br />His coffee&#39;s too hot<br />And he&#39;s boarding too soon<br />To stare out the window<br />At Camino Real<br />As they saddle the horses<br />At Golden Gate Fields<br /><br />And the horses and jockeys<br />While the danger is real<br />At post time and coast time<br />At Golden Gate Fields<br /><br />Now, Lefty, he&#39;s the shooter<br />He arrived at the track<br />His stash and his needles<br />In the bag on his back<br />And they&#39;re leading the horses<br />Out of the barn<br />Lefty&#39;s in line<br />With the tracks on his arm<br /><br />And he&#39;s looking for a horse<br />To get through the day<br />That&#39;s why he&#39;s the shooter<br />And he&#39;s willing to pay<br />The price of the monkey<br />Who takes him away<br />He&#39;s a-betting on horses<br />That don&#39;t ever pay<br /><br />And the horses and junkies<br />The danger is real<br />At the post time and the coast time<br />At Golden Gate Fields<br />And the horses and the junkies<br />And the dangers are real<br />At the post time and the coast time<br />At Golden Gate Fields<br /><br />Now the first race<br />Is the claim stake<br />And Jose is back<br />Holding the reins<br />Staying back in the pack<br />Around the far turn<br />He gives him his slack<br />Avoiding the horses<br />Now flat on their backs<br /><br />And the horses and the junkies<br />And the dangers are real<br />At the post time and the coast time<br />At Golden Gate Fields<br /><br />Jose and Maria<br />And Lefty and junk<br />Who will ride for the thrills<br />And what&#39;s in their trunk?<br />And they&#39;re counting on angels<br />Who know how it feels<br />At post time and coast time<br />At Golden Gate Fields<br /><br />For the horses and jockeys<br />And the dangers are real<br />At post time and coast time<br />At Golden Gate Fields<br />And the horses and junkies<br />And the dangers are real<br />At the post time and coast time<br />At Golden Gate Fields
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

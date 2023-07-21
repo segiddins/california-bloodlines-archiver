@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3419
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:35 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ROAD AWAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Cannons in the Rain (RCA, LSP 4827, 1973)<br />Forgotten Songs of Some Old Yesterday (RCA, PL 43155, 1980)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Well he left his home in San Jose<br />He was just a boy of nine<br />And he&#39;d only gone a mile to find<br />He didn&#39;t have a dime<br />He didn&#39;t have a dime<br /><br />He said, &quot;Mamma have you got a dollar?<br />Oh, Mamma when you&#39;re off the phone.&quot;<br />But Mamma kept talkin&#39;<br />And the boy kept walkin&#39;<br />Without a road of his own<br />Oh, no, no, no<br />Mamma don&#39;t you know<br /><br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own<br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own, your own<br />You got a road of your own<br /><br />Well  he came to the Mission San Luis Rey<br />Lupe Jones was doing well<br />She owned a Ford and served the Lord<br />And rang the mission bell<br />Rang the mission bell<br /><br />She turned him on<br />And she turned him down<br />And she turned him over slowly<br />Stay with me and I&#39;ll fill your needs<br />The boy he answered lowly<br />&quot;No, no, no<br />Lupe don&#39;t you know&quot;<br /><br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own<br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own, your own<br />You got a road of your own<br /><br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own<br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own, your own<br />You got a road of your own<br /><br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own<br />You&#39;re takin&#39; my road away<br />Oh, road away<br />You got a road of your own, your own<br />You got a road of your own
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3826
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JUDY IN G MAJOR</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo first fret (if my tuner works as it should, the guitars are tuned to<br />somewhere<br />between G and G#)<br /><br />(G)   (C)(D)(G)       (C)(D)(G)<br />(G)  (C) (D) (G)  (D) (G)   (C) (D) (G)  (D) (G)<br /><br />See how my Judy (C)comes,(C)(D)<br />(G)Coming like the (D)girl who (C)never saw the (D)light of (G)day. (D) (C)<br />(D)<br />(G)See how my Judy (C)runs, (D)<br />(G)Running in the (D)arms of the (C)boy who (D) got a(G)way. (D) (C) (D)<br />Ooh, she (G)prays for the (D)light<br />To (G)come back to her in the (C)middle of the night,<br />(G)Well alright,<br />Judy (C)prayed when the (D)morning (G)comes. (D) (G) (hold)<br />(G)  (C) (D) (G)  (D) (G)  (C) (D) (G)  (D) (G)<br /><br />(G) See how my Judy (C)cries, (D)<br />(G) Crying like the (D)girl who (C)never had the (D)right of (G)way.  (D)<br />(C) (D)<br />Ooh, (G) see how my Judy (C)tries, (D)<br />(G) Trying too (D)hard with a (C)heart that&#39;s (D)breaking every (G) day. <br />(D) (C) (D)<br />And she (G)prays for the (D)light<br />To (G)come back to her in the (C)middle of the night,<br />(G)Well alright,<br />Judy (D)prayed when the morning (G)comes. (D) (G) (hold)<br />(G)  (C) (D) (G)  (D) (G)    (G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)    (G)  (C) (D) (G)  (D) (G)<br /><br />For a (C)home, for a (Em)start,<br />She had (D)waited so long with a (G)bullet in her heart.<br />Well alright, Judy (D)prayed when the morning,<br />(G)Well alright, Judy (D)prayed when the morning,<br />(G)Well alright, Judy (D)prayed when the morning (G)comes.(hold)<br />(G)  (C) (D) (G)  (C) (D) (G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (C) (D) (G)  (C) (D) (G)  (D) (G)<br /><br />See how my Judy comes,(C)(D)<br />(G)Coming like the (D)girl who (C)never saw the (D)light of (G)day. (D) (C)<br />(D)<br />(G)See how my (D)Judy (C)runs, (D)<br />(G)Running in the (D)arms of the (C)boy who (D) got a(G)way. (D) (C) (D)<br />And she (G)prays for the (D)light<br />To (G)come back to her in the (C)middle of the night,<br />(G)Well alright,<br />Judy (D)prayed when the morning (G)comes. (D) (G)<br /><br />Yeah, for a (C)home, for a (Em)start,<br />She (D)waited so long with a (G)bullet in her heart.<br />Well alright, Judy (D)prayed when the morning,<br />(G)Well alright, Judy (D)prayed when the morning, <br />(G)Well alright, Judy (D)prayed when the morning (G)comes. (D) (G) (hold)<br />(G)   (D) (G)    (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)<br />(G)  (C) (D) (G)  (D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

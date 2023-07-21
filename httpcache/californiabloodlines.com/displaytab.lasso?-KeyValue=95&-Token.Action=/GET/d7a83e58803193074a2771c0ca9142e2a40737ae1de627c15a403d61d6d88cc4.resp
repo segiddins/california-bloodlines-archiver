@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2877
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SUNSTORM</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 4th fret<br /><br /><br />(D7/4/C)<br /><br />E-----------3----<br />B---1------------<br />G-------2--------<br />D----------------<br />A-----------3----<br />E--X-------------<br /><br />Intro:<br /><br />(Cj7)(C)(Cj7)     (Dm7)     (C)(Bb)(hold)<br /><br />(C)Harkin, the (Cj7)dogs are barking,<br />(D7/4/C)Out on the road there&#39;s a (Dm)law man parking,<br />(G)Living in an Okla(G7)homa loner&#39;s (Cj7)sunstorm.<br /><br />(C)Harkin, the (Cj7)rain is gone,<br />(D7/4/C)Rain maker praying that he (Dm)don&#39;t go wrong,<br />(G)Living in an Okla(G7)homa loner&#39;s (C)sunstorm.<br /><br />Sunrise, come (Cj7)burn your eyes,<br />And it (C7)won&#39;t take long to (F)realize<br />You&#39;re (G)living in an Okla(G7)homa loner&#39;s (C)sunstorm.<br />(Cj7)  (D7/4/C)  (C)  (G)  (C)(Bb)(hold)<br /><br />(C)Harkin, your friend is lost,<br />You can curse the road but the (Dm)road is boss,<br />(G)Living in an Okla(G7)homa loner&#39;s (C)sunstorm.<br /><br />Harkin, the (Cj7)wind will blow,<br />Gonna (D7/4/C)blow your (C)tail like a (Dm)rodeo,<br />(G)Living in an Okla(G7)homa loner&#39;s (C)sunstorm.<br /><br />(C)Sunrise, come (Cj7)burn your eyes,<br />It (C7)won&#39;t take long to (F)realize<br />You&#39;re (G)living in an Okla(G7)homa loner,<br />Living in an Oklahoma loner,<br />Living in an Oklahoma loner&#39;s<br />(C)Sun(Bb)sto-orm.(hold)<br /><br />(C[4x])     (G[x2])  (C[x2])<br />([still] C [4x])Oklahoma loner, Oklahoma loner<br />(G[x2])Oklahoma loner&#180;s   (C[x2])sunstorm.<br />([still] C [4x])Oklahoma loner, Oklahoma loner<br />(G[x2])Oklahoma loner&#180;s   (C[x2])sunstorm&#8721;.(fade out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

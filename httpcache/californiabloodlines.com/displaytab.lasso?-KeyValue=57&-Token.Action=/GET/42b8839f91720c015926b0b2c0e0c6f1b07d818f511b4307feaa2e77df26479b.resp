@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2695
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:55 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ROLL AWAY THE STONE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>In Valley (Dm)Forge long a(G)go,<br />A (C)nation (G/B)born in (Am)snow,<br />To (F)make it ours,<br />We (G)carved their names in (C)stone.(G/B) (Am)<br /><br />And if (F)that is all we (G)own,<br />Old (C)memo(G/B)ries in (Am)stone,<br />(F)Don&#39;t you think it&#39;s (G)time <br />that we (D)made some of our (G)own? (hold)<br /><br />Roll a(C)way, roll a(Dm)way,(G)<br />(F)Oh,(Em) (Dm) (C) (D)roll away the (G)stone.<br />Roll a(Am)way, roll a(F)way,(C)<br />(F)People (G)of A(C)meri(Am)ca, <br />(Dm)Roll a(G)way the (C)stone. (hold)<br /><br />Oh, we build &#39;em (Dm)high and we build &#39;em (G)wide<br />&#39;Till there&#39;s (C)no place (G/B)left to (Am)hide<br />For the (F)motels and the (G)coffee shops<br />And the (C)flashing (G/B)neon (Am)signs.<br />Are we (F)cursed, are we (G)blind?<br />Have (C)we all (Em/B)lost our (Am)minds?<br />The (F)cities made of (Em)stone, <br />Is that (D)all we&#39;ll leave be(G)hind? (hold)<br /><br />Roll a(C)way, roll a(Dm)way,(G)<br />(F)Oh,(Em) (Dm) (C) (D)roll away the (G)stone.<br />Roll a(Am)way, roll a(F)way,(C)<br />(F)People (G)of A(C)meri(Am)ca, <br />(Dm)Roll a(G)way the (C)stone.<br />(Dm) (G) (F)(Em)(Dm)(C)(D) (G) <br />(Am) (F) (C) (F) (G) (C) (Am) (Dm) (G) (C)<br /><br />Oh, roll away, oh, roll a(Dm)way,(G)<br />(F)Oh,(Em) (Dm) (C) (D)roll away the (G)stone.<br />Roll a(Am)way, roll a(F)way,(C)<br />(F)People (G)of A(C)meri(Am)ca, <br />(Dm)Roll a(G)way the (C)stone.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

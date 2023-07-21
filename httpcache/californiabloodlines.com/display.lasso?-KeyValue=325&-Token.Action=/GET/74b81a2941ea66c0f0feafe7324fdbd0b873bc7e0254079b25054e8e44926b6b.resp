@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2833
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:32 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>REDEMPTION FOR THE MAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Escape to Arizona (Homecoming, 800, 1993)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>If you were wine I would drink you<br />If you were bread I would eat you<br />If you were rain I would bathe in you<br />If you were air I would breath you<br />If you were air I would breath you<br /><br />If you were clay I would mold you<br />If you were silk I would fold you<br />If you were cold I would hold you<br />If you had asked I&#39;d have told you<br />If you had asked I&#39;d have told you<br /><br />For you are all I am<br />Everywhere I stand<br />You are all I am<br />Redemption for the man<br /><br />Were I an actor I&#39;d be you<br />Were you a cat I would tree you<br />If you were two I would three you<br />Were you a bird I would free you<br />Were you a bird I would free you<br /><br />Were you a child I&#39;d bear you<br />Were you a shirt I would wear you<br />If you were paper I&#39;d tear you<br />Come closer, I dare you<br />Come closer, I dare you<br /><br />For you are all I am<br />Everywhere I stand<br />You are all I am<br />Redemption for the man<br />Redemption for the man<br /><br />If you were wine I would drink you<br />If you were bread I would eat you<br />If you were rain I would bathe in you<br />If you were air I would breath you<br />If you were air I would breath you<br /><br />Redemption for the man
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2655
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:32 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Rocks and blues</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Unreleased</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>The telephone rang, late last night<br />And of course I&#39;ve got to go<br />Making my way through the people and the ticket takers<br />And why I do not know<br /> <br />Why should I go to New York City?<br />I don&#39;t have a clue<br />Oh man on the moon, yeah I know how you feel<br />You went a long way for the rocks and blues<br /> <br />I&#39;ve lost more friends to the devil woman fame<br />Than I have to drugs and booze<br />I&#39;ve seen my old lady on the cover of the Rolling Stone<br />And on the Evening News<br /> <br />But this is my song, keep on singing &#39;fore it gets away<br />And I can&#39;t afford the shoes<br />Oh man on the moon, I know how you feel<br />You went a long way for the rocks and blues<br /> <br />There ain&#39;t no gold at the end of the rainbow<br />There&#39;s just a motel room<br />No stars in your crown as you&#39;re looking straight down<br />And you don&#39;t know what to do...<br /> <br />But Mill Valley people they keep living life every day<br />Any way they choose<br />Oh man on the moon, yeah I know how you feel<br />You went a long way for the rocks and blues
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

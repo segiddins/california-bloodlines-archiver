@@ -1,0 +1,193 @@
+A7 (short)
+E-------------
+B------2------
+G-------------
+D------2------
+A-------------
+EXXXXXXXXXXXXX
+
+A7/4
+E--------------
+B-----------3--
+G--------------
+D-------2------
+A--------------
+EXXXXXXXXXXXXXX
+
+Em11
+E-------------
+B-------------
+G-------------
+D-------------
+A-------------
+EXXXXXXXXXXXXX
+
+The first beat is a note and the other two are chords.
+We have used small letters for the notes, example: (a)
+and the usual capital letters for the chords, example: (D).
+You keep your left hand in the (D) formation and just move
+the finger that plays the first beat bass note around.
+Then there's an occasional Em7, A7 or A7/4 at the end of the lines.
+
+Remember, small letters are single notes on the bass strings.
+Then two soft strums of the chord.
+
+
+Capo 2nd fret
+
+Intro:
+(D) - then, move the appropriate finger to make the note,
+playing the rest of the strings below the note for beats 2 & 3.
+
+(d) (c) (a-hammer-b-g-a)    (d) (c) (a-hammer-b-g-a)
+(d)There was a (d)woman 
+I (c)saw on the (c)street,
+I (b)swear she was (gb)(Em11)wearing 
+The (b)(Em7)moon on her (a)(A7) feet.
+She (d)(D)said, "Do you (c)know me?"
+And I (b)said, "I don't (bb)know."
+She (g)(G)told me to (gb)(Em11)listen
+And (b)(Em7)then I could (a)(A7)go. (A7/4) (A7)
+
+And (d)(D)there was a (d)boy 
+Who I (c)found on the (c)road,
+I (b)said, "Are you (gb)(Em11)lost 
+With (b)(Em7)nowhere to (a)(A7)go?"
+And he (d)(D)said, "No I'm (c)not,
+I be(b)lieve that you (bb)are."
+And he (g)(G)told me to (gb)(Em11)sit 
+On the (b)(Em7)hood of the (a)(A7)car. (A7/4) (A7)
+
+He said, (g)(G)"I am the (a)(A7)course 
+That the (d)(D)river is (d)winding,
+And (g)(G)I am the (d)(D)horse 
+That the (e)(Em7)angel is (a)(A7)riding,
+And (g)(G)I am the (a)(A7)source 
+Of the (d)(D)love you are (g)(G6)finding.
+Do you (e)(Em7)know who I (gb)(Em11)am?
+It is (a)(A7)blinding, (A7/4)(A7)
+(g)(G)I am the (d)(D)star (a)(A7) (A7/4) (A7) (hold) 
+In the (a)(A7)black sky (d)(D)shining."
+
+(d) (c) (a-hammer-b-g-a)    (d) (c) (a-hammer-b-g-a)
+(d)(D)There was a (d)dog 
+Who had (c)followed me (c)home,
+(b)He was not (gb)(Em11)young,
+But (b)(Em7)not fully (a)(A7)grown.
+And he (d)(D)said, “Do you (c)know me?
+We (b)spoke on the (bb)phone,
+(g)(G)I was a (gb)(Em11)king 
+And the (b)(Em7)world is my (a)(A7)throne.” (A7/4) (A7)
+
+He said, (g)(G)”I am the (a)(A7)flame 
+In the (d)(D)heat of the fire,
+And (g)(G)I am to (d)(D)blame 
+For the (e)(Em7)tongue of the (a)(A7)liar,
+And (g)(G)I am the (a)(A7)same 
+As the (d)(D)birds on the (g)(G6)wire.
+Do you (e)(Em7)know who I (gb)(Em11)am?
+It is (a)(A7)blinding, (A7/4)(A7)
+(g)(G)I am the (d)(D)star (a)(A7) (A7/4) (A7)
+In the black sky (d)(D)shining.”
+
+(d) (c) (a-hammer-b-g-a)    (d) (c) (a-hammer-b-g-a)
+And (d)there was a (d)thief 
+Who was (c)tied to a (c)pole,
+At his (b)feet was a (gb)(Em11)list 
+Of the (b)(Em7)things that he (a)(A7)stole.
+And I (d)(D)said, “I am (c)only 
+(b)Playing a (bb)role.”
+And he (g)(G)asked if I (gb)(Em11)dared 
+Look (b)(Em)deep in his (a)(A7)soul.(A7/4) (A7)
+
+He said, (g)(G)”I am the (a)(A7)heart 
+Of the (d)(D)warrior child,(d)
+And (g)(G)I am the (gb)(Em11)moment 
+That the (e)(Em7)beast becomes (a)(A7)mild,
+And (g)(G)I am the (a)(A7)part 
+Of the (d)(D)soul that is (g)(G)wild. 
+Do you (e)(Em7)know who I (gb)(Em11)am?
+It is (a)(A7)blinding,
+(g)(G)I am the (d)(D)star (a)(A7) (A7/4) (A7) (hold)
+In the black sky (d)(D)shining, oh.
+
+(d) (c) (b-b-a)    (d) (c) (a-hammer-b-g-a)
+And I (c)(C)come from the (b)(Em)light,
+It is (a)(A7)blinding, (A7/4)
+For (g)(G)I am the (a)(A7/4)star   (A7) 
+In the black sky (d)(D)shining, (c)oh. (b) 
+(middle g)(D4)Mm (middle f#)(D)Mm 
+(middle e)(A4)Mm (d)(D)Mm.
+
+
+
+
+Here is a slightly different version that John has done in live shows-
+
+Intro in single notes d..c..b a g a  with a little “brush” on the strings in
+(D)formation, switching to (A) formation at the end,
+or:
+--------------------------------------------------------------------------- (D, highlight d-note) (D7, highlight c) (D6, highlight b) single notes
+on  G-string: a g a;                                      repeat
+3x
+---------------------------------------------------------------------------
+That continues into the verse as d c b a
+
+(D/d)There was a (D7/c)woman I (D6/b)saw on the (single note a)street,
+I (D/d)swear she was (D7/c)wearing the  (D6/b)moon on her (a)feet.
+She (D/d)said, “Do you (D7/c)know me?”  I (D6/b)said, “ I don´t (a)know.”
+She (G)told me to (D)listen, and (A)then I could (D)go..
+
+She said, (G)”I am the (Em)course that the (A)river is (D)winding,
+(G)I am the  (Em)horse that the (A)angel is (D)riding,
+(G)I am the (D)source  of the (A)love you are (Bm)finding, (A)
+Do you (C)know who I (C/B)am?
+It is (A)blinding,
+(G)I am the (D)star
+In the (A)black sky (D/d)shining.” (D7/c) (D6/b) 
+(single notes on G-string: a g a)
+
+(D/d)There was a (D7/c)boy  who I (D6/b)found (a)on (g)the (a)road,
+I (D/d)said. “Are you(D7/c) lost with (D6/b)no(a)where (g)to (a)go?”
+He (D/d)said, “No, I´m (D7/c)not, but I be(D6/b)lieve that you (a)are.”
+And he (G)told me to (D)sit on the (A)hood of the (D)car.
+
+He said, (G)“I am to (Em)blame for the (A)tongue of the (D)liar,
+And (G)I am the (Em)flame in the (A)heat of the(D)fire,
+And (G)I am the (D)same as the (A)birds on the (Bm)wire, (A)
+Do you (Cknow who I (C/B)am?
+It is (A)blinding,
+(G)I am the (D)star
+In the (A)black sky (D/d)shining.” (D7/c) (D6/b) 
+(single notes on G-string: a g a)
+(D/d) (D7/c) (D6/b) (single notes on G-string a g a)
+
+(D/d)There was a (D7/c)dog who had (D6/b)followed me (a)home,
+(D/d)He was not (D7/c)young, but he was  (D6/b)not fully (a)grown.
+He (D/d)said, “Do you (D7/c)know me?” We (D6/b)spoke on the (a)phone,
+He said, (G)”I am a (D)king and the (A)world is my (D)throne.”
+
+He said, (G)“I am the (Em)cry of the (A)woman who´s (D)dying,
+(G)I am the (Em)wings of the (A)sparrow who´s (D)flying,
+And (G)I am the (D)hope of the (A)child who is (Bm)crying. (A)
+And I (C)come from the (C/B)light,
+It is (A)blinding.
+(G)I am the (D)star 
+In the (A)black sky (D/d)shining.” (D7/c) (D6/b) 
+(single notes on G-string: a g a )
+(D/d) (D7/c) (D6/b) (single notes on G-string: a g a)
+
+(D/d)There was a (D7/c)thief who was (D6/b)tied to a (a)pole,
+At his (D/d)feet was a (D7/c)list of the (D6/b)things that he (a)stole.
+He (D/d)said, "I am (D7/c)only (D6/b)playing a (a)role",
+And he (G)asked if I (D)dared look (A)deep in his (D)soul.
+
+He said, (G)"I am the (Em)heart of the (A)warrior (D)child,
+And (G)I am the (Em)moment the (A)beast becomes (D)mild,
+And (G)I am a (D)part of the (A)soul that is (Bm)wild, (A)
+And (C)I am the (C/B)answers 
+You´re (A)finding.
+(G)I am the (D)star in the (A)black sky (D)shining,
+(G)I am the (D)star in the (A)black sky (D)shining,
+(D/d)I am the (D7/c)star  (D6/b) (single notes: d c# g a)
+In the black sky (D/d)shining.” (D7/c) (D6/b) (single notes: a  b c# d)

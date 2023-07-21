@@ -1,0 +1,48 @@
+Capo 4th
+
+In many places chords are
+played note by note rather
+than strummed.
+
+Use (E7 short) and (A7 short)
+
+(Em7) (A7)   (Em7) (A7)
+
+(Em7) When you sit and (A7)wonder
+Why (G)things have gone so (A7)wrong,
+And you (Em7)wish someone would (D)tell us
+(F#m)where our friend has (Em7)gone, (A7)
+
+(D)Look then to the (E7)hills
+When there's (G)courage in the (F#m)wind,
+And (Em7)in the face of (D)freedom
+And (F#m)those who look to (Em7)Him. (A7)
+
+And (D)search within the (E7)heart
+Of ev'ry (G)young man with a (F#m)song,
+(G)Then I think we'll (D)know
+(F#m)where our friend has (Em7)gone. (A7)
+(G) (A7) (G)
+
+(Em7)Summer takes the (A7)winter
+As the (G)good years take the (A7)pain,
+There'll be (Em7)laughter in the (D)land again
+But (F#m)hearts won't be the (Em7)same. (A7)
+
+And (D)I know I'll (E7)remember
+When a (G)chill wind takes the (F#m)sky,
+And (Em7)speak of the years he (D)gave us hope, (hold)
+For (F#m)they will never (Em7)die. (A7)
+
+And (D)as we gaze at (E7)brave young men
+When (G)yesterdays grow (F#m)long,
+(G)Then I think we'll (D)know
+(F#m)where our friend has (Em7)gone.  (A7)
+
+(G) (A7) (G)
+
+(Em7)When you sit and (A7)wonder
+Why (G)things have gone so (A7)wrong,
+It's (Em7)then that we'll (D)remember
+(F#m)where our friend has (Em)gone. (A7)
+(G) (A7) (Em7) (D)

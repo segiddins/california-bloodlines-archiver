@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3017
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:41 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE DOGS OF SAN JON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Rough Sketches (Folk Era, FE1437D, 1997)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Have you seen Elijah? He is part coyote <br />That&#8217;s what the young albino said <br />Have you seen Elijah? Hear he eats peyote <br />Throwing back a young albino head <br />Before they closed the highway, <br />We had flamingos on the lawn <br />Drivers said to fill her up, <br />And we&#8217;d be movin&#8217; on <br />Before they closed the highway, <br />We had flamingos on the lawn <br /><br />Chorus:<br />The Old Ones are vanishing, <br />And soon they will be gone <br />And all that we&#8217;ll be hearing, <br />All that we&#8217;ll be hearing <br />All that we&#8217;ll be hearing,<br />Is the barking of the Dogs of San Jon <br /><br />Was you ever in Texas, <br />Yeah when the locusts were flying <br />Was you ever in Texas, <br />Yeah when the highways were alive <br />Well I have been in Texas <br />When the locusts were flying <br />Yeah I&#8217;ve been in Texas <br />When they blackened the skies <br /><br />There are ghosts that should be sleeping <br />I hear them on the ground <br />Kicking at the oil can <br />Making ghostly sounds <br />There are ghosts that should be sleeping <br />I can hear them on the ground <br /><br />(Repeat Chorus)<br /><br />In Amarillo juke joints <br />Oh they dance the night away <br />The dogs are chained and barking <br />Every hour of the day <br />In Amarillo juke joints yeah <br />Yeah they dance the night away <br />Yeah they dance the night away <br /><br />(Repeat Chorus)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

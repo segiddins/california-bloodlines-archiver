@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3961
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>IF YOU DON&#39;T LOOK AROUND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Intro:<br />Single notes C-D-E<br />(F) (Bb) (F) (C7) (F) (Bb) (C) (C7)<br /><br />They (F)told me, &quot;Don&#39;t you (Bb)go down to that (F)city. (C)<br />Don&#39;t you (F)go down to that (Bb)city, I (C)say.<br />Oh, there&#39;s (F)trouble there for (Bb)sure,<br />And it&#39;s (F)no concern of (Bb)yours.&quot;<br />And that&#39;s (F)all I had to (Bb)hear them people (C)say.<br /><br />If you (Bb)don&#39;t look a(C)round, you won&#39;t (F)see me a-(Bb)going,<br />(F)See me a-(Bb)going that (C)way.<br />If you (Bb)don&#39;t look a(C)round, you have (F)no way of (Bb)knowing,<br />I don&#39;t (F)think you even (Bb)know what I (C)say.<br /><br />And I saw (F)children just (Bb)walking along and (F)singing, (C)<br />When a (F)voice from be(Bb)hind me rang (C)through.<br />And I (F)saw an ugly (Bb)man, with a (F)mad dog in his (Bb)hand,<br />&quot;If you (F)stand right there, I&#39;ll (Bb)turn him loose on (C)you.&quot;<br /><br />If you (Bb)don&#39;t look a(C)round, you won&#39;t (F)see me a-(Bb)going,<br />(F)See me a-(Bb)going that (C)way.<br />If you (Bb)don&#39;t look a(C)round, you have (F)no way of (Bb)knowing,<br />I don&#39;t (F)think you even (Bb)know what I (C)say.<br /><br />So don&#39;t (F)tell me there (Bb)ain&#39;t no time for (F)singing, (C)<br />(F)I don&#39;t need no (Bb)empty words from (C)you.<br />If they&#39;re (F)saying who ain&#39;t (Bb)free,<br />Then they&#39;re (F)saying it right to (Bb)me,<br />So (F)go back home, I&#39;ll (Bb)wake you when we&#39;re (C)through.<br /><br />If you (Bb)don&#39;t look a(C)round, you won&#39;t (F)see me a-(Bb)going,<br />(F)See me a-(Bb)going that (C)way.<br />If you (Bb)don&#39;t look a(C)round, you have (F)no way of (Bb)knowing,<br />I don&#39;t (F)think you even (Bb)know what I (C)say.<br />(Bb)  (C)  (F)  (Bb)  (F)  (Bb)  (C)  (Bb)  (C)  (F)  (Bb)  (F)  (Bb)  (C)<br /><br />They (F)told me, &quot;Don&#39;t you (Bb)go down to that (F)city, (C)<br />Don&#39;t you (F)go down to that (Bb)city, I (C)say.<br />Oh, there&#39;s (F)trouble there for (Bb)sure,<br />And it&#39;s (F)no concern of (Bb)yours.&quot;<br />And that&#39;s (F)all I had to (Bb)hear them people (C)say.<br /><br />If you (Bb)don&#39;t look a(C)round, you won&#39;t (F)see me a-(Bb)going,<br />(F)See me a-(Bb)going that (C)way.<br />If you (Bb)don&#39;t look a(C)round, you have (F)no way of (Bb)knowing,<br />I don&#39;t (F)think you even (Bb)know what I (C)say. (hold)<br /><br />If you (Bb)don&#39;t look a(C)round, you won&#39;t (F)see me a-(Bb)going,<br />(F)See me a-(Bb)going that (C)way.<br />If you (Bb)don&#39;t look a(C)round, you have (F)no way of (Bb)knowing,<br />I don&#39;t (F)think you even (Bb)know what I (C)say.<br />(fade out)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

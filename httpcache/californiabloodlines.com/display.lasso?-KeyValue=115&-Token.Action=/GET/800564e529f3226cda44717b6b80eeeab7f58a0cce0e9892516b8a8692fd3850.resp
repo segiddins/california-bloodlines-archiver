@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2925
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:18 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>FREEWAY PLEASURE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Lonesome Picker Rides Again (Warner Bros., K46135, 1971)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>As long as the tires still cry on the highway<br />As long as the dogs still die on the road<br />As long as I wake up without knowing who I am<br />I will always think of you as home<br /><br />Every time I hear you say &quot;John why are you leaving?&quot;<br />Bless it, my confession is a woman called the road<br />And like the other woman, the road she gets jealous<br />She knows there&#39;ll come a time I won&#39;t see her anymore<br /><br />The road is my woman<br />And she&#39;s never done me wrong<br />And I&#39;m true to her<br />The road is my woman<br />And she&#39;s here in this song<br />And I&#39;m true to her<br />But not for long<br /><br />Rescue me sweet angel<br />She stole me as a child<br />To become a rider on her two-lane rodeo<br />And then you came along<br />Loving me for what I am<br />I&#39;ve been too long with a woman made of stone<br /><br />The road is my woman<br />And she&#39;s never done me wrong<br />And I&#39;m true to her<br />The road is my woman<br />And she&#39;s here in this song<br />And I&#39;m true to her<br />But not for long<br /><br />The road is my woman<br />And she&#39;s never done me wrong<br />And I&#39;m true to her<br />The road is my woman<br />And she&#39;s here in this song<br />And I&#39;m true to her<br />But not for long
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

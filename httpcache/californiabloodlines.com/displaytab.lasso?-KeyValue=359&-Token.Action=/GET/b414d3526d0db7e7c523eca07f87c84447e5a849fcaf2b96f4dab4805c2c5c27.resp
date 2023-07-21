@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2965
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:49 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEN YOU&#39;VE BEEN AWAY FOR A LONG TIME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle> (Em) (Dm) (Em) (Dm) (Em) (Dm) (G) <br />(Cj7)When you&#39;ve been away from the (Dm)color of the (G)sky, <br />(C)When you&#39;ve been a(Em)way for a (Dm)long time, (G7) <br />(C)You will see it (F)true. <br />It&#39;s a (G7)different shade of (C)blue, <br />(Em)When you&#39;ve been a(Dm)way (G)for a (C)long time. <br />(Em) (Dm) (Em) (Dm) (Em) (Dm) (G) <br /> <br />(Cj7)When you&#39;ve been away from the (Dm)music in your (G)heart, <br />(C)When you&#39;ve been a(Em)way for a (Dm)long time, (G7) <br />The (C)songs come back a(F)gain <br />Like an (G)old fa(G7)miliar (C)friend, <br />(Em)When you&#39;ve been a(Dm)way (G)for a (C)long time. (C7) <br /> <br />I can (F)hear, <br />I can (Em)see, <br />I can (Dm)feel <br />I am (Cj7)free, <br />And (Em)I&#39;ve been a(Dm)way (G)for a (C)long time. <br />(Em) (Dm) (Em) (Dm) (Em) (Dm) (G) <br /> <br />(C)When you&#39;ve been away from the (Dm)loving in your (G)soul, <br />(C)When you&#39;ve been a(Em)way for a (Dm)long time, (G) <br />I (C)hear it&#39;s like a (F)rain <br />That (G)washes all your (C) pain, <br />(Em)When you&#39;ve been a(Dm)way (G)for a (C)long time. <br />(F) (G7) (C) (C7) (F) (G7) (C) <br /> <br />When you&#39;ve been away from (Dm)someone you once (G)knew, <br />(C)When you&#39;ve been a(Em)way for a (Dm)long time, (G) <br />(C)If you find it (F)true <br />That (G7)someone was just (C)you, <br />(Em)Then you&#39;ve been a(Dm)way (G)for a (C)long time. (C7) <br /> <br />I can (F)hear,<br />I can (Em)see, <br />I can (Dm)feel <br />(G)I am (C)free, <br />And (Em)I&#39;ve been a(Dm)way, <br />(Em)I&#39;ve been a(Dm)way, <br />(Em) I&#39;ve been a(Dm)way (G)for a (C) long time. <br />(F) (G7) (C) <br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

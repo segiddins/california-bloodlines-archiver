@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3412
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ACROSS THE MILKY WAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C) (G) (D) (G) 5x<br />If you are (D)lost as (G)in a (D)dream<br />And you(C) cannot (D)find your (G)way,(D)<br />(G)All the (D)reasons (G)you are (D)lost<br />Will (C)guide you (G)on your (D)way.<br />If you (C)turn them all to (D)stars <br />(C)Across the (D)milky (G)way,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (C)day.(G) (D) (G) <br />(C) (G) (D) (G) (C) (G) (D) (G) <br /><br />Children (D)come and (G)children (D)go, <br />They&#180;re not(C) children (D)any(G)more.(D)<br />(G)And all I (D)have are (G)photo(D)graphs,<br />I have(C) hundreds (G)on my (D)door.<br />And if I (C)turned them all to (D)stars <br />(C)Across the (D)milky (G)way,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (G)day,(D)<br />(G)Truly (D)they would (G)make <br />All the (C)night as (D)bright as (C)day.(G) (D) (G)<br />(C) (G) (D) (G) (C) (G) (D) (G) (C) (G) (D) (G)<br /><br />If all the (D)hearts that the (G)spirit (D)loves<br />were(C) standing (D)side by (G)side,(D)<br />(G)They would (D)be for(G)ever (D)long<br />And(C) ten thousand (G)miles (D)wide.<br />(C)Turn them all to (D)stars <br />(C)Across the (D)milky (G)way,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (G)day,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (C)day.(G) (D) (G)<br />(C) (G) (D) (G) (C) (G) (D) (G) (C) (G) (D) (G) (C) (G) (D) (G)<br /><br />The light that (D)shines in your (G)true love&#180;s (D)eyes <br />(C)Also (D)shines in (G)you,(D)<br />(G)If we would (D)only (G)let it (D)shine,<br />The (C)promise (G)would come (D)true.<br />You could(C) turn us all to (D)stars <br />(C)Across the (D)milky (G)way,(D)<br />(G)Truly (D)they would (G)make <br />All the (C)night as (D)bright as (G)day,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (G)day,(D)<br />(G)Truly (D)they would (G)make<br />All the (C)night as (D)bright as (C)day.(G) (D) (G)<br />(C) (G) (D) (G) (C) (G) (D) (G) (C) (G) (D) (G) (C) (G) (D) (G)<br /><br /><br />To play along with the &quot;Teresa&quot;-cd, transpose: <br />(C) (G) (D) become (G) (D) (A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

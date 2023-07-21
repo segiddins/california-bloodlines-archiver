@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 4904
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:36 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE WITNESS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Armstrong (Homecoming, 850, 1994, single)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>As the light of the hunters Moon lay across the Mojave sand, The Witness <br />stood on the plateaus of Edwards Air Force Base and looked up. The spirits of <br />the Apache, Mojave, and Navajo watched the sky and heard the thunder that <br />wasn&#39;t from the rain. It came as Chuck Yeager and Glamorous Glennis cracked <br />the invisible wall in the great blue yonder.<br /><br />Spirits in the primal dust watched the stars long before the millions of buffalo followed the drift of the Northern plate into the guns of the October horse soldiers. Their spirits were there, there at Edwards Air Force Base in the California desert with Scott Crossfield, Kit Murray, Carl Riddley and Slick Goodwin. They were in the capsule with Shepard and Carpenter and were seen as fireflies by Colonel John Glenn in that February night when he circled the Earth in the trail of Yuri Gagarin. They were there in the endless night sky that covered the town of Lawrence, Kansas in the Summer of &#39;69. A night not unlike all the other nights that showed the plain states the tail of Haleys Comet and meteor showers in clear summer skies. The TV screens were never dark in those sweltering times of mid July in 1969. The boys in <br />the neighborhood with their Buck Rogers ray guns and John Glenn space helmets <br />watched the sky when their eyes weren&#39;t glued to the black and white network <br />images of search lights and silhouettes at Cape Kennedy. They watched from the little wooden houses along the cove in Blue Hill, Maine. They heard the count down begin in the barrios of Compton and East L.A. They watched in the tiny apartments of Tokyo as mist tumbled from the Atlas boosters of Apollo 11. They watched as three of our kind, Armstrong, Aldrin and Collins went down their check list as they had done a thousand times in Houston, Texas.<br /><br />It wasn&#39;t just another run through, this was real, this was history, this was karma, this was prophecy....this was verdad. The spirits of the Apache sky watchers, the Mojave and Navajo were in the capsule with them, along with the ghosts of Grissom, Chaffey and White. The launch pad was alive with the spirits of Lindberg, Lewis and Clark, Sitting Bull and Erikson. Alive with all the spirits of a million years of searching the heavens for something, for anything, for an answer.<br /><br />And it was real.<br /><br />As real as the spirits that moved among us since the beginning of time. As real as the Spirit that lives within us all. All of us who looked at the glowing screen on that July day and saw the Earth rise above the Moon horizon.<br /><br />Above the Moon horizon we saw ourselves on the silver screen.<br /><br />And we would circle the Mother in Challenger and Enterprise and float above <br />the silent seas. <br /><br />The spirits who pass between the layers of the seen and the unseen float as guardians beside people on chords who drift in dreams about their craft.<br /><br />And as the satellite chases its own orbit around her home, the astronauts eyes gaze downward at the Mother and the landing strip at Edwards where the sounds of the X1 and Glamorous Glennis are still heard in the morning thunder. <br /><br />And the jet trails are still seen by young braves on high ridges.<br /><br />And their eyes are our eyes<br />For we are all<br />The Witness 
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

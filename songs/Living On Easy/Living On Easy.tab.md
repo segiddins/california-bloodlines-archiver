@@ -1,0 +1,33 @@
+(A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold)
+I'm living on (G)easy
+(C) With a bottle of (G)whiskey,
+Ain't got no (A)money
+(D7) To see my (G)honey.(A) (D7) (G) (D7) (G) (hold)
+
+I'm a-living on (G)easy
+(C) With a bottle of (G)whiskey,
+Ain't got no (A)money
+(D7) To see my (G)honey.(A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold)
+
+I go see (G)Maggie,
+(C) She is so (G)porky,
+She got the (A)personality
+(D7) To soothe my (G)geniality.(A) (D7) (G) (D7) (G) (hold)
+
+I go see (G)Maggie,
+(C) She is so (G)porky,
+She got the (A)personality
+(D7) To soothe my (G)geniality.(A) (D7) (G) (D7) (G) [starting here, two verses with ‘tags’]
+(C)   (G)   (A)  (D7)  (G) (A) (D7) (G) (D7) (G) 
+(C)   (G)   (A)  (D7)  (G) (A) (D7) (G)  (A) (D7) (G) (D7) (G) (hold) 
+
+Ha ina (G)'ia mai 
+(C) Ana ka pu(G)ana,
+Lawe ana (A)one pua
+(D7) Lei paka(G)lana. (A)(D7)(G)(D7)(G) (hold)
+
+Ha ina (G)'ia mai 
+(C) Ana ka pu(G)ana, 
+Lawe ana (A)one pua
+(D7) Lei paka(G)lana.
+(A) (D7) (G)  (A) (D7) (G)

@@ -1,0 +1,52 @@
+Capo 2nd fret
+
+(C)  (Em)
+(Spoken)
+This in from Los (C)Angeles, a group of homeless people built a town 
+of cardboard and plywood (Em)shacks on a vacant lot in downtown Los Angeles.
+They were evicted to(C)day and their houses bulldozed down ˆ 
+the city considered them a health (Em)hazard.
+They were moved, however, to the sidewalk ten feet away,
+(C)where they remain today. 
+Many of them were women and children. 
+They (D)called their town Justiceville.
+
+(Sung)
+Hey (C)Mama, (D) have you seen the (G)dream? (Em)
+(C) Have you seen the (D)highway 
+(G) Where the (G/F#)El Dorados (Em)scream?
+Hey (C)Mama, (D) have you seen the (Em)dream?
+
+And hey (C)Mama, (D) did we have a (G)light? (G/F#) (Em)
+(C) Did it shine in our front (D)window 
+(G) In the (G/F#)middle of the darkest (Em)night?
+Hey (C)mama, (D) have you seen the (Em)light?
+Yes I (D)have and it's burning (Em)still (hold)
+
+Oh (C)Jus(G)tice(D)ville, (C) all they (D)wanted was a (G)home.
+(C)Jus(G)tice(D)ville, (C) a little (D)place to call their (Em)own,
+Where no one can (D)throw the stone.
+Justice(Em)ville. (C) (Em) (C)
+
+Hey Mama, (D) have you seen Crazy (G)Joe? (Em)
+(C) I hear he talks to (D)Angels 
+(G) And (G/F#)folks that he don't (Em)know.
+Hey (C)Mama, (D) have you seen Cr(Em)azy Joe?
+
+Hey (C)Mama, (D) do we have a (Em)dream?
+(C) Will we have a (D)home someday 
+(G) Where it's (G/F#)always safe and (Em)clean?
+Hey (C)Mama, (D) do we have a (Em)dream?
+Yes, we (D)do and it's burning (Em)still∑(hold)
+
+Oh, (C)Jus(G)tice(D)ville, (C) all they (D)wanted was a (G)home.
+(C)Jus(G)tice(D)ville, (C) a little (D)place to call their (Em)own,
+Where no (C)one would (D)throw the stones.
+Justice(Em)ville.
+
+Justiceville, (C) (D) 
+Justice(Em)ville,
+Justice(C)ville, (D) 
+Justice(Em)ville, (C) (D)
+Justice(Em)ville, (C) (D)
+Justice(Em)ville.

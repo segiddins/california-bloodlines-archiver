@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2833
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:37 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>JENNY AT THE WHEEL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes &#39;86 (Homecoming, 450, 1986)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>In Chicago the wind blows cold on the skin<br />Of school girls waiting for a sign<br />Someday the fun, the California sun<br />Will call from the end of the long yellow line<br /><br />And she calls on her friends and a few someday men<br />She is going for a ride<br />Illinois rain will never be the same<br />For Jenny is getting out alive<br /><br />Jenny at the wheel, she looks hard for the way<br />Oh, to the land of the sun<br />Jenny at the wheel and the far distant star<br />That, oh, she believes is the one<br /><br />New Mexico fell in an adobe motel<br />With JC working on her car<br />And she fell for his line she has heard many times<br />From boys about to go to far<br /><br />She is driving again with no money to spend<br />And a card that shows her daddy&#39;s name<br />She believes any day that they&#39;ll show her the way<br />To the bright blazing sun of the Playa Del Rey<br /><br />Jenny at the wheel, she looks hard for the way<br />Oh, to the land of the sun<br />Jenny at the wheel and the far distant star<br />That, oh, she believes is the one<br /><br />Jenny at the wheel, she looks hard for the way<br />Oh, to the land of the sun<br />Jenny at the wheel and the far distant star<br />That, yeah, she believes is the one
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

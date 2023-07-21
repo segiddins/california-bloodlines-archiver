@@ -1,0 +1,47 @@
+(F) (C/E) (Dm) (F/C) (Bb6) (C) (F)	
+(C/E) Shoot all the brave (Dm)horses, (F/C)
+(Bb6) (C) How will we (F)ride?
+(C/E) Shoot all the brave (Dm)horses,(F/C)
+(Bb) (Gm) How will (G/B)we (C)ride?(C/Bb)
+(Am) Shoot (C)all the brave (D/F#)hor(Em)ses,
+(F)  (E) How will we (Am)ride,(C/G)
+(F)  (G7)Ford the cold (C)wa(Em/B)ters,(Am)(C/G)
+(F) (G7)How will we (C)ride?(C7)
+
+Shoot (F)all (C/E)the brave (Dm)horses,(F/C)
+And (Bb6)how (C)will we (F)ride?
+Shoot all (C/E)the brave (Dm)horses,(F/C)
+And (Bb)how (Gm)will (G/B)we (C)ride?(C/Bb)
+Shoot (Am)all (C)the brave (D/F#)hor(Em)ses,
+And (F)how (E)will we (Am)ride,(C/G)
+And (F)ford (G7)the (G7/B)cold (C)wa(Em/B)ters,(Am)(C/G)
+Oh, (F)how (G7)will (G7/B)we (C)ride?(C7)
+
+Shoot (F)all (C/E)the brave (Dm)horses,(F/C)
+And (Bb6)how (C)will we (F)ride?
+Shoot all (C/E)the brave (Dm)horses,(F/C)
+And (Bb)how (Gm)will (G/B)we (C)ride?(C/Bb)
+Shoot (Am)all (C)the brave (D/F#)hor(Em)ses,
+And (F)how (E)will we (Am)ride,(C/G)
+And (F)ford (G7)the (G7/B)cold (C)wa(Em/B)ters,(Am)(C/G)
+Oh, (F)how (G7)will (G7/B)we (C)ride?(C7)
+
+Shoot (F)all (C/E)the brave (Dm)horses,(F/C)
+And (Bb6)how (C)will we (F)ride?
+Shoot all (C/E)the brave (Dm)horses,(F/C)
+And (Bb)how (Gm)will (G/B)we (C)ride?(C/Bb)
+Shoot (Am)all (C)the brave (D/F#)hor(Em)ses,
+And (F)how (E)will we (Am)ride,(C/G)
+And (F)ford (G7)the (G7/B)cold (C)wa(Em/B)ters,(Am)(C/G)
+Oh, (F)how (G7)will (G7/B)we (C)ride?(C7)
+
+Shoot (F)all (C/E)the brave (Dm)horses,(F/C)
+And (Bb6)how (C)will we (F)ride?
+Shoot all (C/E)the brave (Dm)horses,(F/C)
+And (Bb)how (Gm)will (G/B)we (C)ride?(C/Bb)
+Shoot (Am)all (C)the brave (D/F#)hor(Em)ses,
+And (F)how (E)will we (Am)ride,(C/G)
+And (F)ford (G7)the (G7/B)cold (C)wa(Em/B)ters,(Am)(C/G)
+Oh, (F)how (G7)will (G7/B)we (C)ride?(C7)
+
+Instrumental “outroduction”, chord progression as in verses

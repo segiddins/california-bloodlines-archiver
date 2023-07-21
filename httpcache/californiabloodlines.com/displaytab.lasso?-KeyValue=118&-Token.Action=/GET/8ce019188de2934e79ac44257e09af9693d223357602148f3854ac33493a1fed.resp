@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3912
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:49 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>LITTLE ROAD AND A STONE TO ROLL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Note: intro and the instrumental passages can be played <br />with the verse/chorus chords.<br /><br />E4<br />E------------<br />B------------<br />G----2------<br />D----2------<br />A----2------<br />E------------<br /><br /><br /><br />Capo 4th fret<br /><br />(C) (Am, single notes c pull off to b-a pull off to g<br />a-b hammer on c to f) (bass notes C-D)<br />(f pull off to e-d-c D bass note-d) (bass notes G-E)<br />(g pull off to e, c pull off to b hammer on c, d-e-f,<br />c-a  e hammer on f pull off to e, c-g, g, bass note G# to&#8721;)<br /><br />(Am) Little road and a (F)stone to roll,(F/C)<br />(Dm) Little road and a (G)stone to roll,(G/F#)<br />(Em) Little road and a (F)stone to roll,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am) Everybody needs a (F)fire inside,(F/C)<br />(Dm) Everybody needs a (G)dream to ride,(G/F#)<br />(Em) Everybody with a (F)growing soul,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am) A little road and a (F)stone to roll,(F/C)<br />(Dm) A little road and a (G)stone to roll,(G/F#)<br />(Em) A little road and a (F)stone to roll,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am) And everybody needs some (F)old, loose shoes,(F/C)<br />(Dm) Everybody needs some (G)new good news,(G/F#)<br />(Em) Everybody needs a (F)sheet to fold,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am, single notes c pull off to b-a pull off to g<br />a-b hammer on c to f) (bass notes F-D)<br />(f pull off to e-c-d-D bass note-F-D to low E)<br />(g pull off to e, c pull off to b hammer on c, d-e,<br />c-a  e hammer on f pull off to e, c-g, b hammer on c <br />d-g (on high E), bass note G# to&#8721;)<br /><br />(Am) Everybody needs a (F)Carole King tune,(F/C)<br />(Dm) And everybody needs a (G)little more room,(G/F#)<br />(Em) Everybody needs their (F)own deep hole,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am) Little road and a (F)stone to roll,(F/C)<br />(Dm) A little road and a (G)stone to roll,(G/F#)<br />(Em) A little road and a (F)stone to roll,<br />(C) Everybody needs a (G)stone to roll. (G/G#)<br /><br />(Am) A little road and a (F)stone to roll,(F/C)<br />(Dm) A little road and a (G)stone to roll,(G/F#)<br />(Em) Little road and a (F)stone to roll,<br />(C) Everybody needs a (G)stone to roll.<br /><br />(Am, single notes c pull off to b-a pull off to g<br />a-b hammer on c to f-c) (bass note D)<br />(f pull off to e-d-d bass note low E)<br />(g pull off to e, c pull off to b hammer on c, d-e-f,<br />c-a  e hammer on f pull off to e, c-g, bass notes G-G# to&#8721;)<br />(E4, slow downstrum)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3371
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>TERESA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (D) (C) (D) (G) (D) (C) (D)<br />(G) (D) (C) (D) (G) (D) (C) (D)<br />(G) Teresa (D)fell without a (C)whimper, (D)<br />(G) Higher (D)artist, (C)make no sound.(D)<br />(G) In the Omega (D)Hills of the (Em)New Awareness<br />(C) They made me (G)take (D) The Mother (G)down.<br />(D)(D4)(D) (C) (D) (G) (D)(D4)(D) (C) (D)<br /><br />(G) They were only (D)pictures of the (C)promise, (D)(D4)(D)<br />(G) A higher (D)soul who never (C)rests, (D)(D4)(D)<br />(G) Who serves the (D)poorest of the (C)poor, (D)(D4)(D)<br />(G) She is the (D)best (C) of all the (D)best.<br /><br />(G) She had no (D)place among the (C)drummers, (D)<br />(G) Amidst the (D)stream of eager (C)hearts, (D)<br />(G) I&#39;m just (D)glad it was not the second (C)coming, (D)<br />(G) Paint on (D)canvas (C)was not (D)art.<br /><br />(G) Teresa (D)fell without a (C)whimper, (D)<br />(G) Higher (D)artist, (C)make no sound.(D)<br />(G) In the Omega (D)Hills of the (Em)New Awareness<br />(C) They made me (G)take (D) The Mother (G)down.<br />(C) They made me (G)take (D) The Mother (G)down. (D) (C) (D)<br />(G) (D) (C) (D) (G) (D) (C) (D) (G) (D) (C) (D)<br /><br />(G) In the scheme of (D)things, it doesn&#39;t (C)matter, (D)(D4)(D)<br />(G) Crying (D)children, (C) there&#39;s a (D)sound.(D4)(D)<br />(G) Hungry (D)people(C) in Cal(D)cutta<br />(C) Would never (D)take (C) The (D)Mother (G)down. (D)<br /><br />(G) Teresa (D)fell without a (C)whimper, (D)(D4)(D)<br />(G) Higher (D)artist, (C)make no sound.(D)<br />(G) In the Omega (D)Hills of the (Em)New Awareness<br />(C) They made me (G)take (D) The Mother (G)down.<br />(C) They made me (G)take (D) The Mother (G)down.<br /><br />Teresa (D)fell without a (C)whimper, (D)(D4)(D)<br />(G) Higher (D)artist, (C)make no (D)sound.<br />(G) In the Omega (D)Hills of the (Em)New Awareness<br />(C) They made me (G)take (D) The Mother (G)down.<br />(C) They made me (G)take (D) The Mother (G)down..<br />(C) They made me (G)take (D) The Mother (G)down.<br />(C) They made me (G)take (D) The Mother (G)down..<br />(D)(D4)(D) (C) (D) (G) (D)(D4)(D) (C) (D) (G)<br />(D)(D4)(D) (C) (D) (G) (D)(D4)(D) (C) (D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

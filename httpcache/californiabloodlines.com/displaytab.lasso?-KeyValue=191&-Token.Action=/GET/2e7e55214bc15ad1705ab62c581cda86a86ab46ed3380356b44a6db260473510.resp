@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4517
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:25 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>NEBRASKA WIDOW</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>D/F#:  Play the F# bass-note on the D-string (4th fret)<br />E----2------------<br />B-------3---------<br />G----2------------<br />D----------4------<br />A----x------------<br />E----x------------<br /><br />Fj9<br />E--------3--------<br />B-1---------------<br />G----2------------<br />D-------3---------<br />A---x-------------<br />E---x-------------<br /><br />C5<br />E--------3--------<br />B-1---------------<br />G-----------------<br />D----2------------<br />A-------3---------<br />E---x-------------<br /><br />Fj7<br />E-----------------<br />B-1---------------<br />G----2------------<br />D-------3---------<br />A-----------------<br />E-(1)-------------<br /><br />Em7/B<br />E-----------------<br />B-------3---------<br />G-----------------<br />D---x-------------<br />A----2------------<br />E---x-------------<br /><br /><br />Capo 2nd fret<br /><br />Bass run: E E D C A -slide on B-string: 3rd to 5th fret-. <br />Repeat 1x  (I use the Am chord as a &#8220;starting point&#8221; <br />for the bass run. Gets the fingers in the right mood)<br /><br />(Am)Leigh(Am/E)lie&#39;s living (D/F#) on <br />The (Am/E)farm she was (C)born (Fj9)on.<br />-downstrokes, alternate between F bass and A bass (A on G-string!)<br />(Am)Leigh(Am/E)lie&#39;s clothes were (D/F#)torn <br />From the (Am/E)morn they were (C)first (Fj9)worn.<br />-downstrokes, alternate between F and A bass<br />And she (Dm)stands by the (Am)window,<br />(Em)Watches by the (C5)door,<br />(G7)Asking &quot;Is there (C/E)any(C)bo(C/E)dy <br />(F)Going (Am7/E)to the (Em)store?&quot; <br />-downstroke(Em7)<br /><br />Bass run: E E D C A &#8211;slide on B-string: 3rd to 5th fret-. Repeat 1x<br /><br />The (Am)wind blows through the (D/F#)cracks <br />In the (Am/E)walls of the (C)tool (Fj9)shack. <br />&#8211;downstrokes&#8230;<br />(Am)Leigh(Am/E)lie folds the (D/F#)sacks <br />As they (Am/E)bring all the (C)grain (Fj9)back. <br />&#8211;downstrokes&#8230;<br />And she (Dm)works &#39;till the (Am)sun<br />Is (Em)sinking from the (C5)sky,<br />I&#39;ve (G7)never heard her (C/E)laugh <br />(C)and (C/E)I&#39;ve (F)never (Am7/E)seen her (Em)cry.       <br />Let the chord ring out, then (hold!)<br /><br />Nebraska (F)widow, (Dm)on(D7)ly a (G)girl,<br />Ne(C)braska (F)widow, (Dm)yet this (D7)is her (G)world.<br />Ne(C)braska (Fj7)widow, she&#39;s (Am)living(hold) <br />And (Em7/B)dying(hold) in its (F)whirl.(hold)<br />- you can either do a soft downstroke for the three (hold) chords <br />or softly pick a few notes.<br /><br />Nebraska (F)widow, (Dm)on(D7)ly a (G)girl,<br />Ne(C)braska (F)widow, (Dm)yet this (D7)is her (G)world,<br />Ne(C)braska (Fj7)widow, she&#39;s (Am)living(hold) <br />And (Em7/B)dying(hold) in its (Fj7)whirl.(hold)<br /><br />Bass run: E E D C A &#8211;slide on B-string: 3rd to 5th fret-. Repeat 1x<br /><br />(Am)Leigh(Am/E)lie&#39;s living (D/F#)on <br />The (Am/E)farm she was (C)born (Fj9)on.<br />-downstrokes&#8230;<br />(Am)Leigh(Am/E)lie&#39;s clothes were (D/F#)torn <br />From the (Am7/E)morn they were (C)first (Fj9)worn. <br />&#8211;downstrokes&#8230;<br />And she (Dm)stands by the (Am)window,<br />(Em)Watches by the (C5)door,<br />(G)Asking &quot;Is there (C/E)any(C)bo(C/E)dy <br />(Fj7)Going (Am7/E)to the (Em7/B)store?&quot;
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

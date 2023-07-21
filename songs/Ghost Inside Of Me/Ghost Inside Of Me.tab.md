@@ -1,0 +1,104 @@
+G5/D
+E---------3--------
+B---------3--------
+G------------------
+D------------------
+A----(2)-----------
+E-------(3)--------
+
+G6/D
+E------------------
+B------------------
+G------------------
+D------------------
+A----(2)-----------
+E-------(3)--------
+
+Cadd9
+E--------3-------
+B--------3-------
+G-----------------
+D---2------------
+A-------3--------
+E-----------------
+
+
+The Ghost Inside of Me     John Stewart
+
+(G5/D, then slide g to f# on high E-string, play snappy f#-note)  
+(C) (D, hammer on g-note)
+(G5/D, then slide g to f# on high E-string, play snappy f#-note)  
+(C) (D, hammer on g-note)
+(G5/D, then slide g to f# on high E-string, play snappy f#-note)  
+(C) (D, hammer on g-note)
+(G5/D, then slide g to f# on high E-string, play snappy f#-note)
+
+(C) Every (D)prayer that I´m not (G)praying, (D) (Em)
+Every (G)promise I'm be(C)traying,(Em7/B) (Am7)
+And every (D)price that I am (Em)paying,(G/D) (C)
+Is like a (Am)ghost inside of (F)me.
+([on high E:]e hammer on f# pull off to e, [on B-string:] d, let it ring, to
+(D))
+
+And every road I could be (G)taking, (D) (Em),
+Every (G)dream I am for(C)saking(Em7/B)(Am7)
+Every (D)heart that's out there (Em)breaking ,(G/D)(C)
+Is like a (Am)ghost inside of (F)me.
+([on high E:]e hammer on f# pull off to e, [on B-string:] d, 
+D-bass-[on G-string:]a-[on E-string:]-a)
+
+Look a(Cadd9)round, ´round,(G)look around,
+(Cadd9) Every time I (G)turn around,
+(Cadd9)I'm not (G)who I ought to be.(A)(D)
+Headin´ (Cadd9)down, down, it (G)gets me down
+If (Cadd9)every time I (G)look around
+(Cadd9) There is (Em 7)something haunting (Am7)me. (D)
+
+And every friend I am de(G)serting, (D) (Em)
+With every (G)danger I am (C)flirting (Em7/B) (Am7)
+And every (D)word that ends up (Em)hurting (G/D) (C)
+Is like a (Am7)ghost inside of (F)me
+([on high E:]e hammer on f# pull off to e, [on B-string:] d, to (D))
+
+And every heart I could be (G)cheering, (D)(Em)
+Every (G)love that I am (C)fearing, (Em7/B)(Am7)
+And every (D)cry that I am (Em)hearing (G/D) (C)
+Is like a (Am7)ghost inside of (F)me.(F)(Am)(D)
+([on high E:]e hammer on f# pull off to e, [on B-string:] d, 
+[on high E:]a-e-[on B.]d, to (D))
+
+Look a(Cadd9)round, ´round,(G)look around,
+(Cadd9) Every time I (G)turn around,
+(Cadd9)I'm not (G)who I ought to be.(A)(D)
+Headin´ (Cadd9)down, down, it (G)gets me down
+If (Cadd9)every time I (G)turn around
+(Cadd9) There is (Em7)something haunting (Am7)me. (D)
+
+And every tear that I'm not (G)crying, (D) (Em)
+Every (G)pain I am de(C)nying (Em7/B) (Am)
+And every (D)lie I'm justi(Em)fying, (G/D)(C)
+Is like a (Am)ghost inside of (F)me,
+([on high E:]e hammer on f# pull off to e, to (D))
+Like a ghost inside of (C)me, (Em7) (D)
+Like a ghost inside of (C)me, (Em7) (D)
+Like a ghost inside of (C)me, (Em7) (D)
+Like a ghost inside of (G)me, (D) (C)
+Like a (D)ghost inside of (G)me, (D) (C)
+Like a (D)ghost inside of (G)me, (D) (C)
+Like a (D)ghost(hold) inside of (G)me.
+
+
+Easier guitar intro:
+
+Gj7
+E----2----------
+B---------------
+G---------------
+D---------------
+A----2----------
+E--------3------
+
+(G)  (Gj7)   (C)  (D)
+(G)  (Gj7)   (C)  (D)
+(G)  (Gj7)   (C)  (D)
+(G)  (Gj7)

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3020
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:24 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>RIDE STONE BLIND</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Sung a cappella)<br /><br />So many years I have pulled on the line,<br />Fished in the river, coming up dry.<br />Dry river runs like a scar on your soul.<br />Have you ever been in Texas with your lungs full of holes?<br /><br />(A) (E) (D)   (A) (E) (D)   (A) (E) (D) (hold)<br /><br />(Am)  Run like coyote with a (G) trap on his paw,<br />(D7) All of my friends seem<br />To (E)live outside the law.<br />(Am) Work all your life,<br />You&#39;ve got (G) nothing to show,<br />Just some (D7)seeds in your pocket<br />(E)Some fool said would grow.<br /><br />And you (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />(Am) Waiting (G)(hold)for the (D)(hold)sun to (E)(hold)shine.<br /><br />(A) (D) (A) (D) (A) (D) (A) (D)<br />(A) (D) (A) (D) (A) (D) (A) (D)<br /><br />The (A)Bible (D)said that the (A)kingdom&#39;s (D)come,<br />(A)I couldn&#39;t (D)see it in the (A)noon day (D)sun,<br />And (A)I&#39;ve been (D)looking for (A)thirty-four (D)years,<br />I (A)do be(D)lieve that the (A)kingdom&#39;s here.<br />Oh, (C#m)ooh, (F#m)ooh  (A) (E) (A) (Bm) (C#m) (D)(E)<br /><br />And I (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (F#m)ride (G)stone (D)blind,<br />And I (C#m)ride (Bm)stone (F#m)blind,<br />And I (A)ride (C#m)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (A)ri---ide (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />And I (A)ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind,<br />(A)Ride (E)stone (D)blind...<br />(fadeout)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

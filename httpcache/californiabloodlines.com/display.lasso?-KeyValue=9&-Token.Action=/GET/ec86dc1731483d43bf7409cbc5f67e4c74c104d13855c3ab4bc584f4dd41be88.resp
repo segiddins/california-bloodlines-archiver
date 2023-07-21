@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2690
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:39 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE WHEEL WITHIN THE CLAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Bullets in the Hour Glass (Shanachie, 8005, 1992)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>You could spend a lifetime<br />Waiting for the guru<br />Someone here must know<br />The way home<br />You can make believe that<br />You do<br /><br />The dark wings on a cadmium sky<br />The priest he hears the breeze<br />But does he know where the wind comes from<br />What is up his sleeve?<br /><br />Sunday morning TV<br />Is filled with flags and God<br />The symbols of the heartland<br />The lightning and the rod<br />Sure, they can take your money<br />They can even bend the light<br />But it&#8217;s whatever makes you feel the words<br />It all is gonna be all right<br /><br />Chorus:<br /><br />Oh Oh Oh<br />It can&#8217;t be worlds away<br />It&#8217;s only where the wind comes from<br />It&#8217;s the wheel within the clay<br />The wheel within the clay<br /><br />You can spend a lifetime<br />Waiting for the guru<br />Silence makes you look inside<br />I&#8217;ll bet that&#8217;s what you do<br />There&#8217;s a clear voice speaking<br />It has a lot to say<br />But it&#8217;s only where the wind comes from<br />It&#8217;s the wheel within the clay<br /><br />(Repeat Chorus)<br />
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

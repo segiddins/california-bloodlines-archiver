@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3363
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WOMEN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Secret Tapes II (Homecoming, 650, 1987)<br />Bullets in the Hour Glass (Shanachie, 8005, 1992)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Far beyond your mirror<br />Far beyond your dreams<br />Far beyond your moon signs<br />Far beyond your schemes<br />Far beyond the brother-hood<br />Far beyond James Dean<br />He was not James Dean<br />Is what I really mean<br /><br />Where I am not the hunter <br />Still I am the hunter&#8217;s son <br />And we really all are women yes<br />When all is said and done<br />Said and done<br /><br />Far beyond what I believe<br />Or what my father said<br />Far beyond genetic codes<br />That run &#8216;till we are dead<br />Far beyond the Catholics<br />Far beyond the Jews<br />I am safe here with the mother<br />I am safe here so are you <br /><br />Where I am not the hunter <br />Still I am the hunter&#8217;s son <br />And we really all are women yes <br />When all is said and done<br />We really all are women<br />When all is said and done<br />Said and done<br /><br />The peeling of the onion<br />As the pieces start to fall<br />You begin to see the faces<br />And the shadows on the wall<br />Tearing down the missiles<br />The pictures start to come<br />The image of a rosary<br />On the barrel of a gun<br /><br /><br />Waiting for the big one<br />I am living on the coast<br />Why do we deny<br />The things we fear the most<br />I am safe here with the mother<br />I am safe here in her arms<br />Still I hear the voices<br />Sounding the alarm<br /><br />Where I am not the hunter <br />Still I am the hunter&#8217;s son <br />And we really all are women yes<br />When all is said and done<br />We really all are women yes<br />When all is said and done<br />Said and done<br /><br />And we really all are women yes<br />When all is said and done<br />We really all are women yes<br />When all is said and done<br />Said and done
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

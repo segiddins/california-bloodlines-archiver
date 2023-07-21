@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3937
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CLACK CLACK</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(Bass run F-C-Ab[bend]-C F-C-Ab[bend]-C F-C-Ab[bend]-C <br />F-C-Ab[bend]-C F-C-Ab[bend]-C F-C-Ab[bend]-C) <br />(either continue into verse or play F-chord)<br /><br />Clack, clack, clack,<br />As the train is (Bb)rolling down the (Gm)track<br />To carry me (C)home, (F)(Gm)<br />Back where (C)I be(F)long. (Bb)(F) (Bass run C-D-E to...)<br />(F)Clack, clack, clack,<br />As the train is (Bb)rolling down the (Gm)track<br />To carry me (C)home, (F)(Gm)<br />Back where (C)I be(F)long.(Bb)(F)(hold)<br /><br />Dakota (Gm)sky (C)<br />Made us (F)feel (Am7)like the (Dm)river,<br />(F)Running (Gm)free, (C) running (F)free. (Bb)(F)(hold)<br />And when I (Gm)die, (C)<br />Bring the (F)wheels (Am7)that de(Dm)liver<br />(F)Restless (Gm)me, oh, restless (Bb)me.(C5)(hold)<br /><br />And let me hear the (F)clack, clack, clack,<br />As the train is (Bb)rolling down the (Gm)track<br />To carry me (C)home,(F)(Gm)<br />Back where (C)I be(F)long. (Bb)(F) (Bass run C-D-E to...)<br />(F)Clack, clack, clack,<br />As the train is (Bb)rolling down the (Gm)track<br />To carry me (C)home,(F)(Gm)<br />Back where (C)I be(F)long.(Bb)(F)(hold)<br /><br />It was Bobby&#39;s (Gm)song (C)<br />That I (F)wrote (Am7)without (Dm)trying,<br />(F)Every (Gm)word, (C) every (F)word. (Bb)(F)(hold)<br />Now that Bobby&#39;s (Gm)gone, (C)<br />This is (F)my (Am7)way of (Dm)crying,<br />(F)When I (Gm)heard, when I (Bb [add high G-note])heard. (hold)<br /><br />Mmm, and listen to the (F)clack, clack, clack,<br />As the train was (Bb)rolling down the (Gm)track<br />To carry him (C)home,(F)(Gm)<br />Ah, back where (C)he be(F)longed. (Bb)(F) (Bass run C-D-E to...)<br />(F)Clack, clack, clack,<br />As the train is (Bb)rolling down the (Gm)track<br />To carry me (C)home,(F)(Gm)<br />Back where (C)I be(F)long.(Bb)(F)(hold)<br />Yeah, to carry me (Gm)home,(C)<br />Back where I be(F)long.(Am7)(Dm)(F/C) (Bb)(Am7)(Bb)(Gm)(C)(F) <br /><br />Try a second guitar in D capoed at 3rd fret.<br /><br />(D) Clack, clack, clack,<br />As the train is (G)rolling down the (Em)track<br />To carry me (A7short)home,(Em11)(A7 short)<br />Back where I be(D)long. (A7 sus4)(D) (Bass run A-B-Db to...)<br />(D)Clack, clack, clack,<br />As the train is (G)rolling down the (Em)track<br />To carry me (A7short)home,(Em11)(A7 short)<br />Back where I be(D)long.(A7 sus4)(D) (hold)<br /><br />Dakota (Em7)sky (A7 short)<br />Made us (D)feel (F#m)like the (Bm)river,<br />Running (Em7)free,(Em7/D) (A7 short) running (D)free.<br />(single notes F# hammer on G pull off to F#-E-D-F#)<br />And when I (Em)die,(Em7) (A7 short)<br />Bring the (D)wheels (F#m)that de(Bm)liver<br />Restless (Em)me, (G) oh, restless (Em)me.(Em7/D)(A7 short)(hold)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

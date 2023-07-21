@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2670
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>SANTA BARBARA</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(F) (F/E) (Dm7) (F/C) (F)  (F/E) (Dm7) (F/C)<br />And(F)here I (F/E)go, (Dm7)<br />Running, (F/C)reaching through the (F)past,(F/E) (Dm7)<br />I cut my (F/C)heart upon (F)some glass,(F/E) (Dm7)<br />Lying (F/C)broken in the (F)grass.(F/E) (Dm7) (F/C)<br /><br />He was a (F)boy (F/E)  (Dm7)<br />On the (F/C)North Dakota (F)line, (F/E) (Dm7)<br />Reaching (F/C)out for me (F)through time, (F/E) (Dm7)<br />How his (F/C)eyes were full of (F)mine. (F/E) (Dm7)<br /><br />And as I (Bb)leave(C)  Santa (C7)Barbara be(F)hind, (Dm)<br />Dakota (Gm)roads(C)  I will (F)find. (F7)<br />And as I (Bb)leave(C)  Santa (C7)Barbara be(F)hind, (Dm)<br />Dakota (Gm)roads,(C)  please be (F)kind.(F/E) (Dm7) (D7)<br /><br />We had to (G)move, (G/F#) (Em)<br />Mama (G/D)wanted to be (G)free. (G/F#) (Em)<br />Cali(G/D)fornia seemed (G)to me (G/F#) (Em)<br />As far as (G/D)any place could (G)be. (G/F#) (Em) (G/D)<br /><br />And all his (G)poems, (G/F#) (Em)<br />They are (G/D)songs now of their (G)own, (G/F#) (Em)<br />And the (G/D)melody a(G)lone (G/F#) (Em)<br />Sings, &quot;Are you (G/D)ever coming (G)home?&quot;(G/F#) (Em)<br /><br />And as I (C)leave(D)  Santa (D7)Barbara be(G)hind,(Em)<br />Dakota (Am)roads(D)  I will (G)find. (G7)<br />And as I (C)leave(D)  Santa (D7)Barbara be(G)hind, (Em)<br />Dakota (Am)roads,(D) please be (G)kind.(G/F#) (Em) (G/D) <br />(G) (G/F#) (Em) (G/D) (G) (G/F#) (Em) (G/D) (G) (G/F#) (Em) (G/D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3284
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:53 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>A GRACE OF RAIN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(Em) (C) (Em) (C) (Em) (C) (Em) (C) (hold)<br /><br />It&#39;s been a long, long (C)journey (D)<br />Down the river through the (Em)night.<br />It&#39;s been a long, long (C)journey, (D)<br />You were not in (G)sight.<br />It&#39;s been a long, long (C)journey, (D)<br />Now I want to touch the (Em)light.<br />(C) (Em) (C) (hold)<br /><br />Was momentary (C)madness (D)<br />That I should let you (Em)go,<br />Momentary (C)madness (D)<br />To call and tell you (G)so,<br />Momentary (C)madness (D)<br />Can be a lifetime, don&#39;t you (Em)know.<br />(C) (Em) (C) (hold)<br /><br />Still I&#39;m a be(C)liever (D) in the mystery (Em)train,<br />I am a re(C)ceiver (D) in the mark of (Em)Cain.<br />I am a be(C)liever (D) in a grace of (G)rain,<br />I am a be(C)liever (D)(hold) in a grace of (Em)rain.<br />(Cj7) (Em) (Cj7) (hold)<br /><br />The faithless heart&#39;s a (C)sailor, (D)<br />Who&#180;s blowing in the (Em)sails,<br />Believing he is (C)moving (D)<br />As if the wind had (G)failed.<br />The faithless heart&#39;s a (C)sailor, (D)<br />Who&#180;s blowing in the (Em)sails.<br />(C) (Em) (C) (hold)<br /><br />I&#39;m a man without (C)ritual, (D)<br />I&#39;m a man without de(Em)sire.<br />A man without (C)ritual (D)<br />Who&#39;s looking all the (G)time,<br />Still a man without (C)ritual (D)<br />Is always out of (Em)line.<br />(C) (Em) (C) (hold)<br /><br />Still I&#39;m a be(C)liever (D) in the mystery (Em)train,<br />I am a re(C)ceiver (D) in the mark of (Em)Cain.<br />I am a be(C)liever (D) in a grace of (G)rain,<br />I am a be(C)liever (D)(hold) in a grace of (Em)rain.<br />(C) (Em) (C) (hold)<br /><br />Still I&#39;m a be(C)liever (D) in the grace of (Em)rain,<br />Oh, I am a be(C)liever (D) in the grace of (Em)rain,<br />Oh, I am a be(C)liever (D) in a grace of (Em)rain,<br />Grace of (Cj7)rain, grace of (Em)rain, grace of (Cj7)rain,<br />Still I&#180;m a be(Em)liever, I&#180;m a be(Cj7)liever, a be(Em)liever,<br />Grace of (Cj7)rain, grace of (Em)rain.(Cj7) (Em) (Cj7) (Em)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

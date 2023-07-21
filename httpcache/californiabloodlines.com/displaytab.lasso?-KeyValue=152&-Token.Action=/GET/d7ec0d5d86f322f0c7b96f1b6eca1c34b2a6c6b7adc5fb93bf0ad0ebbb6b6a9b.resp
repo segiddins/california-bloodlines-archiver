@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3316
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:03 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ALL AMERICAN GIRL</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)(G) (C)(C) (G)(G) (G5)(G5) (C) (F) (F9) (Ga) (G) (C) (hold)<br />Parochial (G)school  <br />Uni(C)forms, they don&#180;t have any (Am)pearls,<br />Any (C)ruffles you can (Am)twirl,<br />Just the (C5)blue serge (F)pressed a(G)gainst (G7)her (C)skin. (C9)(C)(hold)<br /><br />Parochial (G)school<br />(C)Girls, they don&#180;t have any (Am)thoughts<br />That they (C)know that they should (Am)not,<br />They&#180;re a(F)fraid that they might die (Dm)in (G)sin.<br /><br />Ah, but I (C)wonder what she (G)thinks about<br />When her (Am)mama turns her (Am/G)night light out,<br />(F)Covered with her comforter and (G)curls...(bass run: G-A-B)<br />(C)All-A(Dm)meri(G)can (C)girl,(C/B)(Am)(Am/G)<br />(F)All-A(G)meri(G7)can (C)girl. (C9)(C) (hold)<br /><br />She&#180;s a blue-eyed (G)blonde,<br />And she (C)knows she&#180;s a (Am)queen<br />And her (C)life is but a (Am)dream,<br />But I (C5)wonder what (F)dreams run (G)through (G7)her (C)head.(C9)(C)(hold)<br /><br />She&#180;s a blue-eyed (G)blonde, <br />Daddy&#180;s (C)girl, in her heart she&#180;s a(Am)shamed<br />&#180;Cause she (C)knows that she has (Am)changed <br />From the (F)dreams that haunt her in (Dm)her (G)bed.<br /><br />Ah yes, I (C)wonder what she (G)thinks about <br />When her (Am)mama&#180;s turned her (Am/G)night light out,<br />(F)Covered with her comforter and (G)curls...<br />Yes, I (C)wonder what she (G)thinks about<br />When her (Am)mama&#180;s turned her (Am/G)night light out<br />(F)Covered with her comforter and (G)curls...(bass run: G A B)<br /><br />(C)All-A(Dm)meri(G)can (C)girl,(C/B)(Am)(Am/G)<br />(F)All-A(G)meri(G7)can (C)girl,(C/B)(Am)(Am/G)<br />(F)All-A(G)meri(G7)can (C)girl.(Cj7)(Am)(G)(F)(G)(C)<br /><br />John plays the song in D (either transpose or capo 7th fret)<br /><br />G5: add D-note on B-string (3rd fret)<br />F9: add G-note on high E-string (3rd fret)<br />Ga: add A-note on high E-string (5th fret)<br />C5: add G-note on high E-string (3rd fret)<br />C9: add D-note on B-string (3rd fret)<br />Cj7: lift index finger from B-string and play the B-note
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

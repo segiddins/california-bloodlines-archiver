@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2686
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:28 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DREAMS OF THE STARMAN</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Havana (Neon Dreams, 1998)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>If children never were hurt<br />No reason for babies to cry<br />Nobody ever was hungry<br />No one you loved ever died<br />Nobody ever was heartless<br />Nobody ever was cruel<br />If everyone got all their wishes<br />And only the good would rule<br /><br />These are the dreams of the Starman<br />Even if he never is heard<br />These are the dreams of the Starman<br />Forever the keeper of words<br /><br />If religions never were righteous<br />Believing that they are the one<br />If never there was ever a reason<br />Ever to fire a gun<br /><br />These are the dreams of the Starman<br />Even if he never is heard<br />These are the dreams of the Starman<br />Forever the keeper of words<br /><br />If we would just live all our own lives<br />Leave other people alone<br />And if those who just love one another<br />Would not be the targets of stones<br /><br />These are the dreams of the Starman<br />Even if he never is heard<br />These are the dreams of the Starman<br />Forever the keeper of words<br /><br />These are the dreams of the Starman<br />Even if he never is heard<br />These are the dreams of the Starman
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

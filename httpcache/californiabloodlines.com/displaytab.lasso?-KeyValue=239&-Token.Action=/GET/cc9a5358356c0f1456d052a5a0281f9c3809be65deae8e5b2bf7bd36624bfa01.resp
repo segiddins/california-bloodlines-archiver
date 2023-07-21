@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3558
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:23 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CRYING IN THE STORM</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3<br /><br />(Am7) (Em7) (Am7) (Em7) <br />(Am7) (Em7) (C) (Fj7) (G) (A)<br />(Single bass notes: A-A-Gb-E-Gb-A-A-Gb-E-Gb-A-A<br />B pull off to A-Gb p to E-B p to A-Gb p to E-B p to A-Gb p to E-A)<br />The (Am)dream still lives<br />In the (Em7)heart of the kids<br />And the (F)girls (G)standing in the (C)line,<br />And they (Am)wait for the band,<br />Yeah, the (Em7)guitar playing (C)man,<br />Who has them (F)feeling a(G)live for a (C)time.<br />And the (Am)dream lives on<br />In the (Em7)wheels rolling on,<br />A(F)merica, you&#39;re (G)running out of (C)time.<br />And (Am)where you gonna go<br />With the (Em7)money running (C)low,<br />When you&#39;re just (D)one guy (D7)standing in the (G)line?<br /><br />Are you (Am7)dream-(Em7)ing?<br />Are you (Am7)dream-(Em7)ing? (C)<br />Are you (Fj7)dreaming or (G)crying in the (A)storm?<br />(Single bass notes: A-A-Gb-E-Gb-A-A-Gb-E-Gb-A-A<br />B p to A-Gb p to E-B p to A-Gb p to E-B p to A-Gb p to E-A)<br /><br />And (Am)those who remain<br />In the (Em)shadow of the train,<br />They (F)wonder who&#39;s (G)playing out the (C)game.<br />And (Am)where is the prize, yeah,<br />That (Em)dances in your (Am)eyes,<br />When you&#39;re (F)playing for the (G)money and the (C)fame?<br />And the (Am)dream lives on<br />In the (Em7)rhythm of a song,<br />A(Fj7)merica, you&#39;ll (G)never be the (C)same.<br />And (Am)those with the dreams,<br />Yeah, they (Em7)all know what it (C)means,<br />It could be (D)one light (D7)shining in the (G)rain.<br /><br />Are you (Am)dream-(Em7)ing?<br />Are you (Am)dream-(Em7)ing? (C)<br />Are you (Fj7)dreaming or (G)crying in the (A)storm?<br />(Single bass notes: A-A-Gb-E-Gb-A-A-Gb-E-Gb-A-A<br />B p to A-Gb p to E-B p to A-Gb p to E-B p to A-Gb p to E-A)<br />(Am) (Em) (F) (G) (C) (Am) (Em) (C) (Fj7) (G) (A)<br /><br />Are you (Am)dream-(Em7)ing?<br />Are you (Am)dream-(Em7)ing? (C)<br />Are you (Fj7)dreaming or (G)crying in the (A)storm?<br />(Single bass notes: A-A-Gb-E-Gb-A-A-Gb-E-Gb-A-A<br />B p to A-Gb p to E-B p to A-Gb p to E-B p to A-Gb p to E-A)<br /><br />Are you (Am)dream-(Em7)ing?<br />Are you (Am)dream-(Em7)ing?<br />Are you (Fj7)dreaming or (G)crying in the (A)storm?<br />(Single bass notes: A-A-Gb-E-Gb-A-A-Gb-E-Gb-A-A<br />B p to A-Gb p to E-B p to A-Gb p to E-B p to A-Gb p to E-A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

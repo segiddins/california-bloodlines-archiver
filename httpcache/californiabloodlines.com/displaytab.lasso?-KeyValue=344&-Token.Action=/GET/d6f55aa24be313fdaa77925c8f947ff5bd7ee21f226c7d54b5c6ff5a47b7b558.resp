@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2666
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:07 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>IF YOU SHOULD REMEMBER ME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>C9 short<br />E--------------<br />B-------3------<br />G--------------<br />D----2---------<br />A-------3------<br />E--------------<br /><br /><br />Capo 2nd fret<br /><br />(C) (C9)(C) (F) (C) (C9)(C) (F)<br />(C) If you (F)should re(G)member (C)me<br />(F) When all I (C)am (Dm)is a memo(G)ry, <br />(C) Would you (G)keep (F) a tiny (C)spark<br />(F) Burning (C)somewhere (Dm) in your (G)heart?<br />(highlight a D-note, then a B-note on B-string)<br /><br />(C) And looking (F)back (G)on all the (C)years,<br />(F) Days of (C)laughter, (Dm) nights of (G)tears,<br />And (C)if per(G)haps a (F)bird ap(C)pears,<br />(F) It will be (C)me (G) who found you (C)here.(C7)<br /><br />(F) The rain crow (G)calls (C) to the setting sun,(C7)<br />(F) The curtain (G)falls (C) on every(C7)one.<br />(F) All my (G)love (E) was holy (Am)art<br />(F)That I might (C)live (Dm) within your (G)heart.<br />(highlight a D-note, then a B-note on B-string)<br />(C) (F) (G) (C) (F) (C) (Dm) (G, high notes run:<br />b-c-d-b-a-g)<br /><br />(C) And if you (F)should re(G)member (C)me<br />(F) When all I (C)am (Dm) is a memo(G)ry,<br />(C) Would you (F)smile (E) once and (Am)say,<br />(F) &quot;I don&#39;t be(C)lieve (Dm)you&#39;ve gone a(G)way.&quot;<br />And (C)would you (G)keep a (F)tiny (C)spark<br />(F) Burning (C)somewhere (Dm)in, (high notes run f-e-d-c-d )<br />(G) in your (C)heart?(C9)(C) (F) (C) (C9)(C) (F) (C)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

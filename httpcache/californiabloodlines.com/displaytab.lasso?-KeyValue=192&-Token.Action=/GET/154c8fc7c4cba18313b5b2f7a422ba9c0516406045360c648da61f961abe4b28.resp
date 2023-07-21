@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3002
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>DARK PRAIRIE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret<br /><br />(F#m) (F#m) (reverse strummed)<br />(F#m) This old earth, she (A)treats me like a (G)stranger,<br />(single bass notes B-A-F# into chord)<br />(F#m) This old earth, (A) she don&#39;t even (G)care,<br />(single bass notes G-F#-E into chord)<br />(Em) This old earth, she (C)tortures (D)me with (G)seasons, (Bm)<br />(Em) This old earth, ain&#39;t (A7)going any(D)where<br />(F#m) (reverse strummed)<br /><br />(F#m) Wake up in the (A)morning and I&#39;m (G)hungry,<br />(single bass notes B-A-F# into chord)<br />(F#m)Wake up in the (A)evening and I&#39;m (G)cold.<br />(single bass notes G-F#-E into chord)<br />(Em) Mama&#39;s in her (C)bed(D) with a (G)fever, (Bm)<br />(Em) This old earth will (A7)see she don&#39;t get (D)old.<br /><br />(E) Dark prairie sky (G)hides the (A)far ho(D)rizon,<br />(E) Dark prairie wind (G) blowing (A)down our (D)home.<br />(Em) Dark prairie (F#m)eyes (D) watch us through the (G)(hold)window,<br />(C)(hold) Dark prairie (D)(hold) buries her (E)(hold)own.<br />(F#m) (F#m) (reverse strummed)<br /><br />(F#m) I hate to see my (A)woman looking (G)hollow,<br />(single bass notes B-A-F# into chord)<br />(F#m)I hate to see my (A)woman&#39;s eyes grow (G)dim.<br />(single bass notes G-F#-E into chord)<br />(Em) I ease her all I (C)can,(D) as the (G)sweat upon my (Bm)hand<br />(Em) Mingles with the (A7)earth upon (D)her chin.<br /><br />(E) Dark prairie sky (G)hides the (A)far ho(D)rizon,<br />(E) Dark prairie wind (G) blowing (A)down our (D)home.<br />(Em) Dark prairie (F#m)eyes (D) watch us through the (G)(hold)window,<br />(C)(hold) Dark prairie (D)(hold) buries her (E)(hold)own.<br />(Em)  (C)  (F#m)  (Bm)  (Em)    <br /><br />(C)(hold) Dark prairie (D)(hold)buries her (E)(hold)own. (F#)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

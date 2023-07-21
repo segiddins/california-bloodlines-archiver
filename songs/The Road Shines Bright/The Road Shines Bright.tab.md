@@ -1,0 +1,51 @@
+Capo 3rd fret
+
+(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)
+(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)
+[keep playing this pattern for the verses ˆ 
+we haven´t written it out there so as not to confuse you]
+
+(D)Listen to the (D4)hymn in the (D)high school (D4)gym,
+´Cause the (D)church burned (D4)down last (D)night.(D) (D4)(D4)(D4)
+(D)Glory, (D4)Glory, (D)Halle(D4)lujah,
+(D)I can (D4)see the (D)light.(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)
+
+But (D)I got a (D4)church right (D)here in(D4)side,
+And it (D)does me (D4)quite all (D)right.(D) (D4)(D4)(D4)
+It (D)shows me the (D4)road that (D)goes to (D4)home,
+And (D)I can (D4)see the (D)light.(D) (D4)(D4)(D4) (D)(D) (A7)(A7)
+
+And the (D)road (F#m)shines (Bm)bright,
+And the (E)road (E7)shines (A)bright, (A7)
+Oh, the (D)road (F#)shines (G)bright
+When you're (A)going (D)home.(D) (D4)(D4)
+(D)(D)(D) (D4)(D4) (D)(D) (D4)(D4) (D)(D) (D) (D4)(D4)
+
+[resume pattern, sometimes 2, sometimes 3 (D4)s]
+(D)Bless you, (D4)long and (D)lonesome (D4)highway,
+(D)You're gonna (D4)save my (D)life.(D) (D4)(D4)(D4)
+(D)Headlights (D4)shining in the (D)cat eyes (D4)walking,
+And (D)I can (D4)see the (D)light.(D) (D4)(D4)(D4)
+
+(D)(hold)Glory, (G)(hold)Glory, (D)Hal(F#m)le(Bm)lujah,
+(D)(hold)I can (A)(hold)see the (D)(hold)light. (G)(A)
+(D)(hold)Glory, (G)(hold)Glory, (D)Hal(F#m)le(Bm)lujah,
+(D)(hold)I can (A)(hold)see the (D)light.(D) (D4)(D4) (D)(D) (A7)(A7)
+
+And the (D)road (F#m)shines (Bm)bright,
+And the (E)road (E7)shines (A)bright, (A7)
+Oh, the (D)road (F#)shines (G)bright
+When you're (A)going (D)home.(D) (D4)(D4) (D)(D) (A7)(A7)
+
+Oh, the (D)road (F#m)shines (Bm)bright,
+Oh, the (E)road (E7)shines (A)bright, (A7)
+Oh, the (D)road (F#)shines (G)bright
+When you're (A)going...
+
+(D)Glory, (G)Glory, (D)Hal(F#m)le(Bm)lujah,
+(D)I can (A)see the (D)light. (G)(A)
+(D)Glory, (G)Glory, (D)Hal(F#m)le(Bm)lujah,
+(D)I can (A)see the (G)(hold)light.....
+(D)(D) (D4)(D4)(D4)
+(D)(D)See the light. (D4)(D4)(D4)
+(D)(D) (D4)(D4)(D4) (D)(D) (D4)(D4)(D4)...(fade out)

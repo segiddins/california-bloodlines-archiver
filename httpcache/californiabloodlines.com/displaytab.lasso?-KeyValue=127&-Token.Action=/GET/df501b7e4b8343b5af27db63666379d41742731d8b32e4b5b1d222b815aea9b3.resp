@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3014
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:27 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGEL ON THE ROAD SHOULDER</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(A)  (E)  (A)  F#m)  (D)  (A)  (E)  (A)<br />Oh, (D)wind upon the (E)window,<br />(A)Sign upon the (F#m)door,<br />I&#171;m going (D)home,<br />(E)Finally going (A)home.<br />Oh, (D)will you love me (E)like before <br />(A) When I was in (F#m)Baltimore?<br />An (D)Angel on the (A)road shoulder<br />(E)Knows the way (A)home.<br /><br />And as I (D)write to you this (E)letter,<br />There&#171;s just (A)one thing I can (F#m)say,<br />Going (D)home,<br />I&#171;m (E)finally going (A)home.<br />Oh, (D)you can be my (E)window, yeah,<br />Or (A)you can be my (F#m)door,<br />An (D)Angel on the (A)road shoulder,<br />A (E)light upon the (A)shore.  <br /><br />Oh, an (D)Angel on the (E)road shoulder<br />(A)Knows the way (F#m)home,<br />(D)Clicking off the (A)miles, yeah,<br />That (D)I have been be(E)fore.<br />(D)You can be my (E)window, yeah,<br />Or (A)you can be my (F#m)door,<br />An (D)Angel on the (A)road shoulder,<br />A (E)light upon the (A)shore.  (E)  (A)  (F#m)  (D)  (E)  (A)<br />(A)  (E)  (A)  (F#m)  (D)  (A)  (E)  (A)<br /><br />Oh, (D)wind upon the (E)window,<br />There&#171;s a (A)sign upon the (F#m)door,<br />I&#171;m going (D)home,<br />I&#171;m (E)finally going (A)home.<br />Oh, (D)will you love me (E)like before<br />(A) When I was in (F#m)Baltimore?<br />An (D)Angel on the (A)road shoulder,<br />A (E)light upon the (A)shore.<br /><br />Oh, an (D)Angel on the (E)road shoulder <br />(A)Knows the way (F#m)home,<br />I&#171;m (D)clicking off the (A)miles, yeah,<br />That (D)I have been be(E)fore.<br />Oh, (D)you can be my (E)window, yeah,<br />Or (A)you can be my (F#m)door,<br />An (D)Angel on the (A)road shoulder,<br />A (E)light upon the (A)shore.<br />An (D)Angel on the (A)road shoulder <br />(E)Knows the way (A)home.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 2949
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>PRICE OF THE FIRE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Suggested picking pattern,<br />B stands for Bass string,<br />g for G-string, b for B-string and e for E-string:<br />B-g-b-e-b-g-b-e etc,<br />take it from there, you&#180;ll hear the rest.<br /><br />John plays (Bb) (C) (Dm),<br />You can transpose to (C) (D) (Em),<br />or (F) (G) (Am) with a capo on the 5th fret.<br /><br /><br /><br />(Bb) (C) (Dm)  (Bb) (C) (Dm)<br />(Bb) (C) (Dm)<br />Oh, after the (Bb)flames (C)<br />When the fields are (Dm)cold,<br />And after the (Bb)pain (C)<br />When the heart is (Dm)gold,<br />(F) You will find a (Bb)brand new day (C)<br />With the birds upon the (Dm)wire,<br />And all you really had to (Bb)pay (C)<br />Was the price of the (Dm)fire.<br />(Bb) (C) (Dm)  (Bb) (C) (Dm)<br /><br />And in our younger (Bb)days (C)<br />You could say we were (Dm)wild,<br />In our hungry (Bb)ways (C)<br />The safety lines were (Dm)filed.<br />(F)We were running (Bb)on the rims, (C)<br />We were burning out the (Dm)tires,<br />And all we really had to (Bb)pay (C)<br />Was the price of the (Dm)fire.<br />Oh, all we really had to (Bb)pay (C)<br />Was the price of the (Dm)fire.<br />(Bb) (C) (Dm)  (Bb) (C) (Dm)<br /><br />And the breakers of (Bb)hearts, (C)<br />They don&#39;t escape the(Dm)pain,<br />And you know when it (Bb)starts (C)<br />As you dive into the (Dm)flames.<br />(F)And there&#39;s a voice that (Bb)tells you &quot;run&quot;, (C)<br />But you call the voice a (Dm)liar,<br />For all you really had to (Bb)pay (C)<br />Was the price of the (Dm)fire.<br />Oh, all you really had to (Bb)pay (C) (F) (Dm)<br />Oh, all you really had to (Bb)pay (Gm) (C)<br />Was the price of the (Dm)fire.<br />(Bb) (C) (Dm)  (Bb) (C) (Dm)<br />(Bb) (C) (Dm) (fade..)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

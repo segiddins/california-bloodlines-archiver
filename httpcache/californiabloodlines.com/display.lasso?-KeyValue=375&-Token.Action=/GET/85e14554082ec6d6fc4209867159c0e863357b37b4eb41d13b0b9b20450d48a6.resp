@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 4030
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>STRANGE DAY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart and George Yanok</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Something Special (The Kingston Trio - 1962, Capitol T/ST 1747)<br />The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Strange day<br />Strange day<br />Strange day in Hogsville, USA<br /><br />I remember when I rode into town that morning in December of aught forty eight -ohohoh, bitter cold. I had on my parka, my sheepskin coat and my brown and white spectator pumps. Cut quite a figure if I do say so. First thing I spied was a poster<br />&quot;There&#39;s Going to Be a Dance<br />The Second Annual Hogsville Dandy Steppers Ball and Frog Popping Contest<br />Drag.&quot;<br /><br />Strange day<br />Strange day<br />Strange day in Hogsville, USA<br /><br />I noticed right off that there weren&#39;t no lady folk in sight. I figured they was all up a&#39;primpin&#39; for the dance. And, being a man of no small charms with the ladies myself, I decided to park Old Paint and change my socks - from him to me.<br />(I find that extremely offensive.)<br />(So did Old Paint.)<br /><br />But, there wern&#39;t no gals for miles around<br />Not one gal in the whole darn town<br />So, if you want to go dancing just look around<br />For the next best thing that can be found<br /><br />Strange day<br />Strange day<br />Strange day in Hogsville, USA<br /><br />That&#39;s right. I soon found there wasn&#39;t no women, nowhere. The fellas going to the dance were taking some of the strangest things. One was taking a broom. All dressed up in a pinafore. Bleached straw. Looked kinda cheap to me. &#39;Nother was totin&#39; a picture of a gal. Been hidin&#39; it under his bunk. Been going with that picture so long, he thought real girls folded in the middle.<br /><br />Now, I was getting depressed. Then, I spied the cutest little thing you ever saw giving me the eye from underneath the water trough. Had little eyes, curly tail, and the dearest little pointy ears you&#39;ve ever seen. I grabbed her paw and waddled into the dance.<br />(What did her pa have to say?)<br />(Shut it up when he&#39;s talkin&#39;!)<br />The minute we got into the dance the music stopped and the fiddler said,<br />&quot;Waaaaaaaiiiiit a minute! Thththththat&#39;s the sheriff&#39;s gal!&quot;<br />&quot;You mean . . . .?&quot;<br /><br />Strange day<br />Strange day<br />Strange day in Hogsville<br />(You know, I really loved the little thing. I can still hear her little voice.)<br />(Oink, oink, oink, oink, oink, oink, oink<br />Oink, oink, oink, oink, oink, oink, oink)<br />USA
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,41 @@
+(G) (D) (C) (D) (G) (D) (C) (D)
+(G) (D) (C) (D) (G) (D) (C) (D)
+(G) (D) (C) (D) (G) (D) (C) (D)
+
+(G)Theirs are the (D)faces that (C)shine in the (D)crowd,
+They're the (G)chosen. (D) (C) (D)
+(G)Theirs are the (D)voices who (C)whisper out (D)loud,
+They're the (G)chosen. (D) (C) (D)
+(C)Theirs are the (D)eyes that are (G)burning in(C)side
+Like we're (G)frozen. (D) (C) (D)
+
+(G)Theirs are the (D)faces that (C)shine in the (D)crowd,
+They're the (G)chosen. (D) (C) (D)
+(G)Theirs are the (D)dreams that are (C)born in the (D)light,
+They're the (G)chosen. (D) (C) (D)
+(G)Theirs are the (D)Angels (C)guarding the (D)night,
+They're the (G)chosen. (D) (C) (D)
+(C)Theirs are the (D)eyes that are (G)burning in(C)side
+Like we're (G)frozen. (D) (C) (D)
+
+(G)Theirs are the (D)faces that (C)shine in the (D)crowd,
+They're the (G)chosen. (D) (C) (D)
+(G) (D) (C) (D) (G) (D) (C) (D)
+(G) (D) (C) (D)
+(C)Theirs are the (D)eyes that are (G)burning in(C)side
+Like we're(G)frozen. (D) (C) (D)
+
+(G)Theirs are the (D)faces that (C)shine in the (D)crowd,
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen, (D) (C) (D)
+They're the (G)chosen. (D) (C) (D) (G)

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3404
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:08 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE AMERICANS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Beginning at the end of the first verse, there is an additional guitar<br />capoed at 7, played in D -- just transpose accordingly for that high, jingly sound<br />that&#39;s  on the cut. It&#39;s almost a &quot;Here Comes the Sun&quot; sort of sound.<br /><br />Bass notes  A  EED  DEA  EED  DE leading to <br />(A)  (A/E)(A/E)(D)  (D)(A/E)(A/E)(A)  (A)(A/E)(A/E)(D) (hold)<br />There are(A)heroes on the streets of (D)New York,<br />(A)Heroes on the (F#m)planes who(D)won&#39;t come (E)home.<br />(A)Heroes all the guys who rode (D)engine number nine,<br />The (Bm)heroes that will (E)never be (A)known, (F#m)<br />(D)Heroes who will (E)never be (A)known.<br />(A/E)(A/E)(A/E)(D)  (D)(A/E)(A/E)(A) (A)(A/E)(A/E)(D) (hold)<br /><br />And they were (A)watching from the farms of (D)Kansas,<br />(A)Watching from the (F#m)homes of (D)Ohi(E)o,<br />(A)Watching from the schools out on (D)Second Avenue,<br />The (Bm)heroes that will (E)never be (A)known, (F#m)<br />(D)Heroes that will (E)never be (A)known.  (F#m) (D) (E)<br /><br />(A/C#))Here&#39;s (E/B)to the (D)Americans,<br />(A)Born in the (F#m)land of the (Bm)brave and the (E)free.<br />(A/C#))Here&#39;s  (E/B)to the (D)Americans,<br />Sure they (A)look a whole (F#m)lot like (E)you and (A)me.<br />(A/E)(A/E)(A/E)(D)  (D)(A/E)(A/E)(A)  (A)(A/E)(A/E)(D)<br /> <br />(G) Don&#39;t they know who we (F#m)are?<br />(G) Don&#39;t they know who we&#39;ve (F#m)been?<br />(G) In every (A)city and (D)farm, (Bm)<br />(G) All the (A)women and (D)men,<br />Who were (G)born at the time of holding the line,<br />And we&#39;ll (Em)do it again and (A)again.  (E)<br /> <br />And (A/C#)we (E/B)are the (D)Americans,<br />(A)Born in the(F#m)land of the (Bm)brave and the (E)free.<br />(A/C#)We (E/B)are the (D)Americans,<br />And we (A)look a whole (D)lot like (E)you and (A)me.<br /><br />(E/B)Oh,  (A/C#)we (E/B)are the (D)Americans,<br />(A)Born in the (F#m)land of the (D)brave and the (E)free.<br />(A/C#))We (E/B)are the (D)Americans,<br />Sure we (A)look a whole (D)lot like (E)you and (A)me,<br />Sure we (A)look a whole (D)lot like (E)you and (A)me.<br /> <br />Oh, we(hold) are the (D)Americans&#8230; (A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

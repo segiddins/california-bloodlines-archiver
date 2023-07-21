@@ -1,0 +1,32 @@
+(G) (Em7) (C) (D)
+(G) Green (Em7)eyes (C) and summer moonlight,(D)
+(G) Blue (Em7)moon (C)in a summer's sky.(D)
+(G) The future (Em7)in (C) moment's glan(D)ces,
+(C) Heaven (C/B)in a (D7)lover's (G)eye.(D)
+
+(G) Friday (Em7)falls (C) like warm moon(D)beam,
+(G) Monday (Em7)falls, and the (C)rain is cold.(D)
+(G) And Friday (Em7)falls like (C)sweet sun(D)shine,
+(C) Satur(C/B)day it (D7)falls like (G)gold.(D)
+
+(G) For a slow (Em7)dance (C) in a blue blue (D)moon,
+(G) Slow (Em7)dance as the (C)river runs.(D)
+(G) One (Em7)chance came (C) none to (D)soon
+(C) For a slow (C/B)dance in a (D7)blue blue (G)moon.(D)
+(G) (Em7) (C) (D) (G) (Em7) (C) (D)
+
+(G) Music's (Em7)like (C) a midnight (D)railroad,
+(G) Electric (Em7)as a (C)dance hall band.(D)
+(G) Slow (Em7)dance is a (C)blues in moon(D)light,
+(C) Moonlight (C/B)is a (D7)lover's (G)hand.(D)
+
+(G) Dreaming (Em7)in (C)blue blue shadows,(D)
+(G) Holding (Em7)someone in (C)four four time.(D)
+(G) Dancing (Em7)in a (C) million (D)shadows,
+(C) Dancing (C/B)in a (D7)lover's (G)eye.(D)
+
+(G) Slow (Em7)dance (C) in a blue blue (D)moon,
+(G) Slow (Em7)dance (C) as the river (D)runs.
+(G) One (Em7)chance came (C)none to (D)soon
+(C) For a slow (C/B)dance in a (D7)blue blue (G)moon.(D)
+(G) (Em7) (C) (D) (G) (Em7) (C) (D) (G) (Em7) (C) (D) (G) (C) (C/B) (D7) (G)

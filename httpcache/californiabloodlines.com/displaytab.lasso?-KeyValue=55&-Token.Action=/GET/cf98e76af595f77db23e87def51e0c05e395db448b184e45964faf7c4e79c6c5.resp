@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3097
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WHEATFIELD LADY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 3rd fret <br />  <br />(C5)(hold) (G)(hold) (F)(F)(F)(G)(hold) <br />(F)(F)(F)(G)(hold) (F)(F)(F)(G)(hold) <br />(C) Ah, (G)wheatfield (Am)lady, (G)  <br />(C) In the (G)wheatfield we were (Am)young. (G) <br />(C) (G)Ah, my (Am)wheatfield (G)lady,  <br />(C) I can (G)taste you (Am)on my (G)tongue. <br />(C) And laying (G)out be(F)fore me,(G)  <br />(C) The endless (G)highway (Am)lies(G) <br />(C) And the lady&#39;s (G)eyes grow (Am)hungry (G)  <br />(C) When she (G)knows (F) the eagle (C)flies. <br />  <br />Rock me (G)crazy, (F)wheatfield (G)lady, <br />(C)Oh sweet (G)highway, (F)rock me (G)home. <br />(C)Rock me (G)crazy, (F)wheatfield (G)lady, <br />(C)Take me to my (G)lady at the (F)end of the (C)road. (D) <br />  <br />Ah, (A)wheatfield (Bm)lady, (A)  <br />(D) (A) shinin&#39; in the (Bm)sun, (A). <br />(D) (A)Ah, my (Bm)wheatfield (A)lady,  <br />(D) (A)Call me (Bm)and I (A)come. <br />(D) Roll me (A)down, oh, (G)highway (A)sound, <br />(D) Sting my (A)wheels to (Bm)run. (A) <br />(D) Drive me (A)wild, (Bm)highway (A)child, <br />(D) &#39;Till my (A)wheatfield (G)lady (D)comes. <br />  <br />Rock me (A)crazy, (G)wheatfield (A)lady, <br />(D)Oh, sweet (A)highway, (G)rock me (A)home. <br />(D)Rock me (A)crazy, (G)wheatfield (A)lady, <br />(D)Take me to my (A)lady at the (G)end of the (D)road. <br />  <br />Rock me (A)crazy, (G)wheatfield (A)lady, <br />Said, (D)oh, sweet (A)highway, (G)rock me (A)home. <br />(D)Rock me (A)crazy, (G)wheatfield (A)lady, <br />(D)Take me to my (A)lady at the (G)end of the (D)road. <br />(A) (G) (A) (D) (A) (G) (A) (D) (A) (G) (A) (D) (A) (G) (D) <br />  <br />Rock me (A)crazy, (G)wheatfield (A)lady, <br />Said, (D)oh, sweet (A)highway, (G)rock me (A)home. <br />(D)Rock me (A)crazy, (G)wheatfield (A)lady, <br />(D)Take me to my (A)lady at the (G)end of the (D)road. <br />(A) (G) (D)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

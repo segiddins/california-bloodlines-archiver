@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 4026
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>THE QUEEN OF HOLLYWOOD HIGH</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G) (D) (C) (D)  (G) (D) (C) (D)  <br />(G) (D) (C) (D)  (G) (D) (C)<br />(D)Saturday (G)night, (D) (C)<br />(D)Wheels along the (G)boulevard. (D) (C)<br />You&#39;re (D)looking al(G)right, (D) (C)<br />&#39;Cause (D)love don&#39;t (G)come that (D)hard<br />To the (C)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />The (D)boys are on the (G)move, (D) (C)<br />(D)Hustling the (G)boulevard. (D)(C)<br />She (D)knows she couldn&#39;t (G)lose, (D) (C)<br />(D)Still, she never (G)gets that (D)far,<br />The (C)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />(D)Hollywood (G)High, yeah,(D)<br />The (C)Queen of (D)Hollywood (G)High. (D) (C)<br /><br />There are (D)spirits taking (G)flight (D) (C)<br />And (D)wings across the (G)boulevard. (D) (C)<br />They&#39;re (D)dancing in the (G)night, (D) (C)<br />And they&#39;re (D)calling her ac(G)ross the (D)yard,<br />The (C)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />(D) Hollywood (G)High, yeah, (D)<br />The (C)Queen of (D)Hollywood (G)High. (D) (C) <br /><br />The Angels (D) fly in the (G)northern sky(Em)<br />(C)Only for the (D)Queen of (G)Hollywood Hi(Em)gh.<br />The (C)Angels (D)fly in the (G)northern sky(Em)<br />(C)Only for the (G)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />(D) It&#180;s Saturday (G)night, (D) (C)<br />(D)Wheels along the (G)boulevard. (D) (C)<br />You&#39;re (D)looking al(G)right, (D) (C)<br />&#39;Cause (D)love don&#39;t (G)come that (D)hard<br />To the (C)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />(D)Hollywood (G)High, yeah,(D)<br />To the (C)Queen of (D)Hollywood (G)High.(D) (C)<br /><br />The Angels (D)fly in the (G)northern sky(Em)<br />(C)Only for the (D)Queen of (G)Hollywood Hi(Em)gh.<br />The (C)Angels (D)fly in the (G)northern sky(Em)<br />(C)Only for the (G)Queen of (D)Hollywood (G)High.<br />The (C)Angels (D)fly in the (G)northern sky(Em)<br />(C)Only for the (D)Queen of (G)Hollywood Hi(Em)gh.<br />The (C)Angels (D)fly in the (G)northern sky(Em)<br />(C)Only for the (G)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C)<br /><br />Oh, it&#180;s (D)Saturday (G)night,<br />(D) With the (C)Queen of (D)Hollywood (G)High, yeah.(D) (C)<br />The (D)boys are taking (G)flight,<br />(D) Oh, with the (C)Queen of (D)Hollywood (G)High, yeah.(D) (C)<br />And they&#39;re (D)dancing in the (G)night,<br />(D) Oh, with the (C)Queen of (D)Hollywood,(G)<br />Oh, (D) she&#39;s the (C)Queen of (D)Hollywood,(G)yeah,(D)<br />She&#39;s the (C)Queen of (D)Hollywood(G)High, yeah. (D) (C)<br /><br />(D)Hollywood (G)High,<br />(D) Oh, she&#180;s the (C)Queen of (D)Hollywood (G)High. <br />(D) (C) (D) (G) (D) (C) (D) <br />(G) (D) (C) (D) (G)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

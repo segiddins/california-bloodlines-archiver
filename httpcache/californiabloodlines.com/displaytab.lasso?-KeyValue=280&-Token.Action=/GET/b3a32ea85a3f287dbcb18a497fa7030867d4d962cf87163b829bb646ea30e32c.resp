@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3177
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:39:26 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>I WANT TO BE ELVIS</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(G) (G/A)(G/B)(C) (C/B)(C/A)(G) (G/A)(G/B)(C) (D) (Em)<br />I want to be (C)Elvis, I want to be (G)Dean.<br />I want to be (C)Elvis (D) in the cool ma(Em)chine.<br />I want to be (C)Elvis back in fifty-(G)five,<br />Singing &quot;Mystery (C)Train&quot; (D) in a Memphis (Em)dive.<br /><br />I want to be (C)Elvis, want to be (G)Dean.<br />I want to be (C)Elvis (D) when the girls all (Em)screamed.<br />I want to be (C)Elvis on the Sullivan (G)stage.<br />I want to be (C)Elvis (D) in the glory (Em)days.<br />I want to be (C)Elvis when he drove a (G)truck.<br />I want to be (C)Elvis (D) singing &quot;All Shook (Em)Up.&quot;<br /><br />Hmmhmm, (C)Hmmm, (D)Hmmm,   (G)Yea, Yea, Yea.<br />Hmmhmm, (C)Hmmm, (D)Hmmm,   (G)Yea, Yea, Yea.<br /><br />Oh, I want to be (C)Elvis on a Flaming (G)Star.<br />I want to be (C)Elvis (D) in the Cadillac (Em)car.<br />I want to be (C)Elvis, rocking the (G)blues.<br />I want to be (C)Elvis (D) in his Blue Suede (Em)Shoes.<br />Well, I want to be (C)Elvis and I want to be (G)Dean.<br />I want to be (C)Elvis (D) when the girls all (Em)scream.<br /><br />If I could be (C)Elvis, won&#39;t I be (G)cool?<br />I want to be (C)singing (D) &quot;Don&#39;t Be (Em)Cruel.&quot;<br />I want to be (C)Elvis, would I think (G)twice?<br />Do I want to be (C)Elvis (D) and pay that (Em)price?<br />Do I want to be (C)Elvis (D) and pay that (Em)price?<br /><br />Hmmhmm, (C)Hmmm, (D)Hmmm,   (G)Yea, Yea, Yea.<br />Hmmhmm, (C)Hmmm, (D)Hmmm,   (G)Yea, Yea, Yea.<br /><br />Oh, I want to be (C)Elvis and I want to be (G)Dean.<br />I want to be (C)Elvis (D) when the girls all (Em)scream.<br />I want to be (C)Elvis in the (D)cool (Em)machine.<br />I want to be (C)Elvis (D) and I want to be (Em)Dean.<br />(C) (D) (G)<br />I want to be (C)Elvis,   (D) Mmhmm, (G)hmm.<br />(highlight b on B-string, g on G-string and g on high E-string)<br /><br />Ah, thank you very much, thank you.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3682
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:38:04 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BOSTON LADY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Em7/A<br />E-----------------<br />B-------------3---<br />G-----------------<br />D-------2---------<br />A-----------------<br />E-xx--------------<br /><br />Gm6/Bb<br />E----------------<br />B-------------3--<br />G----------------<br />D----------------<br />A---1------------<br />E-xx-------------<br /><br />If you want to pick the way John does on this song, leave the high E-string well alone<br />(paraphrasing Art here).<br />This one is a lot of fun to play.<br /><br /><br />Boston Lady     John Stewart<br /><br />(D) (D/C) (D/B) (Em7/A)  (D) (D/C) (D/B) (Em7/A)<br />Cat-o-(D)nine tails cracks at the (D/C)small of your back,<br />And your (D/B)sail lies slack in the (Em7/A)sun.<br />The (D)ship&#39;s lying dead and the (D/C)deck&#39;s turning red,<br />In the (D/B)back of my head a (Em7/A)prayer I said<br />To (C)s(C/B)e(Gm6/Bb)e (A)(hold) my Boston (D)lady.<br />(D/C) (D/B) (Em7/A)<br /><br />And there&#39;s a (D)hurricane blowin&#39; on the (D/C)eastern sea,<br />But the (D/B)storm ain&#39;t meaning a (Em7/A)thing to me<br />(D) When I drift here for (D/C)ninety-nine days,<br />(D/B)Lord of the wind help me (Em7/A)find a way<br />To (C)s(C/B)e(Gm6/Bb)e (A)(hold) my Boston (D)lady, (D/C) (D/B) (Em7/A)<br />My Boston (D)lady (D/C) (D/B) (Em7/A)(hold)<br /><br />And I (G)pray to the (A)wind on a (D)Christian (Bm)hymn<br />To (C)see my (A)Boston (D)(hold)lady,<br />And I (G)pray to the (A)wind on a (D)Christian (Bm)hymn<br />To (C/E)s(C/D)e(C)e(C/B)e (A) (hold) my Boston (D)lady.<br />(D/C) (D/B) (Em7/A)  (D) (D/C) (D/B) (Em7/A)  (D) (D/C) (D/B) (Em7/A)<br /><br />Cat-o-(D)nine tails cracks at the (D/C)small of your back<br />And your (D/B)sail lies slack in the (Em7/A)sun<br />Your (D)ship&#39;s lying dead and the (D/C)deck&#39;s turning red<br />In the (D/B)back of my head a (Em7/A)prayer I said<br />To (C)s(C/B)e(Gm6/Bb)e (A)(hold) my Boston (D)lady,<br />(D/C) (D/B) (Em7/A) My Boston (D)lady.<br />(D/C) (D/B) (Em7/A) (hold)<br /><br />And I (G)pray to the (A)wind on a (D)Christian (Bm)hymn<br />To (C)see my (A)Boston (D)(hold)lady,<br />And I (G)pray to the (A)wind on a (D)Christian (Bm)hymn<br />To (C/E)s(C/D)e(C)e(C/B)e (A) (hold) My Boston (D)lady,<br />(D/C) (D/B) (Em7/A)<br />My Boston (D)lady, (D/C) (D/B) (Em7/A)<br />My Boston (D)lady, (D/C) (D/B) (Em7/A)<br />My Boston (D)lady. (D/C) (D/B) (Em7/A)<br />(D) (D/C) (D/B) (Em7/A)  (D) (D/C) (D/B) (Em7/A)<br />(D) (D/C) (D/B) (Em7/A)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

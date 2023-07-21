@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3484
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:22 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>CLACK CLACK/OLDEST LIVING SON MEDLEY</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Last Campaign (Homecoming, 300, 1985)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Dakota sky<br />Made us feel like a river<br />Running free, running free<br />And when I die<br />Bring the wheels that deliver<br />Restless me, restless me<br /><br />Let me hear the clack, clack, clack<br />As the train goes rolling down the track<br />To carry me home<br />Back where I belong<br />Let me hear the clack, clack, clack<br />As the train goes rolling down the track<br />To carry me home<br />Back where I belong<br /><br /><br />&quot;In the town squares and the schoolyards of the heartland they found a strange common ground with the sleepless quest of this oldest living son.&quot;<br /><br /><br />Sycamores grow in the long planted rows<br />Out there to break the April wind<br />Still the dust it always blows<br />In our eyes and in our cloths<br />And it&#39;s in our very souls<br />Like this song about me and Jim<br /><br />The back of my hand started looking like a man&#39;s<br />Way back when I was only ten<br />Still the lonesome in me cries<br />Like a little boy sometimes<br />You can hear it scream<br />When I come out screaming like the wind<br /><br />Me and Jim, getting thin<br />Fare-thee-well to him<br />Fare-thee-well now, Mamma<br />I&#39;m gonna take good care of him<br />Me and Jim, getting thin<br />Oh fare-thee-well to him<br />But there ain&#39;t nowhere to run<br />For the oldest living son<br /><br />Our dad, he was a gentle man<br />When we all worked at the store<br />The only time I ever saw him mad<br />Was when he talked about the war<br />We lost a boy at Belleau Wood, and<br />I guess he never really understood<br />What the medals from the President were for<br /><br />Me and Jim, getting thin<br />Oh fare-thee-well to him<br />Fare-thee-well now, Mamma<br />I&#39;m gonna take good care of him<br />Me and Jim, getting thin<br />Oh fare-thee-well to him<br />But there ain&#39;t nowhere to run<br />For the oldest living son
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

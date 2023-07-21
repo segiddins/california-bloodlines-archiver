@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 3279
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>ANGELES (THE CITY OF THE ANGELS)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>Blondes (Alegiance, AV431, 1983)<br />Gold (Wrasse Records, WRASS016, 2000)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>She came from Kansas City on a one way ticket bus<br />The family at the depot saying &quot;You can count on us&quot;<br />&quot;See you in the movies, up on the silver screen<br />&#39;Cause nothing can go wrong for the Kansas City Queen&quot;<br /><br />And the Greyhound has hit the highway; it&#39;s out on the midnight run<br />Wheels are singing &quot;You&#39;re on your way, your life has just begun&quot;<br />Taking out a clip from the Kansas City Sun<br />Where she had the lead in Annie Get Your Gun<br /><br />Angeles, oh, in Angeles<br />They all come and no one leaves<br />In Angeles, oh in Angeles<br />The city of the Angels, yeah<br />City of the Angels<br />City of the Angels<br />Yeah, there&#39;s nothing to believe<br /><br />She had only been in town for a day or maybe three<br />Met someone who said he&#39;d take some pictures of her free<br />And he said &quot;My name is Louie, I make movies on my own<br />I know Dustin Hoffman, he just called me on the phone&quot;<br /><br />Angeles, oh, in Angeles<br />They all come and no one leaves<br />In Angeles, oh in Angeles<br />The city of the Angels, yeah<br />City of the Angels<br />City of the Angels<br />Yeah, there&#39;s nothing to believe<br /><br />She was slinging cocktails in the valley for a while<br />She&#39;s got the desperations, lost her Kansas City smile<br />She can&#39;t go back to Kansas with a heart of broken dreams<br />So she&#39;ll just keep on dreaming, that Kansas City queen<br /><br />Angeles, oh, in Angeles<br />They all come and no one leaves<br />In Angeles, oh in Angeles<br />The city of the Angels, yeah<br />City of the Angels<br />City of the Angels
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

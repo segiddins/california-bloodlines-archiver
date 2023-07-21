@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3916
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:57 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>WIDE EYED IN BABYLON</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>Capo 2nd fret<br /><br />(G)(G5) (G)(G5) (G)(G5) (G)(G5) (C)    (D)  (C) (D)(C)(G)      <br />(C)    (D)  (C) (D)(C)(G)      <br />You wanna be an actress, you (C)wanna be a star,<br />You (D)wanna drive Sunset in a (C)foreign car.<br />(G)S-A-G, you (C)gotta get a card,<br />You (D)wanna get in movies but they (C)make it so hard,<br />And you&#8217;re (Em) wide-eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br /><br />You (G)wanna be in TV, you (C)wanna have it all,<br />You (D)wanna have a series yeah, be(C)ginning in the fall.<br />(G)Even in the silver, (C)following with the gold,<br />You (D)bargain with the devil, yeah, (C)starving for your soul,<br />(Em) Wide-eyed in (C)Baby(D)lon, I&#180;d (Em)say.<br /><br />You&#180;re looking for the (G)movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon.<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide-(D)eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br /><br />(G)Wanna catch lightning, (C)wanna catch fire,<br />You (D)wanna live forever, yeah, you (C)wanna be a flyer.<br />(G)Who&#8217;s to say you&#8217;ll make it, you (C)haven&#8217;t got a chance.<br />A (D)lot of girls before you were (C)lost within the dance.<br />And you&#8217;re (Em) wide-eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br /><br />(G)  (C)  (D)  (C)  (G)  (C)  (D)  (C)  <br />(Em) Wide-eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br /><br />Looking for the (G)movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon.<br />(G)Movers and the shakers,<br />The (C)givers and the takers,<br />You&#8217;re (G) wide-(D)eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br />You&#180;re looking for the (G)movers and the shakers,<br />The (C)givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon.<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide-(D)eyed in (C)Baby(D)lon, I&#8217;d (Em)say.<br />(G)(G5) (G)(G5) (G)(G5) (G)(G5) (C)    (D)  (C) (D)(C)(G)      <br />(C)    (D)  (C) (D)(C)(G)      <br /><br />Looking for the movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon,<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon,<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon,<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon,<br />(G)Movers and the shakers,<br />(C)Givers and the takers,<br />You&#8217;re (G) wide eyed in (C)Babylon.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3763
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:54 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>Amanda Won&#39;t Dance</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(C5)(C)(C5)    (F)  (C) (Cadd9) (C) (F)<br />Well, if A(C)manda won&#39;t (Cadd9)dance,<br />(C)I&#180;ll (F)sing another song (C)in (G6)the (C)morning. (Cadd9)(C) (F) (C)<br />(Cadd9)<br />If A(C)manda won&#39;t (C/B)dance,<br />I&#39;ll (Am)sing another song, I don&#39;t (D)care, (G)<br />Till she (F)moves like a (Em)queen,<br />(C)Dancing to the rhythm of (F)Sweet Six(G)teen,<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda. (Cadd9)(C) (F) (G6)<br /><br />And if A(C)manda won&#39;t (Cadd9)laugh,<br />(C)I&#39;ll (F)make another (C)pass (G6)in the (C)morning. (Cadd9)(C) (F) (C) <br />Hey, (Cadd9)if A(C)manda won&#39;t (C/B)laugh,<br />I&#39;ll (Am)make another (Am/G)pass, I don&#39;t (D)care, (G)<br />Till she (F)laughs like a (Em)queen,<br />(C)Dancing to the (Cadd9)rhythm (C)of (F)Sweet Six(G)teen,<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda. (Cadd9)(C) (F) (G6)<br /><br />And if A(C)manda won&#39;t (Cadd9)sing,<br />(C)It (F)won&#39;t mean a (C)thing (G6)in the (C)morning. (Cadd9)(C) (F) (C)<br />Oh, (Cadd9)if A(C)manda won&#39;t (C/B)sing,<br />It (Am)won&#39;t mean a (Am/G)thing, I don&#39;t (D)care, (G)<br />Till she (F)sings like a (Em)queen,<br />(C)Dancing to the rhythm of (F)Sweet Sixteen,<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda, (Cadd9)(C) (F) (G6)<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda. (Cadd9)(C) (F) (C)(Cadd9)(C)<br /><br />And if A(G)manda won&#39;t dance,<br />A(F)manda won&#39;t laugh,<br />A(G)manda won&#39;t sing,<br />And (C)won&#39;t take a chance,<br />It&#39;s a (F) funny little (C)thing,<br />It&#39;s a (F)funny little (C)thing,<br />This (G)romance.<br /><br />And if A(C)manda won&#39;t fly,<br />I (F)won&#39;t make her cry in the (C)morning. (Cadd9)(C) (F) (C)<br />(Cadd9)If A(C)manda won&#39;t (C/B)fly,<br />I (Am)won&#39;t make her (Am/G)cry, I won&#39;t (D)care, (G)<br />Till she (F)flies like a (Em)queen,<br />(C)Dancing to the rhythm of (F)Sweet Six(G)teen,<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda, (Cadd9)(C) (F) (G6)<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda. (Cadd9)(C) (F) (Cadd9)(G6)<br />(C)(Cadd9)(C) (F) (Cadd9)(G6) (C)  (C/B)  (Am)  (Am/G)  (D)  (G)<br /><br />Till she (F)moves like a (Em)queen,<br />(C)Dancing to the rhythm of (F)Sweet Six(G)teen,<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda, (Cadd9)(C) (F) (G6)<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda, (Cadd9)(C) (F) (G6)<br />And (C)oh, (Em)oh, (F)oh, (G)my A(C)manda. (Cadd9)(C) (F) (Cadd9)(G6)<br />(C)(Cadd9)(C) (F) (C)(G6) (hold) (C)(hold)
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,55 @@
+Capo 5th fret
+
+(Am) (F) (Am) (F) (Am) (F) (Am) (F)
+It's there in the (Am)light of the long forgotten,
+Running (F)deep in the Milky Way,
+It's in the (Am)night of the prayer wheels turning
+In the (G)dawning of the day.
+
+It's in the (Am)names of the Christian martyrs
+And the(F)blood of the Jesus chain,
+It's in the(Am)flames of the fire starters
+And the (G)cave where the Crow man paints.
+(Am) (F) (Am) (F)
+
+It's revealed in the (Am)codes in the tombs of Cairo,
+Shining she (F)rode through the crimson rain.
+I'll see you a(Am)gain in the grand reunion
+And the (G)prayers of the Mary chain.
+
+It's in the (Am)faith of young Saint Sebastian,
+He never(F)cracked when the arrows flew.
+It's in the (Am)face in the Shroud of Turin
+And the(G)miracle of Guadalupe.
+
+It's in the (F)field where the (G)angels (C)dance(Am)
+to the (F)rhythm of the (G)hearts, (C)waiting for a (Am)chance,
+In the(F)field where the(G)angels (C)dance,(Am)
+In the (F)field where the (G)angels (Am)dance. (F) 
+(Am) (F) (Am) (F) (Am)
+
+And I'll take you away to the(Em)grand ballet,
+To the (F)great holi(G)day in the (C)field.
+(F)Was this all a dream
+Just a (Em)moment in the stream
+And (G)what will we find in the field?
+
+In the (F)field where the (G)angels (C)dance(Am)
+to the (F)rhythm of their (G)hearts, (C)waiting for a (Am)chance,
+In the(F)field where the(G)angels (C)dance, (Am)
+In the (F)field where the (G)angels (C)dance.
+
+It's in the (F)field where the (G)angels (C)dance(Am)
+to the (F)rhythm of the (G)hearts, (C)waiting for a (Am)chance,
+In the(F)field where the(G)angels (C)dance,(Am)
+In the (F)field where the (G)angels (Am)dance.
+(F) (Am) (F) (Am) (F) (Am) (G)
+
+In the (F)field where the (G)angels (C)dance(Am)
+To the (F)rhythm of the (G)hearts who are (C)waiting for a (Am)chance,
+In the(F)field where the(G)angels (C)dance.(Am)
+In the (F)field where the (G)angels (Am)dance
+to the (F)rhythm of the (G)hearts, (C)waiting for a (Am)chance,
+In the(F)field where the(G)angels (C)dance,(Am)
+In the (F)field where the (G)angels (Am)dance.
+(F) (Am) (F) (Am) (F) (Am) (F) (Am)

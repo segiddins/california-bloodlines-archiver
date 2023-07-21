@@ -1,0 +1,59 @@
+HTTP/1.0 200 OK
+Content-Length: 3712
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 18:37:52 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Guitar Tabulature</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>BUDDY, WON&#39;T YOU ROLL DOWN THE LINE</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>Traditional, arranged and adapted by John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Tab:</font></b></td>
+		<td valign=middle>(G)                       (hold)<br />Buddy, won&#39;t you (G)roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, (D7)coming down the line.<br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling,  she (G)coming down the line.<br /><br />Judy (D)got a (G)gun, she was living on the run,<br />And there was (C)Rose, oh-(D7)oh, now she&#39;s (G)down town out of time.<br />Judy&#39;s found a man, he was the leader of a band,<br />And he took the (C)Rose, oh-(D7)oh, Buddy, better (G)roll on down the line.<br /><br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, (D7)coming down the line.<br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, she (G)coming down the line.<br /><br />One more (D)time a(G)round, and it&#39;s time to leave this town,<br />Down to Mexi(C)co, whoa-(D7)oh, you know it&#39;s (G)hanging right behind.<br />One more man to trash, just one more cheque to cash,<br />That&#39;s all you (C)know, whoa-(D7)oh, Buddy, better (G)get on down the line.<br /><br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, (D7)coming down the line.<br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, she (G)coming down the line.       (D)          (G)<br /><br />Oh. you never had a plan, oh, it fell right in your hand.<br />And it turned to (C)stone, whoa-(D7)oh, (G)playing down the silver line.<br />Now all the money&#39;s gone, and the man who wrote the song<br />Said, pack and (C)go, oh-(D7)ho, Buddy better (G)roll on down the line. <br /><br />Buddy, won&#39;t you (hold) roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, coming down the line.<br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, she coming down the line.<br /><br />Buddy, won&#39;t you (G)roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, (D7)coming down the line.<br />Buddy, won&#39;t you roll down the line, Buddy, won&#39;t you roll down the line,<br />Yonder comes my darling, she (G)coming (C)down the (G)line.
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>

@@ -1,0 +1,67 @@
+HTTP/1.0 200 OK
+Content-Length: 2901
+Connection: Close
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 19:03:43 GMT
+Mime-Version: 1.0
+Server: Lasso/8
+
+<html>
+<head>
+<title>Lyrics Detail</title>
+</head>
+<BODY BGCOLOR="#FFFFFF">
+<center>
+<table cellspacing="0" cellpadding="1" width=550>
+	<tr>
+		<td align=left valign=middle><b><font size="+2"><font color="purple">Lyrics Detail</font></b></td>
+		<td align=right valign=middle><b><font size="+2"><font color="purple">John Stewart Lyrics Database</font></b></td>
+	</tr>
+</table>
+		<IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25">
+			<br>
+			<form action="undefined" method="POST">
+	<table border="0" cellspacing="2" cellpadding="2">
+		<tr>
+			<td colspan="2"> <font size="+1"></font>
+	
+	
+</td>
+		</tr>
+		<tr><table cellspacing="10" cellpadding="1">
+			<td colspan="2"> 	
+ </td>
+		</tr>
+		<tr>
+		<td align=left valign=top><b><font color="purple">Title:</font></b></td>
+		<td valign=middle>COME GATHER THE TIME</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Songwriter:</font></b></td>
+		<td valign=middle>John Stewart</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Copyright:</font></b></td>
+		<td valign=middle>&#169; John Stewart, All Rights Reserved</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Recording:</font></b></td>
+		<td valign=middle>The Stewart Years (The Kingston Trio - 2000, Bear Family Records LC05197)</td>
+	</tr>
+	<tr>
+		<td align=left valign=top><b><font color="purple">Lyrics:</font></b></td>
+		<td valign=middle>Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />Who could be nicer<br />Than someone with nothing to do<br />I&#39;ve spent all my life<br />Looking for someone like you<br /><br />Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />Who could be wiser<br />Than someone who knows not at all<br />That&#39;s why I like you<br />Your face is as blank as the wall<br /><br />Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />If someone should say<br />I was born for a king<br />Or make me the president<br />If someone should say<br />I was born for a king<br />You&#39;d still hear me sing<br /><br />Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />Go buy a blue bonnet<br />That&#39;s sold by the carnival man<br />You know he won&#39;t tell you<br />The colors come off on your hand<br /><br />Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />Come gather the time<br />I have nothing to do<br />Come gather the time<br />I have nothing to do<br /><br />Come gather the time<br />I have nothing to do
+
+</td>
+	</tr>
+		<tr>
+			<td colspan="2"> 
+	
+ </td>
+		</tr>
+	</table>
+</form>
+			<p><IMG SRC="images/dkpuline550.gif" ALT="" WIDTH="550" HEIGHT="25"></p>
+		</center>
+</body>
+</html>
