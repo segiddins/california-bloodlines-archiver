@@ -115,13 +115,14 @@ func writeSongMd(songs map[int]*song) (tea.Model, tea.Cmd) {
 			tab = pat.ReplaceAllString(tab, `[$1]`)
 
 			tab = regexp.MustCompile(`\[([^A-G].+?)\]`).ReplaceAllString(tab, `[*$1]`)
+			tab = regexp.MustCompile(`\[([A-G])j(\d+)`).ReplaceAllString(tab, `[${1}maj${2}`)
 
 			tab = fmt.Sprintf(`{title: %s}
 {artist: John Stewart}
 {composer: %s}
 {album: %s}
 
-`, title, song.Attrs["Songwriter"], song.Attrs["Recording"]) + tab
+`, title, song.Attrs["Songwriter"], strings.ReplaceAll(song.Attrs["Recording"], "\n", " & ")) + tab
 
 			os.WriteFile(filepath.Join(dir, title+".chordpro"), []byte(tab), 0644)
 

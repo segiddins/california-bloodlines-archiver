@@ -2,20 +2,23 @@
   "Attrs": {
     "Copyright": "© John Stewart, All Rights Reserved",
     "Guitar Tabulature": "John Stewart Lyrics Database",
-    "Lyrics": "\"The kids waved from the curbstones as a piece of history rolled by\nfor these were the things that dreams were made of.\"\n\nAh, once\nWe were dreamers on the rise\nWe were the sun\nWhere the sun never shines\nAnd we were gold\nWhere the night bird only flies\nOh, that's a long time you know\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the rise\n\nAnd twice\nWe said we'd begin again\nAnd we made a vow\nThat we'd remain as friends\nAnd fallen down\nWe said we shall rise again\nAh, that's a long time you know\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the mend\nA long time ago\nWe were dreamers on the mend\n\nAnd if three\nWishes came into my life\nI'd say one\nWas to gaze into your eyes\nAnd I'd say two\nWould be turning back our lives\nAnd three's a long way to go\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the rise\nA long time ago\nWe were dreamers on the rise\n\nAh, once\nWe were dreamers on the rise\nWe were the sun\nWhere the sun never shines\nAnd we were gold\nWhere the night bird only flies\nOh, that's a long time you know\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the rise\nA long time ago\nWe were dreamers on the rise\nA long time ago\nWe were dreamers on the rise\n\n",
+    "Lyrics": "Ah, once\nWe were dreamers on the rise\nWe were the sun\nWhere the sun never shines\nAnd we were gold\nWhere the night bird only flies\nOh, that's a long time you know\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the rise\n\nAnd twice\nWe said we'd begin again\nAnd we made a vow\nThat we'd remain as friends\nAnd fallen down\nWe said we shall rise again\nAh, that's a long time you know\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the mend\nA long time ago\nWe were dreamers on the mend\n\nAnd if three\nWishes came into my life\nI'd say one\nWas to gaze into your eyes\nAnd I'd say two\nWould be turning back our lives\nAnd three's a long way to go\nFor that kind of wind to blow\nA long time ago\nWe were dreamers on the rise\nA long time ago\nWe were dreamers on the rise\nA long time ago\nWe were dreamers on the rise\n\n",
     "Lyrics Detail": "John Stewart Lyrics Database",
-    "Recording": "The Last Campaign (Homecoming, 300, 1985)",
+    "Recording": "Revenge of the Budgie (Takoma, TAK 7106, 1983)\nThe Essential John and Buffy (Feegie, ADFCD29, 1995)\nAirdream Believer (Shanachie, 8075, 1995)\nChilly Winds (Folk Era/Homecoming, 1401, 1993)",
     "Songwriter": "John Stewart",
     "Tab": "(G)(D)Oh, (G)once  we were (C)dreamers on the (G)rise,\nWe were (G/F#)the (Em)sun  where the (C)sun (D7)never (G)shines,\nAnd we (D)were (G)gold  where the (C)night bird only (Bm)flies.\nOh, that«s a (G)long (G/F#)time, you (Em)know,\nFor that (Bm)kind of wind to (C)blow,\n(G)Long (G/F#)time a(Em)go  we were (C)dreamers (D)on the (G)rise.\n\n(D)And (G)twice  we said (C)we«d begin a(G)gain,\nAnd we made (G/F#)a (Em)vow  that (C)we«d re(D7)main as (G)friends,\nAnd, fall(D)ing (G)down,  we said (C)we shall rise a(Bm)gain.\nOh, that«s a (G)long (G/F#)time, you (Em)know,\nFor that (Bm)kind of wind to (C)blow,\n(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)mend,\nLong (G/F#)time a(Em)go,  we were (C)dreamers (D)on the (G)mend.\n\nAnd (D)if (G)three  wishes (C)came into my (G)life,\nI«d (G/F#)say (Em)one  was to (C)gaze in(D7)to your (G)eyes,\nAnd I«d (D)say (G)two  would be (C)turning back our (Bm)lives.\nThree«s a (G)long (G/F#)way to (Em)go\nFor that (Bm)kind of wind to (C)blow,\n(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,\nLong (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise. \n\n(D)Oh, (G)once  we were (C)dreamers on the (G)rise,\nWe were (G/F#)the (Em)sun  where the (C)sun (D7)never (G)shines,\nAnd we (D)were (G)gold  where the (C)night bird only (Bm)flies.\nOh, that«s a (G)long (G/F#)time, you (Em)know,\nFor that (Bm)kind of wind to (C)blow,\n(G)Long (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,\nLong (G/F#)time a(Em)go, we were (C)dreamers (D)on the (G)rise,\nLong (G/F#)time a(Em)go, we were (C)drea(G)mers (D)on (D7)the (G)rise.(D)(G)\n\n",
     "Title": "DREAMERS ON THE RISE"
   },
   "Critera": {
     "Recording": [
-      "The Last Campaign"
+      "Airdream Believer",
+      "Chilly Winds",
+      "Revenge of the Budgie",
+      "The Essential John and Buffy"
     ],
     "songwriter": [
       "John Stewart"
     ]
   },
-  "id": 235
+  "id": 124
 }
